@@ -1,0 +1,3040 @@
+{
+  "package": "JKD-FIGHT-ENGINE",
+  "skill_version": "2.12.0",
+  "export_date": "2026-10-10",
+  "canonical_entries": 736,
+  "style_sections": 44,
+  "adaptations": [
+    {
+      "file": "integrations/viktor-genboard-style/SKILL.md",
+      "path_replacements": 3
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/arena-impact-calibration.md",
+      "path_replacements": 5
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-corpus.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/05.md",
+      "path_replacements": 7
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/09.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/10.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/16.md",
+      "path_replacements": 6
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/20.md",
+      "path_replacements": 3
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/21.md",
+      "path_replacements": 21
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/22.md",
+      "path_replacements": 7
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/23.md",
+      "path_replacements": 17
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/24.md",
+      "path_replacements": 15
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/25.md",
+      "path_replacements": 25
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/26.md",
+      "path_replacements": 4
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/27.md",
+      "path_replacements": 19
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/28.md",
+      "path_replacements": 16
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/29.md",
+      "path_replacements": 20
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/30.md",
+      "path_replacements": 40
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/31.md",
+      "path_replacements": 7
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/32.md",
+      "path_replacements": 21
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/33.md",
+      "path_replacements": 10
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/34.md",
+      "path_replacements": 17
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/35.md",
+      "path_replacements": 16
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/36.md",
+      "path_replacements": 9
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/37.md",
+      "path_replacements": 18
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/38.md",
+      "path_replacements": 34
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/39.md",
+      "path_replacements": 31
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/40.md",
+      "path_replacements": 13
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/42.md",
+      "path_replacements": 26
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/43.md",
+      "path_replacements": 15
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/44.md",
+      "path_replacements": 25
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/45.md",
+      "path_replacements": 16
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/46.md",
+      "path_replacements": 40
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/48.md",
+      "path_replacements": 8
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/49.md",
+      "path_replacements": 14
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/50.md",
+      "path_replacements": 6
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/51.md",
+      "path_replacements": 3
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/52.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/53.md",
+      "path_replacements": 26
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/54.md",
+      "path_replacements": 29
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/55.md",
+      "path_replacements": 6
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/56.md",
+      "path_replacements": 12
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/57.md",
+      "path_replacements": 12
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/58.md",
+      "path_replacements": 12
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/model-ohara-review.md",
+      "path_replacements": 4
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/source-access.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/research-support/02-README.md",
+      "path_replacements": 6
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/research-support/03-RESEARCH_BRIEF.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/research-support/04-SOURCE_ACCESS.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/research-support/10-legacy-video-audit.md",
+      "path_replacements": 12
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/research-support/11-IMPACT_REFERENCE_ANALYSIS.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/s1-calibration.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/01-tao-of-jkd.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/02-filosofia-i-duh-boytsa.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/03-fm1-priemy-samooborony.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/04-fm2-osnovnoy-kurs.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/05-fm3-sovershenstvovanie.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/06-fm4-osvoenie-priemov.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/07-metodika-borby.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/08-dao-kung-fu.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/sources/09-video-tutorials.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/strike-catalogue/jkd.json",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/strike-catalogue/jkd.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/strike-catalogue/wing_chun.json",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/strike-catalogue/wing_chun.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/strike-catalogue.json",
+      "path_replacements": 2
+    },
+    {
+      "file": "skills/jkd-fight-scenes/references/warrior-local-fragment.md",
+      "path_replacements": 1
+    },
+    {
+      "file": "skills/jkd-fight-scenes/SKILL.md",
+      "change": "Added portable-installation reference; original rules and statuses retained."
+    }
+  ],
+  "external_archive_marker": "SOURCE_ARCHIVE/",
+  "includes_live_board": false,
+  "includes_previz_library": false,
+  "files": [
+    {
+      "path": "README_RU.md",
+      "bytes": 4605,
+      "sha256": "0d941e5d71b82a8348492d72c2d95b9dd188427960fe757e7c4a752519092ada"
+    },
+    {
+      "path": "integrations/viktor-genboard-style/SKILL.md",
+      "bytes": 26135,
+      "sha256": "859cea59ed2470cff30f7e5112f0d4ba05ebb07efe50ec5e9e93dcd0517953d3",
+      "source_sha256": "004e335919564b69669e47605c4dfec42d8ffad3a41d5415956098c5d185bdf1",
+      "source_file_name": "SKILL.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/SKILL.md",
+      "bytes": 29147,
+      "sha256": "a1f33f49293910549905ff7cb1106760167294693a7091571665757dd2dfe94d",
+      "source_sha256": "ac22466930c747507fa5607562d682c22c6e5528e7d34dcb16c9b2b9322c3712",
+      "source_file_name": "SKILL.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/ahsahm_guard_ref.jpg",
+      "bytes": 40780,
+      "sha256": "5eb100216d88ecc2df0dee065d0142d1c095323fd80392ea5c08dbed83d7cea7",
+      "source_sha256": "5eb100216d88ecc2df0dee065d0142d1c095323fd80392ea5c08dbed83d7cea7",
+      "source_file_name": "ahsahm_guard_ref.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/arena-impact-user-reference-2026-09-09-00-08.mp4",
+      "bytes": 8340921,
+      "sha256": "6a9994b822df9991fc746e6d85656d3656f2aa351c2983d0ee050377e32d5ed4",
+      "source_sha256": "6a9994b822df9991fc746e6d85656d3656f2aa351c2983d0ee050377e32d5ed4",
+      "source_file_name": "arena-impact-user-reference-2026-09-09-00-08.mp4"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-000.000.jpg",
+      "bytes": 88501,
+      "sha256": "0c72eb1b02e50f5ae1dba5a74280c6a20a0f1a27d34236224502e5f6bff9c5d2",
+      "source_sha256": "0c72eb1b02e50f5ae1dba5a74280c6a20a0f1a27d34236224502e5f6bff9c5d2",
+      "source_file_name": "frame-000.000.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-001.000.jpg",
+      "bytes": 109054,
+      "sha256": "4bb886027b7d1570b551da59e46f31847a6b234f479eda6b94cd40c4709e0bfd",
+      "source_sha256": "4bb886027b7d1570b551da59e46f31847a6b234f479eda6b94cd40c4709e0bfd",
+      "source_file_name": "frame-001.000.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-001.500.jpg",
+      "bytes": 86304,
+      "sha256": "7147a4a6be34898ae3c83db63563b51bbd7029903c75b7ef96842494c8e6b0d3",
+      "source_sha256": "7147a4a6be34898ae3c83db63563b51bbd7029903c75b7ef96842494c8e6b0d3",
+      "source_file_name": "frame-001.500.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-002.000.jpg",
+      "bytes": 77160,
+      "sha256": "f46b3266d43a8d618fe3ff6c112c9b40e70d767af46e1c59da814a271d41e368",
+      "source_sha256": "f46b3266d43a8d618fe3ff6c112c9b40e70d767af46e1c59da814a271d41e368",
+      "source_file_name": "frame-002.000.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-002.500.jpg",
+      "bytes": 66499,
+      "sha256": "47b663b16161c1d71e61794f84b08894b750e10b1e19f412f32d38e13cc70622",
+      "source_sha256": "47b663b16161c1d71e61794f84b08894b750e10b1e19f412f32d38e13cc70622",
+      "source_file_name": "frame-002.500.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-003.000.jpg",
+      "bytes": 62381,
+      "sha256": "369e84cd1d8982eee10ce5e858687f74899cb56250a92b367a87aa207b30b100",
+      "source_sha256": "369e84cd1d8982eee10ce5e858687f74899cb56250a92b367a87aa207b30b100",
+      "source_file_name": "frame-003.000.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-003.750.jpg",
+      "bytes": 71108,
+      "sha256": "ddb6eba88da8cd1592c6208047b29b8e85b3cb9d5f49bca4b9183064f63b0a23",
+      "source_sha256": "ddb6eba88da8cd1592c6208047b29b8e85b3cb9d5f49bca4b9183064f63b0a23",
+      "source_file_name": "frame-003.750.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-004.750.jpg",
+      "bytes": 68520,
+      "sha256": "81d981681528a9de696f14f42cafe8292715f3061b7b784d5945de131996b7d7",
+      "source_sha256": "81d981681528a9de696f14f42cafe8292715f3061b7b784d5945de131996b7d7",
+      "source_file_name": "frame-004.750.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-007.500.jpg",
+      "bytes": 93212,
+      "sha256": "aae728df62920f31219ebf47983f802b4a99e62d6aaa81c6d8711a7dd01f0756",
+      "source_sha256": "aae728df62920f31219ebf47983f802b4a99e62d6aaa81c6d8711a7dd01f0756",
+      "source_file_name": "frame-007.500.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/assets/warrior-audit-2026-09-09/frame-030.000.jpg",
+      "bytes": 77378,
+      "sha256": "00ba9155a5593e1056de40f7dc59bd603f75f8c2ba0e193a3d7443a6855e8f41",
+      "source_sha256": "00ba9155a5593e1056de40f7dc59bd603f75f8c2ba0e193a3d7443a6855e8f41",
+      "source_file_name": "frame-030.000.jpg"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/arena-impact-calibration.md",
+      "bytes": 21512,
+      "sha256": "eff7c89b3df4652e111caf283d12c26f4b61d5fab5562c92e17a1533cb9a8954",
+      "source_sha256": "9097dde59d1420ff07c11497e2f461e56a89bc2032613dd0aefbc34f911a3a26",
+      "source_file_name": "arena-impact-calibration.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/choreography-patterns.md",
+      "bytes": 12362,
+      "sha256": "21928232de62965638711bfbe5cc5602abeddea8ae7c446606bdd5b2785f62f3",
+      "source_sha256": "21928232de62965638711bfbe5cc5602abeddea8ae7c446606bdd5b2785f62f3",
+      "source_file_name": "choreography-patterns.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-corpus.md",
+      "bytes": 7696,
+      "sha256": "53381337a6383ecb075baaa4e367aa9e392b7bedbfc586ca2d23c4aa3cd3a228",
+      "source_sha256": "36ae1f5742e43754222b1f2d4ca4b1365c726c5e4cbb2e0c6b129ad88fb0fed9",
+      "source_file_name": "cinema-corpus.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-observations.md",
+      "bytes": 29108,
+      "sha256": "9b9313cf5019106f4c670ec25e8de310708e906c2d3be9463f671d28238fc1b1",
+      "source_sha256": "9b9313cf5019106f4c670ec25e8de310708e906c2d3be9463f671d28238fc1b1",
+      "source_file_name": "cinema-observations.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/01.md",
+      "bytes": 36555,
+      "sha256": "ac250a2e727dc7dfbb896d55f31bb44a838aec03ebab3788b9708799255ea520",
+      "source_sha256": "ac250a2e727dc7dfbb896d55f31bb44a838aec03ebab3788b9708799255ea520",
+      "source_file_name": "01.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/02.md",
+      "bytes": 17156,
+      "sha256": "4911d68e759f3972f2049e3755e486c84290d51b192c8c310056bdb6bcdba933",
+      "source_sha256": "4911d68e759f3972f2049e3755e486c84290d51b192c8c310056bdb6bcdba933",
+      "source_file_name": "02.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/03.md",
+      "bytes": 19938,
+      "sha256": "bcf335a55c0de6f2c9ccb69314ac2240086470c912c13864f6657547346fd2ed",
+      "source_sha256": "bcf335a55c0de6f2c9ccb69314ac2240086470c912c13864f6657547346fd2ed",
+      "source_file_name": "03.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/04.md",
+      "bytes": 21431,
+      "sha256": "61204ee18a178ddc454a2065260e3278a3d2eff31ede2e005eaba039ba423078",
+      "source_sha256": "61204ee18a178ddc454a2065260e3278a3d2eff31ede2e005eaba039ba423078",
+      "source_file_name": "04.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/05.md",
+      "bytes": 27588,
+      "sha256": "b3a2aadb8f190a3b1c3ad029a251fc06bdeb350230dca6fc9bf9e5c3466dfa98",
+      "source_sha256": "ea9d9663acad59128789dc7da51ca48485ec7f97fd8025a6ea1cadf734e9b6a1",
+      "source_file_name": "05.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/06.md",
+      "bytes": 25268,
+      "sha256": "2526289d31d1bb07286ef89cda4d3392c4a8e542d46e2955cf5d8e25c2e7e2be",
+      "source_sha256": "2526289d31d1bb07286ef89cda4d3392c4a8e542d46e2955cf5d8e25c2e7e2be",
+      "source_file_name": "06.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/07.md",
+      "bytes": 26124,
+      "sha256": "35b0177b1ed41972d6324176f01081247fee95fc1cf39eb42d2b7ff9e80b7ddd",
+      "source_sha256": "35b0177b1ed41972d6324176f01081247fee95fc1cf39eb42d2b7ff9e80b7ddd",
+      "source_file_name": "07.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/08.md",
+      "bytes": 23319,
+      "sha256": "1d72540061b67456c01a59a00e2a43850f03b7f6b403cbb996e0bdd7128a7452",
+      "source_sha256": "1d72540061b67456c01a59a00e2a43850f03b7f6b403cbb996e0bdd7128a7452",
+      "source_file_name": "08.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/09.md",
+      "bytes": 23140,
+      "sha256": "9793522c7da4b67144dc344a89b253a659810b78449140daa2d0e8c33a5a93cc",
+      "source_sha256": "678be70f08ad9b957b4738ec78033a0369b5ff6ff56929122683a9c19f443fcc",
+      "source_file_name": "09.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/10.md",
+      "bytes": 27417,
+      "sha256": "2af76335d9b6749d206951027b5024328b17c682383d553410f86dc6068ce6cd",
+      "source_sha256": "5d98308bafc4111efc8ae574bf972727308d3a85a048df1cc91426c1589ab036",
+      "source_file_name": "10.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/11.md",
+      "bytes": 24738,
+      "sha256": "eb261e0c857f6b9455daeddc6e3b3399591a4328413142165af5b758c04f8c89",
+      "source_sha256": "eb261e0c857f6b9455daeddc6e3b3399591a4328413142165af5b758c04f8c89",
+      "source_file_name": "11.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/12.md",
+      "bytes": 28254,
+      "sha256": "34f19a9dd77e204b20a238209e6e45b5b64b1e1aa33903efd84f2cc741c308c7",
+      "source_sha256": "34f19a9dd77e204b20a238209e6e45b5b64b1e1aa33903efd84f2cc741c308c7",
+      "source_file_name": "12.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/13.md",
+      "bytes": 30176,
+      "sha256": "edff91e3253b01b52eb27e7559ee4b8507d17ac8635219f2d724c0e3eba84205",
+      "source_sha256": "edff91e3253b01b52eb27e7559ee4b8507d17ac8635219f2d724c0e3eba84205",
+      "source_file_name": "13.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/14.md",
+      "bytes": 28895,
+      "sha256": "c9895ffbd7f07c4c17c46fc6311a0482c4609924459fe970bf787a5e1fbbc6f4",
+      "source_sha256": "c9895ffbd7f07c4c17c46fc6311a0482c4609924459fe970bf787a5e1fbbc6f4",
+      "source_file_name": "14.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/15.md",
+      "bytes": 44442,
+      "sha256": "584ed8c4f220817c35889619fd43a1ec53b201116d3f87a21ee09ba55ea58b76",
+      "source_sha256": "584ed8c4f220817c35889619fd43a1ec53b201116d3f87a21ee09ba55ea58b76",
+      "source_file_name": "15.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/16.md",
+      "bytes": 34491,
+      "sha256": "667d2a80daac2ddf74462d511094ba60bfedc09942c84bf4f60f70a6b0d55825",
+      "source_sha256": "b29cbde0b2a8d3e5054c5f40ad42cbe016f926065b1760006a6afc3423f709ce",
+      "source_file_name": "16.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/17.md",
+      "bytes": 36186,
+      "sha256": "0306d64f736e6f6f73f9fb31aad19cbdb3f28c95565b05e1c2ee376313c45c91",
+      "source_sha256": "0306d64f736e6f6f73f9fb31aad19cbdb3f28c95565b05e1c2ee376313c45c91",
+      "source_file_name": "17.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/18.md",
+      "bytes": 37944,
+      "sha256": "7d180b6323f2f0362ec0208972cb3c1830299cd01ce5d86c67d7e638549d4b8d",
+      "source_sha256": "7d180b6323f2f0362ec0208972cb3c1830299cd01ce5d86c67d7e638549d4b8d",
+      "source_file_name": "18.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/19.md",
+      "bytes": 61673,
+      "sha256": "37dd9c9dd113ad74b30281bf01715aff051f4e5eddd06dd1bc6a4af07e678b31",
+      "source_sha256": "37dd9c9dd113ad74b30281bf01715aff051f4e5eddd06dd1bc6a4af07e678b31",
+      "source_file_name": "19.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/20.md",
+      "bytes": 53599,
+      "sha256": "a7b21b345c9e020c8c3a82f9614e9da086ff3e3a716c9f9a7e7d72fe3fa26932",
+      "source_sha256": "52b587ef5ff6e65c518d053d407b4024da2591293bad99a07ab2aa0b685a85a0",
+      "source_file_name": "20.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/21.md",
+      "bytes": 32842,
+      "sha256": "8ecb8807a6aba9133fa657f9fbc771873f1fe9dba9b3e89a967cded65deee2ca",
+      "source_sha256": "f677bb5db18ae3b211496f62e0129c68c9dea73fd5af526f4f1195676e1a7190",
+      "source_file_name": "21.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/22.md",
+      "bytes": 39659,
+      "sha256": "acbd8b9b78354bc6572c7928a20efaaae6a71a8de727a8748f88a8200f09960b",
+      "source_sha256": "037709a960e718621be9f6a1a506ed6307e3f2393a562f02e3d7c17d66a39971",
+      "source_file_name": "22.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/23.md",
+      "bytes": 31951,
+      "sha256": "68863604dc252a07f6efb4a6da589c4b4846e6aae8673ad5fb306a15fe68ce23",
+      "source_sha256": "afd374384722d9d25da369011bff828276d3f738684a11d543d0d6d8a7131265",
+      "source_file_name": "23.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/24.md",
+      "bytes": 30847,
+      "sha256": "df2d87df07cd4e3ce70cbe44ac864bf0dd3fa7d894aa373d6b1f16e66e710418",
+      "source_sha256": "726a4478c7e9502a1aa2f38060816993e2a00e3db32cbc8d2afe5823341975b4",
+      "source_file_name": "24.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/25.md",
+      "bytes": 35315,
+      "sha256": "2d4e97c3f979584b81455c235cdd174456a77c37111e36a41fadb1cb57afa563",
+      "source_sha256": "ade7a822412fcea7e241ef5df18abd8dc7a4a8cb7ae26a0aa9095d2b383b6dd9",
+      "source_file_name": "25.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/26.md",
+      "bytes": 43399,
+      "sha256": "4130986bbb28f9f4e0a48ed543b13d025427b413c28d79654367f86e9192ee04",
+      "source_sha256": "67a02ccf7cd5eaa2a3f5da6d4d034191d125a15d6343e5cce0e5e0946c448a88",
+      "source_file_name": "26.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/27.md",
+      "bytes": 40034,
+      "sha256": "242a703c92aaa1ba387c3ccfff564d0ace6b076790bfd8642fb4488a14c92ab5",
+      "source_sha256": "63fdb84fbaab987ab9351bc48d9288c9dc9752a9a944fd413f6b91472190649d",
+      "source_file_name": "27.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/28.md",
+      "bytes": 43878,
+      "sha256": "d4278d58a899e9e3169de7a5df10da22fc76f52f7222a4eeb0fd3ce16fe6a46b",
+      "source_sha256": "5e083b9e83ba2ea92183dd01e68896d0aebf132f785fbd407f7f0f48c04a46d2",
+      "source_file_name": "28.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/29.md",
+      "bytes": 28627,
+      "sha256": "2531ee0cb48caa74e243da1792e2f0f8c62ef5bff1e3b26f9c88d91569d03075",
+      "source_sha256": "bf5b9dde42b7ef6ee19c22632675c322e8534be03e37f1e7464516997b955dd9",
+      "source_file_name": "29.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/30.md",
+      "bytes": 47306,
+      "sha256": "cf9087f59fe2d4a5dd8576852e17e5b939d5988ff65be29f85b5c961c9fa1b9d",
+      "source_sha256": "28acf1ae24831b625793451bf2dd0ad24d845c3123d88d59400bd371747ec10c",
+      "source_file_name": "30.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/31.md",
+      "bytes": 42471,
+      "sha256": "e33ab09abfd27a416afeb9b56a3fe3390aaea385805aecc39ecd5869762bc6d9",
+      "source_sha256": "1f2ef05097a698862f99d1d3d0bc87083e7d6b8d683e020b9f810d2bca9dbd5d",
+      "source_file_name": "31.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/32.md",
+      "bytes": 30055,
+      "sha256": "14476c175cd8f7f5377f1653f0fedeb0c06a737652eae8b6ec7c0bb3e3cbed06",
+      "source_sha256": "1b785f7c4e32d3aad250dbd516e0b6d4e0b9c5b29bc5f7be7705d808767e98e9",
+      "source_file_name": "32.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/33.md",
+      "bytes": 27652,
+      "sha256": "3a2500fe272dc28f53987155b52163dde247c4c0b06184b065ac78e75d1f7426",
+      "source_sha256": "e17103e585d5f9ed68ac3a0a07829727e91e9c2695a7fa73ba9994d614bf93f3",
+      "source_file_name": "33.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/34.md",
+      "bytes": 34976,
+      "sha256": "193fc4e4c9f591c364346e5344c00d6d2832e996c5049123b7d21f5bd5fb832d",
+      "source_sha256": "efd827c3c80928317a8ae33631ef7c7d2028c12fc019f859fd37a01c8d434f70",
+      "source_file_name": "34.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/35.md",
+      "bytes": 45473,
+      "sha256": "5782a36cb916d302a7309c367a04ca69af58e0f6a313d28e9bd117bb9ec4c3bc",
+      "source_sha256": "e03b4f13540a1017f7526bf8036e3c666284ba072d7ef19e9c49652d75d81894",
+      "source_file_name": "35.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/36.md",
+      "bytes": 32577,
+      "sha256": "4fa72aba98cbaf9f33504eb08b04adb21390ca22b7bdf726e114aa7f58904e43",
+      "source_sha256": "b61e18214960051364a0790cc8e2ebe556b9c32679c3df0feae08563c7e9b606",
+      "source_file_name": "36.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/37.md",
+      "bytes": 38949,
+      "sha256": "51c00d936e04dbba1762ad9cdcbda64d61eef3c87d5188db7ab9f25071861c15",
+      "source_sha256": "3b9a12637045f3d68d92f53a7ce9e9fc0b4c5d9d054fb0eb9138b2f6e1ed0f91",
+      "source_file_name": "37.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/38.md",
+      "bytes": 38967,
+      "sha256": "ce507583b81471b180b9be03990cdbd63135b0663cc3152e6a3e00e89eaccf2a",
+      "source_sha256": "57977c1d51b2a5dfc62c17cb31687d277a041e1f52729f0a5458b18bdb130050",
+      "source_file_name": "38.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/39.md",
+      "bytes": 39436,
+      "sha256": "823f52e7f4b4ba3f9a11d2e31f5be1c4284afc443423d8732fb1bcd4959aafec",
+      "source_sha256": "07392f1ff22bb2991835843387aaae39632c2c876d37bce9faa525b4262d19cf",
+      "source_file_name": "39.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/40.md",
+      "bytes": 23611,
+      "sha256": "3272c918487592283e9e87f96098b07764983c0e3315f28be71b420aeec81039",
+      "source_sha256": "ad5b31f491f4973017596db904678a77eecac1f956cc73f1c299fa294383509f",
+      "source_file_name": "40.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/41.md",
+      "bytes": 30452,
+      "sha256": "d8c0ac8d3306bd5d3a378f977ed759f4ab189a077454bc376358959df84cc795",
+      "source_sha256": "d8c0ac8d3306bd5d3a378f977ed759f4ab189a077454bc376358959df84cc795",
+      "source_file_name": "41.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/42.md",
+      "bytes": 31892,
+      "sha256": "ad1ca8526b37b7886e27d5dca70ea912dd0003d9e3fb091bd52a6b223e520ed7",
+      "source_sha256": "af0dccc2a5c65bd20e2857f5a35d27de2195ec205ad298f64d5e24642c957b92",
+      "source_file_name": "42.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/43.md",
+      "bytes": 54041,
+      "sha256": "7f8d5e20d70d5338b139028eb40648f86e0146f877a58cd96b6ef4f3136ba6f0",
+      "source_sha256": "76787fdd6a325821c8ae6bec890561cd5cfff59764584554151871ed161cb188",
+      "source_file_name": "43.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/44.md",
+      "bytes": 34444,
+      "sha256": "50b524af943257cd9ab99a44e9f3412fea714ce54119b9b2ae71120176599868",
+      "source_sha256": "ae7f8785cc3f1c296d4da1b40fcda55fe8b20b3b1529aea0834f11cb8a71e3f8",
+      "source_file_name": "44.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/45.md",
+      "bytes": 50415,
+      "sha256": "253fc834294c2f57758362243f3bac0378e66a205611cd30c200ff16c60ace93",
+      "source_sha256": "0543108ae3be3494c0fba5ecf85bf8b9c765f1b86de9121539f097211dba687a",
+      "source_file_name": "45.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/46.md",
+      "bytes": 40970,
+      "sha256": "39f3e85d1418e2113d6501e78ed44058538c3fbd8e9922e2e7e4ef57a12233ca",
+      "source_sha256": "baed6165567231262e7bb83367e8f8e663ebb36f4a44e25c0a1af7e54d9563aa",
+      "source_file_name": "46.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/47.md",
+      "bytes": 47209,
+      "sha256": "e645d22a7f74fa4ac1891074af3f589d7d36281fce95a3f7a716c121270454ad",
+      "source_sha256": "e645d22a7f74fa4ac1891074af3f589d7d36281fce95a3f7a716c121270454ad",
+      "source_file_name": "47.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/48.md",
+      "bytes": 48400,
+      "sha256": "6251d1e713612a9edb62012f53db10aaf4aadf2eeeb5aeb55068eecef417225a",
+      "source_sha256": "1fc286e7c0fa4d67bac5e131defb5d606b86535d074430efbb514da7837500a9",
+      "source_file_name": "48.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/49.md",
+      "bytes": 31129,
+      "sha256": "1e1e064c31bec5c1cca8c1e2b0cc4dffd3741086cadb31998a6e1458172a0f22",
+      "source_sha256": "083503d28c5eaeec7295eeb03fab3ed9f20be3c0c01e874db20ce303d8392b70",
+      "source_file_name": "49.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/50.md",
+      "bytes": 31783,
+      "sha256": "ed8b31db4be9c689e63495a0fe281f76284b435b65413579abe0846f029cecaf",
+      "source_sha256": "98a5b0396424e84b5e8420c81c37cc5d640a39e8c61bb174073d83e42bfc531e",
+      "source_file_name": "50.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/51.md",
+      "bytes": 44816,
+      "sha256": "dd3e3b07335a895e68c7ae3564dd226dbedbf1975b06763b08a9b76e1b0a6f51",
+      "source_sha256": "37dc33e5f93bf418830f15afa51991a19a508eedc118749602a750175cb7c1e6",
+      "source_file_name": "51.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/52.md",
+      "bytes": 37125,
+      "sha256": "e965b06c0ac8385df12468f4473821aa96de8769805de736b350c96c7c872517",
+      "source_sha256": "ffdbfb067229c5afe258c7658b58ee8214c130de462c57d233fac079fe6cea48",
+      "source_file_name": "52.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/53.md",
+      "bytes": 40884,
+      "sha256": "285c5d245e8221e83cafff6f100f3f4d6df4e8379300b2a56a2333db6a074074",
+      "source_sha256": "a6e052020996343dbc7f25385f97456da6f5649c92fcc4e2b74d278a930dda79",
+      "source_file_name": "53.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/54.md",
+      "bytes": 36411,
+      "sha256": "5a5ed7b950d2742d262949a53d8dbfbc10722177725e14c023ba1c7a37ca2d2c",
+      "source_sha256": "8191de62d41ab70836254119d28df0355a217369f940da89d68665b0589496d6",
+      "source_file_name": "54.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/55.md",
+      "bytes": 27360,
+      "sha256": "32926eb8a4c12686b6cb57e0d207d5ef2368c37f0b48b44734740f7e69394645",
+      "source_sha256": "cd9b8c3bd4da6a0cc17cee9b2f0a4fd98a29fde45a98dcd391b2e2ee8e6ada81",
+      "source_file_name": "55.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/56.md",
+      "bytes": 38051,
+      "sha256": "33698672ad2ee6ff78e2b0896cdbf3b6a47719fe010946ba38bef757ff803d60",
+      "source_sha256": "4ddfdc51bc3e909471fce9dda6eded61f10c0c20d36d22d07d455008e74b38b3",
+      "source_file_name": "56.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/57.md",
+      "bytes": 36621,
+      "sha256": "8643ae20e61dfb4ecbc627bce2bc42355974126af4b534270dc485ffac1f6a37",
+      "source_sha256": "d86be03cbb663e621f9fba23cedbaf361652fe36a10e662df8cfd48ff4f23991",
+      "source_file_name": "57.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/58.md",
+      "bytes": 39535,
+      "sha256": "74d07da8f828b4fe920b9a46e0fef54296efce4a6f10c31339a4f18813a28efc",
+      "source_sha256": "bc8af0dd312001b76ca9071198afdacabe9ee18cd859c523ddb0ce46907c71d2",
+      "source_file_name": "58.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/model-ohara-review.md",
+      "bytes": 3206,
+      "sha256": "5b50285a59682d41d4f7ee8984d6d8fa7ba327fc40bd8b18f06ccee2393c17fb",
+      "source_sha256": "4bd347610aed08fd700c254da98dd2aeb1c5ba918570da10832f29cb35bd408d",
+      "source_file_name": "model-ohara-review.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/root-ohara.md",
+      "bytes": 3690,
+      "sha256": "3e740b28f4c8cceaf95804bb97c0119872277f1a5d16d550a9af19d78e929a9e",
+      "source_sha256": "3e740b28f4c8cceaf95804bb97c0119872277f1a5d16d550a9af19d78e929a9e",
+      "source_file_name": "root-ohara.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-research/2026-10-06/source-access.md",
+      "bytes": 3651,
+      "sha256": "15d368f043ca16e04d228aabffd0bee5d692b85e60ddc83028c97d13759fe385",
+      "source_sha256": "62df9ec095b1f71a13ae92da0c6dfd7a50aa71ba60a9b713b51a9e3df74d5b25",
+      "source_file_name": "source-access.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-study.md",
+      "bytes": 12073,
+      "sha256": "a7df4275b2bab63e7ae9f28a47ddded57f3ddc729f90752262045271cc6ba73a",
+      "source_sha256": "a7df4275b2bab63e7ae9f28a47ddded57f3ddc729f90752262045271cc6ba73a",
+      "source_file_name": "cinema-study.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-style-map.md",
+      "bytes": 6275,
+      "sha256": "77265d9369ade540a7ed8aea2f9a3e69bb311f008d915740a8f9ff68d5a08401",
+      "source_sha256": "77265d9369ade540a7ed8aea2f9a3e69bb311f008d915740a8f9ff68d5a08401",
+      "source_file_name": "cinema-style-map.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/cinema-weapon-map.md",
+      "bytes": 7027,
+      "sha256": "ac52dfb23f616f219df651b5d9f015052056b2c9083f4aee0cebefce30791cc2",
+      "source_sha256": "ac52dfb23f616f219df651b5d9f015052056b2c9083f4aee0cebefce30791cc2",
+      "source_file_name": "cinema-weapon-map.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/classic-film-fragment.md",
+      "bytes": 6975,
+      "sha256": "df7034a5773110de26fde20e16c4377a6c9208b01d470c176223a3b9e3ad3047",
+      "source_sha256": "df7034a5773110de26fde20e16c4377a6c9208b01d470c176223a3b9e3ad3047",
+      "source_file_name": "classic-film-fragment.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/fight-fragments.md",
+      "bytes": 14575,
+      "sha256": "f44dafcdc5266c3ed3f3bf08d8609f98470de5882210ca36be7104457df91042",
+      "source_sha256": "f44dafcdc5266c3ed3f3bf08d8609f98470de5882210ca36be7104457df91042",
+      "source_file_name": "fight-fragments.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/generation-review.md",
+      "bytes": 5535,
+      "sha256": "e2ce14384f6c19fd1255ad77db316bfec2aa01a05d0789ce927bd7b1e63a99d2",
+      "source_sha256": "e2ce14384f6c19fd1255ad77db316bfec2aa01a05d0789ce927bd7b1e63a99d2",
+      "source_file_name": "generation-review.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/invocation-tags.json",
+      "bytes": 30535,
+      "sha256": "db3ccd0544b5201deeca5ed2bd5240d293b8645adef0f7a479d398f181ccdba6",
+      "source_sha256": "db3ccd0544b5201deeca5ed2bd5240d293b8645adef0f7a479d398f181ccdba6",
+      "source_file_name": "invocation-tags.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/invocation-tags.md",
+      "bytes": 17438,
+      "sha256": "f8605e1f79bd753d166d0f19d54da45a4aa0ed9eae076beb3b2ba1af847c5f74",
+      "source_sha256": "f8605e1f79bd753d166d0f19d54da45a4aa0ed9eae076beb3b2ba1af847c5f74",
+      "source_file_name": "invocation-tags.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/jkd-core.md",
+      "bytes": 12582,
+      "sha256": "f4db75d02043bd8f901bc2677ce7c25386fb18385304bd9ad50faede51d9d4ff",
+      "source_sha256": "f4db75d02043bd8f901bc2677ce7c25386fb18385304bd9ad50faede51d9d4ff",
+      "source_file_name": "jkd-core.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/modern-jkd-map.md",
+      "bytes": 13833,
+      "sha256": "ed48b1a689e566a92d8662f502eb239163a496832477667f899dbbe56962d0f9",
+      "source_sha256": "ed48b1a689e566a92d8662f502eb239163a496832477667f899dbbe56962d0f9",
+      "source_file_name": "modern-jkd-map.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/moves-catalog.md",
+      "bytes": 32562,
+      "sha256": "c265213e738e81ed8b072e107f0cd6decf84270544364a17ce3c359ae3b66537",
+      "source_sha256": "c265213e738e81ed8b072e107f0cd6decf84270544364a17ce3c359ae3b66537",
+      "source_file_name": "moves-catalog.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/portable-installation.md",
+      "bytes": 3275,
+      "sha256": "22b96813ec03e17825855535635b417f8ea158d573fffee8c8bfae311fd8fb7a"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/reference-reconstruction.md",
+      "bytes": 17136,
+      "sha256": "fcfb4596eaf48884afae9f26c9cd220a6afe317f09231ba0dd842cb51ba89027",
+      "source_sha256": "fcfb4596eaf48884afae9f26c9cd220a6afe317f09231ba0dd842cb51ba89027",
+      "source_file_name": "reference-reconstruction.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/01-AUDIT_CASES.md",
+      "bytes": 7515,
+      "sha256": "63e4eec13e34af4e393eaac0502d6ef82b9ae5e5ff33aff810c4e47ccf6da802",
+      "source_sha256": "63e4eec13e34af4e393eaac0502d6ef82b9ae5e5ff33aff810c4e47ccf6da802",
+      "source_file_name": "AUDIT_CASES.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/02-README.md",
+      "bytes": 12418,
+      "sha256": "5bc83c2a6428cfe773926c1df0402ac38b2b96a731966ac1b26a6852f3cd426e",
+      "source_sha256": "dbb1089ecbb7bc89caa2e1e71e83ff82068481cad2720a0b29ddcf5cf8dc9876",
+      "source_file_name": "README.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/03-RESEARCH_BRIEF.md",
+      "bytes": 8908,
+      "sha256": "b434880028b369b2e348d2310578eb3a916535e2fa58524fc2e05db2edcf1bde",
+      "source_sha256": "ab3f6e4feecfded18a05189e4178bfa4355937d82b7b5d74ea1a619f7d364b96",
+      "source_file_name": "RESEARCH_BRIEF.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/04-SOURCE_ACCESS.md",
+      "bytes": 3681,
+      "sha256": "c7c42dffbb590e0ad561a027066cba3ed3958788de10095a7e369a0f09fc142e",
+      "source_sha256": "62df9ec095b1f71a13ae92da0c6dfd7a50aa71ba60a9b713b51a9e3df74d5b25",
+      "source_file_name": "SOURCE_ACCESS.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/05-VIEWING_QUEUE.md",
+      "bytes": 6326,
+      "sha256": "27c7957b7ac3f0d4212243665207a2b757c4cc1bab56db1ca5bfcb9e60a218f7",
+      "source_sha256": "27c7957b7ac3f0d4212243665207a2b757c4cc1bab56db1ca5bfcb9e60a218f7",
+      "source_file_name": "VIEWING_QUEUE.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/06-README.md",
+      "bytes": 4169,
+      "sha256": "72c20b0fea270ba381a0ffc21997dff07625048bea353ebd524c2fc0e540b5dc",
+      "source_sha256": "72c20b0fea270ba381a0ffc21997dff07625048bea353ebd524c2fc0e540b5dc",
+      "source_file_name": "README.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/07-README.md",
+      "bytes": 2978,
+      "sha256": "f35c7b54ced884822d0484b226745ab2b64c5a0315853abaf217614491b4f04e",
+      "source_sha256": "f35c7b54ced884822d0484b226745ab2b64c5a0315853abaf217614491b4f04e",
+      "source_file_name": "README.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/08-OBSERVATION_METHOD.md",
+      "bytes": 4269,
+      "sha256": "31a0ef81d048d90a990768bc62ffc5ecd2b0d62f5ac5c39455687f7af1e189c7",
+      "source_sha256": "31a0ef81d048d90a990768bc62ffc5ecd2b0d62f5ac5c39455687f7af1e189c7",
+      "source_file_name": "OBSERVATION_METHOD.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/09-enter-ohara-sample.md",
+      "bytes": 5078,
+      "sha256": "4ce88a2c2f434b3fc3cbdd8c9f80dfd86a5ec001bf9283cebac2b774797f29e7",
+      "source_sha256": "4ce88a2c2f434b3fc3cbdd8c9f80dfd86a5ec001bf9283cebac2b774797f29e7",
+      "source_file_name": "enter-ohara-sample.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/10-legacy-video-audit.md",
+      "bytes": 52849,
+      "sha256": "c678ec4edbc32df783a75db8a152113dd02e8fea344eca76a71cf63db7667f72",
+      "source_sha256": "e167c2d279070df5d887e8cf69b900f34d58a3468ed125cd8ef2d3807fb78f45",
+      "source_file_name": "legacy-video-audit.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/research-support/11-IMPACT_REFERENCE_ANALYSIS.md",
+      "bytes": 8070,
+      "sha256": "b9dfa97d66a61151612c425c1a1aa90c3c67a4ceb882e499719f66da1069f8ad",
+      "source_sha256": "5993cdf416380ef494e65cbcacaffa63e6fbde006d8d08186c03b05a32b3b17d",
+      "source_file_name": "IMPACT_REFERENCE_ANALYSIS.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/s1-calibration.md",
+      "bytes": 5094,
+      "sha256": "b21c322eeea85560959b3c7f41c601287bcc99c2634de79cbf29a24c8f07cc84",
+      "source_sha256": "c01bfd2b1cd0f03c5313547008705a0bc7515a9214b13e2d00b1eb98a7fdcdf4",
+      "source_file_name": "s1-calibration.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/screen-fight-map.md",
+      "bytes": 19549,
+      "sha256": "55594bf79aabbc3bf8907f27cb41c60d3ed55820c69ca60f5c3f3e1ebb750943",
+      "source_sha256": "55594bf79aabbc3bf8907f27cb41c60d3ed55820c69ca60f5c3f3e1ebb750943",
+      "source_file_name": "screen-fight-map.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/bjj.json",
+      "bytes": 20581,
+      "sha256": "1be699bde1cd9c4f427973cc356e6470ca75d279891f9d454759c21af6a45557",
+      "source_sha256": "1be699bde1cd9c4f427973cc356e6470ca75d279891f9d454759c21af6a45557",
+      "source_file_name": "bjj.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/bjj.md",
+      "bytes": 1799,
+      "sha256": "915df9f836654da9b5f1e01a2add5a022316eefbacfb025fd3b190d1b6466d61",
+      "source_sha256": "915df9f836654da9b5f1e01a2add5a022316eefbacfb025fd3b190d1b6466d61",
+      "source_file_name": "bjj.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/blade_screen.json",
+      "bytes": 14939,
+      "sha256": "96ee6e21ea0feaa778015ac968712255f0f20c3f93bac8cdbe44050a04fb33aa",
+      "source_sha256": "96ee6e21ea0feaa778015ac968712255f0f20c3f93bac8cdbe44050a04fb33aa",
+      "source_file_name": "blade_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/blade_screen.md",
+      "bytes": 1435,
+      "sha256": "0eb9d1156d96b4446a472fd1b01fea474231386e11d27dc49ee0d5a04f554f6c",
+      "source_sha256": "0eb9d1156d96b4446a472fd1b01fea474231386e11d27dc49ee0d5a04f554f6c",
+      "source_file_name": "blade_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/boxing.json",
+      "bytes": 34478,
+      "sha256": "78316693fb9aeb6cdba2812f57f04959c6eaa1caf683b5054e5cd6f3226ca93b",
+      "source_sha256": "78316693fb9aeb6cdba2812f57f04959c6eaa1caf683b5054e5cd6f3226ca93b",
+      "source_file_name": "boxing.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/boxing.md",
+      "bytes": 2649,
+      "sha256": "a04315605835318d58faf02b9aaea0f9b4a91083acbd801e3d069c1481022d37",
+      "source_sha256": "a04315605835318d58faf02b9aaea0f9b4a91083acbd801e3d069c1481022d37",
+      "source_file_name": "boxing.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/capoeira.json",
+      "bytes": 33566,
+      "sha256": "3b53c7c67af29ed1663811681b6440121256d7e965b80c33d5e99544c1d8398f",
+      "source_sha256": "3b53c7c67af29ed1663811681b6440121256d7e965b80c33d5e99544c1d8398f",
+      "source_file_name": "capoeira.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/capoeira.md",
+      "bytes": 2293,
+      "sha256": "f9509e46131734977d313a34cfb41fcbdac8710ced96f1da27a9fd6d442524d1",
+      "source_sha256": "f9509e46131734977d313a34cfb41fcbdac8710ced96f1da27a9fd6d442524d1",
+      "source_file_name": "capoeira.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/dao.json",
+      "bytes": 14220,
+      "sha256": "58894abc25bf148be66a268ed9c78d19788b561f89cee9f85b0789a2dfabfeb5",
+      "source_sha256": "58894abc25bf148be66a268ed9c78d19788b561f89cee9f85b0789a2dfabfeb5",
+      "source_file_name": "dao.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/dao.md",
+      "bytes": 1656,
+      "sha256": "6aaed97013184c373d0973f0780ea1d9e7cb11e76a0db8a68896e9273f7c3355",
+      "source_sha256": "6aaed97013184c373d0973f0780ea1d9e7cb11e76a0db8a68896e9273f7c3355",
+      "source_file_name": "dao.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/drunken.json",
+      "bytes": 11749,
+      "sha256": "f6448c93754deb488d7bf6f22a7ee25d65314c17bb9b7d60a9ab6584f1396411",
+      "source_sha256": "f6448c93754deb488d7bf6f22a7ee25d65314c17bb9b7d60a9ab6584f1396411",
+      "source_file_name": "drunken.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/drunken.md",
+      "bytes": 1801,
+      "sha256": "9c45113b23d843886488d0f3b2615a2289f3c5ecf82062f9b3825988222a2edc",
+      "source_sha256": "9c45113b23d843886488d0f3b2615a2289f3c5ecf82062f9b3825988222a2edc",
+      "source_file_name": "drunken.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fencing.json",
+      "bytes": 24603,
+      "sha256": "1ce2d0761f14860e34f50bb4d614a9bec931d4327316db44d86c8288a3057cfd",
+      "source_sha256": "1ce2d0761f14860e34f50bb4d614a9bec931d4327316db44d86c8288a3057cfd",
+      "source_file_name": "fencing.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fencing.md",
+      "bytes": 2418,
+      "sha256": "f2ca6d51fd12ec8551487e56495076ee70c415b93bf240c1a368157da527e7c8",
+      "source_sha256": "f2ca6d51fd12ec8551487e56495076ee70c415b93bf240c1a368157da527e7c8",
+      "source_file_name": "fencing.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/flexible_screen.json",
+      "bytes": 21750,
+      "sha256": "61824fa7ed2ceb79cdd8b3d5dfa655c7dd5881d323fad12a227e3d5b040d6c6b",
+      "source_sha256": "61824fa7ed2ceb79cdd8b3d5dfa655c7dd5881d323fad12a227e3d5b040d6c6b",
+      "source_file_name": "flexible_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/flexible_screen.md",
+      "bytes": 2181,
+      "sha256": "ddc7485fb207f545ce04720156ec22c364e518695b24f1373dc6a2783363ca2d",
+      "source_sha256": "ddc7485fb207f545ce04720156ec22c364e518695b24f1373dc6a2783363ca2d",
+      "source_file_name": "flexible_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fma_fcs.json",
+      "bytes": 27505,
+      "sha256": "7671b750484cd27c641793079cf7fe1970c0735f48a7a6e6467644f638fa98cc",
+      "source_sha256": "7671b750484cd27c641793079cf7fe1970c0735f48a7a6e6467644f638fa98cc",
+      "source_file_name": "fma_fcs.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fma_fcs.md",
+      "bytes": 2566,
+      "sha256": "131338758ed912e8872a96f5cbd52eebc1c67cfa3076b6d1945824084febcfa9",
+      "source_sha256": "131338758ed912e8872a96f5cbd52eebc1c67cfa3076b6d1945824084febcfa9",
+      "source_file_name": "fma_fcs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fma_guerrero.json",
+      "bytes": 11235,
+      "sha256": "9c97ed35e4ae7add75476889705266fa3b4afead831fe6772bdc1cf59d321c21",
+      "source_sha256": "9c97ed35e4ae7add75476889705266fa3b4afead831fe6772bdc1cf59d321c21",
+      "source_file_name": "fma_guerrero.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/fma_guerrero.md",
+      "bytes": 1401,
+      "sha256": "ada9391acc0055622618cc2cfc53a3ce8839ca46bc3339ccb0fa08be329f433a",
+      "source_sha256": "ada9391acc0055622618cc2cfc53a3ce8839ca46bc3339ccb0fa08be329f433a",
+      "source_file_name": "fma_guerrero.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gun.json",
+      "bytes": 19122,
+      "sha256": "4874b301a031f0087638a6fee5035293980997c1da5f724325d2cfe344160825",
+      "source_sha256": "4874b301a031f0087638a6fee5035293980997c1da5f724325d2cfe344160825",
+      "source_file_name": "gun.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gun.md",
+      "bytes": 2017,
+      "sha256": "bdc08e4ad82b8d0c47a4443ce9d46e000c6e1f7e7f36e2e2f2fc8894a0c56ba5",
+      "source_sha256": "bdc08e4ad82b8d0c47a4443ce9d46e000c6e1f7e7f36e2e2f2fc8894a0c56ba5",
+      "source_file_name": "gun.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gunfu.json",
+      "bytes": 13068,
+      "sha256": "fcef37b5ef50884d722968f03655aa2489ee49416451494d58a5f36907702adb",
+      "source_sha256": "fcef37b5ef50884d722968f03655aa2489ee49416451494d58a5f36907702adb",
+      "source_file_name": "gunfu.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gunfu.md",
+      "bytes": 1734,
+      "sha256": "b4320f71a3712c10e8f11df27e535354d5b0e14c4987d6605bef39c56ca78890",
+      "source_sha256": "b4320f71a3712c10e8f11df27e535354d5b0e14c4987d6605bef39c56ca78890",
+      "source_file_name": "gunfu.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gunfu_prop.json",
+      "bytes": 5598,
+      "sha256": "c7e8b89ac6a3bd436139b4c3a1a33c443ddbdd9f2071e976951d97a88df2b777",
+      "source_sha256": "c7e8b89ac6a3bd436139b4c3a1a33c443ddbdd9f2071e976951d97a88df2b777",
+      "source_file_name": "gunfu_prop.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/gunfu_prop.md",
+      "bytes": 1076,
+      "sha256": "e1e027c9cec498d1201d0a388c5183ca23b2732316ed8f6e5ca623b2b0b3f49a",
+      "source_sha256": "e1e027c9cec498d1201d0a388c5183ca23b2732316ed8f6e5ca623b2b0b3f49a",
+      "source_file_name": "gunfu_prop.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/hema_fiore.json",
+      "bytes": 11781,
+      "sha256": "e43f179c1e06161067f71947dfe05db059eda3f86b7433db0d95f721cd1755c8",
+      "source_sha256": "e43f179c1e06161067f71947dfe05db059eda3f86b7433db0d95f721cd1755c8",
+      "source_file_name": "hema_fiore.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/hema_fiore.md",
+      "bytes": 1373,
+      "sha256": "bf03e0dc46161a673359f0cb23fbdc97efd32d48105b157921c5c6ab9976d8da",
+      "source_sha256": "bf03e0dc46161a673359f0cb23fbdc97efd32d48105b157921c5c6ab9976d8da",
+      "source_file_name": "hema_fiore.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/hema_liechtenauer.json",
+      "bytes": 12316,
+      "sha256": "2b280dec129aadd22ca41ac134bfbe14a81535d907f3816d4dde2eb44e6c9a35",
+      "source_sha256": "2b280dec129aadd22ca41ac134bfbe14a81535d907f3816d4dde2eb44e6c9a35",
+      "source_file_name": "hema_liechtenauer.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/hema_liechtenauer.md",
+      "bytes": 1332,
+      "sha256": "a8c249ca2ba2e3de35b751511f4e59382e492aad98aa875521d4bf4ca160bcc7",
+      "source_sha256": "a8c249ca2ba2e3de35b751511f4e59382e492aad98aa875521d4bf4ca160bcc7",
+      "source_file_name": "hema_liechtenauer.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/iaido.json",
+      "bytes": 18175,
+      "sha256": "2252fed959b1442a3879184749af8678374ea4a319259ce910d94daf5fa813a5",
+      "source_sha256": "2252fed959b1442a3879184749af8678374ea4a319259ce910d94daf5fa813a5",
+      "source_file_name": "iaido.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/iaido.md",
+      "bytes": 1475,
+      "sha256": "af7198cca28f167bb4a33c32c9519551cab69197a7d67c04f5c27419ee30f43c",
+      "source_sha256": "af7198cca28f167bb4a33c32c9519551cab69197a7d67c04f5c27419ee30f43c",
+      "source_file_name": "iaido.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/impact_weapon_screen.json",
+      "bytes": 12956,
+      "sha256": "f83c413b0edd6186d2a19b38323b221cf23612f589260d82045fc5391ce0c2ed",
+      "source_sha256": "f83c413b0edd6186d2a19b38323b221cf23612f589260d82045fc5391ce0c2ed",
+      "source_file_name": "impact_weapon_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/impact_weapon_screen.md",
+      "bytes": 1412,
+      "sha256": "c65bfef582da545f8315fdf648b83fbf3499bcc0e8f2cf9275f9b10ac82deef1",
+      "source_sha256": "c65bfef582da545f8315fdf648b83fbf3499bcc0e8f2cf9275f9b10ac82deef1",
+      "source_file_name": "impact_weapon_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jackie.json",
+      "bytes": 15190,
+      "sha256": "f551ebfa38b46293491c61fb903af7b539ca8d2aea5c8ecc148dc01a47cb813a",
+      "source_sha256": "f551ebfa38b46293491c61fb903af7b539ca8d2aea5c8ecc148dc01a47cb813a",
+      "source_file_name": "jackie.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jackie.md",
+      "bytes": 2040,
+      "sha256": "fcc316b4b985205bbd8ccd36517f9b132b60e72a3159ccfa283bf26db78a24aa",
+      "source_sha256": "fcc316b4b985205bbd8ccd36517f9b132b60e72a3159ccfa283bf26db78a24aa",
+      "source_file_name": "jackie.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jian.json",
+      "bytes": 11659,
+      "sha256": "589c71232ef0861634c5b700f92d8948b05dc71970179192a3f9585e47fd443c",
+      "source_sha256": "589c71232ef0861634c5b700f92d8948b05dc71970179192a3f9585e47fd443c",
+      "source_file_name": "jian.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jian.md",
+      "bytes": 1502,
+      "sha256": "011f623897e0d9d10d6694ec516a37e39b1bbd05396c6a0a5611c0c6b14fd02b",
+      "source_sha256": "011f623897e0d9d10d6694ec516a37e39b1bbd05396c6a0a5611c0c6b14fd02b",
+      "source_file_name": "jian.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jkd.json",
+      "bytes": 75849,
+      "sha256": "b2b03330298e1eeb997ccae19a912718fb44b19ccc73f19d644ae1a5c43de562",
+      "source_sha256": "b2b03330298e1eeb997ccae19a912718fb44b19ccc73f19d644ae1a5c43de562",
+      "source_file_name": "jkd.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jkd.md",
+      "bytes": 9111,
+      "sha256": "c42d46232ebcc6838b18af18f37aab8ac5a4ade77a3fc6d624bc8eec19c8a2db",
+      "source_sha256": "c42d46232ebcc6838b18af18f37aab8ac5a4ade77a3fc6d624bc8eec19c8a2db",
+      "source_file_name": "jkd.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jodo.json",
+      "bytes": 17506,
+      "sha256": "30c450ce602a483c5e72483648d1f419e2e078f3af041ec2d02c9584c798185c",
+      "source_sha256": "30c450ce602a483c5e72483648d1f419e2e078f3af041ec2d02c9584c798185c",
+      "source_file_name": "jodo.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jodo.md",
+      "bytes": 1591,
+      "sha256": "fb6446ff7f3cf3ccc8c9cb8c2f20b515d0745c9bf989f76a0d0e057ec0a49501",
+      "source_sha256": "fb6446ff7f3cf3ccc8c9cb8c2f20b515d0745c9bf989f76a0d0e057ec0a49501",
+      "source_file_name": "jodo.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jujutsu.json",
+      "bytes": 44767,
+      "sha256": "3128eef7b03de826d53285a111649e94e0506b4b6b12da8bffe5943b547956bb",
+      "source_sha256": "3128eef7b03de826d53285a111649e94e0506b4b6b12da8bffe5943b547956bb",
+      "source_file_name": "jujutsu.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/jujutsu.md",
+      "bytes": 3824,
+      "sha256": "6e1640c1ffda09be71c33d15732addecb0ab439e1601be96ba0ad338c765aaa4",
+      "source_sha256": "6e1640c1ffda09be71c33d15732addecb0ab439e1601be96ba0ad338c765aaa4",
+      "source_file_name": "jujutsu.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/karate_okinawan.json",
+      "bytes": 16039,
+      "sha256": "2b0f469735dd2131c2b05ace46a0a2e556273642bdefaccf5b1a7435a97b1458",
+      "source_sha256": "2b0f469735dd2131c2b05ace46a0a2e556273642bdefaccf5b1a7435a97b1458",
+      "source_file_name": "karate_okinawan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/karate_okinawan.md",
+      "bytes": 1670,
+      "sha256": "f26f7ff9fe37396a7c6513fc0fc5c5c8d8e7045ffdc48411ca1f0f050798af40",
+      "source_sha256": "f26f7ff9fe37396a7c6513fc0fc5c5c8d8e7045ffdc48411ca1f0f050798af40",
+      "source_file_name": "karate_okinawan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/karate_shotokan.json",
+      "bytes": 50393,
+      "sha256": "ab0428cd8597358708cc6c3814bf0fc3f3ec92bcd630ac50a8aea48ba502c6d5",
+      "source_sha256": "ab0428cd8597358708cc6c3814bf0fc3f3ec92bcd630ac50a8aea48ba502c6d5",
+      "source_file_name": "karate_shotokan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/karate_shotokan.md",
+      "bytes": 3623,
+      "sha256": "897fb49b61db305e004b059a32cca0ae4215a63d46f12fb70e517d4cc9845291",
+      "source_sha256": "897fb49b61db305e004b059a32cca0ae4215a63d46f12fb70e517d4cc9845291",
+      "source_file_name": "karate_shotokan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/katana_screen.json",
+      "bytes": 7506,
+      "sha256": "a7862ed6fdeb7a61d9f132e75f0ed35f00c929a0fbaa6e164c1fcd2faa10b660",
+      "source_sha256": "a7862ed6fdeb7a61d9f132e75f0ed35f00c929a0fbaa6e164c1fcd2faa10b660",
+      "source_file_name": "katana_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/katana_screen.md",
+      "bytes": 1131,
+      "sha256": "9560d1ae41bec78809e140d884d27b096790b61ddbf63f2404304dad8e588b35",
+      "source_sha256": "9560d1ae41bec78809e140d884d27b096790b61ddbf63f2404304dad8e588b35",
+      "source_file_name": "katana_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/kendo.json",
+      "bytes": 20407,
+      "sha256": "d5b7bd73346b947ee524d0e9598be8e6cc6eb535ec8fad99521a63f84f3f057e",
+      "source_sha256": "d5b7bd73346b947ee524d0e9598be8e6cc6eb535ec8fad99521a63f84f3f057e",
+      "source_file_name": "kendo.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/kendo.md",
+      "bytes": 1815,
+      "sha256": "715454315027e000c7ac3e27eee1d67e69cbddc6f30674cd07f741dfa2ba7218",
+      "source_sha256": "715454315027e000c7ac3e27eee1d67e69cbddc6f30674cd07f741dfa2ba7218",
+      "source_file_name": "kendo.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/knife_screen.json",
+      "bytes": 12722,
+      "sha256": "21ba756b69e71248890151c71337d382ca8e1b984cd5923118636d1a2992ca5e",
+      "source_sha256": "21ba756b69e71248890151c71337d382ca8e1b984cd5923118636d1a2992ca5e",
+      "source_file_name": "knife_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/knife_screen.md",
+      "bytes": 1457,
+      "sha256": "ab37835eb86fecfd87087ccfe44196b81239efe2f5e6eeba6f4dbc9f0a4533e3",
+      "source_sha256": "ab37835eb86fecfd87087ccfe44196b81239efe2f5e6eeba6f4dbc9f0a4533e3",
+      "source_file_name": "knife_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/mma.json",
+      "bytes": 40704,
+      "sha256": "857c6e7b64864048f8fc128a72a5b391ca778fee90c7c0df15a86a16553588a5",
+      "source_sha256": "857c6e7b64864048f8fc128a72a5b391ca778fee90c7c0df15a86a16553588a5",
+      "source_file_name": "mma.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/mma.md",
+      "bytes": 3004,
+      "sha256": "6b102bf6d50015103560253dbe0a6cf14eb2f8d3a8e99ab451d423c300133197",
+      "source_sha256": "6b102bf6d50015103560253dbe0a6cf14eb2f8d3a8e99ab451d423c300133197",
+      "source_file_name": "mma.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/muay_boran.json",
+      "bytes": 22447,
+      "sha256": "35f2685fd62e8bee98932865d9bd9918e467fb8c7b9c6fd610dff074879ba2ca",
+      "source_sha256": "35f2685fd62e8bee98932865d9bd9918e467fb8c7b9c6fd610dff074879ba2ca",
+      "source_file_name": "muay_boran.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/muay_boran.md",
+      "bytes": 2081,
+      "sha256": "e068e343d8ee3ddfffa5f5dae5cbf4e3ee42caa1c7e48b7c1f75ca545de0b024",
+      "source_sha256": "e068e343d8ee3ddfffa5f5dae5cbf4e3ee42caa1c7e48b7c1f75ca545de0b024",
+      "source_file_name": "muay_boran.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/muay_thai.json",
+      "bytes": 56844,
+      "sha256": "a496dcaefe93de8c051f5be0bc60e285fe607fec5deddbf2ff1d97e93b3bed74",
+      "source_sha256": "a496dcaefe93de8c051f5be0bc60e285fe607fec5deddbf2ff1d97e93b3bed74",
+      "source_file_name": "muay_thai.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/muay_thai.md",
+      "bytes": 3970,
+      "sha256": "ad62916c3084c103d0b5210966486176eba9f3a8310db3461d802110aade2090",
+      "source_sha256": "ad62916c3084c103d0b5210966486176eba9f3a8310db3461d802110aade2090",
+      "source_file_name": "muay_thai.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/nhb.json",
+      "bytes": 5189,
+      "sha256": "d59c63c5279c2399b9ba61aba5164b9892d195c1f5cfa70803c01788a042af6a",
+      "source_sha256": "d59c63c5279c2399b9ba61aba5164b9892d195c1f5cfa70803c01788a042af6a",
+      "source_file_name": "nhb.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/nhb.md",
+      "bytes": 1159,
+      "sha256": "1e714773e7e9ddb4f32659400b9f6ed86a6865997122350bdc4fec5975b43872",
+      "source_sha256": "1e714773e7e9ddb4f32659400b9f6ed86a6865997122350bdc4fec5975b43872",
+      "source_file_name": "nhb.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/nunchaku.json",
+      "bytes": 10369,
+      "sha256": "9b9ca85f0c6874cca32f2623c2de5d40c7c4f34e5411aece9f1b2f0b6ccad9f7",
+      "source_sha256": "9b9ca85f0c6874cca32f2623c2de5d40c7c4f34e5411aece9f1b2f0b6ccad9f7",
+      "source_file_name": "nunchaku.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/nunchaku.md",
+      "bytes": 1143,
+      "sha256": "2d177556b471efd7cb9cb6b532062c97adc4ff6a01706e046f35fa98c34069fc",
+      "source_sha256": "2d177556b471efd7cb9cb6b532062c97adc4ff6a01706e046f35fa98c34069fc",
+      "source_file_name": "nunchaku.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/polearm_screen.json",
+      "bytes": 10973,
+      "sha256": "545797e34619c15d4807e9d4b123f6b17c16ad66b017e7dc9f1d349b60f0041d",
+      "source_sha256": "545797e34619c15d4807e9d4b123f6b17c16ad66b017e7dc9f1d349b60f0041d",
+      "source_file_name": "polearm_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/polearm_screen.md",
+      "bytes": 1387,
+      "sha256": "9babacbed52824ffa8d88cfcb7e1099e21a4868cb4a21b315d30d9bce81d9436",
+      "source_sha256": "9babacbed52824ffa8d88cfcb7e1099e21a4868cb4a21b315d30d9bce81d9436",
+      "source_file_name": "polearm_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/projectile_screen.json",
+      "bytes": 11189,
+      "sha256": "9f6281d6f68e8cd5fab24afa42cf1ed86178c1ba58a53c22b863751020c4b0b0",
+      "source_sha256": "9f6281d6f68e8cd5fab24afa42cf1ed86178c1ba58a53c22b863751020c4b0b0",
+      "source_file_name": "projectile_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/projectile_screen.md",
+      "bytes": 1439,
+      "sha256": "f56b4e4caba3412c43efc8dff78af37af60832313d12c9526c5c0dd5ff5daf6c",
+      "source_sha256": "f56b4e4caba3412c43efc8dff78af37af60832313d12c9526c5c0dd5ff5daf6c",
+      "source_file_name": "projectile_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/qiang.json",
+      "bytes": 11899,
+      "sha256": "a4da161f9c1c3b495250fce6a2b74ba2776b7d23b564e3069b67545c680df88d",
+      "source_sha256": "a4da161f9c1c3b495250fce6a2b74ba2776b7d23b564e3069b67545c680df88d",
+      "source_file_name": "qiang.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/qiang.md",
+      "bytes": 1536,
+      "sha256": "65581734ede7eacdbc6e7130818b7dd8110959f6fce45a7171a242e6986e67b5",
+      "source_sha256": "65581734ede7eacdbc6e7130818b7dd8110959f6fce45a7171a242e6986e67b5",
+      "source_file_name": "qiang.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/sai.json",
+      "bytes": 8153,
+      "sha256": "fe33426a42ccbbe192d9cf5eb94b44306e9ec58ca837dfa1f4d66a174dc7b013",
+      "source_sha256": "fe33426a42ccbbe192d9cf5eb94b44306e9ec58ca837dfa1f4d66a174dc7b013",
+      "source_file_name": "sai.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/sai.md",
+      "bytes": 1129,
+      "sha256": "39ed2d76fadc1b1541c5a641867608b987f4fee550a5d45171fc5bbd7bfa5766",
+      "source_sha256": "39ed2d76fadc1b1541c5a641867608b987f4fee550a5d45171fc5bbd7bfa5766",
+      "source_file_name": "sai.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/shaolin.json",
+      "bytes": 31909,
+      "sha256": "2fcd07605f3ab42ec4e9346822b479236e95ea780c0a6ecc190f4c79c6847520",
+      "source_sha256": "2fcd07605f3ab42ec4e9346822b479236e95ea780c0a6ecc190f4c79c6847520",
+      "source_file_name": "shaolin.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/shaolin.md",
+      "bytes": 3068,
+      "sha256": "c4cc2ddb6b4a17213f04820647dccd6ce7a3af23ec2fef706e18172f4da86105",
+      "source_sha256": "c4cc2ddb6b4a17213f04820647dccd6ce7a3af23ec2fef706e18172f4da86105",
+      "source_file_name": "shaolin.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/silat_fatani.json",
+      "bytes": 8720,
+      "sha256": "173821a345d197b5113df3a0d2f06887cbeaad150af5af7d4329ce633ddaf63a",
+      "source_sha256": "173821a345d197b5113df3a0d2f06887cbeaad150af5af7d4329ce633ddaf63a",
+      "source_file_name": "silat_fatani.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/silat_fatani.md",
+      "bytes": 1221,
+      "sha256": "c4a5f43bd4f49c0bb9de491d022988b3f388e5de3e9e175ad873522d4cd4e399",
+      "source_sha256": "c4a5f43bd4f49c0bb9de491d022988b3f388e5de3e9e175ad873522d4cd4e399",
+      "source_file_name": "silat_fatani.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/staff_screen.json",
+      "bytes": 12280,
+      "sha256": "4ef00faa6eb9ea7fc8a1058a69fb75cdaa6e096a665bd59fe7ff7ab302263a04",
+      "source_sha256": "4ef00faa6eb9ea7fc8a1058a69fb75cdaa6e096a665bd59fe7ff7ab302263a04",
+      "source_file_name": "staff_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/staff_screen.md",
+      "bytes": 1351,
+      "sha256": "ecec61da212ab2d884ee13ee3af024a16f9f2edd1da3b5720e3cde25a6d581fd",
+      "source_sha256": "ecec61da212ab2d884ee13ee3af024a16f9f2edd1da3b5720e3cde25a6d581fd",
+      "source_file_name": "staff_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taekwondo_itf.json",
+      "bytes": 60738,
+      "sha256": "14817da977f954e9ddbda90aa87e6122aa2e7a1b9c7d95a105e0d5b355526b61",
+      "source_sha256": "14817da977f954e9ddbda90aa87e6122aa2e7a1b9c7d95a105e0d5b355526b61",
+      "source_file_name": "taekwondo_itf.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taekwondo_itf.md",
+      "bytes": 4242,
+      "sha256": "3587330a569c5f13b57bf3298767387a43368066d227369ad0808eaf8f36951f",
+      "source_sha256": "3587330a569c5f13b57bf3298767387a43368066d227369ad0808eaf8f36951f",
+      "source_file_name": "taekwondo_itf.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taekwondo_kukkiwon.json",
+      "bytes": 138676,
+      "sha256": "6aba430eed5259c048037d1d4eba5ce515e4ef0b0286899fb6c42446750acde9",
+      "source_sha256": "6aba430eed5259c048037d1d4eba5ce515e4ef0b0286899fb6c42446750acde9",
+      "source_file_name": "taekwondo_kukkiwon.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taekwondo_kukkiwon.md",
+      "bytes": 8966,
+      "sha256": "dd009baa9dda1c14ddc716cb228275a6e82c80adaf447ca5391e386cb5a4be69",
+      "source_sha256": "dd009baa9dda1c14ddc716cb228275a6e82c80adaf447ca5391e386cb5a4be69",
+      "source_file_name": "taekwondo_kukkiwon.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taiji_fan.json",
+      "bytes": 11875,
+      "sha256": "c63ce7fd0f93096d3e0d836c22c6ea3a0d5cc69dc5dba451f98020c964b956af",
+      "source_sha256": "c63ce7fd0f93096d3e0d836c22c6ea3a0d5cc69dc5dba451f98020c964b956af",
+      "source_file_name": "taiji_fan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/taiji_fan.md",
+      "bytes": 1507,
+      "sha256": "15dfa9f41b5d025f97c5bf2a0b2b35f08dadc35cd70d4fef660b72c7c8749b33",
+      "source_sha256": "15dfa9f41b5d025f97c5bf2a0b2b35f08dadc35cd70d4fef660b72c7c8749b33",
+      "source_file_name": "taiji_fan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/tonfa.json",
+      "bytes": 10111,
+      "sha256": "59535e7edb176d16ec8fde6b02a1e267c342620979139c033f3e95c66a135481",
+      "source_sha256": "59535e7edb176d16ec8fde6b02a1e267c342620979139c033f3e95c66a135481",
+      "source_file_name": "tonfa.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/tonfa.md",
+      "bytes": 1234,
+      "sha256": "492e6e177d263a033375225de30353e3e1e0e6f852b7c6714dea2a9d4330c919",
+      "source_sha256": "492e6e177d263a033375225de30353e3e1e0e6f852b7c6714dea2a9d4330c919",
+      "source_file_name": "tonfa.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/wing_chun.json",
+      "bytes": 41803,
+      "sha256": "afcfad045d9a8251c72bd03bb2f98613546df0776e6536b671f5cd55f5c3607d",
+      "source_sha256": "afcfad045d9a8251c72bd03bb2f98613546df0776e6536b671f5cd55f5c3607d",
+      "source_file_name": "wing_chun.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes/wing_chun.md",
+      "bytes": 4670,
+      "sha256": "72253c543b8f27021609c1e8bc58de6340021164cf89656a7cc9e726e6bb77e3",
+      "source_sha256": "72253c543b8f27021609c1e8bc58de6340021164cf89656a7cc9e726e6bb77e3",
+      "source_file_name": "wing_chun.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes.json",
+      "bytes": 508289,
+      "sha256": "fa18621ba1f3bd1554716caf9a52bff780a7ca320c7a4a5ca95bf4c6e03a94c6",
+      "source_sha256": "fa18621ba1f3bd1554716caf9a52bff780a7ca320c7a4a5ca95bf4c6e03a94c6",
+      "source_file_name": "short-codes.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/short-codes.md",
+      "bytes": 83994,
+      "sha256": "45872d415958ee19c86fb784ea74a23ca32d7f3baf40deb940909b31dac138b9",
+      "source_sha256": "45872d415958ee19c86fb784ea74a23ca32d7f3baf40deb940909b31dac138b9",
+      "source_file_name": "short-codes.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/source-quality.md",
+      "bytes": 6431,
+      "sha256": "3926ff96bc496e3e8639943d206a2433df795914fb9d4e092138e59d6706899d",
+      "source_sha256": "3926ff96bc496e3e8639943d206a2433df795914fb9d4e092138e59d6706899d",
+      "source_file_name": "source-quality.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/01-tao-of-jkd.md",
+      "bytes": 33439,
+      "sha256": "180a0dc86c021d86f84aae0dbc39b5f912d36245dee86e838ede0ac50348353e",
+      "source_sha256": "d46da329a08006dbe5ecbeb8245e7ff93122cfa88bfe8e18ed18753fbbd89a15",
+      "source_file_name": "01-tao-of-jkd.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/02-filosofia-i-duh-boytsa.md",
+      "bytes": 18478,
+      "sha256": "3f67ee534fd8cde5b7aba1f9f18d46a21754c25e8624d638770826641390cf45",
+      "source_sha256": "5aaef6d50779fbe35839ed240961a8c694a585a5fd8ec032b81bc369b18f1351",
+      "source_file_name": "02-filosofia-i-duh-boytsa.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/03-fm1-priemy-samooborony.md",
+      "bytes": 25820,
+      "sha256": "89ec77e4b3e9348264897f934c92b93ebde69f6627dbe2791bb59bd3d4d3b03b",
+      "source_sha256": "6ea7e89a1a1f10e56ccb44a8894fcc3de068dd0c90a69fd7a4a190fb9764d6a0",
+      "source_file_name": "03-fm1-priemy-samooborony.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/04-fm2-osnovnoy-kurs.md",
+      "bytes": 25659,
+      "sha256": "2e393118bac3faeffeda454ebb4ab14c534524e145a813d1abcbf01e5e0ff689",
+      "source_sha256": "bac49803b9109627307ca528bde66d59697712fa1d28a0185ffa4afabf8f2ba9",
+      "source_file_name": "04-fm2-osnovnoy-kurs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/05-fm3-sovershenstvovanie.md",
+      "bytes": 22432,
+      "sha256": "5cd3aee3cf9e7521fc3799d63f4a867618dae8e7e8489e65b25f662d6fbe8b43",
+      "source_sha256": "e4a1bd2cfbb8a695a93577846ace767f7f22776638fd845ef21bd7a8e948098f",
+      "source_file_name": "05-fm3-sovershenstvovanie.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/06-fm4-osvoenie-priemov.md",
+      "bytes": 22292,
+      "sha256": "f3dea9edcee5641939fbb04af2887ec6473325c1eb4e3e55fd7cbaba3f87bb67",
+      "source_sha256": "fa03e0c4da3c62e849a72d327d6fcb65f02ea7764d956388d77e904adc845b6c",
+      "source_file_name": "06-fm4-osvoenie-priemov.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/07-metodika-borby.md",
+      "bytes": 20249,
+      "sha256": "1a36744a56b953b1ea00c70dac201779692c045175154794c53a5813e463bf72",
+      "source_sha256": "053d3921fbaa8b090f96d1f8035790c583293c43b4157ff83815e16525494bfe",
+      "source_file_name": "07-metodika-borby.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/08-dao-kung-fu.md",
+      "bytes": 19453,
+      "sha256": "f408442844c0488efca4b6f1c330e47933f5a0480581409635fdf24980a9e622",
+      "source_sha256": "6b8dccf043f6fae311d760ff5f1838940eadec8ffff4009b98d1de0f0705b686",
+      "source_file_name": "08-dao-kung-fu.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/09-video-tutorials.md",
+      "bytes": 17118,
+      "sha256": "19370c6d3a8c0ccb3d65c0af2ca88f2f07f9e4bb2f000ec93cb01f42c9b8ffca",
+      "source_sha256": "8d93499a052ce1d42ab3c6faf507a42827912f5295ec4866cab6ee2ff792a66b",
+      "source_file_name": "09-video-tutorials.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/13-wc1-perviy-uroven.md",
+      "bytes": 20800,
+      "sha256": "5d37bcd8cbdc506e7eb158fe27f388d78e13a2fdcda097e798cd3a8ef5840481",
+      "source_sha256": "5d37bcd8cbdc506e7eb158fe27f388d78e13a2fdcda097e798cd3a8ef5840481",
+      "source_file_name": "13-wc1-perviy-uroven.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/14-wc2-vtoroy-uroven.md",
+      "bytes": 26209,
+      "sha256": "cf15db0c2179da9467155f7c70f60ded60fdd57e70ac414dc20336bb139d6e46",
+      "source_sha256": "cf15db0c2179da9467155f7c70f60ded60fdd57e70ac414dc20336bb139d6e46",
+      "source_file_name": "14-wc2-vtoroy-uroven.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/15-wc-dummy-116.md",
+      "bytes": 14325,
+      "sha256": "fbaa32cf5801ca2b3e5f607295b089b41443e38da1c6bcc26f7f348f8fbe2368",
+      "source_sha256": "fbaa32cf5801ca2b3e5f607295b089b41443e38da1c6bcc26f7f348f8fbe2368",
+      "source_file_name": "15-wc-dummy-116.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/16-wc-vysshiy-uroven.md",
+      "bytes": 20159,
+      "sha256": "59b84929ae9ea7089757a5814fae414008e4622a823ed4baea7fdad528b3be5a",
+      "source_sha256": "59b84929ae9ea7089757a5814fae414008e4622a823ed4baea7fdad528b3be5a",
+      "source_file_name": "16-wc-vysshiy-uroven.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/17-wc-video-tutorials.md",
+      "bytes": 22914,
+      "sha256": "5bb1f8a09cdaeef2986044a6403c26ad55a3da70cd3e78a5616ca1f00f3847be",
+      "source_sha256": "5bb1f8a09cdaeef2986044a6403c26ad55a3da70cd3e78a5616ca1f00f3847be",
+      "source_file_name": "17-wc-video-tutorials.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/INDEX.md",
+      "bytes": 10169,
+      "sha256": "deddff875e01589257841399bc5dc3ad5525a155eee5057a8e24f3278366601a",
+      "source_sha256": "deddff875e01589257841399bc5dc3ad5525a155eee5057a8e24f3278366601a",
+      "source_file_name": "INDEX.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/09-video-tutorials.md",
+      "bytes": 26487,
+      "sha256": "60e8584367cf6940483674ee120298dcf804f6b83358c12e0024166b29eb51b9",
+      "source_sha256": "60e8584367cf6940483674ee120298dcf804f6b83358c12e0024166b29eb51b9",
+      "source_file_name": "09-video-tutorials.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/5OZztKXK46M.md",
+      "bytes": 5632,
+      "sha256": "07f57530aa47914c091b0d2c15937461b4f55ae56f7316ba2341e814eab28cd8",
+      "source_sha256": "07f57530aa47914c091b0d2c15937461b4f55ae56f7316ba2341e814eab28cd8",
+      "source_file_name": "5OZztKXK46M.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/7M3FWG31ybE.md",
+      "bytes": 7570,
+      "sha256": "d297b69a98229bad4f9463128aea5b93366430683db83933dbb96c18689554e8",
+      "source_sha256": "d297b69a98229bad4f9463128aea5b93366430683db83933dbb96c18689554e8",
+      "source_file_name": "7M3FWG31ybE.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/9xs25_whwcg.md",
+      "bytes": 7933,
+      "sha256": "9f3b090bcff6901e0bffad7119d662bf2248139564078c6521eef4d6a852050f",
+      "source_sha256": "9f3b090bcff6901e0bffad7119d662bf2248139564078c6521eef4d6a852050f",
+      "source_file_name": "9xs25_whwcg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/AWHjwZdCeDg.md",
+      "bytes": 7288,
+      "sha256": "5dd4290bad79453839610df56b5aa72baae44a82086f9f406420aad315c7d4a7",
+      "source_sha256": "5dd4290bad79453839610df56b5aa72baae44a82086f9f406420aad315c7d4a7",
+      "source_file_name": "AWHjwZdCeDg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/ClfYe9Uly28.md",
+      "bytes": 5666,
+      "sha256": "df2c18ec6e98200ae961be9c0a196cae9ba3b29e5296c9aca0923b0f96995c0c",
+      "source_sha256": "df2c18ec6e98200ae961be9c0a196cae9ba3b29e5296c9aca0923b0f96995c0c",
+      "source_file_name": "ClfYe9Uly28.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/EFW6GrwDVEU.md",
+      "bytes": 5492,
+      "sha256": "39a7e46bd898f28d36d9b56b3f4e3b3f7f074006da9f11460faeadc91d0748ea",
+      "source_sha256": "39a7e46bd898f28d36d9b56b3f4e3b3f7f074006da9f11460faeadc91d0748ea",
+      "source_file_name": "EFW6GrwDVEU.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/M8f5o-mg6ic.md",
+      "bytes": 6023,
+      "sha256": "c00b259b47ec500ab7d165d0c1cfa517a0c8270dd7be349f49bc963525ed8e20",
+      "source_sha256": "c00b259b47ec500ab7d165d0c1cfa517a0c8270dd7be349f49bc963525ed8e20",
+      "source_file_name": "M8f5o-mg6ic.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/OgGWAhpUIjk.md",
+      "bytes": 6635,
+      "sha256": "2d16174f0a674a58b3209b5582a9f45e870766147cd947ba4b394cb9bcc31e94",
+      "source_sha256": "2d16174f0a674a58b3209b5582a9f45e870766147cd947ba4b394cb9bcc31e94",
+      "source_file_name": "OgGWAhpUIjk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/Pa2YV2zcfNQ.md",
+      "bytes": 5926,
+      "sha256": "d32593ed5e3a8920a3928433bee874720111f406fa70c69cf6a7422330e01c51",
+      "source_sha256": "d32593ed5e3a8920a3928433bee874720111f406fa70c69cf6a7422330e01c51",
+      "source_file_name": "Pa2YV2zcfNQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/RTuGiLKA1I8.md",
+      "bytes": 6978,
+      "sha256": "17c1593d16d048d54503594ab0a8d8445e84fee0bc98fd6fd7164f2184d5c04a",
+      "source_sha256": "17c1593d16d048d54503594ab0a8d8445e84fee0bc98fd6fd7164f2184d5c04a",
+      "source_file_name": "RTuGiLKA1I8.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/St8jiC_0NFY.md",
+      "bytes": 6429,
+      "sha256": "06ce43f5f7f95c9aec38648d8eff5b89e4a2b02181fc745d5fc96a684c7c66a4",
+      "source_sha256": "06ce43f5f7f95c9aec38648d8eff5b89e4a2b02181fc745d5fc96a684c7c66a4",
+      "source_file_name": "St8jiC_0NFY.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/VxmkjF38FeI.md",
+      "bytes": 7654,
+      "sha256": "43e3e00fc6f1db9b20f7b1d7f84d6a53d0131c0560e53daeb5fab193558bd96d",
+      "source_sha256": "43e3e00fc6f1db9b20f7b1d7f84d6a53d0131c0560e53daeb5fab193558bd96d",
+      "source_file_name": "VxmkjF38FeI.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/XpOTci5P7wQ.md",
+      "bytes": 8832,
+      "sha256": "652b939401c470280967499f3a33f78a05fc826949b1d1fc238a7f5272771125",
+      "source_sha256": "652b939401c470280967499f3a33f78a05fc826949b1d1fc238a7f5272771125",
+      "source_file_name": "XpOTci5P7wQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/_naZzjLzVXk.md",
+      "bytes": 9762,
+      "sha256": "9cb42e64d59f562b57be98145c5152f7746837aee07ef9db6898b3667e2ab311",
+      "source_sha256": "9cb42e64d59f562b57be98145c5152f7746837aee07ef9db6898b3667e2ab311",
+      "source_file_name": "_naZzjLzVXk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/ad17nEj_TBg.md",
+      "bytes": 6289,
+      "sha256": "2a65c888e74394ee0e1292f303758f458331d1b64eddc52833e88691cd8d5751",
+      "source_sha256": "2a65c888e74394ee0e1292f303758f458331d1b64eddc52833e88691cd8d5751",
+      "source_file_name": "ad17nEj_TBg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/aqn6cy3jB0k.md",
+      "bytes": 6488,
+      "sha256": "2268aa16cee2e75e1e1b12540d1a2fba1fe5104dafa1bcfc7f6d6bb97c9bde4f",
+      "source_sha256": "2268aa16cee2e75e1e1b12540d1a2fba1fe5104dafa1bcfc7f6d6bb97c9bde4f",
+      "source_file_name": "aqn6cy3jB0k.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/cQ-IOUnSOxw.md",
+      "bytes": 7997,
+      "sha256": "9b6969892425e75a1a2387208bddcb7f2a8c0f16078e3e8c14d4a6f2e8e45398",
+      "source_sha256": "9b6969892425e75a1a2387208bddcb7f2a8c0f16078e3e8c14d4a6f2e8e45398",
+      "source_file_name": "cQ-IOUnSOxw.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/fOFHFta8aFw.md",
+      "bytes": 6819,
+      "sha256": "7c2abf3595c190f6fd713366f8fb7eb8322d24c39f555d2852f0feda96cc038f",
+      "source_sha256": "7c2abf3595c190f6fd713366f8fb7eb8322d24c39f555d2852f0feda96cc038f",
+      "source_file_name": "fOFHFta8aFw.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/g7OInuomm2s.md",
+      "bytes": 5495,
+      "sha256": "3f3e15142a46f267ad45689bfc928e0ef82bba68609987a9959bfce7f1388504",
+      "source_sha256": "3f3e15142a46f267ad45689bfc928e0ef82bba68609987a9959bfce7f1388504",
+      "source_file_name": "g7OInuomm2s.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/t08AT17B_ks.md",
+      "bytes": 6281,
+      "sha256": "6707076745950aeb4266491e764032b9f8b191b4fb317529b0ac24bd5c9a7c93",
+      "source_sha256": "6707076745950aeb4266491e764032b9f8b191b4fb317529b0ac24bd5c9a7c93",
+      "source_file_name": "t08AT17B_ks.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/wJjnmZjwTBM.md",
+      "bytes": 6599,
+      "sha256": "66840a522b910d595fbbf61e3f20a5c96763ac8665b29b97f4cba4ab485f467b",
+      "source_sha256": "66840a522b910d595fbbf61e3f20a5c96763ac8665b29b97f4cba4ab485f467b",
+      "source_file_name": "wJjnmZjwTBM.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/wmFPVRe44q4.md",
+      "bytes": 8180,
+      "sha256": "50cac0101f2d81fc7885ae690670072300a4294ce35809ea121b2124491eadf6",
+      "source_sha256": "50cac0101f2d81fc7885ae690670072300a4294ce35809ea121b2124491eadf6",
+      "source_file_name": "wmFPVRe44q4.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/legacy-video-notes/z1aTbc1Bngs.md",
+      "bytes": 7277,
+      "sha256": "52ca7217599321b7c8e4857694ebdf74118c6a0525f05430db3d9b426aa7a020",
+      "source_sha256": "52ca7217599321b7c8e4857694ebdf74118c6a0525f05430db3d9b426aa7a020",
+      "source_file_name": "z1aTbc1Bngs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/7M3FWG31ybE.en.2026-09-09.txt",
+      "bytes": 6613,
+      "sha256": "96eb23b2f8c2623fd445a6e914ffef5ef6b45c4986b5aae4c2113c4307b26717",
+      "source_sha256": "96eb23b2f8c2623fd445a6e914ffef5ef6b45c4986b5aae4c2113c4307b26717",
+      "source_file_name": "7M3FWG31ybE.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/9xs25_whwcg.en.2026-09-09.txt",
+      "bytes": 39927,
+      "sha256": "0090c527ac0957d9152745faa25d32a8318e2c60d5e912300e19a18af805b2a8",
+      "source_sha256": "0090c527ac0957d9152745faa25d32a8318e2c60d5e912300e19a18af805b2a8",
+      "source_file_name": "9xs25_whwcg.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/AWHjwZdCeDg.en.2026-09-09.txt",
+      "bytes": 9213,
+      "sha256": "3994bb0ab135e9bd67ee3cd537ff6a1f930dbe6d80657fd255f72a3308060b0a",
+      "source_sha256": "3994bb0ab135e9bd67ee3cd537ff6a1f930dbe6d80657fd255f72a3308060b0a",
+      "source_file_name": "AWHjwZdCeDg.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/ClfYe9Uly28.en.2026-09-09.txt",
+      "bytes": 2175,
+      "sha256": "747a6b9a7c0ef27eaefefb3753df928af6f42201687f73fa23334d1bd03fe8d7",
+      "source_sha256": "747a6b9a7c0ef27eaefefb3753df928af6f42201687f73fa23334d1bd03fe8d7",
+      "source_file_name": "ClfYe9Uly28.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/EFW6GrwDVEU.en.2026-09-09.txt",
+      "bytes": 2263,
+      "sha256": "7d81a998c09fffb55bdd501d4ac61b48fba736e689ab34b26bf78eaed7214d10",
+      "source_sha256": "7d81a998c09fffb55bdd501d4ac61b48fba736e689ab34b26bf78eaed7214d10",
+      "source_file_name": "EFW6GrwDVEU.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/M8f5o-mg6ic.en.2026-09-09.txt",
+      "bytes": 610,
+      "sha256": "0e92cb8ee2252d1ba99175b718c7e1dceab0a5aa6998eccc5e4c327810ddc727",
+      "source_sha256": "0e92cb8ee2252d1ba99175b718c7e1dceab0a5aa6998eccc5e4c327810ddc727",
+      "source_file_name": "M8f5o-mg6ic.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/OgGWAhpUIjk.en.2026-09-09.txt",
+      "bytes": 5168,
+      "sha256": "3ce586f389087210e424fb3760df2ad64d0cf2074031cd35f7373c9b7c951efe",
+      "source_sha256": "3ce586f389087210e424fb3760df2ad64d0cf2074031cd35f7373c9b7c951efe",
+      "source_file_name": "OgGWAhpUIjk.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/Pa2YV2zcfNQ.en.2026-09-09.txt",
+      "bytes": 4992,
+      "sha256": "9c59933246240e1a15f3d9f772a304e8ab348e9c4d1fce1a9eeddc84bd760f17",
+      "source_sha256": "9c59933246240e1a15f3d9f772a304e8ab348e9c4d1fce1a9eeddc84bd760f17",
+      "source_file_name": "Pa2YV2zcfNQ.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/RTuGiLKA1I8.en.2026-09-09.txt",
+      "bytes": 6786,
+      "sha256": "1082dceabdb8bc89765fba7467f1402dcadfd2989505a71d48e4c1c869fde607",
+      "source_sha256": "1082dceabdb8bc89765fba7467f1402dcadfd2989505a71d48e4c1c869fde607",
+      "source_file_name": "RTuGiLKA1I8.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/St8jiC_0NFY.en.2026-09-09.txt",
+      "bytes": 15015,
+      "sha256": "0a9ea9422f1b7b46df2afa1f6bc6ea7ccfb3b3c372291bd9e75d45ae8db283aa",
+      "source_sha256": "0a9ea9422f1b7b46df2afa1f6bc6ea7ccfb3b3c372291bd9e75d45ae8db283aa",
+      "source_file_name": "St8jiC_0NFY.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/VxmkjF38FeI.en.2026-09-09.provenance.json",
+      "bytes": 707,
+      "sha256": "3c54b4d659d216e325a97219e5fb43019a74fd10929fcda873f62974be34641c",
+      "source_sha256": "3c54b4d659d216e325a97219e5fb43019a74fd10929fcda873f62974be34641c",
+      "source_file_name": "VxmkjF38FeI.en.2026-09-09.provenance.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/VxmkjF38FeI.en.2026-09-09.txt",
+      "bytes": 16719,
+      "sha256": "22a2c0389f0d1b345d302b53ac4eb40867963fc47ee3b36f3acf82201e2750b8",
+      "source_sha256": "22a2c0389f0d1b345d302b53ac4eb40867963fc47ee3b36f3acf82201e2750b8",
+      "source_file_name": "VxmkjF38FeI.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/XpOTci5P7wQ.en.2026-09-09.txt",
+      "bytes": 47562,
+      "sha256": "75667e018fc2ffe8ec96140ed4888c2f880979bf87e16e159c70e6e182d10f0f",
+      "source_sha256": "75667e018fc2ffe8ec96140ed4888c2f880979bf87e16e159c70e6e182d10f0f",
+      "source_file_name": "XpOTci5P7wQ.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/XufoWP9dZQE.en.2026-09-09.txt",
+      "bytes": 2855,
+      "sha256": "aa5847597683826cd938d21ffb349057683cdbcc8c12c84cc9215af1f81cdd06",
+      "source_sha256": "aa5847597683826cd938d21ffb349057683cdbcc8c12c84cc9215af1f81cdd06",
+      "source_file_name": "XufoWP9dZQE.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/_iQ_G3pfuH8.en.2026-09-09.txt",
+      "bytes": 3741,
+      "sha256": "6e7167a709fa2b7d5b569f47948e60f1a0e6c00b6287f8ae2ac75821ee090818",
+      "source_sha256": "6e7167a709fa2b7d5b569f47948e60f1a0e6c00b6287f8ae2ac75821ee090818",
+      "source_file_name": "_iQ_G3pfuH8.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/_naZzjLzVXk.en.2026-09-09.txt",
+      "bytes": 43843,
+      "sha256": "28dbeff982ca5df2049c141cd1d88931078055a4df6c75f32b196c0357248cb7",
+      "source_sha256": "28dbeff982ca5df2049c141cd1d88931078055a4df6c75f32b196c0357248cb7",
+      "source_file_name": "_naZzjLzVXk.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/ad17nEj_TBg.en.2026-09-09.txt",
+      "bytes": 4670,
+      "sha256": "f19987894780d7067cbdfabbc371c860efc3a65d5ef67c27f92a9de09f275cae",
+      "source_sha256": "f19987894780d7067cbdfabbc371c860efc3a65d5ef67c27f92a9de09f275cae",
+      "source_file_name": "ad17nEj_TBg.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/aqn6cy3jB0k.en.2026-09-09.txt",
+      "bytes": 14225,
+      "sha256": "2b0cffb14913d0488e9be733a4e62e02f4e2cf631457f2a60bc150e5a8516f25",
+      "source_sha256": "2b0cffb14913d0488e9be733a4e62e02f4e2cf631457f2a60bc150e5a8516f25",
+      "source_file_name": "aqn6cy3jB0k.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/cQ-IOUnSOxw.en.2026-09-09.txt",
+      "bytes": 12320,
+      "sha256": "13407ca674e29abcdc3de48058482540fe2c6405ff5e16396e5d9c7bdf38a278",
+      "source_sha256": "13407ca674e29abcdc3de48058482540fe2c6405ff5e16396e5d9c7bdf38a278",
+      "source_file_name": "cQ-IOUnSOxw.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/fOFHFta8aFw.en.2026-09-09.txt",
+      "bytes": 11286,
+      "sha256": "d6bafaf21b3b47bea5649373a36b24e425f3cddec3f835ad55a7e088e43470bc",
+      "source_sha256": "d6bafaf21b3b47bea5649373a36b24e425f3cddec3f835ad55a7e088e43470bc",
+      "source_file_name": "fOFHFta8aFw.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/hV-lb65-53Q.en.2026-09-09.txt",
+      "bytes": 3453,
+      "sha256": "3fe2b644fac669fc9b78ebac75c6637092f88266e0470b9d4e02079ba197137e",
+      "source_sha256": "3fe2b644fac669fc9b78ebac75c6637092f88266e0470b9d4e02079ba197137e",
+      "source_file_name": "hV-lb65-53Q.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/j4bCDLQo-68.en.2026-09-09.txt",
+      "bytes": 8574,
+      "sha256": "ae2f0888c83cb0af68d25dbdb54c6a846676ad4b01cefebf86ffb64249d0e26d",
+      "source_sha256": "ae2f0888c83cb0af68d25dbdb54c6a846676ad4b01cefebf86ffb64249d0e26d",
+      "source_file_name": "j4bCDLQo-68.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/manifest.2026-09-09.json",
+      "bytes": 8571,
+      "sha256": "46f9d1095fcaf66765c0d690d8424ff360d614fcba9545a68b8e90c6ae0a4b70",
+      "source_sha256": "46f9d1095fcaf66765c0d690d8424ff360d614fcba9545a68b8e90c6ae0a4b70",
+      "source_file_name": "manifest.2026-09-09.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/t08AT17B_ks.en.2026-09-09.txt",
+      "bytes": 13357,
+      "sha256": "a60339a6cefec47e56b6856bcb277dd3b484bfa2e846d59e9f0c6d820cfc1200",
+      "source_sha256": "a60339a6cefec47e56b6856bcb277dd3b484bfa2e846d59e9f0c6d820cfc1200",
+      "source_file_name": "t08AT17B_ks.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/wJjnmZjwTBM.en.2026-09-09.txt",
+      "bytes": 3399,
+      "sha256": "5dfef690e6e50832e704fe94b8882f8f981efda182280f6542dde621d04225d7",
+      "source_sha256": "5dfef690e6e50832e704fe94b8882f8f981efda182280f6542dde621d04225d7",
+      "source_file_name": "wJjnmZjwTBM.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/wmFPVRe44q4.en.2026-09-09.txt",
+      "bytes": 21153,
+      "sha256": "884e73352ed60d985796c6cf69a1fe22962611562b900ca2e8d8db42a9a102d1",
+      "source_sha256": "884e73352ed60d985796c6cf69a1fe22962611562b900ca2e8d8db42a9a102d1",
+      "source_file_name": "wmFPVRe44q4.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/transcripts/z1aTbc1Bngs.en.2026-09-09.txt",
+      "bytes": 15244,
+      "sha256": "b949fb3fe44af5cc9e0f3adeb03a506b33eeaa6a356c9e3a85e50bb383cc2ab8",
+      "source_sha256": "b949fb3fe44af5cc9e0f3adeb03a506b33eeaa6a356c9e3a85e50bb383cc2ab8",
+      "source_file_name": "z1aTbc1Bngs.en.2026-09-09.txt"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/5OZztKXK46M.md",
+      "bytes": 4458,
+      "sha256": "5db642873a17b52ebb0bf263dbcc9874af06f97934a3c323271fada1115ae558",
+      "source_sha256": "5db642873a17b52ebb0bf263dbcc9874af06f97934a3c323271fada1115ae558",
+      "source_file_name": "5OZztKXK46M.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/7M3FWG31ybE.md",
+      "bytes": 3418,
+      "sha256": "2b4fb3691345099d5cabea237a5ff11584e1ad347d6ba0d89a7da73bbfcd215c",
+      "source_sha256": "2b4fb3691345099d5cabea237a5ff11584e1ad347d6ba0d89a7da73bbfcd215c",
+      "source_file_name": "7M3FWG31ybE.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/9xs25_whwcg.md",
+      "bytes": 3930,
+      "sha256": "59dd0fd12ccdfffef0775d7a91ab7aadcefe9c1878e61964b3539bb01a915c46",
+      "source_sha256": "59dd0fd12ccdfffef0775d7a91ab7aadcefe9c1878e61964b3539bb01a915c46",
+      "source_file_name": "9xs25_whwcg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/AWHjwZdCeDg.md",
+      "bytes": 3527,
+      "sha256": "3300d3dffd63d1d459c2cf3b13da72894f4665d91a61fc8eab6eab9d83646851",
+      "source_sha256": "3300d3dffd63d1d459c2cf3b13da72894f4665d91a61fc8eab6eab9d83646851",
+      "source_file_name": "AWHjwZdCeDg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/ClfYe9Uly28.md",
+      "bytes": 3172,
+      "sha256": "4c2af90f15cabc72f4a83e2f41670ab2281f0026099fe3d75a7da2cc6ff0b946",
+      "source_sha256": "4c2af90f15cabc72f4a83e2f41670ab2281f0026099fe3d75a7da2cc6ff0b946",
+      "source_file_name": "ClfYe9Uly28.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/EFW6GrwDVEU.md",
+      "bytes": 3036,
+      "sha256": "f69bb4bf6271e6706cd0cdf0f41ee111cd500f598a865d958c039930b9c30be0",
+      "source_sha256": "f69bb4bf6271e6706cd0cdf0f41ee111cd500f598a865d958c039930b9c30be0",
+      "source_file_name": "EFW6GrwDVEU.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/M8f5o-mg6ic.md",
+      "bytes": 4806,
+      "sha256": "8f6b5935f04567540c8eca220fe01d4ef574273298cd2d96f690bedf1372b060",
+      "source_sha256": "8f6b5935f04567540c8eca220fe01d4ef574273298cd2d96f690bedf1372b060",
+      "source_file_name": "M8f5o-mg6ic.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/OgGWAhpUIjk.md",
+      "bytes": 3584,
+      "sha256": "15c1e1cd69841b88ef3565b21aef0a6bb10c7f5871588aa5556471b97f87e435",
+      "source_sha256": "15c1e1cd69841b88ef3565b21aef0a6bb10c7f5871588aa5556471b97f87e435",
+      "source_file_name": "OgGWAhpUIjk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/Pa2YV2zcfNQ.md",
+      "bytes": 3394,
+      "sha256": "6243802e5a56f1d2b1f6c3e5e3269b72d2d2dc40a943b45274c2ecaf8852182a",
+      "source_sha256": "6243802e5a56f1d2b1f6c3e5e3269b72d2d2dc40a943b45274c2ecaf8852182a",
+      "source_file_name": "Pa2YV2zcfNQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/RTuGiLKA1I8.md",
+      "bytes": 3553,
+      "sha256": "55d0a48845ea862a7a76472020eab4f076ae5a9bc90b466e77ba6d2558993085",
+      "source_sha256": "55d0a48845ea862a7a76472020eab4f076ae5a9bc90b466e77ba6d2558993085",
+      "source_file_name": "RTuGiLKA1I8.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/St8jiC_0NFY.md",
+      "bytes": 3665,
+      "sha256": "4ebb76a2c643c0bf82ab0ee758a63f8245e637cb1ebe652f11bb85c1ca62ce23",
+      "source_sha256": "4ebb76a2c643c0bf82ab0ee758a63f8245e637cb1ebe652f11bb85c1ca62ce23",
+      "source_file_name": "St8jiC_0NFY.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/VxmkjF38FeI.md",
+      "bytes": 3750,
+      "sha256": "590dc83a2c023554a4f57af877463ff7e8084dccf65aadfc6f059befcde0b905",
+      "source_sha256": "590dc83a2c023554a4f57af877463ff7e8084dccf65aadfc6f059befcde0b905",
+      "source_file_name": "VxmkjF38FeI.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/XpOTci5P7wQ.md",
+      "bytes": 3893,
+      "sha256": "4df5a52fa28d243cabf5cb6403dec8e8b35bb344fa645498ae199a97aaeb1fe2",
+      "source_sha256": "4df5a52fa28d243cabf5cb6403dec8e8b35bb344fa645498ae199a97aaeb1fe2",
+      "source_file_name": "XpOTci5P7wQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/_naZzjLzVXk.md",
+      "bytes": 4392,
+      "sha256": "f448cb8f997190c79f5cabaaa2f8f83416031f80ec8e4d79813108b8585c7b46",
+      "source_sha256": "f448cb8f997190c79f5cabaaa2f8f83416031f80ec8e4d79813108b8585c7b46",
+      "source_file_name": "_naZzjLzVXk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/ad17nEj_TBg.md",
+      "bytes": 3227,
+      "sha256": "32138f76b1dfc95a4fce1ca3900bccd307cc09aaac5523b211704aab87d5bb47",
+      "source_sha256": "32138f76b1dfc95a4fce1ca3900bccd307cc09aaac5523b211704aab87d5bb47",
+      "source_file_name": "ad17nEj_TBg.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/aqn6cy3jB0k.md",
+      "bytes": 3721,
+      "sha256": "0d6fa9da40c840637df31959be2c522c7664e05dc5399e90812941095c6f3165",
+      "source_sha256": "0d6fa9da40c840637df31959be2c522c7664e05dc5399e90812941095c6f3165",
+      "source_file_name": "aqn6cy3jB0k.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/cQ-IOUnSOxw.md",
+      "bytes": 3418,
+      "sha256": "15611ad5d7477fc1f59d93ce778b7352d0ffc1c5664497011c1873111ccdd3e5",
+      "source_sha256": "15611ad5d7477fc1f59d93ce778b7352d0ffc1c5664497011c1873111ccdd3e5",
+      "source_file_name": "cQ-IOUnSOxw.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/fOFHFta8aFw.md",
+      "bytes": 3678,
+      "sha256": "472347439ddd8fbdc15d9d4f9780ce386ecbbc9b40bc013f89b90ff941986c3f",
+      "source_sha256": "472347439ddd8fbdc15d9d4f9780ce386ecbbc9b40bc013f89b90ff941986c3f",
+      "source_file_name": "fOFHFta8aFw.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/g7OInuomm2s.md",
+      "bytes": 4181,
+      "sha256": "abcea5d3ee0ec84a362dfeee4337389c7584657546dd77ed54ac8f6fd9b9006e",
+      "source_sha256": "abcea5d3ee0ec84a362dfeee4337389c7584657546dd77ed54ac8f6fd9b9006e",
+      "source_file_name": "g7OInuomm2s.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/t08AT17B_ks.md",
+      "bytes": 3793,
+      "sha256": "b9b734bce163bccc082c5cb2056804f853c789840e1956afeb3347291c51c5f8",
+      "source_sha256": "b9b734bce163bccc082c5cb2056804f853c789840e1956afeb3347291c51c5f8",
+      "source_file_name": "t08AT17B_ks.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/wJjnmZjwTBM.md",
+      "bytes": 3712,
+      "sha256": "468721b32254ef358f9a0c698f1605ae338e1fa40dd1b9d13fc6fd5118e9569d",
+      "source_sha256": "468721b32254ef358f9a0c698f1605ae338e1fa40dd1b9d13fc6fd5118e9569d",
+      "source_file_name": "wJjnmZjwTBM.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/wmFPVRe44q4.md",
+      "bytes": 3778,
+      "sha256": "12d41dafd0aaeafc2fae01e83bff35d9dea5da10621979a116e5c118f36a1c55",
+      "source_sha256": "12d41dafd0aaeafc2fae01e83bff35d9dea5da10621979a116e5c118f36a1c55",
+      "source_file_name": "wmFPVRe44q4.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video/z1aTbc1Bngs.md",
+      "bytes": 3804,
+      "sha256": "55743200ee0eae3c4fae91390ce7a9bdb623f17d566443ca280ad36d3432a4f6",
+      "source_sha256": "55743200ee0eae3c4fae91390ce7a9bdb623f17d566443ca280ad36d3432a4f6",
+      "source_file_name": "z1aTbc1Bngs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/7ic3Y9Jh3VE.md",
+      "bytes": 7350,
+      "sha256": "6d631b67dc567e63bbcbed7b861d78379492e196f690e4d1b94ec2677c80200a",
+      "source_sha256": "6d631b67dc567e63bbcbed7b861d78379492e196f690e4d1b94ec2677c80200a",
+      "source_file_name": "7ic3Y9Jh3VE.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/AVPavzLbTVk.md",
+      "bytes": 5592,
+      "sha256": "58e6ea62f60badadcab634c47c743f0bc946bb49dd7daca5d7feb0c46f210bf6",
+      "source_sha256": "58e6ea62f60badadcab634c47c743f0bc946bb49dd7daca5d7feb0c46f210bf6",
+      "source_file_name": "AVPavzLbTVk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/D5XHHW_ut0I.md",
+      "bytes": 7212,
+      "sha256": "a7223bdcdce0038442b2b847054b638b275b4386b681969395f8f4d923fb3cd7",
+      "source_sha256": "a7223bdcdce0038442b2b847054b638b275b4386b681969395f8f4d923fb3cd7",
+      "source_file_name": "D5XHHW_ut0I.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/Hi29C5sOJsQ.md",
+      "bytes": 6985,
+      "sha256": "38a03274fbb7b3d80cdec65901784a9dcaaffc2882839fb54a86b12bff016035",
+      "source_sha256": "38a03274fbb7b3d80cdec65901784a9dcaaffc2882839fb54a86b12bff016035",
+      "source_file_name": "Hi29C5sOJsQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/K1F-vXRFgyM.md",
+      "bytes": 6503,
+      "sha256": "e8aa5ac03bff3873afb220bf9bfb8cceea86ee4f7df54a20442e7d78df664e0a",
+      "source_sha256": "e8aa5ac03bff3873afb220bf9bfb8cceea86ee4f7df54a20442e7d78df664e0a",
+      "source_file_name": "K1F-vXRFgyM.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/Szs3-z91iKQ.md",
+      "bytes": 5889,
+      "sha256": "a8e9ec6512522889eeb48a141d150ebef0e3caa5059c515ca370191356c67de9",
+      "source_sha256": "a8e9ec6512522889eeb48a141d150ebef0e3caa5059c515ca370191356c67de9",
+      "source_file_name": "Szs3-z91iKQ.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/mfj16bcXlNk.md",
+      "bytes": 6410,
+      "sha256": "09cb9cf44ef4f2e80bb42e13b31f080636f1f0f8df78bb262098edda49274c47",
+      "source_sha256": "09cb9cf44ef4f2e80bb42e13b31f080636f1f0f8df78bb262098edda49274c47",
+      "source_file_name": "mfj16bcXlNk.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/n-crGQ3NWNs.md",
+      "bytes": 7909,
+      "sha256": "ab6c496dab95eda18d16eb38053fd16f2717c208f34b4c2295e84f127d888092",
+      "source_sha256": "ab6c496dab95eda18d16eb38053fd16f2717c208f34b4c2295e84f127d888092",
+      "source_file_name": "n-crGQ3NWNs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/nW7sOO82fk8.md",
+      "bytes": 6619,
+      "sha256": "96d978bdf3bc1ff94a27cbdfe5eb9f7d1d5446cff7d4efde33177a1964fc0594",
+      "source_sha256": "96d978bdf3bc1ff94a27cbdfe5eb9f7d1d5446cff7d4efde33177a1964fc0594",
+      "source_file_name": "nW7sOO82fk8.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/qyIXOinBHfM.md",
+      "bytes": 5972,
+      "sha256": "9d8cf80139c61cf15b4f3af14564f85850244ded940200227eabc96e07c84e47",
+      "source_sha256": "9d8cf80139c61cf15b4f3af14564f85850244ded940200227eabc96e07c84e47",
+      "source_file_name": "qyIXOinBHfM.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/xI1Uxxke7CY.md",
+      "bytes": 6711,
+      "sha256": "9e423e434bc5775c044a65d508fe0165c5451443f81566d818668df901908b30",
+      "source_sha256": "9e423e434bc5775c044a65d508fe0165c5451443f81566d818668df901908b30",
+      "source_file_name": "xI1Uxxke7CY.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/sources/video-wc/xsXAK3DtbDc.md",
+      "bytes": 7575,
+      "sha256": "b61e706ba7977e2969f3e3a35a5f9ceb5f7f78751953b506d537b9d19a73ffe0",
+      "source_sha256": "b61e706ba7977e2969f3e3a35a5f9ceb5f7f78751953b506d537b9d19a73ffe0",
+      "source_file_name": "xsXAK3DtbDc.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/bjj.json",
+      "bytes": 12149,
+      "sha256": "c3967b49c41330d682993418af5f5f3888d42747ff587d0a56b7a88d1d3d1e09",
+      "source_sha256": "c3967b49c41330d682993418af5f5f3888d42747ff587d0a56b7a88d1d3d1e09",
+      "source_file_name": "bjj.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/bjj.md",
+      "bytes": 6573,
+      "sha256": "c037127761cdf3fca745364c6a808fe2dea757645bdd1b83d70ff57bb8117a9e",
+      "source_sha256": "c037127761cdf3fca745364c6a808fe2dea757645bdd1b83d70ff57bb8117a9e",
+      "source_file_name": "bjj.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/blade_screen.json",
+      "bytes": 9168,
+      "sha256": "5caccc8436c8070aada0d84de62f0ed72f098d3770aef03fece54ec3649a9073",
+      "source_sha256": "5caccc8436c8070aada0d84de62f0ed72f098d3770aef03fece54ec3649a9073",
+      "source_file_name": "blade_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/blade_screen.md",
+      "bytes": 5464,
+      "sha256": "e1c63176c6bceab0c02f2d7179236977a825d64ff418eca10513b7508a5549fd",
+      "source_sha256": "e1c63176c6bceab0c02f2d7179236977a825d64ff418eca10513b7508a5549fd",
+      "source_file_name": "blade_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/boxing.json",
+      "bytes": 24226,
+      "sha256": "7f54959d8d7614e9728f52b5096056c273af238482c36355eef4aa0fdb800e8e",
+      "source_sha256": "7f54959d8d7614e9728f52b5096056c273af238482c36355eef4aa0fdb800e8e",
+      "source_file_name": "boxing.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/boxing.md",
+      "bytes": 12381,
+      "sha256": "594198c66e8d0300344402c30032632fa99cb19babbc3e60f42a8d2f950f0b30",
+      "source_sha256": "594198c66e8d0300344402c30032632fa99cb19babbc3e60f42a8d2f950f0b30",
+      "source_file_name": "boxing.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/capoeira.json",
+      "bytes": 22455,
+      "sha256": "53dc67bc30ad19a45d76e91ff2ffc1a603dc58ef0db26216e4684c7005456b23",
+      "source_sha256": "53dc67bc30ad19a45d76e91ff2ffc1a603dc58ef0db26216e4684c7005456b23",
+      "source_file_name": "capoeira.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/capoeira.md",
+      "bytes": 11163,
+      "sha256": "f537cb777069ef51af8cee81bb447e3cb3e8836335451f8ad83d6a6fa223fdab",
+      "source_sha256": "f537cb777069ef51af8cee81bb447e3cb3e8836335451f8ad83d6a6fa223fdab",
+      "source_file_name": "capoeira.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/dao.json",
+      "bytes": 8854,
+      "sha256": "79394d0bfed2dd20a40f5171f4bac9b82cd31b37e0f0409f6796e4fb178db198",
+      "source_sha256": "79394d0bfed2dd20a40f5171f4bac9b82cd31b37e0f0409f6796e4fb178db198",
+      "source_file_name": "dao.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/dao.md",
+      "bytes": 5071,
+      "sha256": "6df977f01b5ff1f96d40480e1b6526f50d696c45efeb2596150ed9296046016a",
+      "source_sha256": "6df977f01b5ff1f96d40480e1b6526f50d696c45efeb2596150ed9296046016a",
+      "source_file_name": "dao.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/drunken.json",
+      "bytes": 7815,
+      "sha256": "b2af5efab99fe549e54aab83507fe50c38df9b2a69c9432877584b18b729cebf",
+      "source_sha256": "b2af5efab99fe549e54aab83507fe50c38df9b2a69c9432877584b18b729cebf",
+      "source_file_name": "drunken.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/drunken.md",
+      "bytes": 4698,
+      "sha256": "d7e6cc8ed0b82162714f3dbd6687362112eb22db3896bf547b7a38b420de678a",
+      "source_sha256": "d7e6cc8ed0b82162714f3dbd6687362112eb22db3896bf547b7a38b420de678a",
+      "source_file_name": "drunken.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fencing.json",
+      "bytes": 14591,
+      "sha256": "22da20f9060432f0426da775e281cbdd5266f6fa13b749a486ddda9349b4b9a4",
+      "source_sha256": "22da20f9060432f0426da775e281cbdd5266f6fa13b749a486ddda9349b4b9a4",
+      "source_file_name": "fencing.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fencing.md",
+      "bytes": 7234,
+      "sha256": "94cbf323e2e9c7812da67ec8cfbaa0d6305ef6c259616b4af4755691425906d6",
+      "source_sha256": "94cbf323e2e9c7812da67ec8cfbaa0d6305ef6c259616b4af4755691425906d6",
+      "source_file_name": "fencing.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/flexible_screen.json",
+      "bytes": 12539,
+      "sha256": "9d357256aa7c2fb063e762fd3c108805d3b633287ebd4738a9ca36c2ee94b972",
+      "source_sha256": "9d357256aa7c2fb063e762fd3c108805d3b633287ebd4738a9ca36c2ee94b972",
+      "source_file_name": "flexible_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/flexible_screen.md",
+      "bytes": 6866,
+      "sha256": "59fd6c6f8dbbe484bab16c589711b7028c4b3108c2c68cf87c8790918cd4001f",
+      "source_sha256": "59fd6c6f8dbbe484bab16c589711b7028c4b3108c2c68cf87c8790918cd4001f",
+      "source_file_name": "flexible_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fma_fcs.json",
+      "bytes": 15880,
+      "sha256": "45cb910e255cd1d8c95ec65e6a21d795201c75ec8337a1508831d731ed399817",
+      "source_sha256": "45cb910e255cd1d8c95ec65e6a21d795201c75ec8337a1508831d731ed399817",
+      "source_file_name": "fma_fcs.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fma_fcs.md",
+      "bytes": 7786,
+      "sha256": "9a484d0c8a8c543a4219575a9a2ad7c8ba7fe17e9d6eea1b54323f59880bb61d",
+      "source_sha256": "9a484d0c8a8c543a4219575a9a2ad7c8ba7fe17e9d6eea1b54323f59880bb61d",
+      "source_file_name": "fma_fcs.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fma_guerrero.json",
+      "bytes": 6756,
+      "sha256": "a5a2aa04f505ae26772255134c31463b94d527ea0045ddf2d483b3bebb403658",
+      "source_sha256": "a5a2aa04f505ae26772255134c31463b94d527ea0045ddf2d483b3bebb403658",
+      "source_file_name": "fma_guerrero.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/fma_guerrero.md",
+      "bytes": 4281,
+      "sha256": "b7ba706b03e6e901352318de3bff72c68f22261f999a0341ede348223cb49e32",
+      "source_sha256": "b7ba706b03e6e901352318de3bff72c68f22261f999a0341ede348223cb49e32",
+      "source_file_name": "fma_guerrero.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gun.json",
+      "bytes": 11783,
+      "sha256": "70aa151a5b85a28d97e3f5f2317f513bc36c6384ad9e8e41091a8ee0d144773a",
+      "source_sha256": "70aa151a5b85a28d97e3f5f2317f513bc36c6384ad9e8e41091a8ee0d144773a",
+      "source_file_name": "gun.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gun.md",
+      "bytes": 6742,
+      "sha256": "eb684588280b61ed57a798141ba738a55b1acfbf4fc1faa63ac3964a7268edd6",
+      "source_sha256": "eb684588280b61ed57a798141ba738a55b1acfbf4fc1faa63ac3964a7268edd6",
+      "source_file_name": "gun.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gunfu.json",
+      "bytes": 7939,
+      "sha256": "2ee79ce09cfb48e4800b363f6e39bd6867d60bf4e0d6ee156f112a2321c5b987",
+      "source_sha256": "2ee79ce09cfb48e4800b363f6e39bd6867d60bf4e0d6ee156f112a2321c5b987",
+      "source_file_name": "gunfu.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gunfu.md",
+      "bytes": 4585,
+      "sha256": "ffb348ccd7f7a843a757830df353c6f4b6f1be018e6b1e5be52fb1ae9d1ea188",
+      "source_sha256": "ffb348ccd7f7a843a757830df353c6f4b6f1be018e6b1e5be52fb1ae9d1ea188",
+      "source_file_name": "gunfu.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gunfu_prop.json",
+      "bytes": 3333,
+      "sha256": "d6317fd3e4892ac65a080447b1ea8038a59be54de17345ebbc8f2cdf2089ea50",
+      "source_sha256": "d6317fd3e4892ac65a080447b1ea8038a59be54de17345ebbc8f2cdf2089ea50",
+      "source_file_name": "gunfu_prop.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/gunfu_prop.md",
+      "bytes": 2469,
+      "sha256": "ca7bed5606a5cd0f0e86b06f07aeb137f571009c9331d973ac6765774cb1e611",
+      "source_sha256": "ca7bed5606a5cd0f0e86b06f07aeb137f571009c9331d973ac6765774cb1e611",
+      "source_file_name": "gunfu_prop.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/hema_fiore.json",
+      "bytes": 6985,
+      "sha256": "4c2cde006e0a37c2a3729c1b2481d73ad3f40c1c9f2db499ce4995777c4495c9",
+      "source_sha256": "4c2cde006e0a37c2a3729c1b2481d73ad3f40c1c9f2db499ce4995777c4495c9",
+      "source_file_name": "hema_fiore.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/hema_fiore.md",
+      "bytes": 3736,
+      "sha256": "a93365298d1cc7f6b318a512e51dd5a7a7c38ba07873f3e5f9b3442878001ac7",
+      "source_sha256": "a93365298d1cc7f6b318a512e51dd5a7a7c38ba07873f3e5f9b3442878001ac7",
+      "source_file_name": "hema_fiore.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/hema_liechtenauer.json",
+      "bytes": 7453,
+      "sha256": "d30a96c48e6643d9990890b01eb2830e10af0381c0104eb94c15936ff519ad6e",
+      "source_sha256": "d30a96c48e6643d9990890b01eb2830e10af0381c0104eb94c15936ff519ad6e",
+      "source_file_name": "hema_liechtenauer.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/hema_liechtenauer.md",
+      "bytes": 3848,
+      "sha256": "9ae87e4a39eae4167122a664d61b830a350ef13f4036e33f36ed5ceff4defd6e",
+      "source_sha256": "9ae87e4a39eae4167122a664d61b830a350ef13f4036e33f36ed5ceff4defd6e",
+      "source_file_name": "hema_liechtenauer.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/iaido.json",
+      "bytes": 11063,
+      "sha256": "aaf00be42ca29169791277c5c20fed5dc27d3464bf64fb7025c5a484cb2c585c",
+      "source_sha256": "aaf00be42ca29169791277c5c20fed5dc27d3464bf64fb7025c5a484cb2c585c",
+      "source_file_name": "iaido.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/iaido.md",
+      "bytes": 4405,
+      "sha256": "0e67de7ce2e42fe802ba076c69d8f652992a2074c59698934717d5563f1a1643",
+      "source_sha256": "0e67de7ce2e42fe802ba076c69d8f652992a2074c59698934717d5563f1a1643",
+      "source_file_name": "iaido.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/impact_weapon_screen.json",
+      "bytes": 7954,
+      "sha256": "4784b3391dbfbd1378834a4041513e40ff6d4942736a322843ca9e0765285b09",
+      "source_sha256": "4784b3391dbfbd1378834a4041513e40ff6d4942736a322843ca9e0765285b09",
+      "source_file_name": "impact_weapon_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/impact_weapon_screen.md",
+      "bytes": 4760,
+      "sha256": "e08842aa43598d48e90955d89ce6d5a3296027a3ff0dde18be899d795365954b",
+      "source_sha256": "e08842aa43598d48e90955d89ce6d5a3296027a3ff0dde18be899d795365954b",
+      "source_file_name": "impact_weapon_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jackie.json",
+      "bytes": 10445,
+      "sha256": "8ac963cc8a5d758beaefba9677e99d9b18cd88247c3925b456808395aaa7c564",
+      "source_sha256": "8ac963cc8a5d758beaefba9677e99d9b18cd88247c3925b456808395aaa7c564",
+      "source_file_name": "jackie.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jackie.md",
+      "bytes": 6165,
+      "sha256": "7db9c774837921ac6e4208716d16aac20b6700b05103dd2b7bdc730f8ac908e3",
+      "source_sha256": "7db9c774837921ac6e4208716d16aac20b6700b05103dd2b7bdc730f8ac908e3",
+      "source_file_name": "jackie.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jian.json",
+      "bytes": 7277,
+      "sha256": "ae0479a78c4f35507159ab2a456033a8bb9d594ec39b8d672f4e30fa785903f1",
+      "source_sha256": "ae0479a78c4f35507159ab2a456033a8bb9d594ec39b8d672f4e30fa785903f1",
+      "source_file_name": "jian.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jian.md",
+      "bytes": 4499,
+      "sha256": "c6bd4e66cbdd1217633e279b6001de87b1f36a7757acf83da1b02ebf1d0aaa3c",
+      "source_sha256": "c6bd4e66cbdd1217633e279b6001de87b1f36a7757acf83da1b02ebf1d0aaa3c",
+      "source_file_name": "jian.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jkd.json",
+      "bytes": 33839,
+      "sha256": "de8c080145e45384ae2adfd7a8f34447a20dedc8a0c27073b34fe1bec13eab95",
+      "source_sha256": "e1020881404fe78072c9e2bc564b436ce79a2b176fbdbdb550e8f126ea262789",
+      "source_file_name": "jkd.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jkd.md",
+      "bytes": 16833,
+      "sha256": "721dd114edd850276f4b077f654a300fad80b2773ba7a1d6a2406c913e24a0df",
+      "source_sha256": "2d48499e16e1924cc3315a781002a602578fa66865d1ea50e2b3782a5f6aa036",
+      "source_file_name": "jkd.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jodo.json",
+      "bytes": 11236,
+      "sha256": "905a24739b7b26b74da5f436aeca49eebc0dbe2981f09a2a064ed2db4ce0f3db",
+      "source_sha256": "905a24739b7b26b74da5f436aeca49eebc0dbe2981f09a2a064ed2db4ce0f3db",
+      "source_file_name": "jodo.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jodo.md",
+      "bytes": 6457,
+      "sha256": "a487d2fb2ff4b0a636c144eaad55bd64dc3c840d4ccf9a8d74f43bff275be421",
+      "source_sha256": "a487d2fb2ff4b0a636c144eaad55bd64dc3c840d4ccf9a8d74f43bff275be421",
+      "source_file_name": "jodo.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jujutsu.json",
+      "bytes": 27722,
+      "sha256": "87e99f4061bc38f7c66ac2b0ee78542d5f0137a3f76071ca12c5aa342eeac590",
+      "source_sha256": "87e99f4061bc38f7c66ac2b0ee78542d5f0137a3f76071ca12c5aa342eeac590",
+      "source_file_name": "jujutsu.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/jujutsu.md",
+      "bytes": 13750,
+      "sha256": "5c9808f9e79b6957c75301535ab0bbad63e9487d573c45dfdf97df17040f4f30",
+      "source_sha256": "5c9808f9e79b6957c75301535ab0bbad63e9487d573c45dfdf97df17040f4f30",
+      "source_file_name": "jujutsu.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/karate_okinawan.json",
+      "bytes": 10786,
+      "sha256": "e42a1e94ce5e7958fb1354d01eb0caa8310bc47a738f49e1f057ef0f6c9bf6cf",
+      "source_sha256": "e42a1e94ce5e7958fb1354d01eb0caa8310bc47a738f49e1f057ef0f6c9bf6cf",
+      "source_file_name": "karate_okinawan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/karate_okinawan.md",
+      "bytes": 5946,
+      "sha256": "3a4cc2ad853f72307d0b713ba7d6f2eec1d6df24a61f615543ebdfdac9912cde",
+      "source_sha256": "3a4cc2ad853f72307d0b713ba7d6f2eec1d6df24a61f615543ebdfdac9912cde",
+      "source_file_name": "karate_okinawan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/karate_shotokan.json",
+      "bytes": 30805,
+      "sha256": "6f7c99f418a385e88e8a774f91fa5ae2b9989176ff461ac73b254ac8ab98bd0a",
+      "source_sha256": "6f7c99f418a385e88e8a774f91fa5ae2b9989176ff461ac73b254ac8ab98bd0a",
+      "source_file_name": "karate_shotokan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/karate_shotokan.md",
+      "bytes": 13862,
+      "sha256": "7908d0553c08def480c7c097a0c0889d9ec5f7b57e0bdea4906ab70d7b099443",
+      "source_sha256": "7908d0553c08def480c7c097a0c0889d9ec5f7b57e0bdea4906ab70d7b099443",
+      "source_file_name": "karate_shotokan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/katana_screen.json",
+      "bytes": 4159,
+      "sha256": "e82ccc809f1dc21fc605bc28397622aca36b004e7deade0195baf0c42351f2b7",
+      "source_sha256": "e82ccc809f1dc21fc605bc28397622aca36b004e7deade0195baf0c42351f2b7",
+      "source_file_name": "katana_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/katana_screen.md",
+      "bytes": 2188,
+      "sha256": "54fe2e9d285de8a714da67e1ef2d6b09a7e50847397d460342d5904dda69f5ed",
+      "source_sha256": "54fe2e9d285de8a714da67e1ef2d6b09a7e50847397d460342d5904dda69f5ed",
+      "source_file_name": "katana_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/kendo.json",
+      "bytes": 11368,
+      "sha256": "9537e7f03a393039df21ae415d0b1e01dff316afeb966df19ac3ea746fc3d270",
+      "source_sha256": "9537e7f03a393039df21ae415d0b1e01dff316afeb966df19ac3ea746fc3d270",
+      "source_file_name": "kendo.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/kendo.md",
+      "bytes": 5064,
+      "sha256": "847ba3139fac444710cd98b55aeefb989f98c0aa0da2130b55fe9f130f30f251",
+      "source_sha256": "847ba3139fac444710cd98b55aeefb989f98c0aa0da2130b55fe9f130f30f251",
+      "source_file_name": "kendo.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/knife_screen.json",
+      "bytes": 7807,
+      "sha256": "a0dcfa1dc625171c35963c9d85a26971cfa899b303b292b3f60a2cefe7b48eaf",
+      "source_sha256": "a0dcfa1dc625171c35963c9d85a26971cfa899b303b292b3f60a2cefe7b48eaf",
+      "source_file_name": "knife_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/knife_screen.md",
+      "bytes": 4751,
+      "sha256": "ff390e22fbb44c88c59da99c7eaa2332734f3bf4ad43b20c92cc891d7552322d",
+      "source_sha256": "ff390e22fbb44c88c59da99c7eaa2332734f3bf4ad43b20c92cc891d7552322d",
+      "source_file_name": "knife_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/mma.json",
+      "bytes": 29265,
+      "sha256": "c14331ac3d565860acd6adbb94408a5839bba537a7f94837a8a70f76ecbb4a14",
+      "source_sha256": "c14331ac3d565860acd6adbb94408a5839bba537a7f94837a8a70f76ecbb4a14",
+      "source_file_name": "mma.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/mma.md",
+      "bytes": 14881,
+      "sha256": "9696a3529f22dac6ec3d8100020b3f1ea853dd5ad84aad451069e5f66f266a46",
+      "source_sha256": "9696a3529f22dac6ec3d8100020b3f1ea853dd5ad84aad451069e5f66f266a46",
+      "source_file_name": "mma.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/muay_boran.json",
+      "bytes": 14162,
+      "sha256": "b4202d39f963c17f16502e93014c809447877ea1698d8f80161d6b7d70de50d1",
+      "source_sha256": "b4202d39f963c17f16502e93014c809447877ea1698d8f80161d6b7d70de50d1",
+      "source_file_name": "muay_boran.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/muay_boran.md",
+      "bytes": 7021,
+      "sha256": "b56ca039808bbfac377ef7a67dccf20ce0214969c54f59a3f604e15bd537a32c",
+      "source_sha256": "b56ca039808bbfac377ef7a67dccf20ce0214969c54f59a3f604e15bd537a32c",
+      "source_file_name": "muay_boran.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/muay_thai.json",
+      "bytes": 36174,
+      "sha256": "fb8502a678ba72129474fd5c61ef53eb79f329555417593f0e9e9d84f5c345eb",
+      "source_sha256": "fb8502a678ba72129474fd5c61ef53eb79f329555417593f0e9e9d84f5c345eb",
+      "source_file_name": "muay_thai.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/muay_thai.md",
+      "bytes": 16152,
+      "sha256": "0517e911c004a7aee341f6ce9e67f0e8678555fcae423411170a0b8f0b2fb5e2",
+      "source_sha256": "0517e911c004a7aee341f6ce9e67f0e8678555fcae423411170a0b8f0b2fb5e2",
+      "source_file_name": "muay_thai.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/nhb.json",
+      "bytes": 4448,
+      "sha256": "95d101012b37424ab8b62f048f6dd6ef2a19227e5b313030cbc78320f9e7ac0f",
+      "source_sha256": "95d101012b37424ab8b62f048f6dd6ef2a19227e5b313030cbc78320f9e7ac0f",
+      "source_file_name": "nhb.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/nhb.md",
+      "bytes": 3153,
+      "sha256": "d57b4f8413fe10005ebf15c083b635c005cb9f868f2f174c63c6a3758849340d",
+      "source_sha256": "d57b4f8413fe10005ebf15c083b635c005cb9f868f2f174c63c6a3758849340d",
+      "source_file_name": "nhb.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/nunchaku.json",
+      "bytes": 6394,
+      "sha256": "ba1b8be3ad63492716588d9800cd0479718c61dd3e6dac75fa310bcf9320ff30",
+      "source_sha256": "ba1b8be3ad63492716588d9800cd0479718c61dd3e6dac75fa310bcf9320ff30",
+      "source_file_name": "nunchaku.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/nunchaku.md",
+      "bytes": 3577,
+      "sha256": "882f60e57ffd21b608083f4b921995aeb2254124839cce22336fdc0c77814af5",
+      "source_sha256": "882f60e57ffd21b608083f4b921995aeb2254124839cce22336fdc0c77814af5",
+      "source_file_name": "nunchaku.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/polearm_screen.json",
+      "bytes": 6718,
+      "sha256": "c0f36f859619c1f68171b1c9dda868d2118963f1f85b8843d06bbee89e15382d",
+      "source_sha256": "c0f36f859619c1f68171b1c9dda868d2118963f1f85b8843d06bbee89e15382d",
+      "source_file_name": "polearm_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/polearm_screen.md",
+      "bytes": 4206,
+      "sha256": "cc0d171f452b049719c61f90b91e7a100c9ba9dacdd23e586f8747ff1f5c53e4",
+      "source_sha256": "cc0d171f452b049719c61f90b91e7a100c9ba9dacdd23e586f8747ff1f5c53e4",
+      "source_file_name": "polearm_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/projectile_screen.json",
+      "bytes": 6355,
+      "sha256": "093134dd2b751897b7cdb18da368d3d84f7741593ffad483000f583350ed89b0",
+      "source_sha256": "093134dd2b751897b7cdb18da368d3d84f7741593ffad483000f583350ed89b0",
+      "source_file_name": "projectile_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/projectile_screen.md",
+      "bytes": 3393,
+      "sha256": "c73c4121b5a98632d1309c9f4204bfd9c98ff08a167720766b14ba38f340b80c",
+      "source_sha256": "c73c4121b5a98632d1309c9f4204bfd9c98ff08a167720766b14ba38f340b80c",
+      "source_file_name": "projectile_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/qiang.json",
+      "bytes": 7429,
+      "sha256": "08b5bb7127196803dda2f93cac53772e938653b45aaf020782a0c0b8e7310ab2",
+      "source_sha256": "08b5bb7127196803dda2f93cac53772e938653b45aaf020782a0c0b8e7310ab2",
+      "source_file_name": "qiang.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/qiang.md",
+      "bytes": 4573,
+      "sha256": "df9d12da478170753ba66d4da2f01b78d14a4a498b00cc3b61656b885550aa3f",
+      "source_sha256": "df9d12da478170753ba66d4da2f01b78d14a4a498b00cc3b61656b885550aa3f",
+      "source_file_name": "qiang.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/sai.json",
+      "bytes": 4909,
+      "sha256": "940f4255da1baf4a88f1c8da4ff2763541f76eb9da06069f3ca3e7b1b55d4d49",
+      "source_sha256": "940f4255da1baf4a88f1c8da4ff2763541f76eb9da06069f3ca3e7b1b55d4d49",
+      "source_file_name": "sai.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/sai.md",
+      "bytes": 2530,
+      "sha256": "2d625abaa8f41a74041581e3b0c641907414e94e50d728610bc4d6cbac66ff59",
+      "source_sha256": "2d625abaa8f41a74041581e3b0c641907414e94e50d728610bc4d6cbac66ff59",
+      "source_file_name": "sai.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/shaolin.json",
+      "bytes": 21650,
+      "sha256": "7b0c7f33e9cbfb6c786556a875d927ab19ec017d4e9da13196add0fa2d6b9eb5",
+      "source_sha256": "7b0c7f33e9cbfb6c786556a875d927ab19ec017d4e9da13196add0fa2d6b9eb5",
+      "source_file_name": "shaolin.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/shaolin.md",
+      "bytes": 11805,
+      "sha256": "cf7331f05d82b8ff48871d3d76abbf4789a62d232ba6551542836079b9dce312",
+      "source_sha256": "cf7331f05d82b8ff48871d3d76abbf4789a62d232ba6551542836079b9dce312",
+      "source_file_name": "shaolin.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/silat_fatani.json",
+      "bytes": 5278,
+      "sha256": "edf5604ced472efd938ab4dedc141d34030727c9c042a44ec5d62e4bf1d36774",
+      "source_sha256": "edf5604ced472efd938ab4dedc141d34030727c9c042a44ec5d62e4bf1d36774",
+      "source_file_name": "silat_fatani.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/silat_fatani.md",
+      "bytes": 2883,
+      "sha256": "ae7c067fb4dfc80419e714929639958c0c07c381de4daa07a44c49bbd13455d8",
+      "source_sha256": "ae7c067fb4dfc80419e714929639958c0c07c381de4daa07a44c49bbd13455d8",
+      "source_file_name": "silat_fatani.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/staff_screen.json",
+      "bytes": 7679,
+      "sha256": "a04581472fbaf37eb9cd989cd20559f858d691c01ef9868c28c3b1c1751a8fc5",
+      "source_sha256": "a04581472fbaf37eb9cd989cd20559f858d691c01ef9868c28c3b1c1751a8fc5",
+      "source_file_name": "staff_screen.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/staff_screen.md",
+      "bytes": 4727,
+      "sha256": "397fe89a8cbc150a6eb860b7c2ad2efad4ca8a4340cab857dd12769a348ba772",
+      "source_sha256": "397fe89a8cbc150a6eb860b7c2ad2efad4ca8a4340cab857dd12769a348ba772",
+      "source_file_name": "staff_screen.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taekwondo_itf.json",
+      "bytes": 37416,
+      "sha256": "8f0e5d238c7e435b828f63bc32d475072a896288ac1c1d6515207203deb74987",
+      "source_sha256": "8f0e5d238c7e435b828f63bc32d475072a896288ac1c1d6515207203deb74987",
+      "source_file_name": "taekwondo_itf.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taekwondo_itf.md",
+      "bytes": 19100,
+      "sha256": "3ba2521bbd0c19c57971109f3fc186823574aa10f53b59ab978e75e1c2862e82",
+      "source_sha256": "3ba2521bbd0c19c57971109f3fc186823574aa10f53b59ab978e75e1c2862e82",
+      "source_file_name": "taekwondo_itf.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taekwondo_kukkiwon.json",
+      "bytes": 78687,
+      "sha256": "89da57a2148041ec9e06f9e0f3f5403f96e2b6ec1ba163a7a9b99f47503ebae1",
+      "source_sha256": "89da57a2148041ec9e06f9e0f3f5403f96e2b6ec1ba163a7a9b99f47503ebae1",
+      "source_file_name": "taekwondo_kukkiwon.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taekwondo_kukkiwon.md",
+      "bytes": 34891,
+      "sha256": "464dc50b3a9f93112adc3e61922137024eacfb079b0794c707e7099bd23a9b9c",
+      "source_sha256": "464dc50b3a9f93112adc3e61922137024eacfb079b0794c707e7099bd23a9b9c",
+      "source_file_name": "taekwondo_kukkiwon.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taiji_fan.json",
+      "bytes": 7404,
+      "sha256": "8255e44679d643fea60b5d74ecbf6a418b6211b0f20aedd548957a6baae74303",
+      "source_sha256": "8255e44679d643fea60b5d74ecbf6a418b6211b0f20aedd548957a6baae74303",
+      "source_file_name": "taiji_fan.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/taiji_fan.md",
+      "bytes": 4433,
+      "sha256": "88161197976e5d52e86e8d34baae2d1cc2412b999ebc7ad88cdb297d127d3b5a",
+      "source_sha256": "88161197976e5d52e86e8d34baae2d1cc2412b999ebc7ad88cdb297d127d3b5a",
+      "source_file_name": "taiji_fan.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/tonfa.json",
+      "bytes": 5980,
+      "sha256": "cfe84399f82a6a08f8d2cec5d53350230144d297d7e8f442dee5a69b92cb62df",
+      "source_sha256": "cfe84399f82a6a08f8d2cec5d53350230144d297d7e8f442dee5a69b92cb62df",
+      "source_file_name": "tonfa.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/tonfa.md",
+      "bytes": 3253,
+      "sha256": "ad72a6132deea80eef503863e68f1b1a899f63a4376b4e1104b2b214d175dc14",
+      "source_sha256": "ad72a6132deea80eef503863e68f1b1a899f63a4376b4e1104b2b214d175dc14",
+      "source_file_name": "tonfa.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/wing_chun.json",
+      "bytes": 23817,
+      "sha256": "4d41a54192f697aeb5f686d94ea2f9ec09e8e1d3e3df395d4446f5085ce6d0b5",
+      "source_sha256": "aafbbd284216604b1ac3c17b4ea6f76876f40d9eb5395e2ce6f9b046e0ce7edf",
+      "source_file_name": "wing_chun.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue/wing_chun.md",
+      "bytes": 12555,
+      "sha256": "723400aad9fbd5ef078ca1ed1c96eb4d47851c189f2b3ca25f2645a8e6b04fc6",
+      "source_sha256": "7d5aaa35dc62921b743077e886da6a9806ee741728f4558ea91bb02d30f5d2e5",
+      "source_file_name": "wing_chun.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue.json",
+      "bytes": 678040,
+      "sha256": "ccb41562b037f9dd4aca93bc643f3ab2ff56d7140469aacb08c94177e08a1121",
+      "source_sha256": "9aa235834e0369b6d7cf662983e46a82cbd9534d4a73078bd1cd74923d303b24",
+      "source_file_name": "strike-catalogue.json"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/strike-catalogue.md",
+      "bytes": 36586,
+      "sha256": "45fa5754bcf010e800628b94c55df52560c953accd1bf690d0b2a7445e3ec16e",
+      "source_sha256": "45fa5754bcf010e800628b94c55df52560c953accd1bf690d0b2a7445e3ec16e",
+      "source_file_name": "strike-catalogue.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/styles/wing-chun.md",
+      "bytes": 11142,
+      "sha256": "dfc826ea45693000fa7f72749b913dee4fb98d66aa8c667c39a23bdd003dd296",
+      "source_sha256": "dfc826ea45693000fa7f72749b913dee4fb98d66aa8c667c39a23bdd003dd296",
+      "source_file_name": "wing-chun.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/techniques.md",
+      "bytes": 11813,
+      "sha256": "a954fe7d028d1e1e93b9a350f99115185847dbb8c4b937bdeb6a418025f925a3",
+      "source_sha256": "a954fe7d028d1e1e93b9a350f99115185847dbb8c4b937bdeb6a418025f925a3",
+      "source_file_name": "techniques.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/references/warrior-local-fragment.md",
+      "bytes": 16254,
+      "sha256": "ab618aad358cd5c1872db6ed4115cc8c5f73f29adac1494798de2bf573a7cd40",
+      "source_sha256": "3aec57bc5446ae2e9f40aeba3a7aac1e7412af5cd9aadf50e2e7c1c68c5c557a",
+      "source_file_name": "warrior-local-fragment.md"
+    },
+    {
+      "path": "skills/jkd-fight-scenes/scripts/short_codes.py",
+      "bytes": 2531,
+      "sha256": "70c0bb69f454dce6c285c6589558e8fbea6d0b189bd44db5298634b61f7c15ca",
+      "source_sha256": "70c0bb69f454dce6c285c6589558e8fbea6d0b189bd44db5298634b61f7c15ca",
+      "source_file_name": "short_codes.py"
+    },
+    {
+      "path": "skills/jkd-moves/SKILL.md",
+      "bytes": 11038,
+      "sha256": "1691f0f86ca58b330fb66a20aaa9254e7e75c82af883354a2790670b8510d5e0",
+      "source_sha256": "1691f0f86ca58b330fb66a20aaa9254e7e75c82af883354a2790670b8510d5e0",
+      "source_file_name": "SKILL.md"
+    },
+    {
+      "path": "skills/ultralordgen-skill/SKILL.md",
+      "bytes": 206333,
+      "sha256": "f9837f8c4eb7f07b72a2729924a421f1db4f84b3e3c39dffeb58248f96d4dc64",
+      "source_sha256": "f9837f8c4eb7f07b72a2729924a421f1db4f84b3e3c39dffeb58248f96d4dc64",
+      "source_file_name": "SKILL.md"
+    }
+  ]
+}
