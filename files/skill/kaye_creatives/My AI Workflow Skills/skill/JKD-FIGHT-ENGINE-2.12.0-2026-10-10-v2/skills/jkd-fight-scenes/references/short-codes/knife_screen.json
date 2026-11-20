@@ -1,0 +1,263 @@
+{
+  "style": {
+    "style_id": "knife_screen",
+    "prefix": "KN",
+    "name_ru": "Нож / кинжал / мачете / карамбит: постановочные семейства",
+    "entries": 7,
+    "categories": {
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "KN-W1",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Прямой укол коротким клинком",
+      "display_ru": "Прямой укол коротким клинком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_STRAIGHT_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_STRAIGHT_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W2",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Нисходящая атака коротким клинком",
+      "display_ru": "Нисходящая атака коротким клинком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_DOWNWARD_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_DOWNWARD_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W3",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Восходящая атака коротким клинком",
+      "display_ru": "Восходящая атака коротким клинком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_UPWARD_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_UPWARD_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W4",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Поперечное режущее движение",
+      "display_ru": "Поперечное режущее движение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_HORIZONTAL_SLASH",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_HORIZONTAL_SLASH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W5",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Диагональное режущее движение",
+      "display_ru": "Диагональное режущее движение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_DIAGONAL_SLASH",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_DIAGONAL_SLASH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W6",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Возвратное режущее движение",
+      "display_ru": "Возвратное режущее движение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_REVERSE_SLASH",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_REVERSE_SLASH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KN-W7",
+      "prefix": "KN",
+      "style_id": "knife_screen",
+      "category": "W",
+      "name_ru": "Удар рукоятью короткого клинка",
+      "display_ru": "Удар рукоятью короткого клинка",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/knife_screen.json",
+      "source_tag": "@STRIKE_KNIFE_SCREEN_HANDLE",
+      "catalogue_tags": [
+        "@STRIKE_KNIFE_SCREEN_HANDLE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_KNIFE_SCREEN_STRAIGHT_THRUST": "KN-W1",
+    "@STRIKE_KNIFE_SCREEN_DOWNWARD_THRUST": "KN-W2",
+    "@STRIKE_KNIFE_SCREEN_UPWARD_THRUST": "KN-W3",
+    "@STRIKE_KNIFE_SCREEN_HORIZONTAL_SLASH": "KN-W4",
+    "@STRIKE_KNIFE_SCREEN_DIAGONAL_SLASH": "KN-W5",
+    "@STRIKE_KNIFE_SCREEN_REVERSE_SLASH": "KN-W6",
+    "@STRIKE_KNIFE_SCREEN_HANDLE": "KN-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_STRAIGHT_THRUST",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Прямой укол коротким клинком",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Прямой укол коротким клинком.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_DOWNWARD_THRUST",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Нисходящая атака коротким клинком",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Нисходящая атака коротким клинком.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_UPWARD_THRUST",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Восходящая атака коротким клинком",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Восходящая атака коротким клинком.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_HORIZONTAL_SLASH",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Поперечное режущее движение",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Поперечное режущее движение.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_DIAGONAL_SLASH",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Диагональное режущее движение",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Диагональное режущее движение.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_REVERSE_SLASH",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Возвратное режущее движение",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Возвратное режущее движение.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KNIFE_SCREEN_HANDLE",
+      "style_id": "knife_screen",
+      "style_ru": "Нож, кинжал, мачете, карамбит — постановочные семейства",
+      "name_ru": "Удар рукоятью короткого клинка",
+      "name_original": "",
+      "kind": "strike",
+      "family": "KNIFE_SCREEN",
+      "description_ru": "Удар рукоятью короткого клинка.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

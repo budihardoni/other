@@ -1,0 +1,314 @@
+{
+  "style": {
+    "style_id": "gunfu",
+    "prefix": "GF",
+    "name_ru": "Gun-fu: постановочные эпизоды",
+    "entries": 8,
+    "categories": {
+      "W": 8
+    }
+  },
+  "entries": [
+    {
+      "code": "GF-W1",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Экранный момент выстрела",
+      "display_ru": "Экранный момент выстрела",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_SHOT_BEAT",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_SHOT_BEAT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W2",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Экранная работа с парным оружейным реквизитом",
+      "display_ru": "Экранная работа с парным оружейным реквизитом",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_DUAL_WEAPON_BEAT",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_DUAL_WEAPON_BEAT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W3",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Переход от оружейного эпизода к рукопашному",
+      "display_ru": "Переход от оружейного эпизода к рукопашному",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_FIRE_TO_HAND",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_FIRE_TO_HAND"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W4",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Переход от рукопашного к оружейному эпизоду",
+      "display_ru": "Переход от рукопашного к оружейному эпизоду",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_HAND_TO_FIRE",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_HAND_TO_FIRE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W5",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Передача оружейного реквизита между руками",
+      "display_ru": "Передача оружейного реквизита между руками",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_PROP_TRANSFER",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_PROP_TRANSFER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W6",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Актёрская реакция на пустой реквизит",
+      "display_ru": "Актёрская реакция на пустой реквизит",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_EMPTY_PROP_BEAT",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_EMPTY_PROP_BEAT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W7",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Монтажный эпизод перезарядки",
+      "display_ru": "Монтажный эпизод перезарядки",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_RELOAD_CUT",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_RELOAD_CUT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GF-W8",
+      "prefix": "GF",
+      "style_id": "gunfu",
+      "category": "W",
+      "name_ru": "Смешанный эпизод: меч и огнестрельный реквизит",
+      "display_ru": "Смешанный эпизод: меч и огнестрельный реквизит",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/gunfu.json",
+      "source_tag": "@ACTION_GUNFU_SWORD_GUN_MIX",
+      "catalogue_tags": [
+        "@ACTION_GUNFU_SWORD_GUN_MIX"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_GUNFU_SHOT_BEAT": "GF-W1",
+    "@ACTION_GUNFU_DUAL_WEAPON_BEAT": "GF-W2",
+    "@ACTION_GUNFU_FIRE_TO_HAND": "GF-W3",
+    "@ACTION_GUNFU_HAND_TO_FIRE": "GF-W4",
+    "@ACTION_GUNFU_PROP_TRANSFER": "GF-W5",
+    "@ACTION_GUNFU_EMPTY_PROP_BEAT": "GF-W6",
+    "@ACTION_GUNFU_RELOAD_CUT": "GF-W7",
+    "@ACTION_GUNFU_SWORD_GUN_MIX": "GF-W8"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_GUNFU_SHOT_BEAT",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Экранный момент выстрела",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Экранный момент выстрела.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_DUAL_WEAPON_BEAT",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Экранная работа с парным оружейным реквизитом",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Экранная работа с парным оружейным реквизитом.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_FIRE_TO_HAND",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Переход от оружейного эпизода к рукопашному",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Переход от оружейного эпизода к рукопашному.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_HAND_TO_FIRE",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Переход от рукопашного к оружейному эпизоду",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Переход от рукопашного к оружейному эпизоду.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_PROP_TRANSFER",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Передача оружейного реквизита между руками",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Передача оружейного реквизита между руками.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_EMPTY_PROP_BEAT",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Актёрская реакция на пустой реквизит",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Актёрская реакция на пустой реквизит.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_RELOAD_CUT",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Монтажный эпизод перезарядки",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Монтажный эпизод перезарядки.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUNFU_SWORD_GUN_MIX",
+      "style_id": "gunfu",
+      "style_ru": "Gun-fu — постановочные эпизоды",
+      "name_ru": "Смешанный эпизод: меч и огнестрельный реквизит",
+      "name_original": "",
+      "kind": "screen_motif",
+      "family": "GUNFU",
+      "description_ru": "Смешанный эпизод: меч и огнестрельный реквизит.",
+      "variant_note": "Наш авторский тег. Источник подтверждает общий экранный гибрид; не эти названия и не точную последовательность фильма.",
+      "source_ids": [
+        "W_GUNFU"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

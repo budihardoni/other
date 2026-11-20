@@ -1,0 +1,263 @@
+{
+  "style": {
+    "style_id": "projectile_screen",
+    "prefix": "PRJ",
+    "name_ru": "Метательное оружие: постановочные действия",
+    "entries": 7,
+    "categories": {
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "PRJ-W1",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Выпуск стрелы из лука",
+      "display_ru": "Выпуск стрелы из лука",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_BOW_RELEASE",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_BOW_RELEASE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W2",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Выпуск стрелы из арбалета",
+      "display_ru": "Выпуск стрелы из арбалета",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_CROSSBOW_RELEASE",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_CROSSBOW_RELEASE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W3",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Выпуск снаряда пращи",
+      "display_ru": "Выпуск снаряда пращи",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_SLING_RELEASE",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_SLING_RELEASE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W4",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Бросок сюрикена",
+      "display_ru": "Бросок сюрикена",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_SHURIKEN_THROW",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_SHURIKEN_THROW"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W5",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Бросок метательного ножа",
+      "display_ru": "Бросок метательного ножа",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_KNIFE_THROW",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_KNIFE_THROW"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W6",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Бросок чакрама",
+      "display_ru": "Бросок чакрама",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_CHAKRAM_THROW",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_CHAKRAM_THROW"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "PRJ-W7",
+      "prefix": "PRJ",
+      "style_id": "projectile_screen",
+      "category": "W",
+      "name_ru": "Бросок копья",
+      "display_ru": "Бросок копья",
+      "origin": "catalogue_short_code",
+      "kind": "projectile",
+      "source": "strike-catalogue/projectile_screen.json",
+      "source_tag": "@ACTION_PROJECTILE_SCREEN_SPEAR_THROW",
+      "catalogue_tags": [
+        "@ACTION_PROJECTILE_SCREEN_SPEAR_THROW"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_PROJECTILE_SCREEN_BOW_RELEASE": "PRJ-W1",
+    "@ACTION_PROJECTILE_SCREEN_CROSSBOW_RELEASE": "PRJ-W2",
+    "@ACTION_PROJECTILE_SCREEN_SLING_RELEASE": "PRJ-W3",
+    "@ACTION_PROJECTILE_SCREEN_SHURIKEN_THROW": "PRJ-W4",
+    "@ACTION_PROJECTILE_SCREEN_KNIFE_THROW": "PRJ-W5",
+    "@ACTION_PROJECTILE_SCREEN_CHAKRAM_THROW": "PRJ-W6",
+    "@ACTION_PROJECTILE_SCREEN_SPEAR_THROW": "PRJ-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_BOW_RELEASE",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Выпуск стрелы из лука",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Выпуск стрелы из лука.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_CROSSBOW_RELEASE",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Выпуск стрелы из арбалета",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Выпуск стрелы из арбалета.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_SLING_RELEASE",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Выпуск снаряда пращи",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Выпуск снаряда пращи.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_SHURIKEN_THROW",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Бросок сюрикена",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Бросок сюрикена.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_KNIFE_THROW",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Бросок метательного ножа",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Бросок метательного ножа.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_CHAKRAM_THROW",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Бросок чакрама",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Бросок чакрама.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_PROJECTILE_SCREEN_SPEAR_THROW",
+      "style_id": "projectile_screen",
+      "style_ru": "Метательное оружие — постановочные действия",
+      "name_ru": "Бросок копья",
+      "name_original": "",
+      "kind": "projectile",
+      "family": "PROJECTILE_SCREEN",
+      "description_ru": "Бросок копья.",
+      "variant_note": "Тип экранного действия. Траектория и реакция описываются для сцены; технических режимов и инструкций оружия здесь нет.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

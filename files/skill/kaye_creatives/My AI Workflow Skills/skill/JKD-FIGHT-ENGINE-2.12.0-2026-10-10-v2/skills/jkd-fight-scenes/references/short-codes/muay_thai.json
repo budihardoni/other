@@ -1,0 +1,1540 @@
+{
+  "style": {
+    "style_id": "muay_thai",
+    "prefix": "MT",
+    "name_ru": "Муай-тай / тайский бокс",
+    "entries": 40,
+    "categories": {
+      "H": 18,
+      "K": 22
+    }
+  },
+  "entries": [
+    {
+      "code": "MT-H1",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Джеб",
+      "display_ru": "Джеб",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_JAB",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H2",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Прямой задней рукой",
+      "display_ru": "Прямой задней рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_CROSS",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_CROSS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H3",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Хук",
+      "display_ru": "Хук",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H4",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Апперкот",
+      "display_ru": "Апперкот",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_UPPERCUT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H5",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Диагональный кулак в корпус",
+      "display_ru": "Диагональный кулак в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_BODY_RIP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_BODY_RIP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H6",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Оверхенд",
+      "display_ru": "Оверхенд",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_OVERHAND",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_OVERHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H7",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Вращающийся бэкфист",
+      "display_ru": "Вращающийся бэкфист",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SPINNING_BACKFIST",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SPINNING_BACKFIST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H8",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Удар «супермен»",
+      "display_ru": "Удар «супермен»",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SUPERMAN_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SUPERMAN_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H9",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Горизонтальный локоть",
+      "display_ru": "Горизонтальный локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_HORIZONTAL_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_HORIZONTAL_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H10",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Косой рубящий локоть",
+      "display_ru": "Косой рубящий локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SLASHING_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SLASHING_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H11",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Восходящий локоть",
+      "display_ru": "Восходящий локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_UPPERCUT_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_UPPERCUT_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H12",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Прямой вынос локтя",
+      "display_ru": "Прямой вынос локтя",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_FORWARD_THRUST_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_FORWARD_THRUST_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H13",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Нисходящий локоть",
+      "display_ru": "Нисходящий локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_DOWNWARD_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_DOWNWARD_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H14",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Локоть назад",
+      "display_ru": "Локоть назад",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_BACKWARD_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_BACKWARD_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H15",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Вращающийся локоть",
+      "display_ru": "Вращающийся локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SPINNING_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SPINNING_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H16",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Горизонтальный локоть в прыжке",
+      "display_ru": "Горизонтальный локоть в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_JUMP_HORIZONTAL_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_JUMP_HORIZONTAL_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H17",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Нисходящий локоть в прыжке",
+      "display_ru": "Нисходящий локоть в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_JUMP_DOWNWARD_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_JUMP_DOWNWARD_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-H18",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "H",
+      "name_ru": "Двойной нисходящий локоть",
+      "display_ru": "Двойной нисходящий локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_DOUBLE_DOWNWARD_ELBOW",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_DOUBLE_DOWNWARD_ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K1",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Внутренний лоу-кик",
+      "display_ru": "Внутренний лоу-кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_INSIDE_LOW_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_INSIDE_LOW_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K2",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Наружный лоу-кик",
+      "display_ru": "Наружный лоу-кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_OUTSIDE_LOW_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_OUTSIDE_LOW_KICK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K3",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Круговой удар в корпус",
+      "display_ru": "Круговой удар в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_BODY_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_BODY_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K4",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Высокий круговой удар",
+      "display_ru": "Высокий круговой удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_HIGH_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_HIGH_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K5",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Круговой удар со сменой ног",
+      "display_ru": "Круговой удар со сменой ног",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SWITCH_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SWITCH_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K6",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Круговой удар в прыжке",
+      "display_ru": "Круговой удар в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_JUMPING_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_JUMPING_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K7",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Удар «вопросительный знак»",
+      "display_ru": "Удар «вопросительный знак»",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_QUESTION_MARK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_QUESTION_MARK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K8",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Удар назад с разворотом",
+      "display_ru": "Удар назад с разворотом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SPINNING_BACK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SPINNING_BACK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K9",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Вращающийся удар пяткой",
+      "display_ru": "Вращающийся удар пяткой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SPINNING_HEEL_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SPINNING_HEEL_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K10",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Удар из переворота через руку",
+      "display_ru": "Удар из переворота через руку",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_CARTWHEEL_KICK",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_CARTWHEEL_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K11",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Фронтальный тип ведущей ногой",
+      "display_ru": "Фронтальный тип ведущей ногой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_LEAD_TEEP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_LEAD_TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K12",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Фронтальный тип задней ногой",
+      "display_ru": "Фронтальный тип задней ногой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_REAR_TEEP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_REAR_TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K13",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Боковой тип",
+      "display_ru": "Боковой тип",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SIDE_TEEP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SIDE_TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K14",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Прыжковый тип со сменой ног",
+      "display_ru": "Прыжковый тип со сменой ног",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_JUMP_SWITCH_TEEP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_JUMP_SWITCH_TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K15",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Нисходящий шлепковый тип",
+      "display_ru": "Нисходящий шлепковый тип",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SLAPPING_TEEP",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SLAPPING_TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K16",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Прямое колено",
+      "display_ru": "Прямое колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_STRAIGHT_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_STRAIGHT_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K17",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Дуговое колено",
+      "display_ru": "Дуговое колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_CURVED_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_CURVED_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K18",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Диагональное колено",
+      "display_ru": "Диагональное колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_DIAGONAL_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_DIAGONAL_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K19",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Горизонтальное колено",
+      "display_ru": "Горизонтальное колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_HORIZONTAL_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_HORIZONTAL_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K20",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Длинное колено",
+      "display_ru": "Длинное колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_LONG_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_LONG_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K21",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Малое колено",
+      "display_ru": "Малое колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_SMALL_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_SMALL_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "MT-K22",
+      "prefix": "MT",
+      "style_id": "muay_thai",
+      "category": "K",
+      "name_ru": "Летящее колено",
+      "display_ru": "Летящее колено",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/muay_thai.json",
+      "source_tag": "@STRIKE_MUAY_THAI_FLYING_KNEE",
+      "catalogue_tags": [
+        "@STRIKE_MUAY_THAI_FLYING_KNEE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_MUAY_THAI_JAB": "MT-H1",
+    "@STRIKE_MUAY_THAI_CROSS": "MT-H2",
+    "@STRIKE_MUAY_THAI_HOOK": "MT-H3",
+    "@STRIKE_MUAY_THAI_UPPERCUT": "MT-H4",
+    "@STRIKE_MUAY_THAI_BODY_RIP": "MT-H5",
+    "@STRIKE_MUAY_THAI_OVERHAND": "MT-H6",
+    "@STRIKE_MUAY_THAI_SPINNING_BACKFIST": "MT-H7",
+    "@STRIKE_MUAY_THAI_SUPERMAN_PUNCH": "MT-H8",
+    "@STRIKE_MUAY_THAI_INSIDE_LOW_KICK": "MT-K1",
+    "@STRIKE_MUAY_THAI_OUTSIDE_LOW_KICK": "MT-K2",
+    "@STRIKE_MUAY_THAI_BODY_ROUNDHOUSE": "MT-K3",
+    "@STRIKE_MUAY_THAI_HIGH_ROUNDHOUSE": "MT-K4",
+    "@STRIKE_MUAY_THAI_SWITCH_ROUNDHOUSE": "MT-K5",
+    "@STRIKE_MUAY_THAI_JUMPING_ROUNDHOUSE": "MT-K6",
+    "@STRIKE_MUAY_THAI_QUESTION_MARK_KICK": "MT-K7",
+    "@STRIKE_MUAY_THAI_SPINNING_BACK_KICK": "MT-K8",
+    "@STRIKE_MUAY_THAI_SPINNING_HEEL_KICK": "MT-K9",
+    "@STRIKE_MUAY_THAI_CARTWHEEL_KICK": "MT-K10",
+    "@STRIKE_MUAY_THAI_LEAD_TEEP": "MT-K11",
+    "@STRIKE_MUAY_THAI_REAR_TEEP": "MT-K12",
+    "@STRIKE_MUAY_THAI_SIDE_TEEP": "MT-K13",
+    "@STRIKE_MUAY_THAI_JUMP_SWITCH_TEEP": "MT-K14",
+    "@STRIKE_MUAY_THAI_SLAPPING_TEEP": "MT-K15",
+    "@STRIKE_MUAY_THAI_STRAIGHT_KNEE": "MT-K16",
+    "@STRIKE_MUAY_THAI_CURVED_KNEE": "MT-K17",
+    "@STRIKE_MUAY_THAI_DIAGONAL_KNEE": "MT-K18",
+    "@STRIKE_MUAY_THAI_HORIZONTAL_KNEE": "MT-K19",
+    "@STRIKE_MUAY_THAI_LONG_KNEE": "MT-K20",
+    "@STRIKE_MUAY_THAI_SMALL_KNEE": "MT-K21",
+    "@STRIKE_MUAY_THAI_FLYING_KNEE": "MT-K22",
+    "@STRIKE_MUAY_THAI_HORIZONTAL_ELBOW": "MT-H9",
+    "@STRIKE_MUAY_THAI_SLASHING_ELBOW": "MT-H10",
+    "@STRIKE_MUAY_THAI_UPPERCUT_ELBOW": "MT-H11",
+    "@STRIKE_MUAY_THAI_FORWARD_THRUST_ELBOW": "MT-H12",
+    "@STRIKE_MUAY_THAI_DOWNWARD_ELBOW": "MT-H13",
+    "@STRIKE_MUAY_THAI_BACKWARD_ELBOW": "MT-H14",
+    "@STRIKE_MUAY_THAI_SPINNING_ELBOW": "MT-H15",
+    "@STRIKE_MUAY_THAI_JUMP_HORIZONTAL_ELBOW": "MT-H16",
+    "@STRIKE_MUAY_THAI_JUMP_DOWNWARD_ELBOW": "MT-H17",
+    "@STRIKE_MUAY_THAI_DOUBLE_DOWNWARD_ELBOW": "MT-H18"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_MUAY_THAI_JAB",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Джеб",
+      "name_original": "Jab",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Ведущий кулак проходит по прямой.",
+      "variant_note": "Сторона определяется стойкой.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_CROSS",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Прямой задней рукой",
+      "name_original": "Cross",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Задний кулак проходит по прямой.",
+      "variant_note": "Straight punch — alias указанной школы.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "straight punch"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_HOOK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Хук",
+      "name_original": "Hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Согнутый кулак проходит боковой дугой.",
+      "variant_note": "Источник допускает обе руки; рука задаётся в сцене.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_UPPERCUT",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Апперкот",
+      "name_original": "Uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Согнутый кулак поднимается снизу вверх.",
+      "variant_note": "Рука задаётся в сцене.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_BODY_RIP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Диагональный кулак в корпус",
+      "name_original": "Body-Rip / Body-Hook",
+      "kind": "strike",
+      "family": "punch_diagonal",
+      "description_ru": "Кулак проходит восходящей диагональю на уровне корпуса.",
+      "variant_note": "Школьное имя этой линии; не любой боковой body hook.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "body-rip",
+        "body-hook"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_OVERHAND",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Оверхенд",
+      "name_original": "Overhand",
+      "kind": "strike",
+      "family": "punch_overhand",
+      "description_ru": "Задний кулак проходит высокой нисходящей дугой.",
+      "variant_note": "Документирован в современной школе.",
+      "source_ids": [
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SPINNING_BACKFIST",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Вращающийся бэкфист",
+      "name_original": "Spinning Back Fist",
+      "kind": "strike",
+      "family": "punch_backfist",
+      "description_ru": "Разворот корпуса сопровождает дугу тыльной стороны кулака.",
+      "variant_note": "Не перенесён в спортивный бокс.",
+      "source_ids": [
+        "SPORT-MT-SPIN",
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "spinning backfist"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SUPERMAN_PUNCH",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Удар «супермен»",
+      "name_original": "Superman Punch",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Прямой кулак сопровождается отводом одноимённой поднятой ноги назад.",
+      "variant_note": "Именованная современная школьная техника.",
+      "source_ids": [
+        "SPORT-MT-SUPERMAN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_HORIZONTAL_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Горизонтальный локоть",
+      "name_original": "Horizontal Elbow",
+      "kind": "strike",
+      "family": "elbow_horizontal",
+      "description_ru": "Локоть проходит боковой горизонтальной дугой.",
+      "variant_note": "Side elbow — alias этого семейства.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "side elbow"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SLASHING_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Косой рубящий локоть",
+      "name_original": "Slashing Elbow / Sok Ti",
+      "kind": "strike",
+      "family": "elbow_diagonal",
+      "description_ru": "Локоть проходит косой рубящей дугой.",
+      "variant_note": "Направление вверх/вниз — вариант внутри семейства, отдельного реестра не придумано.",
+      "source_ids": [
+        "SPORT-MT-ELBOW",
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "diagonal elbow"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_UPPERCUT_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Восходящий локоть",
+      "name_original": "Uppercut Elbow / Sok Ngad",
+      "kind": "strike",
+      "family": "elbow_upward",
+      "description_ru": "Согнутый локоть поднимается перед корпусом.",
+      "variant_note": "Имя и transliteration из syllabus Evolve.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "upward elbow"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_FORWARD_THRUST_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Прямой вынос локтя",
+      "name_original": "Forward Thrust Elbow / Sok Poong",
+      "kind": "strike",
+      "family": "elbow_forward",
+      "description_ru": "Острие согнутого локтя проходит прямо вперёд.",
+      "variant_note": "В syllabus выделен отдельно от rising elbow.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "spear elbow: описательный alias"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_DOWNWARD_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Нисходящий локоть",
+      "name_original": "Downward Chopping Elbow / Sok Tong",
+      "kind": "strike",
+      "family": "elbow_downward",
+      "description_ru": "Локоть опускается сверху вниз.",
+      "variant_note": "Не равен защитному frame.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_BACKWARD_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Локоть назад",
+      "name_original": "Backward Elbow / Sok Kratong",
+      "kind": "strike",
+      "family": "elbow_backward",
+      "description_ru": "Согнутый локоть проходит назад относительно исполнителя.",
+      "variant_note": "Видеофазы урока не просмотрены; направление — уровень названия, не точная школьная геометрия.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SPINNING_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Вращающийся локоть",
+      "name_original": "Spinning Elbow / Sok Klap",
+      "kind": "strike",
+      "family": "elbow_spinning",
+      "description_ru": "Разворот корпуса сопровождает боковую дугу локтя.",
+      "variant_note": "Spinning back elbow — alias.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "spinning back elbow"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_JUMP_HORIZONTAL_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Горизонтальный локоть в прыжке",
+      "name_original": "Jump horizontal elbow",
+      "kind": "strike",
+      "family": "elbow_airborne",
+      "description_ru": "Локоть проходит горизонтально во время воздушной фазы.",
+      "variant_note": "Два jump-направления прямо перечислены в syllabus.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_JUMP_DOWNWARD_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Нисходящий локоть в прыжке",
+      "name_original": "Jump downward elbow",
+      "kind": "strike",
+      "family": "elbow_airborne",
+      "description_ru": "Локоть опускается сверху вниз во время воздушной фазы.",
+      "variant_note": "Именованный компонент, не вся связка.",
+      "source_ids": [
+        "SPORT-MT-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "downward jumping elbow"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_DOUBLE_DOWNWARD_ELBOW",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Двойной нисходящий локоть",
+      "name_original": "Double Elbow Chop",
+      "kind": "strike",
+      "family": "elbow_simultaneous",
+      "description_ru": "Два локтя одновременно опускаются сверху вниз.",
+      "variant_note": "Источник называет редкой киноассоциированной формой; не универсальная норма современного спорта.",
+      "source_ids": [
+        "SPORT-MT-ELBOW-RARE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_INSIDE_LOW_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Внутренний лоу-кик",
+      "name_original": "Inside Low Kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Голень проходит низкой дугой с внутренней стороны.",
+      "variant_note": "Источник подтверждает имя; конкретная сторона ног задаётся в сцене.",
+      "source_ids": [
+        "SPORT-MT-INSIDE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_OUTSIDE_LOW_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Наружный лоу-кик",
+      "name_original": "Outside low kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Голень проходит низкой дугой с наружной стороны.",
+      "variant_note": "Вариант outer thigh из школьного kick family.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_BODY_ROUNDHOUSE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Круговой удар в корпус",
+      "name_original": "Body kick / mid-range roundhouse",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Голень проходит круговой дугой на уровне корпуса.",
+      "variant_note": "Уровень прямо выделен школой.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_HIGH_ROUNDHOUSE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Высокий круговой удар",
+      "name_original": "Head kick / high kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Голень проходит круговой дугой на верхнем уровне.",
+      "variant_note": "Уровень прямо выделен школой.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "head kick",
+        "high kick"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SWITCH_ROUNDHOUSE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Круговой удар со сменой ног",
+      "name_original": "Switch kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Круговой удар сопровождается сменой положения ног.",
+      "variant_note": "Именованный вход в roundhouse family.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_JUMPING_ROUNDHOUSE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Круговой удар в прыжке",
+      "name_original": "Jumping roundhouse kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Круговая нога проходит во время воздушной фазы.",
+      "variant_note": "Редкий школьный вариант.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_QUESTION_MARK_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Удар «вопросительный знак»",
+      "name_original": "Question mark kick",
+      "kind": "strike",
+      "family": "kick_redirection",
+      "description_ru": "Поднятая нога меняет линию на высокий круговой проход.",
+      "variant_note": "Источник прямо отличает от традиционного ядра Muay Thai.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "Brazilian kick"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SPINNING_BACK_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Удар назад с разворотом",
+      "name_original": "Spinning back kick",
+      "kind": "strike",
+      "family": "kick_backward",
+      "description_ru": "Развернувшийся корпус сопровождает прямой выход пятки назад.",
+      "variant_note": "Современный гибридный/редкий школьный вариант.",
+      "source_ids": [
+        "SPORT-MT-SPIN",
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SPINNING_HEEL_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Вращающийся удар пяткой",
+      "name_original": "Spinning hook / heel kick",
+      "kind": "strike",
+      "family": "kick_spinning_arc",
+      "description_ru": "Пятка проходит по широкой дуге с разворотом корпуса.",
+      "variant_note": "Современный гибридный вариант; не утверждается общая традиционная норма.",
+      "source_ids": [
+        "SPORT-MT-SPIN",
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "spinning hook kick"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_CARTWHEEL_KICK",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Удар из переворота через руку",
+      "name_original": "Cartwheel kick",
+      "kind": "strike",
+      "family": "kick_inverted",
+      "description_ru": "Нога проходит ударной дугой при перевёрнутом корпусе и опоре руки.",
+      "variant_note": "Школьный материал связывает с Saenchai; спортивная допустимость требует конкретного регламента.",
+      "source_ids": [
+        "SPORT-MT-KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_LEAD_TEEP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Фронтальный тип ведущей ногой",
+      "name_original": "Lead Front Teep",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Подошва ведущей ноги проходит прямо вперёд.",
+      "variant_note": "Один из двух сторонных front teep-вариантов.",
+      "source_ids": [
+        "SPORT-MT-BEGIN",
+        "SPORT-MT-TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "lead front push kick"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_REAR_TEEP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Фронтальный тип задней ногой",
+      "name_original": "Rear Front Teep",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Подошва задней ноги проходит прямо вперёд.",
+      "variant_note": "Один из двух сторонных front teep-вариантов.",
+      "source_ids": [
+        "SPORT-MT-BEGIN",
+        "SPORT-MT-TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "rear front push kick"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SIDE_TEEP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Боковой тип",
+      "name_original": "Side Push Kick",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Стопа проходит вперёд при боковом положении таза.",
+      "variant_note": "Положение таза отличает от фронтального типа.",
+      "source_ids": [
+        "SPORT-MT-BEGIN",
+        "SPORT-MT-TEEP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "side teep"
+      ]
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_JUMP_SWITCH_TEEP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Прыжковый тип со сменой ног",
+      "name_original": "Jumping Switch Push Kick",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Прямой выход подошвы сопровождает прыжок со сменой ног.",
+      "variant_note": "Школьное именованное исполнение.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SLAPPING_TEEP",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Нисходящий шлепковый тип",
+      "name_original": "Slapping Push Kick",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Подошва проходит вперёд-вниз после высокого подъёма колена.",
+      "variant_note": "Редкое школьное название.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_STRAIGHT_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Прямое колено",
+      "name_original": "Straight Knee",
+      "kind": "strike",
+      "family": "knee_straight",
+      "description_ru": "Колено проходит вперёд по почти прямой линии.",
+      "variant_note": "Источник отдельно выделяет эту форму.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_CURVED_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Дуговое колено",
+      "name_original": "Curved Knee",
+      "kind": "strike",
+      "family": "knee_curved",
+      "description_ru": "Колено описывает короткую боковую дугу.",
+      "variant_note": "Не сведено к diagonal knee.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_DIAGONAL_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Диагональное колено",
+      "name_original": "Diagonal Knee",
+      "kind": "strike",
+      "family": "knee_diagonal",
+      "description_ru": "Колено проходит по косой восходящей линии.",
+      "variant_note": "Отдельное школьное имя.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_HORIZONTAL_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Горизонтальное колено",
+      "name_original": "Horizontal Knee",
+      "kind": "strike",
+      "family": "knee_horizontal",
+      "description_ru": "Поднятое колено проходит поперечной линией.",
+      "variant_note": "Статическая knee guard не включена как удар.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_LONG_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Длинное колено",
+      "name_original": "Long Knee",
+      "kind": "strike",
+      "family": "knee_straight",
+      "description_ru": "Продвижение корпуса сопровождает длинный проход колена вперёд.",
+      "variant_note": "Именованный вариант дистанции/входа.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_SMALL_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Малое колено",
+      "name_original": "Small Knee",
+      "kind": "strike",
+      "family": "knee_short",
+      "description_ru": "Колено проходит коротким движением на ближней дистанции.",
+      "variant_note": "Именованная амплитуда; clinch сам по себе не удар.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_THAI_FLYING_KNEE",
+      "style_id": "muay_thai",
+      "style_ru": "Муай-тай / тайский бокс",
+      "name_ru": "Летящее колено",
+      "name_original": "Flying Knee",
+      "kind": "strike",
+      "family": "knee_airborne",
+      "description_ru": "Колено проходит вперёд во время воздушной фазы.",
+      "variant_note": "Не посчитано ещё раз под общим jumping knee.",
+      "source_ids": [
+        "SPORT-MT-BEGIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "jumping knee: только при совпадении конкретной формы"
+      ]
+    }
+  ]
+}

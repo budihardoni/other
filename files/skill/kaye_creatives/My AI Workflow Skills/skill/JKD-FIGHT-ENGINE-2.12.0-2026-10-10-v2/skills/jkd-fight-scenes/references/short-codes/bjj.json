@@ -1,0 +1,536 @@
+{
+  "style": {
+    "style_id": "bjj",
+    "prefix": "BJJ",
+    "name_ru": "Бразильское джиу-джитсу / Gracie Combatives",
+    "entries": 14,
+    "categories": {
+      "G": 14
+    }
+  },
+  "entries": [
+    {
+      "code": "BJJ-G1",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Контроль в маунте",
+      "display_ru": "Контроль в маунте",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_MOUNT_CONTROL",
+      "catalogue_tags": [
+        "@ACTION_BJJ_MOUNT_CONTROL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G2",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Контроль сбоку",
+      "display_ru": "Контроль сбоку",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_SIDE_MOUNT_CONTROL",
+      "catalogue_tags": [
+        "@ACTION_BJJ_SIDE_MOUNT_CONTROL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G3",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Переход за спину из маунта",
+      "display_ru": "Переход за спину из маунта",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_TAKE_BACK_MOUNT",
+      "catalogue_tags": [
+        "@ACTION_BJJ_TAKE_BACK_MOUNT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G4",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Проход гарда с двойным андерхуком",
+      "display_ru": "Проход гарда с двойным андерхуком",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_DOUBLE_UNDERHOOK_PASS",
+      "catalogue_tags": [
+        "@ACTION_BJJ_DOUBLE_UNDERHOOK_PASS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G5",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Выход из маунта перекатом",
+      "display_ru": "Выход из маунта перекатом",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_TRAP_ROLL_ESCAPE",
+      "catalogue_tags": [
+        "@ACTION_BJJ_TRAP_ROLL_ESCAPE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G6",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Выход локтями из маунта",
+      "display_ru": "Выход локтями из маунта",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_ELBOW_ESCAPE_MOUNT",
+      "catalogue_tags": [
+        "@ACTION_BJJ_ELBOW_ESCAPE_MOUNT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G7",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Выход из бокового положения со смещением таза",
+      "display_ru": "Выход из бокового положения со смещением таза",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_SHRIMP_ESCAPE",
+      "catalogue_tags": [
+        "@ACTION_BJJ_SHRIMP_ESCAPE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G8",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Переворот из гарда «лифт»",
+      "display_ru": "Переворот из гарда «лифт»",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_ELEVATOR_SWEEP",
+      "catalogue_tags": [
+        "@ACTION_BJJ_ELEVATOR_SWEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G9",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Переворот с контактом у обеих лодыжек",
+      "display_ru": "Переворот с контактом у обеих лодыжек",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_DOUBLE_ANKLE_SWEEP",
+      "catalogue_tags": [
+        "@ACTION_BJJ_DOUBLE_ANKLE_SWEEP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G10",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Перевод с захватом двух ног",
+      "display_ru": "Перевод с захватом двух ног",
+      "origin": "catalogue_short_code",
+      "kind": "throw",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_DOUBLE_LEG_TAKEDOWN",
+      "catalogue_tags": [
+        "@ACTION_BJJ_DOUBLE_LEG_TAKEDOWN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G11",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Американа из маунта",
+      "display_ru": "Американа из маунта",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_AMERICANA_MOUNT",
+      "catalogue_tags": [
+        "@ACTION_BJJ_AMERICANA_MOUNT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G12",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Кимура из гарда",
+      "display_ru": "Кимура из гарда",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_KIMURA_GUARD",
+      "catalogue_tags": [
+        "@ACTION_BJJ_KIMURA_GUARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G13",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Прямой контроль руки из гарда",
+      "display_ru": "Прямой контроль руки из гарда",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_STRAIGHT_ARMLOCK",
+      "catalogue_tags": [
+        "@ACTION_BJJ_STRAIGHT_ARMLOCK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BJJ-G14",
+      "prefix": "BJJ",
+      "style_id": "bjj",
+      "category": "G",
+      "name_ru": "Треугольник из гарда",
+      "display_ru": "Треугольник из гарда",
+      "origin": "catalogue_short_code",
+      "kind": "grappling",
+      "source": "strike-catalogue/bjj.json",
+      "source_tag": "@ACTION_BJJ_TRIANGLE_GUARD",
+      "catalogue_tags": [
+        "@ACTION_BJJ_TRIANGLE_GUARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_BJJ_MOUNT_CONTROL": "BJJ-G1",
+    "@ACTION_BJJ_SIDE_MOUNT_CONTROL": "BJJ-G2",
+    "@ACTION_BJJ_TAKE_BACK_MOUNT": "BJJ-G3",
+    "@ACTION_BJJ_DOUBLE_UNDERHOOK_PASS": "BJJ-G4",
+    "@ACTION_BJJ_TRAP_ROLL_ESCAPE": "BJJ-G5",
+    "@ACTION_BJJ_ELBOW_ESCAPE_MOUNT": "BJJ-G6",
+    "@ACTION_BJJ_SHRIMP_ESCAPE": "BJJ-G7",
+    "@ACTION_BJJ_ELEVATOR_SWEEP": "BJJ-G8",
+    "@ACTION_BJJ_DOUBLE_ANKLE_SWEEP": "BJJ-G9",
+    "@ACTION_BJJ_DOUBLE_LEG_TAKEDOWN": "BJJ-G10",
+    "@ACTION_BJJ_AMERICANA_MOUNT": "BJJ-G11",
+    "@ACTION_BJJ_KIMURA_GUARD": "BJJ-G12",
+    "@ACTION_BJJ_STRAIGHT_ARMLOCK": "BJJ-G13",
+    "@ACTION_BJJ_TRIANGLE_GUARD": "BJJ-G14"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_BJJ_MOUNT_CONTROL",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Контроль в маунте",
+      "name_original": "Positional Control – Mount",
+      "kind": "control",
+      "family": "mount",
+      "description_ru": "Верхний участник удерживает положение над корпусом партнёра.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_SIDE_MOUNT_CONTROL",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Контроль сбоку",
+      "name_original": "Positional Control – Side Mount",
+      "kind": "control",
+      "family": "side_control",
+      "description_ru": "Верхний участник удерживает поперечное положение рядом с корпусом.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_TAKE_BACK_MOUNT",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Переход за спину из маунта",
+      "name_original": "Take the Back – Mount",
+      "kind": "grappling",
+      "family": "back_transition",
+      "description_ru": "Верхний участник перемещается к спине поворачивающегося партнёра.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_DOUBLE_UNDERHOOK_PASS",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Проход гарда с двойным андерхуком",
+      "name_original": "Double Underhook Pass – Guard",
+      "kind": "grappling",
+      "family": "guard_pass",
+      "description_ru": "Участник проходит ногами и корпусом из гарда в боковую позицию.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_TRAP_ROLL_ESCAPE",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Выход из маунта перекатом",
+      "name_original": "Trap and Roll Escape – Mount",
+      "kind": "grappling",
+      "family": "mount_escape",
+      "description_ru": "Нижний участник перекатывает связанную пару и меняет верхнюю позицию.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_ELBOW_ESCAPE_MOUNT",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Выход локтями из маунта",
+      "name_original": "Elbow Escape – Mount",
+      "kind": "grappling",
+      "family": "mount_escape",
+      "description_ru": "Нижний участник разворачивает корпус и возвращает ноги между телами.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_SHRIMP_ESCAPE",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Выход из бокового положения со смещением таза",
+      "name_original": "Shrimp Escape – Side Mount",
+      "kind": "grappling",
+      "family": "side_escape",
+      "description_ru": "Нижний участник смещает таз и меняет взаимное положение тел.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_ELEVATOR_SWEEP",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Переворот из гарда «лифт»",
+      "name_original": "Elevator Sweep – Guard",
+      "kind": "grappling",
+      "family": "guard_sweep",
+      "description_ru": "Участник снизу наклоняет и переворачивает пару из гарда.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_DOUBLE_ANKLE_SWEEP",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Переворот с контактом у обеих лодыжек",
+      "name_original": "Double Ankle Sweep – Guard",
+      "kind": "grappling",
+      "family": "guard_sweep",
+      "description_ru": "Нижний участник меняет опору стоящего партнёра и положение пары.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_DOUBLE_LEG_TAKEDOWN",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Перевод с захватом двух ног",
+      "name_original": "Double Leg Takedown",
+      "kind": "throw",
+      "family": "takedown",
+      "description_ru": "Стоящая пара сближается и вместе перемещается на мат.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_AMERICANA_MOUNT",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Американа из маунта",
+      "name_original": "Americana Armlock – Mount",
+      "kind": "grappling",
+      "family": "submission_pose",
+      "description_ru": "В маунте показывается фигура контроля согнутой руки.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_KIMURA_GUARD",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Кимура из гарда",
+      "name_original": "Kimura Armlock – Guard",
+      "kind": "grappling",
+      "family": "submission_pose",
+      "description_ru": "В гарде показывается фигура сцепления рук вокруг согнутой руки.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_STRAIGHT_ARMLOCK",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Прямой контроль руки из гарда",
+      "name_original": "Straight Armlock – Guard",
+      "kind": "grappling",
+      "family": "submission_pose",
+      "description_ru": "На мате показывается фигура удержания вытянутой руки между ногами.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_BJJ_TRIANGLE_GUARD",
+      "style_id": "bjj",
+      "style_ru": "BJJ — Gracie Combatives",
+      "name_ru": "Треугольник из гарда",
+      "name_original": "Triangle Choke – Guard",
+      "kind": "grappling",
+      "family": "submission_pose",
+      "description_ru": "Ноги образуют треугольную фигуру вокруг верхней части тела партнёра.",
+      "variant_note": "Именованный урок Gracie Combatives; варианты других школ отдельно.",
+      "source_ids": [
+        "HY_BJJ_GRACIE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "style": {
+    "style_id": "gunfu_prop",
+    "prefix": "GFP",
+    "name_ru": "Gun-fu: контакт оружейным реквизитом",
+    "entries": 3,
+    "categories": {
+      "W": 3
+    }
+  },
+  "entries": [
+    {
+      "code": "GFP-W1",
+      "prefix": "GFP",
+      "style_id": "gunfu_prop",
+      "category": "W",
+      "name_ru": "Контактный удар пистолетным реквизитом",
+      "display_ru": "Контактный удар пистолетным реквизитом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gunfu_prop.json",
+      "source_tag": "@STRIKE_GUNFU_PROP_PISTOL",
+      "catalogue_tags": [
+        "@STRIKE_GUNFU_PROP_PISTOL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GFP-W2",
+      "prefix": "GFP",
+      "style_id": "gunfu_prop",
+      "category": "W",
+      "name_ru": "Контактный удар прикладом реквизита",
+      "display_ru": "Контактный удар прикладом реквизита",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gunfu_prop.json",
+      "source_tag": "@STRIKE_GUNFU_PROP_BUTT",
+      "catalogue_tags": [
+        "@STRIKE_GUNFU_PROP_BUTT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GFP-W3",
+      "prefix": "GFP",
+      "style_id": "gunfu_prop",
+      "category": "W",
+      "name_ru": "Контактный удар корпусом длинного оружейного реквизита",
+      "display_ru": "Контактный удар корпусом длинного оружейного реквизита",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gunfu_prop.json",
+      "source_tag": "@STRIKE_GUNFU_PROP_FOREND",
+      "catalogue_tags": [
+        "@STRIKE_GUNFU_PROP_FOREND"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_GUNFU_PROP_PISTOL": "GFP-W1",
+    "@STRIKE_GUNFU_PROP_BUTT": "GFP-W2",
+    "@STRIKE_GUNFU_PROP_FOREND": "GFP-W3"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_GUNFU_PROP_PISTOL",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар пистолетным реквизитом",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар пистолетным реквизитом.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUNFU_PROP_BUTT",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар прикладом реквизита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар прикладом реквизита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUNFU_PROP_FOREND",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар корпусом длинного оружейного реквизита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар корпусом длинного оружейного реквизита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

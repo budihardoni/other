@@ -1,0 +1,314 @@
+{
+  "style": {
+    "style_id": "hema_liechtenauer",
+    "prefix": "HL",
+    "name_ru": "HEMA: Liechtenauer",
+    "entries": 8,
+    "categories": {
+      "W": 8
+    }
+  },
+  "entries": [
+    {
+      "code": "HL-W1",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Цорнхау — «гневный» рубящий",
+      "display_ru": "Цорнхау — «гневный» рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_ZORNHAU",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_ZORNHAU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W2",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Крумпхау — «кривой» рубящий",
+      "display_ru": "Крумпхау — «кривой» рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_KRUMPHAU",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_KRUMPHAU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W3",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Цверхау — поперечный рубящий",
+      "display_ru": "Цверхау — поперечный рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_ZWERCHHAU",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_ZWERCHHAU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W4",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Шильхау — «косящий» рубящий",
+      "display_ru": "Шильхау — «косящий» рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_SCHIELHAU",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_SCHIELHAU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W5",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Шайтельхау — верхний рубящий",
+      "display_ru": "Шайтельхау — верхний рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_SCHEITELHAU",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_SCHEITELHAU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W6",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Рубящий удар",
+      "display_ru": "Рубящий удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_HEW",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_HEW"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W7",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Укол",
+      "display_ru": "Укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_THRUST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HL-W8",
+      "prefix": "HL",
+      "style_id": "hema_liechtenauer",
+      "category": "W",
+      "name_ru": "Режущее проведение",
+      "display_ru": "Режущее проведение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_liechtenauer.json",
+      "source_tag": "@STRIKE_HEMA_LIECHTENAUER_SLICE",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_LIECHTENAUER_SLICE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_HEMA_LIECHTENAUER_ZORNHAU": "HL-W1",
+    "@STRIKE_HEMA_LIECHTENAUER_KRUMPHAU": "HL-W2",
+    "@STRIKE_HEMA_LIECHTENAUER_ZWERCHHAU": "HL-W3",
+    "@STRIKE_HEMA_LIECHTENAUER_SCHIELHAU": "HL-W4",
+    "@STRIKE_HEMA_LIECHTENAUER_SCHEITELHAU": "HL-W5",
+    "@STRIKE_HEMA_LIECHTENAUER_HEW": "HL-W6",
+    "@STRIKE_HEMA_LIECHTENAUER_THRUST": "HL-W7",
+    "@STRIKE_HEMA_LIECHTENAUER_SLICE": "HL-W8"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_ZORNHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Цорнхау — «гневный» рубящий",
+      "name_original": "Zornhau",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Цорнхау — «гневный» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_KRUMPHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Крумпхау — «кривой» рубящий",
+      "name_original": "Krumphau",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Крумпхау — «кривой» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_ZWERCHHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Цверхау — поперечный рубящий",
+      "name_original": "Zwerchhau / Twer haw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Цверхау — поперечный рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SCHIELHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Шильхау — «косящий» рубящий",
+      "name_original": "Schielhau / Schilhaw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Шильхау — «косящий» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SCHEITELHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Шайтельхау — верхний рубящий",
+      "name_original": "Scheitelhau / Schaittelhaw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Шайтельхау — верхний рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_HEW",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Рубящий удар",
+      "name_original": "Hau",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Рубящий удар.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_THRUST",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Укол",
+      "name_original": "Stich",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Укол.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SLICE",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Режущее проведение",
+      "name_original": "Schnitt",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Режущее проведение.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

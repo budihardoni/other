@@ -1,0 +1,133 @@
+{
+  "style": {
+    "style_id": "nhb",
+    "prefix": "NHB",
+    "name_ru": "Экранные бои без правил",
+    "entries": 3,
+    "categories": {
+      "F": 1,
+      "G": 2
+    }
+  },
+  "entries": [
+    {
+      "code": "NHB-F1",
+      "prefix": "NHB",
+      "style_id": "nhb",
+      "category": "F",
+      "name_ru": "Разрыв клинча и повторное сближение",
+      "display_ru": "Разрыв клинча и повторное сближение",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/nhb.json",
+      "source_tag": "@ACTION_NHB_CLINCH_BREAK_REENTRY",
+      "catalogue_tags": [
+        "@ACTION_NHB_CLINCH_BREAK_REENTRY"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "NHB-G1",
+      "prefix": "NHB",
+      "style_id": "nhb",
+      "category": "G",
+      "name_ru": "Обмен стоя с переходом в партер",
+      "display_ru": "Обмен стоя с переходом в партер",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/nhb.json",
+      "source_tag": "@ACTION_NHB_STANDUP_TO_GROUND",
+      "catalogue_tags": [
+        "@ACTION_NHB_STANDUP_TO_GROUND"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "NHB-G2",
+      "prefix": "NHB",
+      "style_id": "nhb",
+      "category": "G",
+      "name_ru": "Борьба за позицию с ударными вставками",
+      "display_ru": "Борьба за позицию с ударными вставками",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/nhb.json",
+      "source_tag": "@ACTION_NHB_POSITION_WITH_STRIKES",
+      "catalogue_tags": [
+        "@ACTION_NHB_POSITION_WITH_STRIKES"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_NHB_STANDUP_TO_GROUND": "NHB-G1",
+    "@ACTION_NHB_POSITION_WITH_STRIKES": "NHB-G2",
+    "@ACTION_NHB_CLINCH_BREAK_REENTRY": "NHB-F1"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_NHB_CLINCH_BREAK_REENTRY",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Разрыв клинча и повторное сближение",
+      "name_original": "Authored clinch break and re-entry",
+      "kind": "screen_motif",
+      "family": "hybrid_exchange",
+      "description_ru": "Участники размыкают контакт, обмениваются руками и снова сближаются.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_PATHWAYS"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NHB_STANDUP_TO_GROUND",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Обмен стоя с переходом в партер",
+      "name_original": "Authored stand-up-to-ground exchange",
+      "kind": "screen_motif",
+      "family": "phase_transition",
+      "description_ru": "Ручной обмен переходит в сцепление тел и борьбу на мате.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_PATHWAYS"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NHB_POSITION_WITH_STRIKES",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Борьба за позицию с ударными вставками",
+      "name_original": "Authored positional struggle with strikes",
+      "kind": "screen_motif",
+      "family": "hybrid_exchange",
+      "description_ru": "Пара меняет положение на мате; между переходами видны отдельные удары.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

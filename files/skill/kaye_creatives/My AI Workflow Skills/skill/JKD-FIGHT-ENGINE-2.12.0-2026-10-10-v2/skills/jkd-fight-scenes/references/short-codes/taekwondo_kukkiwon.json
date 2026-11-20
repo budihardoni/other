@@ -1,0 +1,3423 @@
+{
+  "style": {
+    "style_id": "taekwondo_kukkiwon",
+    "prefix": "TKD",
+    "name_ru": "Тхэквондо: Kukkiwon / WT",
+    "entries": 92,
+    "categories": {
+      "H": 51,
+      "K": 41
+    }
+  },
+  "entries": [
+    {
+      "code": "TKD-H1",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Прямой удар кулаком",
+      "display_ru": "Прямой удар кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_STRAIGHT_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_STRAIGHT_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H2",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар выступающим суставом",
+      "display_ru": "Удар выступающим суставом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNUCKLE_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNUCKLE_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H3",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар кулаком-клещами",
+      "display_ru": "Удар кулаком-клещами",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PINCERS_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PINCERS_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H4",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар полусжатым кулаком",
+      "display_ru": "Удар полусжатым кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_FLAT_FIST_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_FLAT_FIST_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H5",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Апперкот",
+      "display_ru": "Апперкот",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_UPPERCUT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H6",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар перевёрнутым кулаком",
+      "display_ru": "Удар перевёрнутым кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_TURN_OVER_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_TURN_OVER_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H7",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Круговой удар кулаком",
+      "display_ru": "Круговой удар кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ROUND_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ROUND_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H8",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар кулаком назад",
+      "display_ru": "Удар кулаком назад",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACKWARD_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACKWARD_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H9",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар кулаком вниз",
+      "display_ru": "Удар кулаком вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_DOWNWARD_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_DOWNWARD_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H10",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Прямой вертикальным кулаком",
+      "display_ru": "Прямой вертикальным кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_VERTICAL_FIST_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_VERTICAL_FIST_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H11",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Прямой удар в сторону",
+      "display_ru": "Прямой удар в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SIDE_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SIDE_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H12",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар кулаком при удержании",
+      "display_ru": "Удар кулаком при удержании",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PULLING_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PULLING_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H13",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Двойной удар «вилка»",
+      "display_ru": "Двойной удар «вилка»",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_FORK_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_FORK_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H14",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Двойной разноуровневый удар",
+      "display_ru": "Двойной разноуровневый удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_DIGEUT_DOUBLE_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_DIGEUT_DOUBLE_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H15",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Удар кулаком с поднятым защитным предплечьем",
+      "display_ru": "Удар кулаком с поднятым защитным предплечьем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_GEUMGANG_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_GEUMGANG_PUNCH"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H16",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Обратный кулак вперёд",
+      "display_ru": "Обратный кулак вперёд",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACKFIST_FORWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACKFIST_FORWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H17",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Обратный кулак наружу",
+      "display_ru": "Обратный кулак наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACKFIST_OUTWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACKFIST_OUTWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H18",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Обратный кулак вниз",
+      "display_ru": "Обратный кулак вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACKFIST_DOWNWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACKFIST_DOWNWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H19",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Обратный кулак в сторону",
+      "display_ru": "Обратный кулак в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACKFIST_SIDE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACKFIST_SIDE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H20",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Кулак-молот внутрь",
+      "display_ru": "Кулак-молот внутрь",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_HAMMERFIST_INWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_HAMMERFIST_INWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H21",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Кулак-молот наружу",
+      "display_ru": "Кулак-молот наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_HAMMERFIST_OUTWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_HAMMERFIST_OUTWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H22",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Кулак-молот вниз",
+      "display_ru": "Кулак-молот вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_HAMMERFIST_DOWNWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_HAMMERFIST_DOWNWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H23",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Кулак-молот в сторону",
+      "display_ru": "Кулак-молот в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_HAMMERFIST_SIDE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_HAMMERFIST_SIDE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H24",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Ребро ладони внутрь",
+      "display_ru": "Ребро ладони внутрь",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNIFEHAND_INWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNIFEHAND_INWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H25",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Ребро ладони наружу",
+      "display_ru": "Ребро ладони наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNIFEHAND_OUTWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNIFEHAND_OUTWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H26",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Ребро ладони вниз",
+      "display_ru": "Ребро ладони вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNIFEHAND_DOWNWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNIFEHAND_DOWNWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H27",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Ребро ладони в сторону",
+      "display_ru": "Ребро ладони в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNIFEHAND_SIDE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNIFEHAND_SIDE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H28",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Внутреннее ребро ладони внутрь",
+      "display_ru": "Внутреннее ребро ладони внутрь",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_RIDGEHAND_INWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_RIDGEHAND_INWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H29",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Внутреннее ребро ладони наружу",
+      "display_ru": "Внутреннее ребро ладони наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_RIDGEHAND_OUTWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_RIDGEHAND_OUTWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H30",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Внутреннее ребро ладони вниз",
+      "display_ru": "Внутреннее ребро ладони вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_RIDGEHAND_DOWNWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_RIDGEHAND_DOWNWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H31",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Внутреннее ребро ладони в сторону",
+      "display_ru": "Внутреннее ребро ладони в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_RIDGEHAND_SIDE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_RIDGEHAND_SIDE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H32",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Основание ладони вперёд",
+      "display_ru": "Основание ладони вперёд",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PALM_HEEL_FORWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PALM_HEEL_FORWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H33",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Основание ладони внутрь",
+      "display_ru": "Основание ладони внутрь",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PALM_HEEL_INWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PALM_HEEL_INWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H34",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Основание ладони вверх",
+      "display_ru": "Основание ладони вверх",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PALM_HEEL_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PALM_HEEL_UPWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H35",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Согнутая кисть вверх",
+      "display_ru": "Согнутая кисть вверх",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BENT_WRIST_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BENT_WRIST_UPWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H36",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Дуга кисти вперёд",
+      "display_ru": "Дуга кисти вперёд",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ARC_HAND_FORWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ARC_HAND_FORWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H37",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Круговой локоть",
+      "display_ru": "Круговой локоть",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ELBOW_ROUND",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ELBOW_ROUND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H38",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Локоть назад",
+      "display_ru": "Локоть назад",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ELBOW_BACK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ELBOW_BACK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H39",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Локоть вниз",
+      "display_ru": "Локоть вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ELBOW_DOWNWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ELBOW_DOWNWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H40",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Локоть вверх",
+      "display_ru": "Локоть вверх",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ELBOW_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ELBOW_UPWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H41",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Локоть в сторону",
+      "display_ru": "Локоть в сторону",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ELBOW_SIDE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ELBOW_SIDE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H42",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Двойной локоть в стороны",
+      "display_ru": "Двойной локоть в стороны",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_DOUBLE_ELBOW_YOKE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_DOUBLE_ELBOW_YOKE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H43",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Прямой ладонью с поднятой второй рукой",
+      "display_ru": "Прямой ладонью с поднятой второй рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SWALLOW_PALM",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SWALLOW_PALM"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H44",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Ребро ладони внутрь с поднятой второй рукой",
+      "display_ru": "Ребро ладони внутрь с поднятой второй рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SWALLOW_KNIFEHAND",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SWALLOW_KNIFEHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H45",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Горизонтальный укол кистью",
+      "display_ru": "Горизонтальный укол кистью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SPEARHAND_HORIZONTAL",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SPEARHAND_HORIZONTAL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H46",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Вертикально ориентированный укол кистью",
+      "display_ru": "Вертикально ориентированный укол кистью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SPEARHAND_VERTICAL",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SPEARHAND_VERTICAL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H47",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Укол перевёрнутой кистью",
+      "display_ru": "Укол перевёрнутой кистью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SPEARHAND_TURN_OVER",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SPEARHAND_TURN_OVER"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H48",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Укол разведёнными пальцами",
+      "display_ru": "Укол разведёнными пальцами",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SCISSORS_FINGERS",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SCISSORS_FINGERS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H49",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Укол одним пальцем",
+      "display_ru": "Укол одним пальцем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SINGLE_FINGER_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SINGLE_FINGER_THRUST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H50",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Укол двумя собранными пальцами",
+      "display_ru": "Укол двумя собранными пальцами",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_TWO_FINGERS_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_TWO_FINGERS_THRUST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-H51",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "H",
+      "name_ru": "Укол тремя собранными пальцами",
+      "display_ru": "Укол тремя собранными пальцами",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_THREE_FINGERS_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_THREE_FINGERS_THRUST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K1",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Фронтальный кик",
+      "display_ru": "Фронтальный кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_FRONT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_FRONT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K2",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Боковой кик",
+      "display_ru": "Боковой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K3",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Задний прямой кик",
+      "display_ru": "Задний прямой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K4",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой кик",
+      "display_ru": "Круговой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_ROUNDHOUSE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_ROUNDHOUSE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K5",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Дуговой кик внутрь",
+      "display_ru": "Дуговой кик внутрь",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_INWARD_CRESCENT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_INWARD_CRESCENT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K6",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Дуговой кик наружу",
+      "display_ru": "Дуговой кик наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_OUTWARD_CRESCENT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_OUTWARD_CRESCENT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K7",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Промежуточный полукруговой кик",
+      "display_ru": "Промежуточный полукруговой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BANDAL_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BANDAL_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K8",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Выкручивающий кик наружу",
+      "display_ru": "Выкручивающий кик наружу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_TWISTING_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_TWISTING_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K9",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Хлёсткий удар пяткой",
+      "display_ru": "Хлёсткий удар пяткой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_WHIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_WHIP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K10",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Обратный хлёсткий кик",
+      "display_ru": "Обратный хлёсткий кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_BACK_WHIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_BACK_WHIP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K11",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Подхватывающий кик пяткой",
+      "display_ru": "Подхватывающий кик пяткой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_HOOK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_HOOK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K12",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Нисходящий кик пяткой",
+      "display_ru": "Нисходящий кик пяткой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_AXE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_AXE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K13",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Толкающий фронтальный кик",
+      "display_ru": "Толкающий фронтальный кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PUSH_FRONT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PUSH_FRONT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K14",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Толкающий боковой кик",
+      "display_ru": "Толкающий боковой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_PUSH_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_PUSH_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K15",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Топчущий удар вниз",
+      "display_ru": "Топчущий удар вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_FOOT_STAMP",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_FOOT_STAMP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K16",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой кик с полным вращением",
+      "display_ru": "Круговой кик с полным вращением",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_TORNADO_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_TORNADO_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K17",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Попеременные фронтальные кики в прыжке",
+      "display_ru": "Попеременные фронтальные кики в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_ALTERNATE_FLYING_FRONT_KICKS",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_ALTERNATE_FLYING_FRONT_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K18",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Двойной круговой кик в воздухе",
+      "display_ru": "Двойной круговой кик в воздухе",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_DOUBLE_AIR_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_DOUBLE_AIR_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K19",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Двухнаправленный кик-ножницы",
+      "display_ru": "Двухнаправленный кик-ножницы",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SCISSOR_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SCISSOR_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K20",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Двуногий фронтальный кик",
+      "display_ru": "Двуногий фронтальный кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_DOUBLE_FOOT_FRONT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_DOUBLE_FOOT_FRONT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K21",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Двуногий боковой кик",
+      "display_ru": "Двуногий боковой кик",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_DOUBLE_FOOT_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_DOUBLE_FOOT_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K22",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Повторные фронтальные кики одной ногой",
+      "display_ru": "Повторные фронтальные кики одной ногой",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_REPEATED_FRONT_KICKS",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_REPEATED_FRONT_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K23",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Повторные круговые кики одной ногой",
+      "display_ru": "Повторные круговые кики одной ногой",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_REPEATED_ROUNDHOUSE_KICKS",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_REPEATED_ROUNDHOUSE_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K24",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Повторные боковые кики одной ногой",
+      "display_ru": "Повторные боковые кики одной ногой",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_REPEATED_SIDE_KICKS",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_REPEATED_SIDE_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K25",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Попеременные круговые кики",
+      "display_ru": "Попеременные круговые кики",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@ACTION_TKD_KKW_ALTERNATING_ROUNDHOUSE_KICKS",
+      "catalogue_tags": [
+        "@ACTION_TKD_KKW_ALTERNATING_ROUNDHOUSE_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K26",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Кик с вертикальным переворотом",
+      "display_ru": "Кик с вертикальным переворотом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_FLIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_FLIP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K27",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Фронтальный кик в прыжке",
+      "display_ru": "Фронтальный кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_FRONT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_FRONT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K28",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Боковой кик в прыжке",
+      "display_ru": "Боковой кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K29",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Задний прямой кик в прыжке",
+      "display_ru": "Задний прямой кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_BACK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_BACK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K30",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой кик в прыжке",
+      "display_ru": "Круговой кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_ROUNDHOUSE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_ROUNDHOUSE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K31",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Обратный хлёсткий кик в прыжке",
+      "display_ru": "Обратный хлёсткий кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_BACK_WHIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_BACK_WHIP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K32",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Выкручивающий кик в прыжке",
+      "display_ru": "Выкручивающий кик в прыжке",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_JUMP_TWISTING_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_JUMP_TWISTING_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K33",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Нисходящий кик с разворотом и прыжком",
+      "display_ru": "Нисходящий кик с разворотом и прыжком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_TURNING_JUMP_AXE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_TURNING_JUMP_AXE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K34",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой кик с подскоком",
+      "display_ru": "Круговой кик с подскоком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SKIP_ROUNDHOUSE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SKIP_ROUNDHOUSE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K35",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Боковой кик с подскоком",
+      "display_ru": "Боковой кик с подскоком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SKIP_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SKIP_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K36",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Хлёсткий кик с подскоком",
+      "display_ru": "Хлёсткий кик с подскоком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SKIP_WHIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SKIP_WHIP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K37",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Нисходящий кик с подскоком",
+      "display_ru": "Нисходящий кик с подскоком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_SKIP_AXE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_SKIP_AXE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K38",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой кик с предварительным притопом",
+      "display_ru": "Круговой кик с предварительным притопом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_GROUND_STAMP_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_GROUND_STAMP_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K39",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Боковой кик с предварительным притопом",
+      "display_ru": "Боковой кик с предварительным притопом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_GROUND_STAMP_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_GROUND_STAMP_SIDE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K40",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Колено вверх",
+      "display_ru": "Колено вверх",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNEE_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNEE_UPWARD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TKD-K41",
+      "prefix": "TKD",
+      "style_id": "taekwondo_kukkiwon",
+      "category": "K",
+      "name_ru": "Круговой удар коленом",
+      "display_ru": "Круговой удар коленом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taekwondo_kukkiwon.json",
+      "source_tag": "@STRIKE_TKD_KKW_KNEE_ROUND",
+      "catalogue_tags": [
+        "@STRIKE_TKD_KKW_KNEE_ROUND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_TKD_KKW_FRONT_KICK": "TKD-K1",
+    "@STRIKE_TKD_KKW_SIDE_KICK": "TKD-K2",
+    "@STRIKE_TKD_KKW_BACK_KICK": "TKD-K3",
+    "@STRIKE_TKD_KKW_ROUNDHOUSE_KICK": "TKD-K4",
+    "@STRIKE_TKD_KKW_INWARD_CRESCENT_KICK": "TKD-K5",
+    "@STRIKE_TKD_KKW_OUTWARD_CRESCENT_KICK": "TKD-K6",
+    "@STRIKE_TKD_KKW_BANDAL_KICK": "TKD-K7",
+    "@STRIKE_TKD_KKW_TWISTING_KICK": "TKD-K8",
+    "@STRIKE_TKD_KKW_WHIP_KICK": "TKD-K9",
+    "@STRIKE_TKD_KKW_BACK_WHIP_KICK": "TKD-K10",
+    "@STRIKE_TKD_KKW_HOOK_KICK": "TKD-K11",
+    "@STRIKE_TKD_KKW_AXE_KICK": "TKD-K12",
+    "@STRIKE_TKD_KKW_PUSH_FRONT_KICK": "TKD-K13",
+    "@STRIKE_TKD_KKW_PUSH_SIDE_KICK": "TKD-K14",
+    "@STRIKE_TKD_KKW_FOOT_STAMP": "TKD-K15",
+    "@STRIKE_TKD_KKW_TORNADO_KICK": "TKD-K16",
+    "@ACTION_TKD_KKW_ALTERNATE_FLYING_FRONT_KICKS": "TKD-K17",
+    "@ACTION_TKD_KKW_DOUBLE_AIR_ROUNDHOUSE": "TKD-K18",
+    "@STRIKE_TKD_KKW_SCISSOR_KICK": "TKD-K19",
+    "@STRIKE_TKD_KKW_DOUBLE_FOOT_FRONT_KICK": "TKD-K20",
+    "@STRIKE_TKD_KKW_DOUBLE_FOOT_SIDE_KICK": "TKD-K21",
+    "@ACTION_TKD_KKW_REPEATED_FRONT_KICKS": "TKD-K22",
+    "@ACTION_TKD_KKW_REPEATED_ROUNDHOUSE_KICKS": "TKD-K23",
+    "@ACTION_TKD_KKW_REPEATED_SIDE_KICKS": "TKD-K24",
+    "@ACTION_TKD_KKW_ALTERNATING_ROUNDHOUSE_KICKS": "TKD-K25",
+    "@STRIKE_TKD_KKW_FLIP_KICK": "TKD-K26",
+    "@STRIKE_TKD_KKW_JUMP_FRONT_KICK": "TKD-K27",
+    "@STRIKE_TKD_KKW_JUMP_SIDE_KICK": "TKD-K28",
+    "@STRIKE_TKD_KKW_JUMP_BACK_KICK": "TKD-K29",
+    "@STRIKE_TKD_KKW_JUMP_ROUNDHOUSE_KICK": "TKD-K30",
+    "@STRIKE_TKD_KKW_JUMP_BACK_WHIP_KICK": "TKD-K31",
+    "@STRIKE_TKD_KKW_JUMP_TWISTING_KICK": "TKD-K32",
+    "@STRIKE_TKD_KKW_TURNING_JUMP_AXE_KICK": "TKD-K33",
+    "@STRIKE_TKD_KKW_SKIP_ROUNDHOUSE_KICK": "TKD-K34",
+    "@STRIKE_TKD_KKW_SKIP_SIDE_KICK": "TKD-K35",
+    "@STRIKE_TKD_KKW_SKIP_WHIP_KICK": "TKD-K36",
+    "@STRIKE_TKD_KKW_SKIP_AXE_KICK": "TKD-K37",
+    "@STRIKE_TKD_KKW_GROUND_STAMP_ROUNDHOUSE": "TKD-K38",
+    "@STRIKE_TKD_KKW_GROUND_STAMP_SIDE_KICK": "TKD-K39",
+    "@STRIKE_TKD_KKW_STRAIGHT_PUNCH": "TKD-H1",
+    "@STRIKE_TKD_KKW_KNUCKLE_PUNCH": "TKD-H2",
+    "@STRIKE_TKD_KKW_PINCERS_PUNCH": "TKD-H3",
+    "@STRIKE_TKD_KKW_FLAT_FIST_PUNCH": "TKD-H4",
+    "@STRIKE_TKD_KKW_UPPERCUT": "TKD-H5",
+    "@STRIKE_TKD_KKW_TURN_OVER_PUNCH": "TKD-H6",
+    "@STRIKE_TKD_KKW_ROUND_PUNCH": "TKD-H7",
+    "@STRIKE_TKD_KKW_BACKWARD_PUNCH": "TKD-H8",
+    "@STRIKE_TKD_KKW_DOWNWARD_PUNCH": "TKD-H9",
+    "@STRIKE_TKD_KKW_VERTICAL_FIST_PUNCH": "TKD-H10",
+    "@STRIKE_TKD_KKW_SIDE_PUNCH": "TKD-H11",
+    "@STRIKE_TKD_KKW_PULLING_PUNCH": "TKD-H12",
+    "@STRIKE_TKD_KKW_FORK_PUNCH": "TKD-H13",
+    "@STRIKE_TKD_KKW_DIGEUT_DOUBLE_PUNCH": "TKD-H14",
+    "@STRIKE_TKD_KKW_GEUMGANG_PUNCH": "TKD-H15",
+    "@STRIKE_TKD_KKW_BACKFIST_FORWARD": "TKD-H16",
+    "@STRIKE_TKD_KKW_BACKFIST_OUTWARD": "TKD-H17",
+    "@STRIKE_TKD_KKW_BACKFIST_DOWNWARD": "TKD-H18",
+    "@STRIKE_TKD_KKW_BACKFIST_SIDE": "TKD-H19",
+    "@STRIKE_TKD_KKW_HAMMERFIST_INWARD": "TKD-H20",
+    "@STRIKE_TKD_KKW_HAMMERFIST_OUTWARD": "TKD-H21",
+    "@STRIKE_TKD_KKW_HAMMERFIST_DOWNWARD": "TKD-H22",
+    "@STRIKE_TKD_KKW_HAMMERFIST_SIDE": "TKD-H23",
+    "@STRIKE_TKD_KKW_KNIFEHAND_INWARD": "TKD-H24",
+    "@STRIKE_TKD_KKW_KNIFEHAND_OUTWARD": "TKD-H25",
+    "@STRIKE_TKD_KKW_KNIFEHAND_DOWNWARD": "TKD-H26",
+    "@STRIKE_TKD_KKW_KNIFEHAND_SIDE": "TKD-H27",
+    "@STRIKE_TKD_KKW_RIDGEHAND_INWARD": "TKD-H28",
+    "@STRIKE_TKD_KKW_RIDGEHAND_OUTWARD": "TKD-H29",
+    "@STRIKE_TKD_KKW_RIDGEHAND_DOWNWARD": "TKD-H30",
+    "@STRIKE_TKD_KKW_RIDGEHAND_SIDE": "TKD-H31",
+    "@STRIKE_TKD_KKW_PALM_HEEL_FORWARD": "TKD-H32",
+    "@STRIKE_TKD_KKW_PALM_HEEL_INWARD": "TKD-H33",
+    "@STRIKE_TKD_KKW_PALM_HEEL_UPWARD": "TKD-H34",
+    "@STRIKE_TKD_KKW_BENT_WRIST_UPWARD": "TKD-H35",
+    "@STRIKE_TKD_KKW_ARC_HAND_FORWARD": "TKD-H36",
+    "@STRIKE_TKD_KKW_ELBOW_ROUND": "TKD-H37",
+    "@STRIKE_TKD_KKW_ELBOW_BACK": "TKD-H38",
+    "@STRIKE_TKD_KKW_ELBOW_DOWNWARD": "TKD-H39",
+    "@STRIKE_TKD_KKW_ELBOW_UPWARD": "TKD-H40",
+    "@STRIKE_TKD_KKW_ELBOW_SIDE": "TKD-H41",
+    "@STRIKE_TKD_KKW_DOUBLE_ELBOW_YOKE": "TKD-H42",
+    "@STRIKE_TKD_KKW_KNEE_UPWARD": "TKD-K40",
+    "@STRIKE_TKD_KKW_KNEE_ROUND": "TKD-K41",
+    "@STRIKE_TKD_KKW_SWALLOW_PALM": "TKD-H43",
+    "@STRIKE_TKD_KKW_SWALLOW_KNIFEHAND": "TKD-H44",
+    "@STRIKE_TKD_KKW_SPEARHAND_HORIZONTAL": "TKD-H45",
+    "@STRIKE_TKD_KKW_SPEARHAND_VERTICAL": "TKD-H46",
+    "@STRIKE_TKD_KKW_SPEARHAND_TURN_OVER": "TKD-H47",
+    "@STRIKE_TKD_KKW_SCISSORS_FINGERS": "TKD-H48",
+    "@STRIKE_TKD_KKW_SINGLE_FINGER_THRUST": "TKD-H49",
+    "@STRIKE_TKD_KKW_TWO_FINGERS_THRUST": "TKD-H50",
+    "@STRIKE_TKD_KKW_THREE_FINGERS_THRUST": "TKD-H51"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_TKD_KKW_STRAIGHT_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Прямой удар кулаком",
+      "name_original": "Jumeok-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит вперёд по прямой линии.",
+      "variant_note": "Базовая кулачная поверхность; стойка и jodan/momtong/arae не создают отдельные записи.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNUCKLE_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар выступающим суставом",
+      "name_original": "Bamjumeok-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру выделенным суставом пальца.",
+      "variant_note": "Именованный вариант ударной поверхности; не новая траектория.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PINCERS_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар кулаком-клещами",
+      "name_original": "Jipge-jumeok-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Полусжатая кисть проходит вперёд в форме клещей.",
+      "variant_note": "Именованный вариант поверхности; не хватание как отдельная техника.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_FLAT_FIST_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар полусжатым кулаком",
+      "name_original": "Pyeon-jumeok-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Полусжатый кулак проходит к партнёру плоской линией согнутых пальцев.",
+      "variant_note": "Поверхность отличается от полного Jumeok.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_UPPERCUT",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Апперкот",
+      "name_original": "Chi-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит по вертикальной восходящей линии.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_TURN_OVER_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар перевёрнутым кулаком",
+      "name_original": "Jeocheo-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит коротко снизу с обращённой вверх ладонью.",
+      "variant_note": "Отделён в терминологии от вертикального Chi-jireugi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ROUND_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой удар кулаком",
+      "name_original": "Dollyeo-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру по боковой круговой дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACKWARD_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар кулаком назад",
+      "name_original": "Dwi-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак выходит к цели позади корпуса по поворотной линии.",
+      "variant_note": "Источник описывает круговой выход назад; не автоматически boxing cross.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_DOWNWARD_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар кулаком вниз",
+      "name_original": "Naeryeo-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит по нисходящей прямой линии.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_VERTICAL_FIST_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Прямой вертикальным кулаком",
+      "name_original": "Sewo-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит прямо с вертикальной ориентацией кисти.",
+      "variant_note": "Ориентация поверхности, а не движение вверх; в PDF встречается опечатка Sewo-jiruegi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SIDE_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Прямой удар в сторону",
+      "name_original": "Yeop-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит по прямой линии в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PULLING_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар кулаком при удержании",
+      "name_original": "Danggyeo-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Один кулак выходит к партнёру, пока другая рука удерживает контакт.",
+      "variant_note": "Составная форма с удержанием; конкретный захват не становится универсальным шагом.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_FORK_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двойной удар «вилка»",
+      "name_original": "Chetdari-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Оба кулака одновременно выходят вперёд двумя разнесёнными линиями.",
+      "variant_note": "Один двуручный удар, а не серия.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_DIGEUT_DOUBLE_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двойной разноуровневый удар",
+      "name_original": "Digeutja-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Два кулака одновременно выходят по разнесённым верхней и нижней линиям.",
+      "variant_note": "Именованная форма буквы ㄷ; не любое сочетание двух кулаков.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_GEUMGANG_PUNCH",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Удар кулаком с поднятым защитным предплечьем",
+      "name_original": "Geumgang-jireugi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Один кулак выходит вперёд или в сторону, пока другая рука поднята.",
+      "variant_note": "Составная ударно-защитная форма; Geumgang-ap/yeop-jireugi — именованные варианты направления.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACKFIST_FORWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный кулак вперёд",
+      "name_original": "Deungjumeok-ap-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака проходит вперёд короткой дугой.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACKFIST_OUTWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный кулак наружу",
+      "name_original": "Deungjumeok-bakkat-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака проходит по дуге наружу.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACKFIST_DOWNWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный кулак вниз",
+      "name_original": "Deungjumeok-naeryeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака проходит сверху вниз.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACKFIST_SIDE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный кулак в сторону",
+      "name_original": "Deungjumeok-yeop-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака выходит в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_HAMMERFIST_INWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Кулак-молот внутрь",
+      "name_original": "Mejumeok-an-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край кулака проходит по сходящейся внутренней дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_HAMMERFIST_OUTWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Кулак-молот наружу",
+      "name_original": "Mejumeok-bakkat-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край кулака проходит по расходящейся наружной дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_HAMMERFIST_DOWNWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Кулак-молот вниз",
+      "name_original": "Mejumeok-naeryeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край кулака проходит сверху вниз.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_HAMMERFIST_SIDE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Кулак-молот в сторону",
+      "name_original": "Mejumeok-yeop-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край кулака выходит в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNIFEHAND_INWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Ребро ладони внутрь",
+      "name_original": "Sonnal-an-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внешнее ребро ладони проходит по дуге внутрь.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNIFEHAND_OUTWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Ребро ладони наружу",
+      "name_original": "Sonnal-bakkat-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внешнее ребро ладони проходит по дуге наружу.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNIFEHAND_DOWNWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Ребро ладони вниз",
+      "name_original": "Sonnal-naeryeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внешнее ребро ладони проходит сверху вниз.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNIFEHAND_SIDE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Ребро ладони в сторону",
+      "name_original": "Sonnal-yeop-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внешнее ребро ладони выходит в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_RIDGEHAND_INWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Внутреннее ребро ладони внутрь",
+      "name_original": "Sonnaldeung-an-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внутреннее ребро ладони проходит по дуге внутрь.",
+      "variant_note": "Reverse Knife Hand означает другую поверхность кисти, не обязательный разворот тела.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_RIDGEHAND_OUTWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Внутреннее ребро ладони наружу",
+      "name_original": "Sonnaldeung-bakkat-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внутреннее ребро ладони проходит по дуге наружу.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_RIDGEHAND_DOWNWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Внутреннее ребро ладони вниз",
+      "name_original": "Sonnaldeung-naeryeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внутреннее ребро ладони проходит сверху вниз.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_RIDGEHAND_SIDE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Внутреннее ребро ладони в сторону",
+      "name_original": "Sonnaldeung-yeop-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внутреннее ребро ладони выходит в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PALM_HEEL_FORWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Основание ладони вперёд",
+      "name_original": "Batangson-ap-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание ладони проходит прямо вперёд.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PALM_HEEL_INWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Основание ладони внутрь",
+      "name_original": "Batangson-an-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание ладони проходит по короткой внутренней дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PALM_HEEL_UPWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Основание ладони вверх",
+      "name_original": "Batangson-ollyeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание ладони проходит по восходящей линии.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BENT_WRIST_UPWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Согнутая кисть вверх",
+      "name_original": "Gupinsonmok-ollyeo-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Согнутая кисть выводит область запястья вверх.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ARC_HAND_FORWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Дуга кисти вперёд",
+      "name_original": "Ageumson-ap-chigi / Kaljaebi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Открытая кисть проходит вперёд дугой между большим и указательным пальцами.",
+      "variant_note": "Kaljaebi — дополнительное имя, не вторая техника.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ELBOW_ROUND",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой локоть",
+      "name_original": "Palgup-dollyeo-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по короткой круговой дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ELBOW_BACK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Локоть назад",
+      "name_original": "Dwi-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть коротко выходит назад.",
+      "variant_note": "В этой главе Dwi-chigi определён именно как задний локоть; не общий тег любого удара назад.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ELBOW_DOWNWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Локоть вниз",
+      "name_original": "Palgup-naeryeo-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит сверху вниз.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ELBOW_UPWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Локоть вверх",
+      "name_original": "Palgup-ollyeo-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по восходящей линии.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ELBOW_SIDE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Локоть в сторону",
+      "name_original": "Palgup-yeop-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть выходит в сторону.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_DOUBLE_ELBOW_YOKE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двойной локоть в стороны",
+      "name_original": "Du-palgup-yeop-chigi / Meongae-chigi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Оба локтя одновременно выходят в разные стороны.",
+      "variant_note": "Одна двуручная форма; Meongae/Meonge/Meongae-chigi — варианты записи в документе.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SWALLOW_PALM",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Прямой ладонью с поднятой второй рукой",
+      "name_original": "Jebipum-batangson-ap-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Одна ладонь выходит прямо вперёд, пока вторая рука поднята.",
+      "variant_note": "Составная Swallow-форма включает защитную руку; она не добавляет отдельный удар.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SWALLOW_KNIFEHAND",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Ребро ладони внутрь с поднятой второй рукой",
+      "name_original": "Jebipum-sonnal-an-chigi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Ребро одной ладони проходит внутрь, пока вторая рука поднята.",
+      "variant_note": "Именованный вариант Swallow; базовая ударная траектория Sonnal-an-chigi сохраняется.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SPEARHAND_HORIZONTAL",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Горизонтальный укол кистью",
+      "name_original": "Pyeonsonkkeut-eopeo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Собранная кисть проходит вперёд горизонтально ориентированными пальцами.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SPEARHAND_VERTICAL",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Вертикально ориентированный укол кистью",
+      "name_original": "Pyeonsonkkeut-sewo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Собранная кисть проходит вперёд вертикально ориентированными пальцами.",
+      "variant_note": "Vertical обозначает ориентацию кисти, не обязательно восходящую траекторию.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SPEARHAND_TURN_OVER",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Укол перевёрнутой кистью",
+      "name_original": "Jeocheo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд пальцами с обращённой вверх ладонью.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SCISSORS_FINGERS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Укол разведёнными пальцами",
+      "name_original": "Gawisonkkeut-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд двумя разнесёнными пальцами.",
+      "variant_note": "Поверхность отличается от двух собранных пальцев.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SINGLE_FINGER_THRUST",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Укол одним пальцем",
+      "name_original": "Hansonkkeut-sewo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд одним вытянутым пальцем.",
+      "variant_note": "Именованный вариант поверхности; уязвимая анатомическая цель не встроена в тег.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_TWO_FINGERS_THRUST",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Укол двумя собранными пальцами",
+      "name_original": "Moeundusonkkeut-sewo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд двумя собранными пальцами.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_THREE_FINGERS_THRUST",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Укол тремя собранными пальцами",
+      "name_original": "Moeunsesonkkeut-sewo-jjireugi",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд тремя собранными пальцами.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_FRONT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Фронтальный кик",
+      "name_original": "Ap-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд по фронтальной линии.",
+      "variant_note": "Базовая семья; документ отдельно называет Apchuk/Baldeung/Dwichuk-ap-chagi для подушечки, подъёма и пятки.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Боковой кик",
+      "name_original": "Yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выдвигается по прямой при боковом положении корпуса.",
+      "variant_note": "Ударная поверхность — край стопы или пятка; высота не создаёт новый базовый удар.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACK_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Задний прямой кик",
+      "name_original": "Dwi-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит назад по прямой линии.",
+      "variant_note": "Возможен с предварительным разворотом или из позиции спиной; не круговая пятка.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_ROUNDHOUSE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой кик",
+      "name_original": "Dollyeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к партнёру по боковой круговой дуге.",
+      "variant_note": "Apchuk/Baldeung-dollyeo-chagi различают подушечку и подъём; это поверхности одной семьи.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_INWARD_CRESCENT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Дуговой кик внутрь",
+      "name_original": "An-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по дуге снаружи внутрь.",
+      "variant_note": "Именованная внутренняя дуга; не автоматический синоним Bandal-chagi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_OUTWARD_CRESCENT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Дуговой кик наружу",
+      "name_original": "Bakkat-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по дуге изнутри наружу.",
+      "variant_note": "Именованное обратное направление An-chagi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BANDAL_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Промежуточный полукруговой кик",
+      "name_original": "Bandal-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит короткой полукруговой линией внутрь.",
+      "variant_note": "В использованной редакции похож на Dollyeo, но отличается поворотом опоры; не сливается с широкими An/Bakkat дугами.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_TWISTING_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Выкручивающий кик наружу",
+      "name_original": "Biteureo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подъём стопы проходит по разворачивающейся дуге изнутри наружу.",
+      "variant_note": "Не синоним Bakkat, который описан другой поверхностью и дугой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_WHIP_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Хлёсткий удар пяткой",
+      "name_original": "Huryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит к партнёру по хлёсткой круговой дуге.",
+      "variant_note": "Документ допускает варианты сгибания ноги; базовое имя шире одного hook finish.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_BACK_WHIP_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный хлёсткий кик",
+      "name_original": "Dwi-huryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота пятка проходит по обратной круговой дуге.",
+      "variant_note": "Круговая пятка, а не прямой Dwi-chagi; градусы вращения — модификатор, не новые семьи.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_HOOK_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Подхватывающий кик пяткой",
+      "name_original": "Nakka-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка завершает удар подхватывающим сгибанием ноги.",
+      "variant_note": "В Kukkiwon Nakka прямо отделён от широкого Huryeo; не JKD Roundhouse Hook Kick.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_AXE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Нисходящий кик пяткой",
+      "name_original": "Naeryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка или подошва проходит сверху вниз.",
+      "variant_note": "Внутренний/внешний подъём выбирается вариантом; нисходящая фаза — общая.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PUSH_FRONT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Толкающий фронтальный кик",
+      "name_original": "Mireo-ap-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва или подушечка стопы проходит прямо вперёд толкающим движением.",
+      "variant_note": "Направленный вариант Mireo; реакция и падение партнёра не встроены в тег.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_PUSH_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Толкающий боковой кик",
+      "name_original": "Mireo-yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит в сторону прямым толкающим движением.",
+      "variant_note": "Боковой вариант Mireo, а не новая стойка.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_FOOT_STAMP",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Топчущий удар вниз",
+      "name_original": "Jitjjiki",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва проходит коротко вниз к игровой цели у пола.",
+      "variant_note": "Источник именует контакт с подъёмом стопы; в описании оставлена постановочная видимая линия без обещания повреждений.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_TORNADO_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой кик с полным вращением",
+      "name_original": "Dolgae-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит в круговом ударе после полного вращения тела.",
+      "variant_note": "Семейство вращательного исполнения; варианты360/540/720 не перечислены как три новые техники.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_ALTERNATE_FLYING_FRONT_KICKS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Попеременные фронтальные кики в прыжке",
+      "name_original": "Dubaldangseong-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Две стопы последовательно проходят вперёд во время одного прыжка.",
+      "variant_note": "Именованное двухфазное действие; не общий синоним любого flying kick.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_DOUBLE_AIR_ROUNDHOUSE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двойной круговой кик в воздухе",
+      "name_original": "Narae-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Стопы попеременно проходят в круговых ударах во время одного прыжка.",
+      "variant_note": "Серия двух ног; не любое удвоение одной ноги.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SCISSOR_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двухнаправленный кик-ножницы",
+      "name_original": "Gawi-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Обе ноги одновременно расходятся к двум игровым целям в воздухе.",
+      "variant_note": "Именованная двуногая форма; цепочки на3–5 целей не получают отдельные базовые теги.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_DOUBLE_FOOT_FRONT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двуногий фронтальный кик",
+      "name_original": "Modum-ap-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Обе стопы одновременно проходят вперёд в воздухе.",
+      "variant_note": "Семейство Modum: одна общая цель; не попеременный Dubaldangseong.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_DOUBLE_FOOT_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Двуногий боковой кик",
+      "name_original": "Modum-yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Обе стопы одновременно выходят в боковом ударе в воздухе.",
+      "variant_note": "Направленный вариант Modum; не Scissors к разным целям.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_REPEATED_FRONT_KICKS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Повторные фронтальные кики одной ногой",
+      "name_original": "Geodeup-ap-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Одна стопа повторяет фронтальный выход несколько раз.",
+      "variant_note": "Повтор одного вида и одной ноги; не отдельная одиночная техника.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_REPEATED_ROUNDHOUSE_KICKS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Повторные круговые кики одной ногой",
+      "name_original": "Geodeup-dollyeo-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Одна стопа повторяет круговую ударную дугу.",
+      "variant_note": "Именованный серийный вариант Geodeup.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_REPEATED_SIDE_KICKS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Повторные боковые кики одной ногой",
+      "name_original": "Geodeup-yeop-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Одна стопа повторяет прямой боковой выход.",
+      "variant_note": "Серийный вариант одной ноги; высоты выбираются отдельно.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_KKW_ALTERNATING_ROUNDHOUSE_KICKS",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Попеременные круговые кики",
+      "name_original": "Ieo-dollyeo-chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Стопы попеременно проходят по круговым ударным дугам.",
+      "variant_note": "Именованный вариант Ieo; обе ноги в серии не обязательно одновременно в воздухе.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_FLIP_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Кик с вертикальным переворотом",
+      "name_original": "Gongjungjebi-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к игровой цели во время вертикального переворота тела в воздухе.",
+      "variant_note": "Демонстрационно-акробатическая семья; не базовый спортивный kyorugi стандарт.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_FRONT_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Фронтальный кик в прыжке",
+      "name_original": "Ttwieo-ap-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит прямо вперёд во время прыжка.",
+      "variant_note": "Именованный вариант Ap-chagi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Боковой кик в прыжке",
+      "name_original": "Ttwieo-yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выдвигается в сторону во время прыжка.",
+      "variant_note": "Именованный вариант Yeop-chagi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_BACK_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Задний прямой кик в прыжке",
+      "name_original": "Ttwieo-dwi-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит назад по прямой во время прыжка.",
+      "variant_note": "Сохраняет прямую заднюю траекторию.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_ROUNDHOUSE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой кик в прыжке",
+      "name_original": "Ttwieo-dollyeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит круговой дугой во время прыжка.",
+      "variant_note": "Именованный вариант Dollyeo-chagi.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_BACK_WHIP_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Обратный хлёсткий кик в прыжке",
+      "name_original": "Ttwieo-dwi-huryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит обратной круговой дугой во время прыжка.",
+      "variant_note": "Именованный вариант, отличающийся от прямого заднего кика.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_JUMP_TWISTING_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Выкручивающий кик в прыжке",
+      "name_original": "Ttwieo-biteureo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подъём стопы проходит наружу по выкручивающей дуге во время прыжка.",
+      "variant_note": "Именованный прыжковый вариант Biteureo.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_TURNING_JUMP_AXE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Нисходящий кик с разворотом и прыжком",
+      "name_original": "Dwidora-ttwieo-naeryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота и прыжка стопа проходит сверху вниз.",
+      "variant_note": "Именованное составное исполнение Naeryeo.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SKIP_ROUNDHOUSE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой кик с подскоком",
+      "name_original": "Balbucheo-dollyeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит круговой дугой после короткого подскока.",
+      "variant_note": "Шаговый вариант Balbucheo; сам подскок без удара не запись strike.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SKIP_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Боковой кик с подскоком",
+      "name_original": "Balbucheo-yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит в сторону после короткого подскока.",
+      "variant_note": "Именованный шаговый вариант Side Kick.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SKIP_WHIP_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Хлёсткий кик с подскоком",
+      "name_original": "Balbucheo-huryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит по хлёсткой дуге после короткого подскока.",
+      "variant_note": "Именованный шаговый вариант Whip Kick.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_SKIP_AXE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Нисходящий кик с подскоком",
+      "name_original": "Balbucheo-naeryeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит сверху вниз после короткого подскока.",
+      "variant_note": "Именованный шаговый вариант Axe Kick.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_GROUND_STAMP_ROUNDHOUSE",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой кик с предварительным притопом",
+      "name_original": "Gulleo-dollyeo-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После притопа стопа проходит в круговом ударе.",
+      "variant_note": "Gulleo означает предварительный удар ногой по полу; не Jitjjiki по игровой цели.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_GROUND_STAMP_SIDE_KICK",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Боковой кик с предварительным притопом",
+      "name_original": "Gulleo-yeop-chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После притопа стопа выдвигается в прямом боковом ударе.",
+      "variant_note": "Шаговый вариант с сохранением боковой ударной траектории.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNEE_UPWARD",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Колено вверх",
+      "name_original": "Mureup-ollyeo-chigi",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено поднимается к партнёру по восходящей линии.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_KKW_KNEE_ROUND",
+      "style_id": "taekwondo_kukkiwon",
+      "style_ru": "Тхэквондо: Kukkiwon / WT-контекст",
+      "name_ru": "Круговой удар коленом",
+      "name_original": "Mureup-dollyeo-chigi",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено проходит к партнёру по короткой боковой дуге.",
+      "variant_note": "Именованная форма Kukkiwon; уровень, сторона и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_TKD_KKW_TEXT"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "style": {
+    "style_id": "staff_screen",
+    "prefix": "ST",
+    "name_ru": "Палка / бо / дзё / посох / весло: постановочные семейства",
+    "entries": 7,
+    "categories": {
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "ST-W1",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Удар палкой сверху",
+      "display_ru": "Удар палкой сверху",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_OVERHEAD",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_OVERHEAD"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W2",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Диагональный удар палкой",
+      "display_ru": "Диагональный удар палкой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_DIAGONAL",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_DIAGONAL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W3",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Поперечный удар палкой",
+      "display_ru": "Поперечный удар палкой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_HORIZONTAL",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_HORIZONTAL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W4",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Восходящий удар палкой",
+      "display_ru": "Восходящий удар палкой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_UPWARD"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W5",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Тычок концом палки",
+      "display_ru": "Тычок концом палки",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W6",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Удар обратным концом палки",
+      "display_ru": "Удар обратным концом палки",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@STRIKE_STAFF_SCREEN_BUTT",
+      "catalogue_tags": [
+        "@STRIKE_STAFF_SCREEN_BUTT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "ST-W7",
+      "prefix": "ST",
+      "style_id": "staff_screen",
+      "category": "W",
+      "name_ru": "Чередующаяся серия двумя концами",
+      "display_ru": "Чередующаяся серия двумя концами",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/staff_screen.json",
+      "source_tag": "@ACTION_STAFF_SCREEN_TWO_ENDS",
+      "catalogue_tags": [
+        "@ACTION_STAFF_SCREEN_TWO_ENDS"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_STAFF_SCREEN_OVERHEAD": "ST-W1",
+    "@STRIKE_STAFF_SCREEN_DIAGONAL": "ST-W2",
+    "@STRIKE_STAFF_SCREEN_HORIZONTAL": "ST-W3",
+    "@STRIKE_STAFF_SCREEN_UPWARD": "ST-W4",
+    "@STRIKE_STAFF_SCREEN_THRUST": "ST-W5",
+    "@STRIKE_STAFF_SCREEN_BUTT": "ST-W6",
+    "@ACTION_STAFF_SCREEN_TWO_ENDS": "ST-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_OVERHEAD",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Удар палкой сверху",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Удар палкой сверху.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_DIAGONAL",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Диагональный удар палкой",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Диагональный удар палкой.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_HORIZONTAL",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Поперечный удар палкой",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Поперечный удар палкой.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_UPWARD",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Восходящий удар палкой",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Восходящий удар палкой.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_THRUST",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Тычок концом палки",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Тычок концом палки.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_STAFF_SCREEN_BUTT",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Удар обратным концом палки",
+      "name_original": "",
+      "kind": "strike",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Удар обратным концом палки.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_STAFF_SCREEN_TWO_ENDS",
+      "style_id": "staff_screen",
+      "style_ru": "Палка, бо, дзё, длинный посох, весло — постановочные семейства",
+      "name_ru": "Чередующаяся серия двумя концами",
+      "name_original": "",
+      "kind": "sequence",
+      "family": "STAFF_SCREEN",
+      "description_ru": "Чередующаяся серия двумя концами.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

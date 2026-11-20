@@ -1,0 +1,476 @@
+{
+  "style": {
+    "style_id": "jodo",
+    "prefix": "JO",
+    "name_ru": "Дзёдо",
+    "entries": 12,
+    "categories": {
+      "T": 3,
+      "G": 1,
+      "W": 8
+    }
+  },
+  "entries": [
+    {
+      "code": "JO-T1",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "T",
+      "name_ru": "Маки-отоси",
+      "display_ru": "Маки-отоси",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_MAKI_OTOSHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_MAKI_OTOSHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-T2",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "T",
+      "name_ru": "Кури-цукэ",
+      "display_ru": "Кури-цукэ",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_KURI_TSUKE",
+      "catalogue_tags": [
+        "@ACTION_JODO_KURI_TSUKE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-T3",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "T",
+      "name_ru": "Кури-ханаси",
+      "display_ru": "Кури-ханаси",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_KURI_HANASHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_KURI_HANASHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-G1",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "G",
+      "name_ru": "Тай-атари",
+      "display_ru": "Тай-атари",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_TAI_ATARI",
+      "catalogue_tags": [
+        "@ACTION_JODO_TAI_ATARI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W1",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Хонтэ-ути",
+      "display_ru": "Хонтэ-ути",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@STRIKE_JODO_HONTE_UCHI",
+      "catalogue_tags": [
+        "@STRIKE_JODO_HONTE_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W2",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Гякутэ-ути",
+      "display_ru": "Гякутэ-ути",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@STRIKE_JODO_GYAKUTE_UCHI",
+      "catalogue_tags": [
+        "@STRIKE_JODO_GYAKUTE_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W3",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Каэси-дзуки",
+      "display_ru": "Каэси-дзуки",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@STRIKE_JODO_KAESHI_ZUKI",
+      "catalogue_tags": [
+        "@STRIKE_JODO_KAESHI_ZUKI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W4",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Гякутэ-дзуки",
+      "display_ru": "Гякутэ-дзуки",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@STRIKE_JODO_GYAKUTE_ZUKI",
+      "catalogue_tags": [
+        "@STRIKE_JODO_GYAKUTE_ZUKI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W5",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Хики-отоси-ути",
+      "display_ru": "Хики-отоси-ути",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_HIKI_OTOSHI_UCHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_HIKI_OTOSHI_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W6",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Цуки-хадзуси-ути",
+      "display_ru": "Цуки-хадзуси-ути",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_TSUKI_HAZUSHI_UCHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_TSUKI_HAZUSHI_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W7",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Добарай-ути",
+      "display_ru": "Добарай-ути",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_DOBARAI_UCHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_DOBARAI_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JO-W8",
+      "prefix": "JO",
+      "style_id": "jodo",
+      "category": "W",
+      "name_ru": "Тай-хадзуси-ути",
+      "display_ru": "Тай-хадзуси-ути",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/jodo.json",
+      "source_tag": "@ACTION_JODO_TAI_HAZUSHI_UCHI",
+      "catalogue_tags": [
+        "@ACTION_JODO_TAI_HAZUSHI_UCHI"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_JODO_HONTE_UCHI": "JO-W1",
+    "@STRIKE_JODO_GYAKUTE_UCHI": "JO-W2",
+    "@STRIKE_JODO_KAESHI_ZUKI": "JO-W3",
+    "@STRIKE_JODO_GYAKUTE_ZUKI": "JO-W4",
+    "@ACTION_JODO_HIKI_OTOSHI_UCHI": "JO-W5",
+    "@ACTION_JODO_MAKI_OTOSHI": "JO-T1",
+    "@ACTION_JODO_KURI_TSUKE": "JO-T2",
+    "@ACTION_JODO_KURI_HANASHI": "JO-T3",
+    "@ACTION_JODO_TAI_ATARI": "JO-G1",
+    "@ACTION_JODO_TSUKI_HAZUSHI_UCHI": "JO-W6",
+    "@ACTION_JODO_DOBARAI_UCHI": "JO-W7",
+    "@ACTION_JODO_TAI_HAZUSHI_UCHI": "JO-W8"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_JODO_MAKI_OTOSHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Маки-отоси",
+      "name_original": "Maki otoshi",
+      "kind": "control",
+      "family": "JODO",
+      "description_ru": "Маки-отоси.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_KURI_TSUKE",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Кури-цукэ",
+      "name_original": "Kuri tsuke",
+      "kind": "control",
+      "family": "JODO",
+      "description_ru": "Кури-цукэ.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_KURI_HANASHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Кури-ханаси",
+      "name_original": "Kuri hanashi",
+      "kind": "control",
+      "family": "JODO",
+      "description_ru": "Кури-ханаси.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_TAI_ATARI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Тай-атари",
+      "name_original": "Tai atari",
+      "kind": "control",
+      "family": "JODO",
+      "description_ru": "Тай-атари.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JODO_HONTE_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Хонтэ-ути",
+      "name_original": "Honte uchi",
+      "kind": "strike",
+      "family": "JODO",
+      "description_ru": "Хонтэ-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JODO_GYAKUTE_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Гякутэ-ути",
+      "name_original": "Gyakute uchi",
+      "kind": "strike",
+      "family": "JODO",
+      "description_ru": "Гякутэ-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JODO_KAESHI_ZUKI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Каэси-дзуки",
+      "name_original": "Kaeshi zuki",
+      "kind": "strike",
+      "family": "JODO",
+      "description_ru": "Каэси-дзуки.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JODO_GYAKUTE_ZUKI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Гякутэ-дзуки",
+      "name_original": "Gyakute zuki",
+      "kind": "strike",
+      "family": "JODO",
+      "description_ru": "Гякутэ-дзуки.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_HIKI_OTOSHI_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Хики-отоси-ути",
+      "name_original": "Hiki otoshi uchi",
+      "kind": "sequence",
+      "family": "JODO",
+      "description_ru": "Хики-отоси-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_TSUKI_HAZUSHI_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Цуки-хадзуси-ути",
+      "name_original": "Tsuki hazushi uchi",
+      "kind": "sequence",
+      "family": "JODO",
+      "description_ru": "Цуки-хадзуси-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_DOBARAI_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Добарай-ути",
+      "name_original": "Dobarai uchi",
+      "kind": "sequence",
+      "family": "JODO",
+      "description_ru": "Добарай-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JODO_TAI_HAZUSHI_UCHI",
+      "style_id": "jodo",
+      "style_ru": "Дзёдо",
+      "name_ru": "Тай-хадзуси-ути",
+      "name_original": "Tai hazushi uchi",
+      "kind": "sequence",
+      "family": "JODO",
+      "description_ru": "Тай-хадзуси-ути.",
+      "variant_note": "Имя в официальном экзаменационном списке. Полную форму движения уточнять по конкретной демонстрации; комбинированные методы не сводятся к одному удару.",
+      "source_ids": [
+        "W_JODO_CLAK",
+        "W_AJKF_JODO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "style": {
+    "style_id": "hema_fiore",
+    "prefix": "HF",
+    "name_ru": "HEMA: Fiore de’i Liberi",
+    "entries": 8,
+    "categories": {
+      "W": 8
+    }
+  },
+  "entries": [
+    {
+      "code": "HF-W1",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Фенденте — нисходящий рубящий",
+      "display_ru": "Фенденте — нисходящий рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_FENDENTE",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_FENDENTE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W2",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Соттано — восходящий рубящий",
+      "display_ru": "Соттано — восходящий рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_SOTTANO",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_SOTTANO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W3",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Медзано — поперечный рубящий",
+      "display_ru": "Медзано — поперечный рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_MEZANO",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_MEZANO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W4",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Пунта — укол мечом",
+      "display_ru": "Пунта — укол мечом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_PUNTA",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_PUNTA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W5",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Удар навершием меча",
+      "display_ru": "Удар навершием меча",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_POMMEL",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_POMMEL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W6",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Нисходящая атака кинжалом",
+      "display_ru": "Нисходящая атака кинжалом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_DAGGER_DOWN",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_DAGGER_DOWN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W7",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Поперечная атака кинжалом",
+      "display_ru": "Поперечная атака кинжалом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_DAGGER_MIDDLE",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_DAGGER_MIDDLE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "HF-W8",
+      "prefix": "HF",
+      "style_id": "hema_fiore",
+      "category": "W",
+      "name_ru": "Восходящая атака кинжалом",
+      "display_ru": "Восходящая атака кинжалом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/hema_fiore.json",
+      "source_tag": "@STRIKE_HEMA_FIORE_DAGGER_UP",
+      "catalogue_tags": [
+        "@STRIKE_HEMA_FIORE_DAGGER_UP"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_HEMA_FIORE_FENDENTE": "HF-W1",
+    "@STRIKE_HEMA_FIORE_SOTTANO": "HF-W2",
+    "@STRIKE_HEMA_FIORE_MEZANO": "HF-W3",
+    "@STRIKE_HEMA_FIORE_PUNTA": "HF-W4",
+    "@STRIKE_HEMA_FIORE_POMMEL": "HF-W5",
+    "@STRIKE_HEMA_FIORE_DAGGER_DOWN": "HF-W6",
+    "@STRIKE_HEMA_FIORE_DAGGER_MIDDLE": "HF-W7",
+    "@STRIKE_HEMA_FIORE_DAGGER_UP": "HF-W8"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_HEMA_FIORE_FENDENTE",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Фенденте — нисходящий рубящий",
+      "name_original": "Colpi fendenti",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Фенденте — нисходящий рубящий.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_SOTTANO",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Соттано — восходящий рубящий",
+      "name_original": "Colpi sottani",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Соттано — восходящий рубящий.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_MEZANO",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Медзано — поперечный рубящий",
+      "name_original": "Colpi mezani",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Медзано — поперечный рубящий.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_PUNTA",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Пунта — укол мечом",
+      "name_original": "Le punte",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Пунта — укол мечом.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_POMMEL",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Удар навершием меча",
+      "name_original": "Pommel strike",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Удар навершием меча.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_DAGGER_DOWN",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Нисходящая атака кинжалом",
+      "name_original": "Dagger fendente",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Нисходящая атака кинжалом.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_DAGGER_MIDDLE",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Поперечная атака кинжалом",
+      "name_original": "Dagger mezano",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Поперечная атака кинжалом.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_FIORE_DAGGER_UP",
+      "style_id": "hema_fiore",
+      "style_ru": "HEMA — Fiore de’i Liberi",
+      "name_ru": "Восходящая атака кинжалом",
+      "name_original": "Dagger upward attack",
+      "kind": "strike",
+      "family": "HEMA_FIORE",
+      "description_ru": "Восходящая атака кинжалом.",
+      "variant_note": "Направления и семейства выбранных рукописей; не универсальный словарь всех кинжальных школ.",
+      "source_ids": [
+        "W_HEMA_FIORE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "style": {
+    "style_id": "capoeira",
+    "prefix": "CAP",
+    "name_ru": "Капоэйра",
+    "entries": 24,
+    "categories": {
+      "H": 7,
+      "K": 17
+    }
+  },
+  "entries": [
+    {
+      "code": "CAP-H1",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Кабесада",
+      "display_ru": "Кабесада",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_HEADBUTT",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_HEADBUTT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H2",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Котовелада",
+      "display_ru": "Котовелада",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_ELBOW_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_ELBOW_STRIKE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H3",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Годеми",
+      "display_ru": "Годеми",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_BACKFIST",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_BACKFIST"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H4",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Галопанти",
+      "display_ru": "Галопанти",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_PALM_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_PALM_STRIKE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H5",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Асфиксианти",
+      "display_ru": "Асфиксианти",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_STRAIGHT_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_STRAIGHT_PUNCH"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H6",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Телефони",
+      "display_ru": "Телефони",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_DOUBLE_PALM_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_DOUBLE_PALM_STRIKE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-H7",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "H",
+      "name_ru": "Бошешу",
+      "display_ru": "Бошешу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_DOUBLE_HAND_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_DOUBLE_HAND_STRIKE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K1",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Передняя полулуна",
+      "display_ru": "Передняя полулуна",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_FRONT_CRESCENT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_FRONT_CRESCENT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K2",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Кейшада",
+      "display_ru": "Кейшада",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_OUTWARD_CRESCENT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_OUTWARD_CRESCENT_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K3",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Армада",
+      "display_ru": "Армада",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_SPINNING_STRAIGHT_LEG_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_SPINNING_STRAIGHT_LEG_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K4",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Полулуна компасом",
+      "display_ru": "Полулуна компасом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_COMPASS_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_COMPASS_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K5",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Бенсан",
+      "display_ru": "Бенсан",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_FRONT_PUSH_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_FRONT_PUSH_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K6",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Мартелу",
+      "display_ru": "Мартелу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_ROUNDHOUSE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_ROUNDHOUSE_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K7",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Боковая шапа",
+      "display_ru": "Боковая шапа",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_SIDE_CHAPA",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_SIDE_CHAPA"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K8",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Шапа назад",
+      "display_ru": "Шапа назад",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_BACKWARD_CHAPA",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_BACKWARD_CHAPA"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K9",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Пизан",
+      "display_ru": "Пизан",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_STAMP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_STAMP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K10",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Ганшу",
+      "display_ru": "Ганшу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_HOOK_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_HOOK_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K11",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Понтейра",
+      "display_ru": "Понтейра",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_FRONT_SNAP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_FRONT_SNAP_KICK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K12",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Жоэльяда",
+      "display_ru": "Жоэльяда",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_KNEE_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_KNEE_STRIKE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K13",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Ударное ау",
+      "display_ru": "Ударное ау",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_INVERTED_MARTELO",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_INVERTED_MARTELO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K14",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Эскорпиау",
+      "display_ru": "Эскорпиау",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_SCORPION_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_SCORPION_KICK"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K15",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Во-ду-морсегу",
+      "display_ru": "Во-ду-морсегу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_FLYING_DOUBLE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_FLYING_DOUBLE_KICK"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K16",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Шибата",
+      "display_ru": "Шибата",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_WHIP_KICK",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_WHIP_KICK"
+      ],
+      "evidence_status": "terminology_candidate",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "CAP-K17",
+      "prefix": "CAP",
+      "style_id": "capoeira",
+      "category": "K",
+      "name_ru": "Мартелу с низкой опорой",
+      "display_ru": "Мартелу с низкой опорой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/capoeira.json",
+      "source_tag": "@STRIKE_CAPOEIRA_GROUND_ROUNDHOUSE",
+      "catalogue_tags": [
+        "@STRIKE_CAPOEIRA_GROUND_ROUNDHOUSE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_CAPOEIRA_FRONT_CRESCENT_KICK": "CAP-K1",
+    "@STRIKE_CAPOEIRA_OUTWARD_CRESCENT_KICK": "CAP-K2",
+    "@STRIKE_CAPOEIRA_SPINNING_STRAIGHT_LEG_KICK": "CAP-K3",
+    "@STRIKE_CAPOEIRA_COMPASS_KICK": "CAP-K4",
+    "@STRIKE_CAPOEIRA_FRONT_PUSH_KICK": "CAP-K5",
+    "@STRIKE_CAPOEIRA_ROUNDHOUSE_KICK": "CAP-K6",
+    "@STRIKE_CAPOEIRA_SIDE_CHAPA": "CAP-K7",
+    "@STRIKE_CAPOEIRA_BACKWARD_CHAPA": "CAP-K8",
+    "@STRIKE_CAPOEIRA_STAMP_KICK": "CAP-K9",
+    "@STRIKE_CAPOEIRA_HOOK_KICK": "CAP-K10",
+    "@STRIKE_CAPOEIRA_FRONT_SNAP_KICK": "CAP-K11",
+    "@STRIKE_CAPOEIRA_HEADBUTT": "CAP-H1",
+    "@STRIKE_CAPOEIRA_KNEE_STRIKE": "CAP-K12",
+    "@STRIKE_CAPOEIRA_ELBOW_STRIKE": "CAP-H2",
+    "@STRIKE_CAPOEIRA_BACKFIST": "CAP-H3",
+    "@STRIKE_CAPOEIRA_PALM_STRIKE": "CAP-H4",
+    "@STRIKE_CAPOEIRA_STRAIGHT_PUNCH": "CAP-H5",
+    "@STRIKE_CAPOEIRA_INVERTED_MARTELO": "CAP-K13",
+    "@STRIKE_CAPOEIRA_SCORPION_KICK": "CAP-K14",
+    "@STRIKE_CAPOEIRA_FLYING_DOUBLE_KICK": "CAP-K15",
+    "@STRIKE_CAPOEIRA_DOUBLE_PALM_STRIKE": "CAP-H6",
+    "@STRIKE_CAPOEIRA_DOUBLE_HAND_STRIKE": "CAP-H7",
+    "@STRIKE_CAPOEIRA_WHIP_KICK": "CAP-K16",
+    "@STRIKE_CAPOEIRA_GROUND_ROUNDHOUSE": "CAP-K17"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_CAPOEIRA_HEADBUTT",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Кабесада",
+      "name_original": "Cabeçada",
+      "kind": "strike",
+      "family": "head_strike",
+      "description_ru": "Голова проходит коротким ударным движением.",
+      "variant_note": "Прямо названа в Regional Sequência USP; есть и Angola-контекст.",
+      "source_ids": [
+        "SPORT-CAP-USP",
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_ELBOW_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Котовелада",
+      "name_original": "Cotovelada",
+      "kind": "strike",
+      "family": "elbow_strike",
+      "description_ru": "Согнутый локоть проходит короткой ударной дугой.",
+      "variant_note": "Regional-перечень Xaréu; конкретное направление не следует из одного названия.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_BACKFIST",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Годеми",
+      "name_original": "Godeme",
+      "kind": "strike",
+      "family": "punch_backfist",
+      "description_ru": "Тыльная сторона кулака проходит короткой боковой дугой.",
+      "variant_note": "Название в Regional Sequência Xaréu; форма описана на уровне постановочной гипотезы.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_PALM_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Галопанти",
+      "name_original": "Galopante",
+      "kind": "strike",
+      "family": "palm_strike",
+      "description_ru": "Раскрытая ладонь проходит боковой дугой.",
+      "variant_note": "Именована Regional Sequência Xaréu; отдельная школа уточняет форму кисти.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_STRAIGHT_PUNCH",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Асфиксианти",
+      "name_original": "Asfixiante",
+      "kind": "strike",
+      "family": "punch_strike",
+      "description_ru": "Закрытый кулак проходит коротким прямым движением.",
+      "variant_note": "Редкое историческое школьное название; форма здесь редакционная, не реконструкция урока.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_DOUBLE_PALM_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Телефони",
+      "name_original": "Telefone",
+      "kind": "strike",
+      "family": "palm_simultaneous",
+      "description_ru": "Две раскрытые ладони сходятся симметрично с боков.",
+      "variant_note": "Имя в Regional-перечне; конкретная механика источником списка не раскрыта.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_DOUBLE_HAND_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Бошешу",
+      "name_original": "Bochecho",
+      "kind": "strike",
+      "family": "hand_simultaneous",
+      "description_ru": "Две руки одновременно проходят в короткой ударной фазе.",
+      "variant_note": "Имя в Regional-перечне; видимая форма — предварительный редакционный выбор.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_CRESCENT_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Передняя полулуна",
+      "name_original": "Meia lua de frente",
+      "kind": "strike",
+      "family": "kick_crescent",
+      "description_ru": "Выпрямленная нога проходит дугой снаружи внутрь.",
+      "variant_note": "Regional Filhos de Bimba и школьный словарь Juruna.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_OUTWARD_CRESCENT_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Кейшада",
+      "name_original": "Queixada",
+      "kind": "strike",
+      "family": "kick_crescent",
+      "description_ru": "Нога проходит наружной дугой после переступания.",
+      "variant_note": "Regional Filhos de Bimba; входы зависят от школы.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SPINNING_STRAIGHT_LEG_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Армада",
+      "name_original": "Armada",
+      "kind": "strike",
+      "family": "kick_spinning_arc",
+      "description_ru": "Корпус разворачивается вместе с высокой дугой выпрямленной ноги.",
+      "variant_note": "Regional; имя также встречается в общих школьных словарях.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_COMPASS_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Полулуна компасом",
+      "name_original": "Meia lua de compasso",
+      "kind": "strike",
+      "family": "kick_hand_supported_arc",
+      "description_ru": "Наклонённый корпус и опора руки сопровождают дугу пятки.",
+      "variant_note": "Regional; Rabo de arraia используется как alias в части Angola-линий, но не во всех.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART",
+        "SPORT-CAP-NOMENCLATURE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "rabo de arraia: только в совпадающей школьной форме"
+      ]
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_PUSH_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Бенсан",
+      "name_original": "Bênção / Benção",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Стопа проходит фронтальным толчковым движением.",
+      "variant_note": "Regional Filhos de Bimba; не универсальный alias любой Chapa.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-USP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_ROUNDHOUSE_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Мартелу",
+      "name_original": "Martelo",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Согнутая нога раскрывается в круговой проход стопы.",
+      "variant_note": "Regional и общая школьная терминология.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-USP",
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SIDE_CHAPA",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Боковая шапа",
+      "name_original": "Chapa lateral",
+      "kind": "strike",
+      "family": "kick_side_push",
+      "description_ru": "Подошва проходит прямо из бокового положения корпуса.",
+      "variant_note": "Chapa в WCF — семейство; lateral является постановочным выбором.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_BACKWARD_CHAPA",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Шапа назад",
+      "name_original": "Chapa — backward staging variant",
+      "kind": "strike",
+      "family": "kick_backward",
+      "description_ru": "Подошва проходит назад относительно развёрнутого корпуса.",
+      "variant_note": "Редакционный вариант семейства Chapa из WCF; отдельное название Chapa de costas этой страницей не подтверждено, Angola-атрибуция не заявлена.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_STAMP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Пизан",
+      "name_original": "Pisão",
+      "kind": "strike",
+      "family": "kick_stamping",
+      "description_ru": "Подошва проходит прямой линией с нисходящим акцентом.",
+      "variant_note": "WCF называет отдельно; школьные aliases с Chapa не универсализированы.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_HOOK_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Ганшу",
+      "name_original": "Gancho",
+      "kind": "strike",
+      "family": "kick_hook",
+      "description_ru": "Пятка проходит возвращающейся крюковой дугой.",
+      "variant_note": "Общий спортивный WCF-термин; Esporão в источнике Xaréu оставлен школьным кандидатом, не дублем.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_SNAP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Понтейра",
+      "name_original": "Ponteira",
+      "kind": "strike",
+      "family": "kick_front_snap",
+      "description_ru": "Стопа проходит короткой восходящей фронтальной линией.",
+      "variant_note": "Именована в Regional-перечне Xaréu; также встречается в Angola-словарях.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_KNEE_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Жоэльяда",
+      "name_original": "Joelhada",
+      "kind": "strike",
+      "family": "knee_strike",
+      "description_ru": "Колено проходит коротким ударным движением.",
+      "variant_note": "Regional-перечень Xaréu; конкретная линия задаётся постановкой.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_INVERTED_MARTELO",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Ударное ау",
+      "name_original": "Aú batido",
+      "kind": "strike",
+      "family": "kick_inverted",
+      "description_ru": "Нога проходит нисходящей ударной дугой из опорного переворота.",
+      "variant_note": "Xaréu прямо отличает ударную функцию от обычного aú/floreio.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SCORPION_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Эскорпиау",
+      "name_original": "Escorpião",
+      "kind": "strike",
+      "family": "kick_inverted_backward",
+      "description_ru": "Стопа проходит сзади над наклонённым или перевёрнутым корпусом.",
+      "variant_note": "Имя непосредственно в WCF, опора и точная версия остаются школьными.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FLYING_DOUBLE_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Во-ду-морсегу",
+      "name_original": "Vôo-do-Morcego",
+      "kind": "strike",
+      "family": "kick_airborne",
+      "description_ru": "Ноги проходят вперёд в ударном движении во время полёта.",
+      "variant_note": "WCF и Regional-перечень; точная постановка обеих ног требует школы.",
+      "source_ids": [
+        "SPORT-CAP-WCF",
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_WHIP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Шибата",
+      "name_original": "Chibata",
+      "kind": "strike",
+      "family": "kick_whipping",
+      "description_ru": "Стопа проходит хлёсткой ножной дугой.",
+      "variant_note": "Имя в Regional-перечне; точная геометрия и возможное школьное имя Chibatada требуют проверки.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_GROUND_ROUNDHOUSE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Мартелу с низкой опорой",
+      "name_original": "Martelo de chão / Chapéu de couro (Capoeira Brasil)",
+      "kind": "strike",
+      "family": "kick_low_supported",
+      "description_ru": "Нога проходит круговой ударной дугой из низкой опорной фазы.",
+      "variant_note": "Moreira M19: IUNA/ABADÁ/IDEÁRIO — Martelo de chão; BRASIL — Chapéu de couro; BERIBAZU — «S» dobrado. Alias относится только к совпадающей форме M19, не ко всем S-dobrado.",
+      "source_ids": [
+        "SPORT-CAP-XAREU",
+        "SPORT-CAP-NOMENCLATURE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "Martelo de chão: M19 в IUNA/ABADÁ/IDEÁRIO",
+        "«S» dobrado: только M19 в BERIBAZU"
+      ]
+    }
+  ]
+}

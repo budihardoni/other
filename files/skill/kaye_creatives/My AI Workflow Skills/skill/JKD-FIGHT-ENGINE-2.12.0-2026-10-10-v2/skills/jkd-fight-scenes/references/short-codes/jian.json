@@ -1,0 +1,315 @@
+{
+  "style": {
+    "style_id": "jian",
+    "prefix": "JN",
+    "name_ru": "Ушу: цзянь",
+    "entries": 8,
+    "categories": {
+      "T": 2,
+      "W": 6
+    }
+  },
+  "entries": [
+    {
+      "code": "JN-T1",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "T",
+      "name_ru": "Гуа-цзянь — парирование",
+      "display_ru": "Гуа-цзянь — парирование",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@ACTION_JIAN_GUA",
+      "catalogue_tags": [
+        "@ACTION_JIAN_GUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-T2",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "T",
+      "name_ru": "Цзе-цзянь — перехватывающий метод",
+      "display_ru": "Цзе-цзянь — перехватывающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@ACTION_JIAN_JIE",
+      "catalogue_tags": [
+        "@ACTION_JIAN_JIE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W1",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Цы-цзянь — укол",
+      "display_ru": "Цы-цзянь — укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@STRIKE_JIAN_CI",
+      "catalogue_tags": [
+        "@STRIKE_JIAN_CI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W2",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Ляо-цзянь — восходящий удар",
+      "display_ru": "Ляо-цзянь — восходящий удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@STRIKE_JIAN_LIAO",
+      "catalogue_tags": [
+        "@STRIKE_JIAN_LIAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W3",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Дянь-цзянь — точечный удар остриём",
+      "display_ru": "Дянь-цзянь — точечный удар остриём",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@STRIKE_JIAN_DIAN",
+      "catalogue_tags": [
+        "@STRIKE_JIAN_DIAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W4",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Пи-цзянь — рубящий вниз",
+      "display_ru": "Пи-цзянь — рубящий вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@STRIKE_JIAN_PI",
+      "catalogue_tags": [
+        "@STRIKE_JIAN_PI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W5",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Бэн-цзянь — вскидывающий метод",
+      "display_ru": "Бэн-цзянь — вскидывающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@STRIKE_JIAN_BENG",
+      "catalogue_tags": [
+        "@STRIKE_JIAN_BENG"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JN-W6",
+      "prefix": "JN",
+      "style_id": "jian",
+      "category": "W",
+      "name_ru": "Цзянь-вань-хуа — кистевая восьмёрка",
+      "display_ru": "Цзянь-вань-хуа — кистевая восьмёрка",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/jian.json",
+      "source_tag": "@ACTION_JIAN_JIAN_WAN_HUA",
+      "catalogue_tags": [
+        "@ACTION_JIAN_JIAN_WAN_HUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_JIAN_CI": "JN-W1",
+    "@STRIKE_JIAN_LIAO": "JN-W2",
+    "@STRIKE_JIAN_DIAN": "JN-W3",
+    "@STRIKE_JIAN_PI": "JN-W4",
+    "@STRIKE_JIAN_BENG": "JN-W5",
+    "@ACTION_JIAN_GUA": "JN-T1",
+    "@ACTION_JIAN_JIE": "JN-T2",
+    "@ACTION_JIAN_JIAN_WAN_HUA": "JN-W6"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_JIAN_GUA",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Гуа-цзянь — парирование",
+      "name_original": "Gua jian",
+      "kind": "defence",
+      "family": "JIAN",
+      "description_ru": "Гуа-цзянь — парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JIAN_JIE",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цзе-цзянь — перехватывающий метод",
+      "name_original": "Jie jian",
+      "kind": "defence",
+      "family": "JIAN",
+      "description_ru": "Цзе-цзянь — перехватывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_CI",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цы-цзянь — укол",
+      "name_original": "Ci jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Цы-цзянь — укол.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_LIAO",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Ляо-цзянь — восходящий удар",
+      "name_original": "Liao jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Ляо-цзянь — восходящий удар.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_DIAN",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Дянь-цзянь — точечный удар остриём",
+      "name_original": "Dian jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Дянь-цзянь — точечный удар остриём.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_PI",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Пи-цзянь — рубящий вниз",
+      "name_original": "Pi jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Пи-цзянь — рубящий вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_BENG",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Бэн-цзянь — вскидывающий метод",
+      "name_original": "Beng jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Бэн-цзянь — вскидывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JIAN_JIAN_WAN_HUA",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цзянь-вань-хуа — кистевая восьмёрка",
+      "name_original": "Jian wan hua",
+      "kind": "manipulation",
+      "family": "JIAN",
+      "description_ru": "Цзянь-вань-хуа — кистевая восьмёрка.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

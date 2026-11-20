@@ -1,0 +1,611 @@
+{
+  "style": {
+    "style_id": "kendo",
+    "prefix": "KD",
+    "name_ru": "Кэндо",
+    "entries": 16,
+    "categories": {
+      "W": 15,
+      "D": 1
+    }
+  },
+  "entries": [
+    {
+      "code": "KD-W1",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Мэн — удар по защите головы",
+      "display_ru": "Мэн — удар по защите головы",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_MEN",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W2",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ — удар по защите кисти",
+      "display_ru": "Котэ — удар по защите кисти",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_KOTE",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_KOTE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W3",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "До — удар по защите корпуса",
+      "display_ru": "До — удар по защите корпуса",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_DO",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_DO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W4",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Цуки — укол",
+      "display_ru": "Цуки — укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_TSUKI",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_TSUKI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W5",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Дэбана-котэ — опережающий котэ",
+      "display_ru": "Дэбана-котэ — опережающий котэ",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_DEBANA_KOTE",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_DEBANA_KOTE"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W6",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Дэбана-мэн — опережающий мэн",
+      "display_ru": "Дэбана-мэн — опережающий мэн",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@STRIKE_KENDO_DEBANA_MEN",
+      "catalogue_tags": [
+        "@STRIKE_KENDO_DEBANA_MEN"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W7",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ–мэн",
+      "display_ru": "Котэ–мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KOTE_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KOTE_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W8",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ–до",
+      "display_ru": "Котэ–до",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KOTE_DO",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KOTE_DO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W9",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Мэн–мэн",
+      "display_ru": "Мэн–мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_MEN_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_MEN_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W10",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Цуки–мэн",
+      "display_ru": "Цуки–мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_TSUKI_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_TSUKI_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W11",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ–мэн–до",
+      "display_ru": "Котэ–мэн–до",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KOTE_MEN_DO",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KOTE_MEN_DO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W12",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ-нуки-мэн",
+      "display_ru": "Котэ-нуки-мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KOTE_NUKI_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KOTE_NUKI_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W13",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Мэн-нуки-до",
+      "display_ru": "Мэн-нуки-до",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_MEN_NUKI_DO",
+      "catalogue_tags": [
+        "@ACTION_KENDO_MEN_NUKI_DO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W14",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Котэ-суриагэ-мэн",
+      "display_ru": "Котэ-суриагэ-мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KOTE_SURIAGE_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KOTE_SURIAGE_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-W15",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "W",
+      "name_ru": "Мэн-суриагэ-мэн",
+      "display_ru": "Мэн-суриагэ-мэн",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_MEN_SURIAGE_MEN",
+      "catalogue_tags": [
+        "@ACTION_KENDO_MEN_SURIAGE_MEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KD-D1",
+      "prefix": "KD",
+      "style_id": "kendo",
+      "category": "D",
+      "name_ru": "Кирикаэси — повторный ударный дрилл",
+      "display_ru": "Кирикаэси — повторный ударный дрилл",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/kendo.json",
+      "source_tag": "@ACTION_KENDO_KIRI_KAESHI",
+      "catalogue_tags": [
+        "@ACTION_KENDO_KIRI_KAESHI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_KENDO_MEN": "KD-W1",
+    "@STRIKE_KENDO_KOTE": "KD-W2",
+    "@STRIKE_KENDO_DO": "KD-W3",
+    "@STRIKE_KENDO_TSUKI": "KD-W4",
+    "@STRIKE_KENDO_DEBANA_KOTE": "KD-W5",
+    "@STRIKE_KENDO_DEBANA_MEN": "KD-W6",
+    "@ACTION_KENDO_KOTE_MEN": "KD-W7",
+    "@ACTION_KENDO_KOTE_DO": "KD-W8",
+    "@ACTION_KENDO_MEN_MEN": "KD-W9",
+    "@ACTION_KENDO_TSUKI_MEN": "KD-W10",
+    "@ACTION_KENDO_KOTE_MEN_DO": "KD-W11",
+    "@ACTION_KENDO_KIRI_KAESHI": "KD-D1",
+    "@ACTION_KENDO_KOTE_NUKI_MEN": "KD-W12",
+    "@ACTION_KENDO_MEN_NUKI_DO": "KD-W13",
+    "@ACTION_KENDO_KOTE_SURIAGE_MEN": "KD-W14",
+    "@ACTION_KENDO_MEN_SURIAGE_MEN": "KD-W15"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_KENDO_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн — удар по защите головы",
+      "name_original": "Men-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Мэн — удар по защите головы.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_KOTE",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ — удар по защите кисти",
+      "name_original": "Kote-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Котэ — удар по защите кисти.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "До — удар по защите корпуса",
+      "name_original": "Do-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "До — удар по защите корпуса.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_TSUKI",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Цуки — укол",
+      "name_original": "Tsuki",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Цуки — укол.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DEBANA_KOTE",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Дэбана-котэ — опережающий котэ",
+      "name_original": "Men debana kote",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Дэбана-котэ — опережающий котэ.",
+      "variant_note": "Контекст опережения; базовое конечное действие уже представлено отдельно.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DEBANA_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Дэбана-мэн — опережающий мэн",
+      "name_original": "Men debana men",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Дэбана-мэн — опережающий мэн.",
+      "variant_note": "Контекст опережения; базовое конечное действие уже представлено отдельно.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–мэн",
+      "name_original": "Kote-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–до",
+      "name_original": "Kote-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн–мэн",
+      "name_original": "Men-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_TSUKI_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Цуки–мэн",
+      "name_original": "Tsuki-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Цуки–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_MEN_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–мэн–до",
+      "name_original": "Kote-men-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–мэн–до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_NUKI_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ-нуки-мэн",
+      "name_original": "Kote-nuki-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ-нуки-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_NUKI_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн-нуки-до",
+      "name_original": "Men-nuki-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн-нуки-до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_SURIAGE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ-суриагэ-мэн",
+      "name_original": "Kote-suriage-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ-суриагэ-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_SURIAGE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн-суриагэ-мэн",
+      "name_original": "Men-suriage-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн-суриагэ-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KIRI_KAESHI",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Кирикаэси — повторный ударный дрилл",
+      "name_original": "Kiri-kaeshi",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Кирикаэси — повторный ударный дрилл.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "style": {
+    "style_id": "impact_weapon_screen",
+    "prefix": "IW",
+    "name_ru": "Топор / булава / дубина / молот / щит",
+    "entries": 7,
+    "categories": {
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "IW-W1",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Удар тяжёлым реквизитом сверху",
+      "display_ru": "Удар тяжёлым реквизитом сверху",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_OVERHEAD",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_OVERHEAD"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W2",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Диагональный удар тяжёлым реквизитом",
+      "display_ru": "Диагональный удар тяжёлым реквизитом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_DIAGONAL",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_DIAGONAL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W3",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Поперечный удар тяжёлым реквизитом",
+      "display_ru": "Поперечный удар тяжёлым реквизитом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_HORIZONTAL",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_HORIZONTAL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W4",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Восходящий удар тяжёлым реквизитом",
+      "display_ru": "Восходящий удар тяжёлым реквизитом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_UPWARD",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_UPWARD"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W5",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Удар обратным концом рукояти",
+      "display_ru": "Удар обратным концом рукояти",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_BUTT",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_BUTT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W6",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Удар плоскостью щита",
+      "display_ru": "Удар плоскостью щита",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_FACE",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_FACE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "IW-W7",
+      "prefix": "IW",
+      "style_id": "impact_weapon_screen",
+      "category": "W",
+      "name_ru": "Удар краем щита",
+      "display_ru": "Удар краем щита",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/impact_weapon_screen.json",
+      "source_tag": "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_RIM",
+      "catalogue_tags": [
+        "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_RIM"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_IMPACT_WEAPON_SCREEN_OVERHEAD": "IW-W1",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_DIAGONAL": "IW-W2",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_HORIZONTAL": "IW-W3",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_UPWARD": "IW-W4",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_BUTT": "IW-W5",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_FACE": "IW-W6",
+    "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_RIM": "IW-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_OVERHEAD",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Удар тяжёлым реквизитом сверху",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Удар тяжёлым реквизитом сверху.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_DIAGONAL",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Диагональный удар тяжёлым реквизитом",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Диагональный удар тяжёлым реквизитом.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_HORIZONTAL",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Поперечный удар тяжёлым реквизитом",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Поперечный удар тяжёлым реквизитом.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_UPWARD",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Восходящий удар тяжёлым реквизитом",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Восходящий удар тяжёлым реквизитом.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_BUTT",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Удар обратным концом рукояти",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Удар обратным концом рукояти.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_FACE",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Удар плоскостью щита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Удар плоскостью щита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IMPACT_WEAPON_SCREEN_SHIELD_RIM",
+      "style_id": "impact_weapon_screen",
+      "style_ru": "Топор, булава, дубина, молот, щит — постановочные семейства",
+      "name_ru": "Удар краем щита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "IMPACT_WEAPON_SCREEN",
+      "description_ru": "Удар краем щита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

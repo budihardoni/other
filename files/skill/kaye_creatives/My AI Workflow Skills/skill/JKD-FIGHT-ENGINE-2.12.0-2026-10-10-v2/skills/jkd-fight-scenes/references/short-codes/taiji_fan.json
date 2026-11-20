@@ -1,0 +1,315 @@
+{
+  "style": {
+    "style_id": "taiji_fan",
+    "prefix": "FAN",
+    "name_ru": "Тайцзицюань: веер",
+    "entries": 8,
+    "categories": {
+      "T": 1,
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "FAN-T1",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "T",
+      "name_ru": "Гуа-шань — отведение",
+      "display_ru": "Гуа-шань — отведение",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@ACTION_TAIJI_FAN_GUA",
+      "catalogue_tags": [
+        "@ACTION_TAIJI_FAN_GUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W1",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Цы-шань — тычок веером",
+      "display_ru": "Цы-шань — тычок веером",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@STRIKE_TAIJI_FAN_CI",
+      "catalogue_tags": [
+        "@STRIKE_TAIJI_FAN_CI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W2",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Ляо-шань — восходящее действие",
+      "display_ru": "Ляо-шань — восходящее действие",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@STRIKE_TAIJI_FAN_LIAO",
+      "catalogue_tags": [
+        "@STRIKE_TAIJI_FAN_LIAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W3",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Дянь-шань — точечное действие",
+      "display_ru": "Дянь-шань — точечное действие",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@STRIKE_TAIJI_FAN_DIAN",
+      "catalogue_tags": [
+        "@STRIKE_TAIJI_FAN_DIAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W4",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Пи-шань — удар вниз",
+      "display_ru": "Пи-шань — удар вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@STRIKE_TAIJI_FAN_PI",
+      "catalogue_tags": [
+        "@STRIKE_TAIJI_FAN_PI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W5",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Кай-шань — раскрытие",
+      "display_ru": "Кай-шань — раскрытие",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@ACTION_TAIJI_FAN_KAI",
+      "catalogue_tags": [
+        "@ACTION_TAIJI_FAN_KAI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W6",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Хэ-шань — закрытие",
+      "display_ru": "Хэ-шань — закрытие",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@ACTION_TAIJI_FAN_HE",
+      "catalogue_tags": [
+        "@ACTION_TAIJI_FAN_HE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "FAN-W7",
+      "prefix": "FAN",
+      "style_id": "taiji_fan",
+      "category": "W",
+      "name_ru": "Пао-цзе-шань — подброс и ловля",
+      "display_ru": "Пао-цзе-шань — подброс и ловля",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/taiji_fan.json",
+      "source_tag": "@ACTION_TAIJI_FAN_PAO_JIE",
+      "catalogue_tags": [
+        "@ACTION_TAIJI_FAN_PAO_JIE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_TAIJI_FAN_CI": "FAN-W1",
+    "@STRIKE_TAIJI_FAN_LIAO": "FAN-W2",
+    "@STRIKE_TAIJI_FAN_DIAN": "FAN-W3",
+    "@STRIKE_TAIJI_FAN_PI": "FAN-W4",
+    "@ACTION_TAIJI_FAN_GUA": "FAN-T1",
+    "@ACTION_TAIJI_FAN_KAI": "FAN-W5",
+    "@ACTION_TAIJI_FAN_HE": "FAN-W6",
+    "@ACTION_TAIJI_FAN_PAO_JIE": "FAN-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_TAIJI_FAN_GUA",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Гуа-шань — отведение",
+      "name_original": "Gua shan",
+      "kind": "defence",
+      "family": "TAIJI_FAN",
+      "description_ru": "Гуа-шань — отведение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_CI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Цы-шань — тычок веером",
+      "name_original": "Ci shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Цы-шань — тычок веером.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_LIAO",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Ляо-шань — восходящее действие",
+      "name_original": "Liao shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Ляо-шань — восходящее действие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_DIAN",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Дянь-шань — точечное действие",
+      "name_original": "Dian shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Дянь-шань — точечное действие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_PI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Пи-шань — удар вниз",
+      "name_original": "Pi shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Пи-шань — удар вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_KAI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Кай-шань — раскрытие",
+      "name_original": "Kai shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Кай-шань — раскрытие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_HE",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Хэ-шань — закрытие",
+      "name_original": "He shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Хэ-шань — закрытие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_PAO_JIE",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Пао-цзе-шань — подброс и ловля",
+      "name_original": "Pao jie shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Пао-цзе-шань — подброс и ловля.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

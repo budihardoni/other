@@ -1,0 +1,500 @@
+{
+  "style": {
+    "style_id": "gun",
+    "prefix": "GN",
+    "name_ru": "Ушу: гунь / наньгунь, посох",
+    "entries": 13,
+    "categories": {
+      "T": 3,
+      "W": 10
+    }
+  },
+  "entries": [
+    {
+      "code": "GN-T1",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "T",
+      "name_ru": "Цзяо-гунь — обволакивающий метод",
+      "display_ru": "Цзяо-гунь — обволакивающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_JIAO",
+      "catalogue_tags": [
+        "@ACTION_GUN_JIAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-T2",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "T",
+      "name_ru": "Гунь-я — перекатывающий нажим",
+      "display_ru": "Гунь-я — перекатывающий нажим",
+      "origin": "catalogue_short_code",
+      "kind": "control",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_GUN_YA",
+      "catalogue_tags": [
+        "@ACTION_GUN_GUN_YA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-T3",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "T",
+      "name_ru": "Гэ — отведение",
+      "display_ru": "Гэ — отведение",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_GE",
+      "catalogue_tags": [
+        "@ACTION_GUN_GE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W1",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Пи-гунь — удар вниз",
+      "display_ru": "Пи-гунь — удар вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@STRIKE_GUN_PI",
+      "catalogue_tags": [
+        "@STRIKE_GUN_PI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W2",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Бэн-гунь — вскидывающий метод",
+      "display_ru": "Бэн-гунь — вскидывающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@STRIKE_GUN_BENG",
+      "catalogue_tags": [
+        "@STRIKE_GUN_BENG"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W3",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Чо-гунь — тычок",
+      "display_ru": "Чо-гунь — тычок",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@STRIKE_GUN_CHUO",
+      "catalogue_tags": [
+        "@STRIKE_GUN_CHUO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W4",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Цзи — горизонтальный удар",
+      "display_ru": "Цзи — горизонтальный удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@STRIKE_GUN_JI",
+      "catalogue_tags": [
+        "@STRIKE_GUN_JI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W5",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Пао — восходящий удар",
+      "display_ru": "Пао — восходящий удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@STRIKE_GUN_PAO",
+      "catalogue_tags": [
+        "@STRIKE_GUN_PAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W6",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Пин-лунь-гунь — горизонтальный круг",
+      "display_ru": "Пин-лунь-гунь — горизонтальный круг",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_PING_LUN",
+      "catalogue_tags": [
+        "@ACTION_GUN_PING_LUN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W7",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Юнь-гунь — облачное вращение",
+      "display_ru": "Юнь-гунь — облачное вращение",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_YUN",
+      "catalogue_tags": [
+        "@ACTION_GUN_YUN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W8",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "У-хуа-гунь — вертикальная восьмёрка",
+      "display_ru": "У-хуа-гунь — вертикальная восьмёрка",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_WU_HUA",
+      "catalogue_tags": [
+        "@ACTION_GUN_WU_HUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W9",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Ти-ляо-хуа-гунь — циклический восходящий метод",
+      "display_ru": "Ти-ляо-хуа-гунь — циклический восходящий метод",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_TI_LIAO_HUA",
+      "catalogue_tags": [
+        "@ACTION_GUN_TI_LIAO_HUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "GN-W10",
+      "prefix": "GN",
+      "style_id": "gun",
+      "category": "W",
+      "name_ru": "Дин — постановка конца посоха",
+      "display_ru": "Дин — постановка конца посоха",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/gun.json",
+      "source_tag": "@ACTION_GUN_DING",
+      "catalogue_tags": [
+        "@ACTION_GUN_DING"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_GUN_PI": "GN-W1",
+    "@STRIKE_GUN_BENG": "GN-W2",
+    "@STRIKE_GUN_CHUO": "GN-W3",
+    "@STRIKE_GUN_JI": "GN-W4",
+    "@STRIKE_GUN_PAO": "GN-W5",
+    "@ACTION_GUN_PING_LUN": "GN-W6",
+    "@ACTION_GUN_YUN": "GN-W7",
+    "@ACTION_GUN_JIAO": "GN-T1",
+    "@ACTION_GUN_WU_HUA": "GN-W8",
+    "@ACTION_GUN_TI_LIAO_HUA": "GN-W9",
+    "@ACTION_GUN_GUN_YA": "GN-T2",
+    "@ACTION_GUN_GE": "GN-T3",
+    "@ACTION_GUN_DING": "GN-W10"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_GUN_JIAO",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Цзяо-гунь — обволакивающий метод",
+      "name_original": "Jiao gun",
+      "kind": "control",
+      "family": "GUN",
+      "description_ru": "Цзяо-гунь — обволакивающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_GUN_YA",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Гунь-я — перекатывающий нажим",
+      "name_original": "Gun ya",
+      "kind": "control",
+      "family": "GUN",
+      "description_ru": "Гунь-я — перекатывающий нажим.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_GE",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Гэ — отведение",
+      "name_original": "Ge",
+      "kind": "defence",
+      "family": "GUN",
+      "description_ru": "Гэ — отведение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUN_PI",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Пи-гунь — удар вниз",
+      "name_original": "Pi gun",
+      "kind": "strike",
+      "family": "GUN",
+      "description_ru": "Пи-гунь — удар вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUN_BENG",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Бэн-гунь — вскидывающий метод",
+      "name_original": "Beng gun",
+      "kind": "strike",
+      "family": "GUN",
+      "description_ru": "Бэн-гунь — вскидывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUN_CHUO",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Чо-гунь — тычок",
+      "name_original": "Chuo gun",
+      "kind": "strike",
+      "family": "GUN",
+      "description_ru": "Чо-гунь — тычок.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUN_JI",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Цзи — горизонтальный удар",
+      "name_original": "Ji",
+      "kind": "strike",
+      "family": "GUN",
+      "description_ru": "Цзи — горизонтальный удар.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUN_PAO",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Пао — восходящий удар",
+      "name_original": "Pao",
+      "kind": "strike",
+      "family": "GUN",
+      "description_ru": "Пао — восходящий удар.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_PING_LUN",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Пин-лунь-гунь — горизонтальный круг",
+      "name_original": "Ping lun gun",
+      "kind": "manipulation",
+      "family": "GUN",
+      "description_ru": "Пин-лунь-гунь — горизонтальный круг.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_YUN",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Юнь-гунь — облачное вращение",
+      "name_original": "Yun gun",
+      "kind": "manipulation",
+      "family": "GUN",
+      "description_ru": "Юнь-гунь — облачное вращение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_WU_HUA",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "У-хуа-гунь — вертикальная восьмёрка",
+      "name_original": "Wu hua gun",
+      "kind": "manipulation",
+      "family": "GUN",
+      "description_ru": "У-хуа-гунь — вертикальная восьмёрка.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_TI_LIAO_HUA",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Ти-ляо-хуа-гунь — циклический восходящий метод",
+      "name_original": "Ti liao hua gun",
+      "kind": "sequence",
+      "family": "GUN",
+      "description_ru": "Ти-ляо-хуа-гунь — циклический восходящий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_GUN_DING",
+      "style_id": "gun",
+      "style_ru": "Ушу — гунь и наньгунь, посох",
+      "name_ru": "Дин — постановка конца посоха",
+      "name_original": "Ding",
+      "kind": "manipulation",
+      "family": "GUN",
+      "description_ru": "Дин — постановка конца посоха.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

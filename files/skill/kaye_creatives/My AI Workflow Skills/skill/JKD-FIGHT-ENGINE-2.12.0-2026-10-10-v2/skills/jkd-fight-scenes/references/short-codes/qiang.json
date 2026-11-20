@@ -1,0 +1,315 @@
+{
+  "style": {
+    "style_id": "qiang",
+    "prefix": "QG",
+    "name_ru": "Ушу: цян, копьё",
+    "entries": 8,
+    "categories": {
+      "T": 2,
+      "W": 6
+    }
+  },
+  "entries": [
+    {
+      "code": "QG-T1",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "T",
+      "name_ru": "Лань-цян — наружное парирование",
+      "display_ru": "Лань-цян — наружное парирование",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@ACTION_QIANG_LAN",
+      "catalogue_tags": [
+        "@ACTION_QIANG_LAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-T2",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "T",
+      "name_ru": "На-цян — внутреннее парирование",
+      "display_ru": "На-цян — внутреннее парирование",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@ACTION_QIANG_NA",
+      "catalogue_tags": [
+        "@ACTION_QIANG_NA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W1",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "Чжа-цян — прямой укол",
+      "display_ru": "Чжа-цян — прямой укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@STRIKE_QIANG_ZHA",
+      "catalogue_tags": [
+        "@STRIKE_QIANG_ZHA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W2",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "Чуань-цян — пронизывающий метод",
+      "display_ru": "Чуань-цян — пронизывающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@STRIKE_QIANG_CHUAN",
+      "catalogue_tags": [
+        "@STRIKE_QIANG_CHUAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W3",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "Бэн-цян — вскидывающий метод",
+      "display_ru": "Бэн-цян — вскидывающий метод",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@STRIKE_QIANG_BENG",
+      "catalogue_tags": [
+        "@STRIKE_QIANG_BENG"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W4",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "Дянь-цян — точечный метод",
+      "display_ru": "Дянь-цян — точечный метод",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@STRIKE_QIANG_DIAN",
+      "catalogue_tags": [
+        "@STRIKE_QIANG_DIAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W5",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "Тяо-ба — восходящий удар древком",
+      "display_ru": "Тяо-ба — восходящий удар древком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@STRIKE_QIANG_TIAO_BA",
+      "catalogue_tags": [
+        "@STRIKE_QIANG_TIAO_BA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "QG-W6",
+      "prefix": "QG",
+      "style_id": "qiang",
+      "category": "W",
+      "name_ru": "У-хуа-цян — вертикальная восьмёрка",
+      "display_ru": "У-хуа-цян — вертикальная восьмёрка",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/qiang.json",
+      "source_tag": "@ACTION_QIANG_WU_HUA",
+      "catalogue_tags": [
+        "@ACTION_QIANG_WU_HUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_QIANG_ZHA": "QG-W1",
+    "@STRIKE_QIANG_CHUAN": "QG-W2",
+    "@STRIKE_QIANG_BENG": "QG-W3",
+    "@STRIKE_QIANG_DIAN": "QG-W4",
+    "@STRIKE_QIANG_TIAO_BA": "QG-W5",
+    "@ACTION_QIANG_LAN": "QG-T1",
+    "@ACTION_QIANG_NA": "QG-T2",
+    "@ACTION_QIANG_WU_HUA": "QG-W6"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_QIANG_LAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Лань-цян — наружное парирование",
+      "name_original": "Lan qiang",
+      "kind": "defence",
+      "family": "QIANG",
+      "description_ru": "Лань-цян — наружное парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_QIANG_NA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "На-цян — внутреннее парирование",
+      "name_original": "Na qiang",
+      "kind": "defence",
+      "family": "QIANG",
+      "description_ru": "На-цян — внутреннее парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_ZHA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Чжа-цян — прямой укол",
+      "name_original": "Zha qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Чжа-цян — прямой укол.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_CHUAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Чуань-цян — пронизывающий метод",
+      "name_original": "Chuan qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Чуань-цян — пронизывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_BENG",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Бэн-цян — вскидывающий метод",
+      "name_original": "Beng qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Бэн-цян — вскидывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_DIAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Дянь-цян — точечный метод",
+      "name_original": "Dian qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Дянь-цян — точечный метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_TIAO_BA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Тяо-ба — восходящий удар древком",
+      "name_original": "Tiao ba",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Тяо-ба — восходящий удар древком.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_QIANG_WU_HUA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "У-хуа-цян — вертикальная восьмёрка",
+      "name_original": "Wu hua qiang",
+      "kind": "manipulation",
+      "family": "QIANG",
+      "description_ru": "У-хуа-цян — вертикальная восьмёрка.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

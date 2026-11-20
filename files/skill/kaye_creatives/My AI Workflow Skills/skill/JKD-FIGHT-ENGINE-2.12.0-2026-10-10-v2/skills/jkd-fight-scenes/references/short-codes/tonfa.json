@@ -1,0 +1,277 @@
+{
+  "style": {
+    "style_id": "tonfa",
+    "prefix": "TON",
+    "name_ru": "Кобудо: тонфа",
+    "entries": 7,
+    "categories": {
+      "W": 7
+    }
+  },
+  "entries": [
+    {
+      "code": "TON-W1",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Сёмэн-ути тонфой",
+      "display_ru": "Сёмэн-ути тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@STRIKE_TONFA_SHOMEN",
+      "catalogue_tags": [
+        "@STRIKE_TONFA_SHOMEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W2",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Нисходящий удар тонфой",
+      "display_ru": "Нисходящий удар тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@STRIKE_TONFA_DOWN",
+      "catalogue_tags": [
+        "@STRIKE_TONFA_DOWN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W3",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Обратный тычок тонфой",
+      "display_ru": "Обратный тычок тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@STRIKE_TONFA_REVERSE_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_TONFA_REVERSE_THRUST"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W4",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Круговой удар тонфой",
+      "display_ru": "Круговой удар тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@STRIKE_TONFA_AROUND_HEAD",
+      "catalogue_tags": [
+        "@STRIKE_TONFA_AROUND_HEAD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W5",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Восьмёрка тонфой",
+      "display_ru": "Восьмёрка тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@ACTION_TONFA_FIGURE_EIGHT",
+      "catalogue_tags": [
+        "@ACTION_TONFA_FIGURE_EIGHT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W6",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Парная боковая и вертикальная серия тонфой",
+      "display_ru": "Парная боковая и вертикальная серия тонфой",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@ACTION_TONFA_MOROTE_SAYU_JOGE",
+      "catalogue_tags": [
+        "@ACTION_TONFA_MOROTE_SAYU_JOGE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "TON-W7",
+      "prefix": "TON",
+      "style_id": "tonfa",
+      "category": "W",
+      "name_ru": "Серия тонфой: верх, внутрь, вверх–вниз",
+      "display_ru": "Серия тонфой: верх, внутрь, вверх–вниз",
+      "origin": "catalogue_short_code",
+      "kind": "sequence",
+      "source": "strike-catalogue/tonfa.json",
+      "source_tag": "@ACTION_TONFA_RENZOKU_SHOMEN",
+      "catalogue_tags": [
+        "@ACTION_TONFA_RENZOKU_SHOMEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_TONFA_SHOMEN": "TON-W1",
+    "@STRIKE_TONFA_DOWN": "TON-W2",
+    "@STRIKE_TONFA_REVERSE_THRUST": "TON-W3",
+    "@STRIKE_TONFA_AROUND_HEAD": "TON-W4",
+    "@ACTION_TONFA_FIGURE_EIGHT": "TON-W5",
+    "@ACTION_TONFA_MOROTE_SAYU_JOGE": "TON-W6",
+    "@ACTION_TONFA_RENZOKU_SHOMEN": "TON-W7"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_TONFA_SHOMEN",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Сёмэн-ути тонфой",
+      "name_original": "Shomen uchi",
+      "kind": "strike",
+      "family": "TONFA",
+      "description_ru": "Сёмэн-ути тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TONFA_DOWN",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Нисходящий удар тонфой",
+      "name_original": "Downward strike",
+      "kind": "strike",
+      "family": "TONFA",
+      "description_ru": "Нисходящий удар тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TONFA_REVERSE_THRUST",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Обратный тычок тонфой",
+      "name_original": "Reverse thrust",
+      "kind": "strike",
+      "family": "TONFA",
+      "description_ru": "Обратный тычок тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TONFA_AROUND_HEAD",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Круговой удар тонфой",
+      "name_original": "Around the head strike",
+      "kind": "strike",
+      "family": "TONFA",
+      "description_ru": "Круговой удар тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TONFA_FIGURE_EIGHT",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Восьмёрка тонфой",
+      "name_original": "Figure eight strike",
+      "kind": "sequence",
+      "family": "TONFA",
+      "description_ru": "Восьмёрка тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TONFA_MOROTE_SAYU_JOGE",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Парная боковая и вертикальная серия тонфой",
+      "name_original": "Morote sayu ni to joge uchi",
+      "kind": "sequence",
+      "family": "TONFA",
+      "description_ru": "Парная боковая и вертикальная серия тонфой.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TONFA_RENZOKU_SHOMEN",
+      "style_id": "tonfa",
+      "style_ru": "Кобудо — тонфа, программа NKKF",
+      "name_ru": "Серия тонфой: верх, внутрь, вверх–вниз",
+      "name_original": "Renzoku shomen naka joge uchi",
+      "kind": "sequence",
+      "family": "TONFA",
+      "description_ru": "Серия тонфой: верх, внутрь, вверх–вниз.",
+      "variant_note": "Названия собственной программы NKKF; серии не считаются единичным ударом.",
+      "source_ids": [
+        "W_NKKF_TONFA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

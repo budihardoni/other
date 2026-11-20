@@ -1,0 +1,333 @@
+{
+  "style": {
+    "style_id": "blade_screen",
+    "prefix": "BL",
+    "name_ru": "Клинки: постановочные семейства",
+    "entries": 9,
+    "categories": {
+      "W": 9
+    }
+  },
+  "entries": [
+    {
+      "code": "BL-W1",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Вертикальный рубящий",
+      "display_ru": "Вертикальный рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_DOWNCUT",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_DOWNCUT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W2",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Диагональный рубящий сверху",
+      "display_ru": "Диагональный рубящий сверху",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_DIAGONAL_DOWN",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_DIAGONAL_DOWN"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W3",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Диагональный рубящий снизу",
+      "display_ru": "Диагональный рубящий снизу",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_DIAGONAL_UP",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_DIAGONAL_UP"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W4",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Горизонтальный рубящий",
+      "display_ru": "Горизонтальный рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_HORIZONTAL",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_HORIZONTAL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W5",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Обратный рубящий",
+      "display_ru": "Обратный рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_BACKHAND",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_BACKHAND"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W6",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Режущее проведение",
+      "display_ru": "Режущее проведение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_DRAW_SLICE",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_DRAW_SLICE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W7",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Прямой укол",
+      "display_ru": "Прямой укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W8",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Удар рукоятью",
+      "display_ru": "Удар рукоятью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_HILT",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_HILT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BL-W9",
+      "prefix": "BL",
+      "style_id": "blade_screen",
+      "category": "W",
+      "name_ru": "Удар навершием",
+      "display_ru": "Удар навершием",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/blade_screen.json",
+      "source_tag": "@STRIKE_BLADE_SCREEN_POMMEL",
+      "catalogue_tags": [
+        "@STRIKE_BLADE_SCREEN_POMMEL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_BLADE_SCREEN_DOWNCUT": "BL-W1",
+    "@STRIKE_BLADE_SCREEN_DIAGONAL_DOWN": "BL-W2",
+    "@STRIKE_BLADE_SCREEN_DIAGONAL_UP": "BL-W3",
+    "@STRIKE_BLADE_SCREEN_HORIZONTAL": "BL-W4",
+    "@STRIKE_BLADE_SCREEN_BACKHAND": "BL-W5",
+    "@STRIKE_BLADE_SCREEN_DRAW_SLICE": "BL-W6",
+    "@STRIKE_BLADE_SCREEN_THRUST": "BL-W7",
+    "@STRIKE_BLADE_SCREEN_HILT": "BL-W8",
+    "@STRIKE_BLADE_SCREEN_POMMEL": "BL-W9"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_DOWNCUT",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Вертикальный рубящий",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Вертикальный рубящий.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_DIAGONAL_DOWN",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Диагональный рубящий сверху",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Диагональный рубящий сверху.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_DIAGONAL_UP",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Диагональный рубящий снизу",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Диагональный рубящий снизу.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_HORIZONTAL",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Горизонтальный рубящий",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Горизонтальный рубящий.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_BACKHAND",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Обратный рубящий",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Обратный рубящий.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_DRAW_SLICE",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Режущее проведение",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Режущее проведение.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_THRUST",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Прямой укол",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Прямой укол.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_HILT",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Удар рукоятью",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Удар рукоятью.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BLADE_SCREEN_POMMEL",
+      "style_id": "blade_screen",
+      "style_ru": "Клинки — постановочные семейства",
+      "name_ru": "Удар навершием",
+      "name_original": "",
+      "kind": "strike",
+      "family": "BLADE_SCREEN",
+      "description_ru": "Удар навершием.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

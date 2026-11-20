@@ -1,0 +1,389 @@
+{
+  "style": {
+    "style_id": "dao",
+    "prefix": "DAO",
+    "name_ru": "Ушу: дао / наньдао",
+    "entries": 10,
+    "categories": {
+      "T": 1,
+      "W": 9
+    }
+  },
+  "entries": [
+    {
+      "code": "DAO-T1",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "T",
+      "name_ru": "Гуа-дао — парирование",
+      "display_ru": "Гуа-дао — парирование",
+      "origin": "catalogue_short_code",
+      "kind": "defence",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@ACTION_DAO_GUA",
+      "catalogue_tags": [
+        "@ACTION_DAO_GUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W1",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Пи-дао — рубящий вниз",
+      "display_ru": "Пи-дао — рубящий вниз",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@STRIKE_DAO_PI",
+      "catalogue_tags": [
+        "@STRIKE_DAO_PI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W2",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Чжа-дао — укол",
+      "display_ru": "Чжа-дао — укол",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@STRIKE_DAO_ZHA",
+      "catalogue_tags": [
+        "@STRIKE_DAO_ZHA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W3",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Чжань-дао — рубящий",
+      "display_ru": "Чжань-дао — рубящий",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@STRIKE_DAO_ZHAN",
+      "catalogue_tags": [
+        "@STRIKE_DAO_ZHAN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W4",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Мо-дао — режущее проведение",
+      "display_ru": "Мо-дао — режущее проведение",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@STRIKE_DAO_MO",
+      "catalogue_tags": [
+        "@STRIKE_DAO_MO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W5",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Сао-дао — сметающий удар",
+      "display_ru": "Сао-дао — сметающий удар",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@STRIKE_DAO_SAO",
+      "catalogue_tags": [
+        "@STRIKE_DAO_SAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W6",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Чань-тоу — обвод",
+      "display_ru": "Чань-тоу — обвод",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@ACTION_DAO_CHAN_TOU",
+      "catalogue_tags": [
+        "@ACTION_DAO_CHAN_TOU"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W7",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Го-нао — обвод за головой",
+      "display_ru": "Го-нао — обвод за головой",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@ACTION_DAO_GUO_NAO",
+      "catalogue_tags": [
+        "@ACTION_DAO_GUO_NAO"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W8",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Юнь-дао — облачное вращение",
+      "display_ru": "Юнь-дао — облачное вращение",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@ACTION_DAO_YUN",
+      "catalogue_tags": [
+        "@ACTION_DAO_YUN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DAO-W9",
+      "prefix": "DAO",
+      "style_id": "dao",
+      "category": "W",
+      "name_ru": "Бэй-хуа — вращение за спиной",
+      "display_ru": "Бэй-хуа — вращение за спиной",
+      "origin": "catalogue_short_code",
+      "kind": "manipulation",
+      "source": "strike-catalogue/dao.json",
+      "source_tag": "@ACTION_DAO_BEI_HUA",
+      "catalogue_tags": [
+        "@ACTION_DAO_BEI_HUA"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_DAO_PI": "DAO-W1",
+    "@STRIKE_DAO_ZHA": "DAO-W2",
+    "@STRIKE_DAO_ZHAN": "DAO-W3",
+    "@STRIKE_DAO_MO": "DAO-W4",
+    "@STRIKE_DAO_SAO": "DAO-W5",
+    "@ACTION_DAO_CHAN_TOU": "DAO-W6",
+    "@ACTION_DAO_GUO_NAO": "DAO-W7",
+    "@ACTION_DAO_GUA": "DAO-T1",
+    "@ACTION_DAO_YUN": "DAO-W8",
+    "@ACTION_DAO_BEI_HUA": "DAO-W9"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_DAO_GUA",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Гуа-дао — парирование",
+      "name_original": "Gua dao",
+      "kind": "defence",
+      "family": "DAO",
+      "description_ru": "Гуа-дао — парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_DAO_PI",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Пи-дао — рубящий вниз",
+      "name_original": "Pi dao",
+      "kind": "strike",
+      "family": "DAO",
+      "description_ru": "Пи-дао — рубящий вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_DAO_ZHA",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Чжа-дао — укол",
+      "name_original": "Zha dao",
+      "kind": "strike",
+      "family": "DAO",
+      "description_ru": "Чжа-дао — укол.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_DAO_ZHAN",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Чжань-дао — рубящий",
+      "name_original": "Zhan dao",
+      "kind": "strike",
+      "family": "DAO",
+      "description_ru": "Чжань-дао — рубящий.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_DAO_MO",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Мо-дао — режущее проведение",
+      "name_original": "Mo dao",
+      "kind": "strike",
+      "family": "DAO",
+      "description_ru": "Мо-дао — режущее проведение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_DAO_SAO",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Сао-дао — сметающий удар",
+      "name_original": "Sao dao",
+      "kind": "strike",
+      "family": "DAO",
+      "description_ru": "Сао-дао — сметающий удар.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DAO_CHAN_TOU",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Чань-тоу — обвод",
+      "name_original": "Chan tou dao",
+      "kind": "manipulation",
+      "family": "DAO",
+      "description_ru": "Чань-тоу — обвод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DAO_GUO_NAO",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Го-нао — обвод за головой",
+      "name_original": "Guo nao dao",
+      "kind": "manipulation",
+      "family": "DAO",
+      "description_ru": "Го-нао — обвод за головой.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DAO_YUN",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Юнь-дао — облачное вращение",
+      "name_original": "Yun dao",
+      "kind": "manipulation",
+      "family": "DAO",
+      "description_ru": "Юнь-дао — облачное вращение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DAO_BEI_HUA",
+      "style_id": "dao",
+      "style_ru": "Ушу — дао и наньдао",
+      "name_ru": "Бэй-хуа — вращение за спиной",
+      "name_original": "Bei hua dao",
+      "kind": "manipulation",
+      "family": "DAO",
+      "description_ru": "Бэй-хуа — вращение за спиной.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

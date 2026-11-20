@@ -1,0 +1,240 @@
+{
+  "style": {
+    "style_id": "sai",
+    "prefix": "SAI",
+    "name_ru": "Кобудо: сай",
+    "entries": 6,
+    "categories": {
+      "W": 6
+    }
+  },
+  "entries": [
+    {
+      "code": "SAI-W1",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Открытый верхний удар саем",
+      "display_ru": "Открытый верхний удар саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_OPEN_HEAD",
+      "catalogue_tags": [
+        "@STRIKE_SAI_OPEN_HEAD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SAI-W2",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Открытый нисходящий удар саем",
+      "display_ru": "Открытый нисходящий удар саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_OPEN_DOWN",
+      "catalogue_tags": [
+        "@STRIKE_SAI_OPEN_DOWN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SAI-W3",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Цуки саем",
+      "display_ru": "Цуки саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_TSUKI",
+      "catalogue_tags": [
+        "@STRIKE_SAI_TSUKI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SAI-W4",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Парный цуки саем",
+      "display_ru": "Парный цуки саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_DOUBLE_TSUKI",
+      "catalogue_tags": [
+        "@STRIKE_SAI_DOUBLE_TSUKI"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SAI-W5",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Круговой удар саем",
+      "display_ru": "Круговой удар саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_AROUND_HEAD",
+      "catalogue_tags": [
+        "@STRIKE_SAI_AROUND_HEAD"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SAI-W6",
+      "prefix": "SAI",
+      "style_id": "sai",
+      "category": "W",
+      "name_ru": "Парный открытый удар саем",
+      "display_ru": "Парный открытый удар саем",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/sai.json",
+      "source_tag": "@STRIKE_SAI_DOUBLE_OPEN",
+      "catalogue_tags": [
+        "@STRIKE_SAI_DOUBLE_OPEN"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_SAI_OPEN_HEAD": "SAI-W1",
+    "@STRIKE_SAI_OPEN_DOWN": "SAI-W2",
+    "@STRIKE_SAI_TSUKI": "SAI-W3",
+    "@STRIKE_SAI_DOUBLE_TSUKI": "SAI-W4",
+    "@STRIKE_SAI_AROUND_HEAD": "SAI-W5",
+    "@STRIKE_SAI_DOUBLE_OPEN": "SAI-W6"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_SAI_OPEN_HEAD",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Открытый верхний удар саем",
+      "name_original": "Open head strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Открытый верхний удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_OPEN_DOWN",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Открытый нисходящий удар саем",
+      "name_original": "Open downward strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Открытый нисходящий удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_TSUKI",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Цуки саем",
+      "name_original": "Tsuki",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Цуки саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_DOUBLE_TSUKI",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Парный цуки саем",
+      "name_original": "Double punch high",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Парный цуки саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_AROUND_HEAD",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Круговой удар саем",
+      "name_original": "Around head strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Круговой удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_DOUBLE_OPEN",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Парный открытый удар саем",
+      "name_original": "Double high open strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Парный открытый удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

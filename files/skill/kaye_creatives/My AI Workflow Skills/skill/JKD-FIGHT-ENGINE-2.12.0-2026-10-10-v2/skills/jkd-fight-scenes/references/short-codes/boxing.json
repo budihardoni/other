@@ -1,0 +1,970 @@
+{
+  "style": {
+    "style_id": "boxing",
+    "prefix": "BOX",
+    "name_ru": "Бокс",
+    "entries": 25,
+    "categories": {
+      "H": 25
+    }
+  },
+  "entries": [
+    {
+      "code": "BOX-H1",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Джеб",
+      "display_ru": "Джеб",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_JAB",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H2",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Джеб в корпус",
+      "display_ru": "Джеб в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_BODY_JAB",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_BODY_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H3",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Прямой задней рукой",
+      "display_ru": "Прямой задней рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_STRAIGHT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_STRAIGHT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H4",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Прямой задней рукой в корпус",
+      "display_ru": "Прямой задней рукой в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_BODY_STRAIGHT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_BODY_STRAIGHT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H5",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Хук ведущей рукой",
+      "display_ru": "Хук ведущей рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_LEAD_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_LEAD_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H6",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Хук задней рукой",
+      "display_ru": "Хук задней рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H7",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Хук ведущей рукой в корпус",
+      "display_ru": "Хук ведущей рукой в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_LEAD_BODY_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_LEAD_BODY_HOOK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H8",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Хук задней рукой в корпус",
+      "display_ru": "Хук задней рукой в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_BODY_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_BODY_HOOK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H9",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Апперкот ведущей рукой",
+      "display_ru": "Апперкот ведущей рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_LEAD_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_LEAD_UPPERCUT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H10",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Апперкот задней рукой",
+      "display_ru": "Апперкот задней рукой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_UPPERCUT"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H11",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Апперкот ведущей рукой в корпус",
+      "display_ru": "Апперкот ведущей рукой в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_LEAD_BODY_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_LEAD_BODY_UPPERCUT"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H12",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Апперкот задней рукой в корпус",
+      "display_ru": "Апперкот задней рукой в корпус",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_REAR_BODY_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_REAR_BODY_UPPERCUT"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H13",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Джеб с шагом",
+      "display_ru": "Джеб с шагом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_STEP_JAB",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_STEP_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H14",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Фликер-джеб",
+      "display_ru": "Фликер-джеб",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_FLICKER_JAB",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_FLICKER_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H15",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Силовой джеб",
+      "display_ru": "Силовой джеб",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_POWER_JAB",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_POWER_JAB"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H16",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Диагональный шовел-хук",
+      "display_ru": "Диагональный шовел-хук",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_SHOVEL_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_SHOVEL_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H17",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Оверхенд",
+      "display_ru": "Оверхенд",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_OVERHAND",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_OVERHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H18",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Чек-хук с поворотом",
+      "display_ru": "Чек-хук с поворотом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_CHECK_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_CHECK_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H19",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Чек-хук с боковым шагом",
+      "display_ru": "Чек-хук с боковым шагом",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_SIDESTEP_CHECK_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_SIDESTEP_CHECK_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H20",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Чек-хук с шагом назад",
+      "display_ru": "Чек-хук с шагом назад",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_BACKSTEP_CHECK_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_BACKSTEP_CHECK_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H21",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Чек-хук со сменой стойки",
+      "display_ru": "Чек-хук со сменой стойки",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_SWITCH_CHECK_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_SWITCH_CHECK_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H22",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Боло-апперкот",
+      "display_ru": "Боло-апперкот",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_BOLO_UPPERCUT",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_BOLO_UPPERCUT"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H23",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Боло-хук",
+      "display_ru": "Боло-хук",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_BOLO_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_BOLO_HOOK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H24",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Прыжковый хук «газель»",
+      "display_ru": "Прыжковый хук «газель»",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_GAZELLE_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_GAZELLE_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "BOX-H25",
+      "prefix": "BOX",
+      "style_id": "boxing",
+      "category": "H",
+      "name_ru": "Нисходящий диагональный хук",
+      "display_ru": "Нисходящий диагональный хук",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/boxing.json",
+      "source_tag": "@STRIKE_BOXING_DOWNWARD_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_BOXING_DOWNWARD_HOOK"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_BOXING_JAB": "BOX-H1",
+    "@STRIKE_BOXING_BODY_JAB": "BOX-H2",
+    "@STRIKE_BOXING_REAR_STRAIGHT": "BOX-H3",
+    "@STRIKE_BOXING_REAR_BODY_STRAIGHT": "BOX-H4",
+    "@STRIKE_BOXING_LEAD_HOOK": "BOX-H5",
+    "@STRIKE_BOXING_REAR_HOOK": "BOX-H6",
+    "@STRIKE_BOXING_LEAD_BODY_HOOK": "BOX-H7",
+    "@STRIKE_BOXING_REAR_BODY_HOOK": "BOX-H8",
+    "@STRIKE_BOXING_LEAD_UPPERCUT": "BOX-H9",
+    "@STRIKE_BOXING_REAR_UPPERCUT": "BOX-H10",
+    "@STRIKE_BOXING_LEAD_BODY_UPPERCUT": "BOX-H11",
+    "@STRIKE_BOXING_REAR_BODY_UPPERCUT": "BOX-H12",
+    "@STRIKE_BOXING_STEP_JAB": "BOX-H13",
+    "@STRIKE_BOXING_FLICKER_JAB": "BOX-H14",
+    "@STRIKE_BOXING_POWER_JAB": "BOX-H15",
+    "@STRIKE_BOXING_SHOVEL_HOOK": "BOX-H16",
+    "@STRIKE_BOXING_OVERHAND": "BOX-H17",
+    "@STRIKE_BOXING_CHECK_HOOK": "BOX-H18",
+    "@STRIKE_BOXING_SIDESTEP_CHECK_HOOK": "BOX-H19",
+    "@STRIKE_BOXING_BACKSTEP_CHECK_HOOK": "BOX-H20",
+    "@STRIKE_BOXING_SWITCH_CHECK_HOOK": "BOX-H21",
+    "@STRIKE_BOXING_BOLO_UPPERCUT": "BOX-H22",
+    "@STRIKE_BOXING_BOLO_HOOK": "BOX-H23",
+    "@STRIKE_BOXING_GAZELLE_HOOK": "BOX-H24",
+    "@STRIKE_BOXING_DOWNWARD_HOOK": "BOX-H25"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_BOXING_JAB",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Джеб",
+      "name_original": "Jab / straight lead",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Ведущий кулак движется прямо вперёд.",
+      "variant_note": "Ведущая рука зависит от стойки, а не от фиксированного лево/право.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-JABS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "straight lead"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_BODY_JAB",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Джеб в корпус",
+      "name_original": "Straight lead to the body",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Прямой ведущий кулак проходит на уровне корпуса.",
+      "variant_note": "Уровень прямо выделен в handbook.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "body jab"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_STRAIGHT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Прямой задней рукой",
+      "name_original": "Cross / straight rear hand",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Задний кулак проходит по прямой с поворотом корпуса.",
+      "variant_note": "Cross — распространённое имя; отдельные школы различают cross и straight.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-MT-GLOSSARY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "cross"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_BODY_STRAIGHT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Прямой задней рукой в корпус",
+      "name_original": "Straight rear hand to body",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Задний кулак проходит прямо на уровне корпуса.",
+      "variant_note": "Не отдельная новая семья, а именованный уровень.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_LEAD_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Хук ведущей рукой",
+      "name_original": "Lead hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Ведущий согнутый кулак описывает боковую дугу.",
+      "variant_note": "Сторона привязана к стойке.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Хук задней рукой",
+      "name_original": "Rear hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Задний согнутый кулак описывает боковую дугу.",
+      "variant_note": "Сторона привязана к стойке.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_LEAD_BODY_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Хук ведущей рукой в корпус",
+      "name_original": "Lead body hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Ведущий кулак проходит боковой дугой на уровне корпуса.",
+      "variant_note": "Постановочное разделение уровня и ведущей руки внутри documented hook family.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_BODY_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Хук задней рукой в корпус",
+      "name_original": "Rear body hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Задний кулак проходит боковой дугой на уровне корпуса.",
+      "variant_note": "Постановочное разделение уровня и задней руки внутри documented hook family.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_LEAD_UPPERCUT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Апперкот ведущей рукой",
+      "name_original": "Lead uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Ведущий согнутый кулак проходит снизу вверх.",
+      "variant_note": "Сторона привязана к стойке.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_UPPERCUT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Апперкот задней рукой",
+      "name_original": "Rear uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Задний согнутый кулак проходит снизу вверх.",
+      "variant_note": "Сторона привязана к стойке.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_LEAD_BODY_UPPERCUT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Апперкот ведущей рукой в корпус",
+      "name_original": "Lead body uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Ведущий кулак поднимается короткой дугой на уровне корпуса.",
+      "variant_note": "Постановочное разделение руки внутри documented body uppercut family.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_REAR_BODY_UPPERCUT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Апперкот задней рукой в корпус",
+      "name_original": "Rear body uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Задний кулак поднимается короткой дугой на уровне корпуса.",
+      "variant_note": "Постановочное разделение руки внутри documented body uppercut family.",
+      "source_ids": [
+        "SPORT-BOX-EB1",
+        "SPORT-BOX-EB2"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_STEP_JAB",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Джеб с шагом",
+      "name_original": "Step jab",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Прямой ведущий кулак сопровождается шагом вперёд.",
+      "variant_note": "Именованный вариант входа, не новая ударная поверхность.",
+      "source_ids": [
+        "SPORT-BOX-JABS",
+        "SPORT-BOX-GAZELLE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_FLICKER_JAB",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Фликер-джеб",
+      "name_original": "Flicker jab",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Ведущая рука выбрасывает короткий хлёсткий прямой удар.",
+      "variant_note": "Школьное имя; высота исходной руки меняется между тренерами.",
+      "source_ids": [
+        "SPORT-BOX-FLICKER"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_POWER_JAB",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Силовой джеб",
+      "name_original": "Power jab",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Прямой ведущий кулак сопровождается заметным движением корпуса.",
+      "variant_note": "Название манеры исполнения, без измеренной силы.",
+      "source_ids": [
+        "SPORT-BOX-JABS",
+        "SPORT-BOX-FLICKER"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_SHOVEL_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Диагональный шовел-хук",
+      "name_original": "Shovel hook",
+      "kind": "strike",
+      "family": "punch_diagonal",
+      "description_ru": "Согнутый кулак проходит промежуточной дугой между хуком и апперкотом.",
+      "variant_note": "Mexican uppercut — alias в указанной школе.",
+      "source_ids": [
+        "SPORT-BOX-SHOVEL"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "Mexican uppercut"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_OVERHAND",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Оверхенд",
+      "name_original": "Overhand",
+      "kind": "strike",
+      "family": "punch_overhand",
+      "description_ru": "Кулак описывает высокую нисходящую дугу.",
+      "variant_note": "Не равен прямому cross; здесь без фиксированной руки.",
+      "source_ids": [
+        "SPORT-BOX-CORKSCREW",
+        "SPORT-BOX-GAZELLE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_CHECK_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Чек-хук с поворотом",
+      "name_original": "Traditional check hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Хук сопровождается боковым поворотом исполнителя.",
+      "variant_note": "Check задаёт ответ и перемещение, а не новую поверхность кулака.",
+      "source_ids": [
+        "SPORT-BOX-CHECK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "pivot-out check hook"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_SIDESTEP_CHECK_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Чек-хук с боковым шагом",
+      "name_original": "Sidestep / lead check hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Хук сопровождается боковым шагом.",
+      "variant_note": "Lead Check Hook — школьное название конкретного sidestep-варианта.",
+      "source_ids": [
+        "SPORT-BOX-CHECK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_BACKSTEP_CHECK_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Чек-хук с шагом назад",
+      "name_original": "Backstep check hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Хук сопровождается шагом назад.",
+      "variant_note": "Вариант входа/выхода того же hook family.",
+      "source_ids": [
+        "SPORT-BOX-CHECK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_SWITCH_CHECK_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Чек-хук со сменой стойки",
+      "name_original": "Switch stance check hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Хук проходит новой ведущей рукой после смены стойки.",
+      "variant_note": "Именованный школьный вариант.",
+      "source_ids": [
+        "SPORT-BOX-CHECK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_BOLO_UPPERCUT",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Боло-апперкот",
+      "name_original": "Bolo punch, uppercut finish",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Круговой замах руки завершается восходящим кулаком.",
+      "variant_note": "Источник прямо допускает эту завершающую линию.",
+      "source_ids": [
+        "SPORT-BOX-BOLO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_BOLO_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Боло-хук",
+      "name_original": "Bolo punch, hook finish",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Круговой замах руки завершается боковым кулаком.",
+      "variant_note": "Источник прямо допускает эту завершающую линию.",
+      "source_ids": [
+        "SPORT-BOX-BOLO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_BOXING_GAZELLE_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Прыжковый хук «газель»",
+      "name_original": "Gazelle punch",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Исполнитель проходит вперёд небольшим прыжком с хуком.",
+      "variant_note": "Название из первичного урока western boxing, не универсальный syllabus.",
+      "source_ids": [
+        "SPORT-BOX-GAZELLE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "gazelle punch"
+      ]
+    },
+    {
+      "tag": "@STRIKE_BOXING_DOWNWARD_HOOK",
+      "style_id": "boxing",
+      "style_ru": "Бокс",
+      "name_ru": "Нисходящий диагональный хук",
+      "name_original": "Downward angled hook",
+      "kind": "strike",
+      "family": "punch_hook",
+      "description_ru": "Согнутый кулак проходит боковой дугой с уклоном вниз.",
+      "variant_note": "Словесно упомянут в школьном тексте shovel hook.",
+      "source_ids": [
+        "SPORT-BOX-SHOVEL"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

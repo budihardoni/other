@@ -1,0 +1,241 @@
+{
+  "style": {
+    "style_id": "silat_fatani",
+    "prefix": "SIL",
+    "name_ru": "Силат: Seni Gayung Fatani",
+    "entries": 6,
+    "categories": {
+      "H": 3,
+      "K": 3
+    }
+  },
+  "entries": [
+    {
+      "code": "SIL-H1",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "H",
+      "name_ru": "Прямой удар кулаком",
+      "display_ru": "Прямой удар кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_STRAIGHT_PUNCH",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_STRAIGHT_PUNCH"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SIL-H2",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "H",
+      "name_ru": "Хук",
+      "display_ru": "Хук",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_HOOK",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_HOOK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SIL-H3",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "H",
+      "name_ru": "Удар ладонью",
+      "display_ru": "Удар ладонью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_PALM",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_PALM"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SIL-K1",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "K",
+      "name_ru": "Прямой удар ногой",
+      "display_ru": "Прямой удар ногой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_FRONT_KICK",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_FRONT_KICK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SIL-K2",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "K",
+      "name_ru": "Круговой удар ногой",
+      "display_ru": "Круговой удар ногой",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_ROUND_KICK",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_ROUND_KICK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "SIL-K3",
+      "prefix": "SIL",
+      "style_id": "silat_fatani",
+      "category": "K",
+      "name_ru": "Боковой удар ногой — депак",
+      "display_ru": "Боковой удар ногой — депак",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/silat_fatani.json",
+      "source_tag": "@STRIKE_SILAT_FATANI_SIDE_KICK",
+      "catalogue_tags": [
+        "@STRIKE_SILAT_FATANI_SIDE_KICK"
+      ],
+      "evidence_status": "family_variant",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_SILAT_FATANI_STRAIGHT_PUNCH": "SIL-H1",
+    "@STRIKE_SILAT_FATANI_HOOK": "SIL-H2",
+    "@STRIKE_SILAT_FATANI_PALM": "SIL-H3",
+    "@STRIKE_SILAT_FATANI_FRONT_KICK": "SIL-K1",
+    "@STRIKE_SILAT_FATANI_ROUND_KICK": "SIL-K2",
+    "@STRIKE_SILAT_FATANI_SIDE_KICK": "SIL-K3"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_SILAT_FATANI_STRAIGHT_PUNCH",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Прямой удар кулаком",
+      "name_original": "Straight punch",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Прямой удар кулаком.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_HOOK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Хук",
+      "name_original": "Hook punch",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Хук.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_PALM",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Удар ладонью",
+      "name_original": "Palm strike",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Удар ладонью.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_FRONT_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Прямой удар ногой",
+      "name_original": "Front kick",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Прямой удар ногой.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_ROUND_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Круговой удар ногой",
+      "name_original": "Roundhouse kick",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Круговой удар ногой.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_SIDE_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Боковой удар ногой — депак",
+      "name_original": "Side kick / depak",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Боковой удар ногой — депак.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

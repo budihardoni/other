@@ -1,0 +1,286 @@
+{
+  "style": {
+    "style_id": "drunken",
+    "prefix": "DR",
+    "name_ru": "Экранный стиль пьяного мастера",
+    "entries": 7,
+    "categories": {
+      "S": 2,
+      "F": 3,
+      "H": 2
+    }
+  },
+  "entries": [
+    {
+      "code": "DR-S1",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "S",
+      "name_ru": "Ответ со снижением уровня",
+      "display_ru": "Ответ со снижением уровня",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_LOW_LEVEL_REPLY",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_LOW_LEVEL_REPLY"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-S2",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "S",
+      "name_ru": "Переход от мягкой игры к собранному акценту",
+      "display_ru": "Переход от мягкой игры к собранному акценту",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_LOOSE_TIGHT_SWITCH",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_LOOSE_TIGHT_SWITCH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-F1",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "F",
+      "name_ru": "Шаткое сближение с внезапным ускорением",
+      "display_ru": "Шаткое сближение с внезапным ускорением",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_SWAY_ENTRY",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_SWAY_ENTRY"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-F2",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "F",
+      "name_ru": "Мнимое спотыкание с восстановлением опоры",
+      "display_ru": "Мнимое спотыкание с восстановлением опоры",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_STUMBLE_RECOVERY",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_STUMBLE_RECOVERY"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-F3",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "F",
+      "name_ru": "Перекат с продолжением ручного обмена",
+      "display_ru": "Перекат с продолжением ручного обмена",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_ROLL_TO_STAND",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_ROLL_TO_STAND"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-H1",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "H",
+      "name_ru": "Удар из наклонённого корпуса",
+      "display_ru": "Удар из наклонённого корпуса",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_OFF_AXIS_PUNCH",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_OFF_AXIS_PUNCH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "DR-H2",
+      "prefix": "DR",
+      "style_id": "drunken",
+      "category": "H",
+      "name_ru": "Жест чашки как обманный рисунок",
+      "display_ru": "Жест чашки как обманный рисунок",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/drunken.json",
+      "source_tag": "@ACTION_DRUNKEN_CUP_HAND_FEINT",
+      "catalogue_tags": [
+        "@ACTION_DRUNKEN_CUP_HAND_FEINT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_DRUNKEN_SWAY_ENTRY": "DR-F1",
+    "@ACTION_DRUNKEN_OFF_AXIS_PUNCH": "DR-H1",
+    "@ACTION_DRUNKEN_CUP_HAND_FEINT": "DR-H2",
+    "@ACTION_DRUNKEN_STUMBLE_RECOVERY": "DR-F2",
+    "@ACTION_DRUNKEN_LOW_LEVEL_REPLY": "DR-S1",
+    "@ACTION_DRUNKEN_LOOSE_TIGHT_SWITCH": "DR-S2",
+    "@ACTION_DRUNKEN_ROLL_TO_STAND": "DR-F3"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_DRUNKEN_LOW_LEVEL_REPLY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Ответ со снижением уровня",
+      "name_original": "Authored low-level reply",
+      "kind": "screen_motif",
+      "family": "level_change",
+      "description_ru": "Покачивание переходит в низкое положение и короткое ответное движение.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_LOOSE_TIGHT_SWITCH",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Переход от мягкой игры к собранному акценту",
+      "name_original": "Authored loose-to-tight switch",
+      "kind": "screen_motif",
+      "family": "rhythm_motif",
+      "description_ru": "Свободные руки и корпус на миг собираются в чёткий двигательный акцент.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_SWAY_ENTRY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Шаткое сближение с внезапным ускорением",
+      "name_original": "Authored swaying entry",
+      "kind": "screen_motif",
+      "family": "entry",
+      "description_ru": "Корпус покачивается при сближении, затем движение коротко ускоряется.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_STUMBLE_RECOVERY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Мнимое спотыкание с восстановлением опоры",
+      "name_original": "Authored stumble and recovery",
+      "kind": "screen_motif",
+      "family": "balance_motif",
+      "description_ru": "Участник изображает потерю шага и возвращает собранную опору.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_ROLL_TO_STAND",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Перекат с продолжением ручного обмена",
+      "name_original": "Authored roll-to-stand continuation",
+      "kind": "screen_motif",
+      "family": "floor_transition",
+      "description_ru": "Перекат переходит в подъём и продолжение парного ручного рисунка.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_OFF_AXIS_PUNCH",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Удар из наклонённого корпуса",
+      "name_original": "Authored off-axis punch motif",
+      "kind": "screen_motif",
+      "family": "off_axis_strike",
+      "description_ru": "Наклонённый корпус меняет ось, и из него выходит короткая рука.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_CUP_HAND_FEINT",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Жест чашки как обманный рисунок",
+      "name_original": "Authored cup-hand feint",
+      "kind": "screen_motif",
+      "family": "hand_gesture",
+      "description_ru": "Согнутая кисть изображает чашку перед сменой ручного рисунка.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

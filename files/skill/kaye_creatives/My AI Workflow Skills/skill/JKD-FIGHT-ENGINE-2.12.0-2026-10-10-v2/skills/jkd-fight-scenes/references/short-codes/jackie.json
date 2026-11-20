@@ -1,0 +1,359 @@
+{
+  "style": {
+    "style_id": "jackie",
+    "prefix": "JC",
+    "name_ru": "Постановочные действия Джеки Чана",
+    "entries": 9,
+    "categories": {
+      "S": 3,
+      "F": 3,
+      "W": 3
+    }
+  },
+  "entries": [
+    {
+      "code": "JC-S1",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "S",
+      "name_ru": "Комедийная реакция после контакта",
+      "display_ru": "Комедийная реакция после контакта",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_COMIC_PAIN_BEAT",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_COMIC_PAIN_BEAT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-S2",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "S",
+      "name_ru": "Смена темпа внутри обмена",
+      "display_ru": "Смена темпа внутри обмена",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_RHYTHM_SWITCH",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_RHYTHM_SWITCH"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-S3",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "S",
+      "name_ru": "Самостоятельная принимающая игра партнёра",
+      "display_ru": "Самостоятельная принимающая игра партнёра",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_PARTNER_RECOIL",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_PARTNER_RECOIL"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-F1",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "F",
+      "name_ru": "Переход через препятствие и возвращение в обмен",
+      "display_ru": "Переход через препятствие и возвращение в обмен",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_VAULT_REENTRY",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_VAULT_REENTRY"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-F2",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "F",
+      "name_ru": "Бой переходит в погоню через пространство",
+      "display_ru": "Бой переходит в погоню через пространство",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_SPACE_CHASE",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_SPACE_CHASE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-F3",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "F",
+      "name_ru": "Переход от одного партнёра к другому",
+      "display_ru": "Переход от одного партнёра к другому",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_GROUP_HANDOFF",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_GROUP_HANDOFF"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-W1",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "W",
+      "name_ru": "Предмет как подвижная преграда",
+      "display_ru": "Предмет как подвижная преграда",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_PROP_BLOCK",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_PROP_BLOCK"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-W2",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "W",
+      "name_ru": "Перехват и передача предмета",
+      "display_ru": "Перехват и передача предмета",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_PROP_HANDOFF",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_PROP_HANDOFF"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "JC-W3",
+      "prefix": "JC",
+      "style_id": "jackie",
+      "category": "W",
+      "name_ru": "Предмет запускает цепь движений",
+      "display_ru": "Предмет запускает цепь движений",
+      "origin": "catalogue_short_code",
+      "kind": "screen_motif",
+      "source": "strike-catalogue/jackie.json",
+      "source_tag": "@ACTION_JACKIE_CHAIN_REACTION",
+      "catalogue_tags": [
+        "@ACTION_JACKIE_CHAIN_REACTION"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@ACTION_JACKIE_PROP_BLOCK": "JC-W1",
+    "@ACTION_JACKIE_PROP_HANDOFF": "JC-W2",
+    "@ACTION_JACKIE_VAULT_REENTRY": "JC-F1",
+    "@ACTION_JACKIE_COMIC_PAIN_BEAT": "JC-S1",
+    "@ACTION_JACKIE_RHYTHM_SWITCH": "JC-S2",
+    "@ACTION_JACKIE_CHAIN_REACTION": "JC-W3",
+    "@ACTION_JACKIE_PARTNER_RECOIL": "JC-S3",
+    "@ACTION_JACKIE_SPACE_CHASE": "JC-F2",
+    "@ACTION_JACKIE_GROUP_HANDOFF": "JC-F3"
+  },
+  "related_records": [
+    {
+      "tag": "@ACTION_JACKIE_COMIC_PAIN_BEAT",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Комедийная реакция после контакта",
+      "name_original": "Authored comic receiving beat",
+      "kind": "screen_motif",
+      "family": "receiving_performance",
+      "description_ru": "Получатель показывает краткую реакцию лицом и телом, затем продолжает действие.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_REID",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_RHYTHM_SWITCH",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Смена темпа внутри обмена",
+      "name_original": "Authored rhythm switch",
+      "kind": "screen_motif",
+      "family": "rhythm_motif",
+      "description_ru": "Ровный ручной рисунок сменяется паузой и новым коротким ускорением.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_PARTNER_RECOIL",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Самостоятельная принимающая игра партнёра",
+      "name_original": "Authored partner recoil",
+      "kind": "screen_motif",
+      "family": "receiving_performance",
+      "description_ru": "Партнёр отводит корпус и меняет шаг в согласованном экранном обмене.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_REID"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_VAULT_REENTRY",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Переход через препятствие и возвращение в обмен",
+      "name_original": "Authored vault and re-entry",
+      "kind": "screen_motif",
+      "family": "obstacle_transition",
+      "description_ru": "Участник проходит через препятствие и снова оказывается рядом с партнёром.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_SPACE_CHASE",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Бой переходит в погоню через пространство",
+      "name_original": "Authored fight-to-chase transition",
+      "kind": "screen_motif",
+      "family": "space_transition",
+      "description_ru": "Парный обмен размыкается и продолжается движением через соседнюю зону.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_GROUP_HANDOFF",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Переход от одного партнёра к другому",
+      "name_original": "Authored group exchange handoff",
+      "kind": "screen_motif",
+      "family": "multi_partner_transition",
+      "description_ru": "Один участник выходит из обмена, пока следующий входит в его движущийся рисунок.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_REID",
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_PROP_BLOCK",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Предмет как подвижная преграда",
+      "name_original": "Authored prop block",
+      "kind": "screen_motif",
+      "family": "prop_interaction",
+      "description_ru": "Бытовой предмет оказывается между руками участников и меняет линию обмена.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_PROP_HANDOFF",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Перехват и передача предмета",
+      "name_original": "Authored prop handoff",
+      "kind": "screen_motif",
+      "family": "prop_interaction",
+      "description_ru": "Предмет переходит из рук в руки внутри продолжающегося парного движения.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_CHAIN_REACTION",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Предмет запускает цепь движений",
+      "name_original": "Authored prop chain reaction",
+      "kind": "screen_motif",
+      "family": "situational_comedy",
+      "description_ru": "Сдвинувшийся предмет меняет положение нескольких участников сцены.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

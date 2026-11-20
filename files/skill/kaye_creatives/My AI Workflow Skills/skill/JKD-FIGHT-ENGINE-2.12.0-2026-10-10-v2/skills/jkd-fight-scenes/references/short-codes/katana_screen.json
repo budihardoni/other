@@ -1,0 +1,193 @@
+{
+  "style": {
+    "style_id": "katana_screen",
+    "prefix": "KAT",
+    "name_ru": "Катана: постановочная геометрия",
+    "entries": 5,
+    "categories": {
+      "W": 5
+    }
+  },
+  "entries": [
+    {
+      "code": "KAT-W1",
+      "prefix": "KAT",
+      "style_id": "katana_screen",
+      "category": "W",
+      "name_ru": "Диагональный срез кэса",
+      "display_ru": "Диагональный срез кэса",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/katana_screen.json",
+      "source_tag": "@STRIKE_KATANA_SCREEN_KESA_CUT",
+      "catalogue_tags": [
+        "@STRIKE_KATANA_SCREEN_KESA_CUT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KAT-W2",
+      "prefix": "KAT",
+      "style_id": "katana_screen",
+      "category": "W",
+      "name_ru": "Восходящий срез катаной",
+      "display_ru": "Восходящий срез катаной",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/katana_screen.json",
+      "source_tag": "@STRIKE_KATANA_SCREEN_UPWARD_CUT",
+      "catalogue_tags": [
+        "@STRIKE_KATANA_SCREEN_UPWARD_CUT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KAT-W3",
+      "prefix": "KAT",
+      "style_id": "katana_screen",
+      "category": "W",
+      "name_ru": "Горизонтальный срез катаной",
+      "display_ru": "Горизонтальный срез катаной",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/katana_screen.json",
+      "source_tag": "@STRIKE_KATANA_SCREEN_HORIZONTAL_CUT",
+      "catalogue_tags": [
+        "@STRIKE_KATANA_SCREEN_HORIZONTAL_CUT"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KAT-W4",
+      "prefix": "KAT",
+      "style_id": "katana_screen",
+      "category": "W",
+      "name_ru": "Укол катаной",
+      "display_ru": "Укол катаной",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/katana_screen.json",
+      "source_tag": "@STRIKE_KATANA_SCREEN_THRUST",
+      "catalogue_tags": [
+        "@STRIKE_KATANA_SCREEN_THRUST"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "KAT-W5",
+      "prefix": "KAT",
+      "style_id": "katana_screen",
+      "category": "W",
+      "name_ru": "Удар рукоятью катаны",
+      "display_ru": "Удар рукоятью катаны",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/katana_screen.json",
+      "source_tag": "@STRIKE_KATANA_SCREEN_HILT_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_KATANA_SCREEN_HILT_STRIKE"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_KATANA_SCREEN_KESA_CUT": "KAT-W1",
+    "@STRIKE_KATANA_SCREEN_UPWARD_CUT": "KAT-W2",
+    "@STRIKE_KATANA_SCREEN_HORIZONTAL_CUT": "KAT-W3",
+    "@STRIKE_KATANA_SCREEN_THRUST": "KAT-W4",
+    "@STRIKE_KATANA_SCREEN_HILT_STRIKE": "KAT-W5"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_KATANA_SCREEN_KESA_CUT",
+      "style_id": "katana_screen",
+      "style_ru": "Катана — постановочные геометрические варианты",
+      "name_ru": "Диагональный срез кэса",
+      "name_original": "Kesa-giri",
+      "kind": "strike",
+      "family": "blade_geometry",
+      "description_ru": "Диагональный срез кэса.",
+      "variant_note": "Описательный тег постановки. Не атрибуция конкретной школе kenjutsu/iaido.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KATANA_SCREEN_UPWARD_CUT",
+      "style_id": "katana_screen",
+      "style_ru": "Катана — постановочные геометрические варианты",
+      "name_ru": "Восходящий срез катаной",
+      "name_original": "Upward cut",
+      "kind": "strike",
+      "family": "blade_geometry",
+      "description_ru": "Восходящий срез катаной.",
+      "variant_note": "Описательный тег постановки. Не атрибуция конкретной школе kenjutsu/iaido.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KATANA_SCREEN_HORIZONTAL_CUT",
+      "style_id": "katana_screen",
+      "style_ru": "Катана — постановочные геометрические варианты",
+      "name_ru": "Горизонтальный срез катаной",
+      "name_original": "Horizontal cut",
+      "kind": "strike",
+      "family": "blade_geometry",
+      "description_ru": "Горизонтальный срез катаной.",
+      "variant_note": "Описательный тег постановки. Не атрибуция конкретной школе kenjutsu/iaido.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KATANA_SCREEN_THRUST",
+      "style_id": "katana_screen",
+      "style_ru": "Катана — постановочные геометрические варианты",
+      "name_ru": "Укол катаной",
+      "name_original": "Thrust",
+      "kind": "strike",
+      "family": "blade_geometry",
+      "description_ru": "Укол катаной.",
+      "variant_note": "Описательный тег постановки. Не атрибуция конкретной школе kenjutsu/iaido.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KATANA_SCREEN_HILT_STRIKE",
+      "style_id": "katana_screen",
+      "style_ru": "Катана — постановочные геометрические варианты",
+      "name_ru": "Удар рукоятью катаны",
+      "name_original": "Hilt strike",
+      "kind": "strike",
+      "family": "blade_geometry",
+      "description_ru": "Удар рукоятью катаны.",
+      "variant_note": "Описательный тег постановки. Не атрибуция конкретной школе kenjutsu/iaido.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "style": {
+    "style_id": "karate_okinawan",
+    "prefix": "OKI",
+    "name_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+    "entries": 10,
+    "categories": {
+      "H": 10
+    }
+  },
+  "entries": [
+    {
+      "code": "OKI-H1",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар основанием ладони",
+      "display_ru": "Удар основанием ладони",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_PALM_HEEL",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_PALM_HEEL"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H2",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар внешним ребром ладони",
+      "display_ru": "Удар внешним ребром ладони",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_KNIFEHAND",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_KNIFEHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H3",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар внутренним ребром ладони",
+      "display_ru": "Удар внутренним ребром ладони",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_RIDGEHAND",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_RIDGEHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H4",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар тыльной стороной кисти",
+      "display_ru": "Удар тыльной стороной кисти",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_BACKHAND",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_BACKHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H5",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Укол кистью-копьём",
+      "display_ru": "Укол кистью-копьём",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_SPEARHAND",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_SPEARHAND"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H6",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Укол двумя пальцами",
+      "display_ru": "Укол двумя пальцами",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_TWO_FINGER_SPEAR",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_TWO_FINGER_SPEAR"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H7",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар согнутой кистью",
+      "display_ru": "Удар согнутой кистью",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_WRIST_STRIKE",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_WRIST_STRIKE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H8",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар полусжатым кулаком",
+      "display_ru": "Удар полусжатым кулаком",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_FLAT_KNUCKLE",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_FLAT_KNUCKLE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H9",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар выступающим суставом указательного пальца",
+      "display_ru": "Удар выступающим суставом указательного пальца",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_INDEX_KNUCKLE",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_INDEX_KNUCKLE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    },
+    {
+      "code": "OKI-H10",
+      "prefix": "OKI",
+      "style_id": "karate_okinawan",
+      "category": "H",
+      "name_ru": "Удар выступающим суставом среднего пальца",
+      "display_ru": "Удар выступающим суставом среднего пальца",
+      "origin": "catalogue_short_code",
+      "kind": "strike",
+      "source": "strike-catalogue/karate_okinawan.json",
+      "source_tag": "@STRIKE_KARATE_MIDDLE_KNUCKLE",
+      "catalogue_tags": [
+        "@STRIKE_KARATE_MIDDLE_KNUCKLE"
+      ],
+      "evidence_status": "directly_named",
+      "definition_precedence": "catalogue_record"
+    }
+  ],
+  "shared_entries": [],
+  "aliases": {
+    "@STRIKE_KARATE_PALM_HEEL": "OKI-H1",
+    "@STRIKE_KARATE_KNIFEHAND": "OKI-H2",
+    "@STRIKE_KARATE_RIDGEHAND": "OKI-H3",
+    "@STRIKE_KARATE_BACKHAND": "OKI-H4",
+    "@STRIKE_KARATE_SPEARHAND": "OKI-H5",
+    "@STRIKE_KARATE_TWO_FINGER_SPEAR": "OKI-H6",
+    "@STRIKE_KARATE_WRIST_STRIKE": "OKI-H7",
+    "@STRIKE_KARATE_FLAT_KNUCKLE": "OKI-H8",
+    "@STRIKE_KARATE_INDEX_KNUCKLE": "OKI-H9",
+    "@STRIKE_KARATE_MIDDLE_KNUCKLE": "OKI-H10"
+  },
+  "related_records": [
+    {
+      "tag": "@STRIKE_KARATE_PALM_HEEL",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар основанием ладони",
+      "name_original": "Teisho-uchi / Shotei-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание открытой ладони проходит к партнёру.",
+      "variant_note": "Открытая рука встречается и в Shotokan; Okinawan/Goju-ryu здесь обозначает источник и постановочный выбор, не исключительное владение приёмом.",
+      "source_ids": [
+        "AS_KARATE_EGKA",
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_KNIFEHAND",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар внешним ребром ладони",
+      "name_original": "Shuto-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внешнее ребро открытой ладони проходит по рубящей дуге.",
+      "variant_note": "Открытая рука встречается и в Shotokan; Okinawan/Goju-ryu здесь обозначает источник и постановочный выбор, не исключительное владение приёмом.",
+      "source_ids": [
+        "AS_KARATE_EGKA",
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_RIDGEHAND",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар внутренним ребром ладони",
+      "name_original": "Haito-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Внутреннее ребро открытой ладони проходит по дуге.",
+      "variant_note": "Открытая рука встречается и в Shotokan; Okinawan/Goju-ryu здесь обозначает источник и постановочный выбор, не исключительное владение приёмом.",
+      "source_ids": [
+        "AS_KARATE_EGKA",
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_BACKHAND",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар тыльной стороной кисти",
+      "name_original": "Haishu-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона открытой кисти проходит к партнёру.",
+      "variant_note": "В JKA допускается ударное применение Haishu, в Sochin прямо назван Haishu-uchi; не только блок.",
+      "source_ids": [
+        "AS_KARATE_JKA",
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SPEARHAND",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Укол кистью-копьём",
+      "name_original": "Nukite",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Собранная открытая кисть проходит вперёд концами пальцев.",
+      "variant_note": "Открытая рука встречается и в Shotokan; Okinawan/Goju-ryu здесь обозначает источник и постановочный выбор, не исключительное владение приёмом.",
+      "source_ids": [
+        "AS_KARATE_EGKA",
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_TWO_FINGER_SPEAR",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Укол двумя пальцами",
+      "name_original": "Nihon-nukite",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Открытая кисть проходит вперёд двумя вытянутыми пальцами.",
+      "variant_note": "Именованный вариант поверхности Nukite по JKA; не доказательство наличия во всех Goju-ryu программах.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_WRIST_STRIKE",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар согнутой кистью",
+      "name_original": "Ko-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Согнутая кисть выводит область запястья к партнёру.",
+      "variant_note": "Именованная ударная форма EGKA; Ko-uke остаётся блоком и сюда не включён.",
+      "source_ids": [
+        "AS_KARATE_EGKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_FLAT_KNUCKLE",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар полусжатым кулаком",
+      "name_original": "Hiraken-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Полусжатый кулак проходит к партнёру плоской линией согнутых пальцев.",
+      "variant_note": "Отдельная поверхность EGKA; не синоним любого Seiken.",
+      "source_ids": [
+        "AS_KARATE_EGKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_INDEX_KNUCKLE",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар выступающим суставом указательного пальца",
+      "name_original": "Ippon-ken",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру выделенным суставом одного пальца.",
+      "variant_note": "JKA называет эту поверхность; Okinawan/open-hand блок не подразумевает раскрытую кисть у каждой записи.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_MIDDLE_KNUCKLE",
+      "style_id": "karate_okinawan",
+      "style_ru": "Карате: Okinawan / Goju-ryu, открытая рука",
+      "name_ru": "Удар выступающим суставом среднего пальца",
+      "name_original": "Nakadaka-ippon-ken",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру выделенным суставом среднего пальца.",
+      "variant_note": "Вариант поверхности Ippon-ken; не дополнительная траектория.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ]
+}
