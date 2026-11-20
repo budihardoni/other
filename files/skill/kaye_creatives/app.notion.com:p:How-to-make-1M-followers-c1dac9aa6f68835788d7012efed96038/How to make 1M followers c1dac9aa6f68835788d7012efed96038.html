@@ -1,0 +1,798 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>How to make 1M followers</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+/* Override strong tags inside headings to maintain consistent weight */
+h1 strong,
+h2 strong,
+h3 strong {
+	font-weight: 600;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 10px;
+	padding: 1rem;
+	/* Paint a complete callout box on every PDF page fragment. */
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone;
+}
+
+/* For default-background callouts, render the border outline. */
+.callout.block-color-default_background {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+/*
+ * Toggles and callouts hold arbitrary content, so they can easily be taller
+ * than a page. They must stay breakable: avoiding breaks inside them makes
+ * Chromium push the whole block onto the next page, which leaves the previous
+ * page mostly empty before every long toggle.
+ */
+details,
+aside {
+	margin: 1.25em 0;
+}
+
+/* Keep a toggle's title on the same page as the start of its content. */
+summary {
+	page-break-after: avoid;
+	break-after: avoid;
+}
+
+/*
+ * Toggle headings render as <h1/h2/h3 style="display:inline-block"> inside
+ * <summary>. Without this reset, the heading's margin-top pushes it below the
+ * ::marker (▼), so the triangle and the title appear on separate lines.
+ */
+summary h1,
+summary h2,
+summary h3,
+summary h4 {
+	margin-top: 0;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+
+	table.collection-content {
+		width: 100%;
+		table-layout: fixed;
+	}
+
+	table.collection-content th,
+	table.collection-content td {
+		overflow-wrap: anywhere;
+	}
+
+	table.collection-content td > .user,
+	table.collection-content td > time {
+		white-space: pre-wrap;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content-wrapper {
+	overflow-x: auto;
+}
+
+@media only print {
+	.collection-content-wrapper {
+		overflow-x: visible;
+	}
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.collection-content td {
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+
+.column-list {
+	display: flex;
+	gap: 46px;
+}
+
+.column {
+	min-width: 0;
+	overflow: hidden;
+}
+
+.column > *:first-child {
+	margin-top: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding-inline: 0.125rem;
+	padding-block: 0.375rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+table {
+	border-collapse: collapse;
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol.numbered-list.numbered-list-digits-2 {
+	padding-inline-start: 2em;
+}
+
+ol.numbered-list.numbered-list-digits-3plus {
+	padding-inline-start: 2.4em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+/*
+ * Render emoji icons using a ::before pseudo-element to keep the glyph
+ * out of the DOM textContent traversal. This avoids double-rendering icons
+ * in callouts and page titles.
+ * NOTE(slim/html-export-pseudo-icons): I can't tagref this because it will
+ * flag as a duplicate tag after codegen.
+ */
+.icon[data-emoji]::before {
+	content: attr(data-emoji);
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.callout img.notion-static-icon {
+	width: 1em;
+	height: 1em;
+}
+
+.callout p {
+	margin: 0;
+}
+
+.callout h1,
+.callout h2,
+.callout h3 {
+	margin: 0 0 0.6rem;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	margin-right: 0.4em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+blockquote.quote-large {
+	font-size: 1.25em;
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.tab {
+	margin: 1.25em 0;
+	padding-inline: 1rem;
+	border: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.highlight-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.highlight-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.highlight-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.highlight-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.highlight-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.highlight-default_background {
+	color: rgba(44, 44, 43, 1);
+}
+.highlight-gray_background {
+	background: rgba(42, 28, 0, 0.07);
+}
+.highlight-brown_background {
+	background: rgba(139, 46, 0, 0.086);
+}
+.highlight-orange_background {
+	background: rgba(224, 101, 1, 0.129);
+}
+.highlight-yellow_background {
+	background: rgba(211, 168, 0, 0.137);
+}
+.highlight-teal_background {
+	background: rgba(0, 100, 45, 0.09);
+}
+.highlight-blue_background {
+	background: rgba(0, 124, 215, 0.094);
+}
+.highlight-purple_background {
+	background: rgba(102, 0, 178, 0.078);
+}
+.highlight-pink_background {
+	background: rgba(197, 0, 93, 0.086);
+}
+.highlight-red_background {
+	background: rgba(223, 22, 0, 0.094);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(125, 122, 117, 1);
+	fill: rgba(125, 122, 117, 1);
+}
+.block-color-brown {
+	color: rgba(159, 118, 90, 1);
+	fill: rgba(159, 118, 90, 1);
+}
+.block-color-orange {
+	color: rgba(210, 123, 45, 1);
+	fill: rgba(210, 123, 45, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 148, 52, 1);
+	fill: rgba(203, 148, 52, 1);
+}
+.block-color-teal {
+	color: rgba(80, 148, 110, 1);
+	fill: rgba(80, 148, 110, 1);
+}
+.block-color-blue {
+	color: rgba(56, 125, 201, 1);
+	fill: rgba(56, 125, 201, 1);
+}
+.block-color-purple {
+	color: rgba(154, 107, 180, 1);
+	fill: rgba(154, 107, 180, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(207, 81, 72, 1);
+	fill: rgba(207, 81, 72, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(240, 239, 237, 1);
+}
+.block-color-brown_background {
+	background: rgba(245, 237, 233, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 235, 222, 1);
+}
+.block-color-yellow_background {
+	background: rgba(249, 243, 220, 1);
+}
+.block-color-teal_background {
+	background: rgba(232, 241, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(229, 242, 252, 1);
+}
+.block-color-purple_background {
+	background: rgba(243, 235, 249, 1);
+}
+.block-color-pink_background {
+	background: rgba(250, 233, 241, 1);
+}
+.block-color-red_background {
+	background: rgba(252, 233, 231, 1);
+}
+.select-value-color-default { background-color: rgba(42, 28, 0, 0.07); }
+.select-value-color-gray { background-color: rgba(28, 19, 1, 0.11); }
+.select-value-color-brown { background-color: rgba(127, 51, 0, 0.156); }
+.select-value-color-orange { background-color: rgba(196, 88, 0, 0.203); }
+.select-value-color-yellow { background-color: rgba(209, 156, 0, 0.282); }
+.select-value-color-green { background-color: rgba(0, 96, 38, 0.156); }
+.select-value-color-blue { background-color: rgba(0, 118, 217, 0.203); }
+.select-value-color-purple { background-color: rgba(92, 0, 163, 0.141); }
+.select-value-color-pink { background-color: rgba(183, 0, 78, 0.152); }
+.select-value-color-red { background-color: rgba(206, 24, 0, 0.164); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style><style>@import url('https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex-swap.min.css')</style></head><body><article id="c1dac9aa-6f68-8357-88d7-012efed96038" class="page sans"><header><img class="page-cover-image" src="How%20to%20make%201M%20followers/Screenshot_2026-10-15_at_19.17.43.png" style="object-position:center 53.800000000000004%"/><h1 class="page-title" dir="auto">How to make 1M followers</h1><p class="page-description" dir="auto"></p></header><div class="page-body"><p id="402ac9aa-6f68-82c1-9766-017587bbb365" class="" dir="auto"><a href="https://higgsfield.ai/@kaye_creatives">@kaye_creatives</a> · Oct 15, 2026 · 7 min</p><p id="b61ac9aa-6f68-8371-a027-81f9a873f473" class="" dir="auto">Hi there! Thank you so much for your support! Today&#x27;s blogpost is special one, so let&#x27;s get ✨<em>started</em>✨</p><hr id="b2aac9aa-6f68-8334-a47c-81a3a238fb5b" dir="auto"/><h1 id="00aac9aa-6f68-833c-a14e-81ee2df90d47" class="" dir="auto">Step 1. <strong>Pick a direction people can recognize</strong></h1><p id="fdeac9aa-6f68-83e4-abf3-81b67f97d3b0" class="" dir="auto">When someone lands on your profile, make it easy for them to understand what they’ll get if they follow you.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="329ac9aa-6f68-83e8-9a09-01224c29e360" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="e51ac9aa-6f68-83e3-8e0c-81a055903cca" class="" dir="auto"><strong>Start with three questions:</strong></p><ul id="9ddac9aa-6f68-8225-9490-81394d0931b1" class="bulleted-list" dir="auto"><li style="list-style-type:disc">What do you enjoy creating?</li></ul><ul id="0b9ac9aa-6f68-82d5-92d8-812538a357f1" class="bulleted-list" dir="auto"><li style="list-style-type:disc">What do you already know or feel excited to learn?</li></ul><ul id="041ac9aa-6f68-83e0-84dd-81226ddc5a21" class="bulleted-list" dir="auto"><li style="list-style-type:disc">What would you happily make more than once?</li></ul></div></aside><p id="ebeac9aa-6f68-823d-a948-01506719c8d2" class="" dir="auto">For me, things started clicking when I moved into creative AI videos. That gave me a direction, with plenty of room to try different ideas.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="aa8ac9aa-6f68-82b4-8b05-817dd5db841c" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="391ac9aa-6f68-82a2-8d25-019c345169c2" class="" dir="auto">And that’s the part people miss:<div class="indented"><p id="c15ac9aa-6f68-8287-88d3-818882a05e0a" class="" dir="auto"><em><strong>you can stick to one direction while experimenting with how you present it</strong></em></p></div></p></div></aside><p id="7caac9aa-6f68-8236-b175-81640acf16ac" class="" dir="auto">Within AI content, you could try cinematic stories, funny POV videos, transformations, or simple tutorials. You don’t have to decide your entire creative identity before posting anything.</p><figure id="c0fac9aa-6f68-82f7-a2aa-81cb78dd8a04" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/f7e6aaea-6b22-428d-b4c2-2fe62b268203.jpg" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/f7e6aaea-6b22-428d-b4c2-2fe62b268203.jpg"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/f7e6aaea-6b22-428d-b4c2-2fe62b268203.jpg"/></a></figure><p id="d34ac9aa-6f68-83d4-a011-81be47c8749c" class="" dir="auto"><strong>🧚🏻‍♀️  Your turn:</strong></p><p id="ab8ac9aa-6f68-8315-a1e6-816029fae025" class="" dir="auto">Finish this sentence: “People will follow me for __________.”</p><p id="cffac9aa-6f68-8388-adcb-01f0855b8291" class="" dir="auto">Then choose three formats you want to test. Write down two video ideas for each. You now have six starting points.</p><hr id="374ac9aa-6f68-83bc-9b2d-8188a6fef539" dir="auto"/><h1 id="26aac9aa-6f68-8213-9a78-81f458a317cd" class="" dir="auto"><strong>Step 2. Build an idea bank you’ll actually use</strong></h1><p id="4edac9aa-6f68-8343-add7-01d1bbeb3863" class="" dir="auto">Let me be real with you: I don’t wake up with a genius idea every morning.</p><p id="3baac9aa-6f68-8260-80ab-817b59b603aa" class="" dir="auto">That’s why I keep an idea bank.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="93cac9aa-6f68-83fb-b94f-8132b4985466" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="480ac9aa-6f68-824a-bc61-01a881837b52" class="" dir="auto"><strong>Create a saved folder on Instagram, Pinterest, or YouTube.</strong></p><p id="836ac9aa-6f68-831b-8b71-011a45c14b6f" class="" dir="auto">Whenever something makes you stop scrolling, save it—and write down what caught your attention.<div class="indented"><ul id="ef9ac9aa-6f68-8253-b5fc-81d054f3e1b9" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Was it the first shot?</span><div class="indented"></div></li></ul><ul id="ef1ac9aa-6f68-8283-acd4-813f08196e1f" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">The surprise at the end?</span><div class="indented"></div></li></ul><ul id="c76ac9aa-6f68-821f-bfc1-81466da72fd8" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Something funny?</span><div class="indented"></div></li></ul><ul id="a36ac9aa-6f68-82ba-97fc-812ec2ecef04" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Something you immediately wanted to send to a friend?</span><div class="indented"></div></li></ul></div></p><p id="849ac9aa-6f68-8367-ad63-01e1573cb1ce" class="" dir="auto">“This got a lot of views” is a starting point. Try to go one step further.</p></div></aside><p id="36cac9aa-6f68-82d4-852e-0194a4f9a9bc" class="" dir="auto">I also look for videos that performed unusually well for the person who posted them.</p><p id="d9eac9aa-6f68-8370-a4ac-81088e94a211" class="" dir="auto">For example, if someone usually gets around 10,000 views and one video gets 200,000, that’s worth looking at.</p><p id="b2aac9aa-6f68-827b-baef-811a5f01c358" class="" dir="auto">A huge view count gives you something to investigate. It doesn’t guarantee the same result on your account.</p><p id="0d7ac9aa-6f68-83b0-bf81-01a3588ac141" class="" dir="auto">Keep your notes simple:</p><table id="8e5ac9aa-6f68-83f4-828f-01f5672f2a99" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="9bcac9aa-6f68-8244-b012-011039ce4406" dir="ltr"><th id="@CkD" class="simple-table-header-color simple-table-header">Reference</th><th id="HK@H" class="simple-table-header-color simple-table-header">What caught my attention?</th><th id="^VuS" class="simple-table-header-color simple-table-header">How could I make it my own?</th></tr></thead><tbody><tr id="e41ac9aa-6f68-83ff-b9fb-0119952856e8" dir="ltr"><td id="@CkD" class="">Someone running toward a castle</td><td id="HK@H" class="">The feeling of entering a fairytale</td><td id="^VuS" class="">Put myself inside an AI fantasy world</td></tr><tr id="009ac9aa-6f68-8397-acc6-819469419269" dir="ltr"><td id="@CkD" class="">An emotional scene with a dog</td><td id="HK@H" class="">The relationship between the characters</td><td id="^VuS" class="">Create a story inspired by my own dog</td></tr><tr id="348ac9aa-6f68-835c-9c38-81b90914db78" dir="ltr"><td id="@CkD" class="">A recognizable meme</td><td id="HK@H" class="">You understand the joke immediately</td><td id="^VuS" class="">Imagine that meme appearing in everyday life</td></tr></tbody></table><p id="c72ac9aa-6f68-83b7-a08f-01e815d1ee82" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong></p><p id="52aac9aa-6f68-836d-afa9-0115a59e78db" class="" dir="auto">Save ten references.</p><p id="ed5ac9aa-6f68-8296-9e7d-816efbc031fd" class="" dir="auto">For each one, write one sentence explaining why you saved it.</p><hr id="147ac9aa-6f68-83ce-a371-815d4f5caf1d" dir="auto"/><h1 id="849ac9aa-6f68-823d-98d4-81c06312e9d3" class="" dir="auto"><strong>Step 3. Turn a reference into your own idea</strong></h1><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="045ac9aa-6f68-82ce-be09-017fe640f8e6" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="a61ac9aa-6f68-83a3-b97c-01de618d9bcf" class="" dir="auto">You found something you love. Now ask:<div class="indented"><p id="72fac9aa-6f68-8279-8dcf-019ac506ac45" class="" dir="auto"><em><strong>“What would my version of this look like?”</strong></em></p></div></p></div></aside><figure id="b9bac9aa-6f68-826a-a6b2-8191efcf3b96" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/dce4fde1-24b8-487b-b924-0aa923ecd412.png" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/dce4fde1-24b8-487b-b924-0aa923ecd412.png"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/dce4fde1-24b8-487b-b924-0aa923ecd412.png"/></a></figure><p id="705ac9aa-6f68-827d-ac8c-01dbd6f68103" class="" dir="auto">The useful part of that example is the creative process: I found something that excited me and gave it a new setting, a new execution, and my own presence.</p><p id="bc2ac9aa-6f68-82be-87a7-8181de6b5243" class="" dir="auto">You can borrow inspiration from a visual hook, a story structure, a mood, or an unexpected reveal. Then build your own video around it.</p><p id="510ac9aa-6f68-824c-b771-01ef08947c73" class="" dir="auto">When a specific creator’s idea strongly inspires yours, credit them. Give people a way to discover the person who inspired you.</p><p id="fb1ac9aa-6f68-8332-b52e-01fee6dfd71b" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong> Pick one saved reference and complete these three lines:</p><ul id="634ac9aa-6f68-83b3-af5c-01aaea3e60c3" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">What I love about it: __________</span><div class="indented"></div></li></ul><ul id="707ac9aa-6f68-8335-b371-01cdb10b9e66" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">What I’ll change: __________</span><div class="indented"></div></li></ul><ul id="dc2ac9aa-6f68-82bf-acca-8102cfbf919b" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">What makes my version personal: __________</span><div class="indented"></div></li></ul><p id="ec2ac9aa-6f68-82ce-ac1b-814c88fb57a0" class="" dir="auto">If the last line is hard to answer, spend a little more time developing the idea.</p><hr id="363ac9aa-6f68-8294-b83c-81e9b5c5651b" dir="auto"/><h1 id="ca7ac9aa-6f68-827f-85a9-81f482a18d7c" class="" dir="auto">Step 4. <strong>Give yourself room to experiment</strong></h1><p id="791ac9aa-6f68-83c4-8079-0131d902784a" class="" dir="auto">My biggest early mistake was forcing talking-head videos because I thought that was what a “real creator” was supposed to do.</p><p id="ed9ac9aa-6f68-83d1-8e75-811ea161ee88" class="" dir="auto">I spent months trying to make that format work. Testing creative AI videos helped me find something that fit me much better.</p><p id="f52ac9aa-6f68-822b-add5-81fec20d76f1" class="" dir="auto"><em><strong>So give yourself permission to try things.</strong></em></p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="d7fac9aa-6f68-8384-a3b2-811569aa350e" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><ul id="c36ac9aa-6f68-8328-9193-8102b8c9ffdb" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Use the six ideas you wrote down earlier as your first small batch</span><div class="indented"></div></li></ul><ul id="a1dac9aa-6f68-8373-8f60-01fe35409805" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Choose a posting pace you can realistically keep up with</span><div class="indented"></div></li></ul><ul id="cd0ac9aa-6f68-8250-845c-01e412fda420" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">And give each format more than one attempt.</span><div class="indented"></div></li></ul></div></aside><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="d76ac9aa-6f68-8334-85fd-81009ae72fcc" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="62dac9aa-6f68-8325-85e2-81d3b42f348d" class="" dir="auto">Before making each video, write down one thing you want to learn:<div class="indented"><p id="8e1ac9aa-6f68-830a-943d-81e9e39cdd3e" class="" dir="auto"><em>“Will showing the transformation immediately make the opening more interesting?”</em></p><p id="414ac9aa-6f68-82a5-90ec-81c88f316bd9" class="" dir="auto">Or:</p><p id="b4cac9aa-6f68-830c-8c8a-81ab52f81582" class="" dir="auto"><em>“Will a personal story make people more interested in this idea?”</em></p></div></p><p id="cb5ac9aa-6f68-83c6-bc18-01f25a93f3d2" class="" dir="auto">That gives you something useful to look at afterward.</p></div></aside><p id="407ac9aa-6f68-827f-9e3e-01dd5f95086f" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong></p><ul id="0b7ac9aa-6f68-8342-8eb0-81ec05e95137" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Choose your next three videos</span><div class="indented"></div></li></ul><ul id="f4fac9aa-6f68-8304-82de-011a85289fb0" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Put a realistic publishing date beside each one.</span><div class="indented"></div></li></ul><p id="bbfac9aa-6f68-831d-8f32-018d13982c11" class="" dir="auto">You don’t need to feel completely ready. You need something you can publish and learn from.</p><figure id="252ac9aa-6f68-826c-9936-8148f918ea8c" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/762130fd-65a6-4b4f-b724-0b1dcb5c35e2.jpg" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/762130fd-65a6-4b4f-b724-0b1dcb5c35e2.jpg"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/762130fd-65a6-4b4f-b724-0b1dcb5c35e2.jpg"/></a></figure><hr id="109ac9aa-6f68-82d5-9b43-019ce81f8955" dir="auto"/><h1 id="07eac9aa-6f68-831b-b6bf-01eb9da80581" class="" dir="auto"><strong>Step 5. Use Trial Reels to explore new ideas</strong></h1><p id="92fac9aa-6f68-83d9-b87d-011bc8b2a246" class="" dir="auto">Trial Reels became a big part of my process.</p><p id="273ac9aa-6f68-82fb-95fa-01c0e46ca5d1" class="" dir="auto">Instagram shows them to people who don’t follow you first, which makes them useful for trying new formats and ideas.</p><p id="0a3ac9aa-6f68-8309-a73e-01077f86a0d7" class="" dir="auto">Some followers can still come across them through shares or other places.</p><p id="fb3ac9aa-6f68-831e-bc30-81fc6f3d7841" class="" dir="auto">Initial performance metrics become available after approximately 24 hours.</p><p id="8a2ac9aa-6f68-8351-a457-81603284ea55" class="" dir="auto"><a href="https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/">Instagram explains the feature here.</a></p><div id="6a3ac9aa-6f68-8242-b237-8121961bd4d0" class="column-list" data-notion-column-list="" dir="auto"><div id="d7eac9aa-6f68-82a6-b3c7-01cd8d1ff3bb" style="width:50%" class="column" data-notion-column-ratio="0.5" dir="auto"><figure id="e82ac9aa-6f68-8357-b29a-8164fecc9953" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/146a1420-621f-4ff7-806a-8ca9556cd747.png" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/146a1420-621f-4ff7-806a-8ca9556cd747.png"><img style="width:700px" src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/146a1420-621f-4ff7-806a-8ca9556cd747.png"/></a></figure></div><div id="1aaac9aa-6f68-83d8-8b71-01276dd1f716" style="width:50%" class="column" data-notion-column-ratio="0.5" dir="auto"><figure id="17eac9aa-6f68-8377-a140-81a8d7d5e987" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2976b924-a025-45c1-8684-9f97198995ac.png" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2976b924-a025-45c1-8684-9f97198995ac.png"><img style="width:700px" src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2976b924-a025-45c1-8684-9f97198995ac.png"/></a></figure></div></div><p id="13bac9aa-6f68-824e-b79d-8111e3917c92" class="" dir="auto">If you have the Trial option when publishing, use it to test a clear idea.</p><p id="da5ac9aa-6f68-835a-94b8-014eeffd471d" class="" dir="auto">You could try a different opening, a shorter edit, or a new way of telling the same story.</p><p id="17bac9aa-6f68-83f5-8c5a-018afd8a421b" class="" dir="auto">Make the change meaningful enough that you can learn something from the result.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="037ac9aa-6f68-829a-b129-817d5888fda6" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="0ffac9aa-6f68-8382-af9e-01f2d4db1a1d" class="" dir="auto">If you have the Trial option when publishing, use it to test a clear idea.<div class="indented"><p id="ee8ac9aa-6f68-839b-992b-8163f0444127" class="" dir="auto"><em>You could try a different opening, a shorter edit, or a new way of telling the same story.</em></p></div></p><p id="2f1ac9aa-6f68-831a-978b-01f76ca1acca" class="" dir="auto">Make the change meaningful enough that you can learn something from the result.</p><p id="02bac9aa-6f68-828d-af68-81f1d250f9b1" class="" dir="auto"><em>For example:</em></p><ul id="688ac9aa-6f68-8331-8b34-81ee6c9a1545" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><em>Version A starts with me explaining what I’m about to create.</em></li></ul><ul id="51fac9aa-6f68-83f7-b503-81c2e10627c8" class="bulleted-list" dir="auto"><li style="list-style-type:disc"><em>Version B starts with the finished result.</em></li></ul></div></aside><p id="875ac9aa-6f68-821b-abca-01c8065921a5" class="" dir="auto">Check how each performs after a similar amount of time. One result gives you a clue; several results can help you spot a pattern.</p><p id="f5dac9aa-6f68-822c-992e-01f6bd634a0c" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong></p><ul id="2d9ac9aa-6f68-8360-a7b1-813faa25a3a6" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Write down one idea you want to try as a Trial Reel and the question you want it to answer.</span><div class="indented"></div></li></ul><hr id="02aac9aa-6f68-8203-951d-013cb2d09a89" dir="auto"/><h1 id="e10ac9aa-6f68-8262-8fd2-819f9f999c88" class="" dir="auto"><strong>Step 6. Give people a reason to follow</strong></h1><p id="315ac9aa-6f68-824f-8221-812e897df0d9" class="" dir="auto">A video can get someone’s attention. Your account needs to give them a reason to stay.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="d68ac9aa-6f68-839c-98d3-01c8b9d872e6" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="958ac9aa-6f68-8306-ad20-811d83577f2a" class="" dir="auto">Look at your profile from the perspective of someone discovering you today.</p><ul id="663ac9aa-6f68-826c-9fa1-81051f86ff86" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Can they tell what you create?</span><div class="indented"></div></li></ul><ul id="c32ac9aa-6f68-83d8-8bf7-0139f708e8c1" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Do your pinned posts show your strongest work?</span><div class="indented"></div></li></ul><ul id="114ac9aa-6f68-8309-8b2c-81ca5c025efe" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Is there more of the thing that made them interested in the first place?</span><div class="indented"></div></li></ul></div></aside><p id="6bcac9aa-6f68-8221-8d59-01ba00fe20d3" class="" dir="auto">Think about what viewers can look forward to: another cinematic story, another transformation, another funny POV, or a breakdown of how you made something.</p><p id="cb4ac9aa-6f68-839f-9100-014b3291e678" class="" dir="auto">Make sure the promise matches what you actually want to keep creating.</p><p id="edcac9aa-6f68-8293-a8f2-8198d9ccfbd6" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong></p><ul id="355ac9aa-6f68-8253-8543-81570bb42b7f" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Update your bio</span><div class="indented"></div></li></ul><ul id="706ac9aa-6f68-82d3-8bc9-013702ff0fee" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Choose three posts that best introduce your work.</span><div class="indented"></div></li></ul><figure id="665ac9aa-6f68-823d-af4d-81960d8f5062" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/8dfd0c0b-e964-4fc5-b60c-da41bd399c21.png" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/8dfd0c0b-e964-4fc5-b60c-da41bd399c21.png"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/8dfd0c0b-e964-4fc5-b60c-da41bd399c21.png"/></a></figure><hr id="55eac9aa-6f68-83f8-9af2-017088b025cf" dir="auto"/><h1 id="6e7ac9aa-6f68-83a1-bd98-0175426c1285" class="" dir="auto"><strong>Step 7. Look at the results - and use them</strong></h1><p id="1fcac9aa-6f68-83cc-bb46-0174c2ea22fa" class="" dir="auto">Once you’ve published a batch of videos, take a moment to look back.</p><p id="de9ac9aa-6f68-83c0-b78f-813d0bcf6d79" class="" dir="auto">Check views alongside watch time, shares, saves, and the followers each video brought in, wherever those insights are available.</p><aside class="block-color-pink_background callout" data-notion-callout="" data-notion-callout-icon="⭐" data-notion-callout-background="pink_background" style="white-space:pre-wrap;display:flex" id="b47ac9aa-6f68-8245-a14e-817abaa78596" dir="ltr"><div style="font-size:1.5em"><span class="icon" data-emoji="⭐"></span></div><div style="width:100%"><p id="2ecac9aa-6f68-82d1-b3c0-81362cb07d25" class="" dir="auto">Each number helps you ask a different question.</p><ul id="557ac9aa-6f68-8299-98a0-81bd5ae07d72" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Did people keep watching?</span><div class="indented"></div></li></ul><ul id="4f4ac9aa-6f68-8287-bde2-01c0895a90eb" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Did they want to share it?</span><div class="indented"></div></li></ul><ul id="19bac9aa-6f68-8241-92b6-01c4bd0a8959" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">Did they care enough to follow for more?</span><div class="indented"></div></li></ul></div></aside><p id="423ac9aa-6f68-823f-a9ac-0165732e8335" class="" dir="auto">A simple tracker is enough:</p><table id="4d1ac9aa-6f68-83d0-a728-0178432d293a" class="simple-table" dir="ltr"><thead class="simple-table-header"><tr id="957ac9aa-6f68-8389-9dde-01c41acab8d9" dir="ltr"><th id="ew?_" class="simple-table-header-color simple-table-header">Video</th><th id="U&gt;?`" class="simple-table-header-color simple-table-header">Format</th><th id="y?XQ" class="simple-table-header-color simple-table-header">What I tested</th><th id="TPAJ" class="simple-table-header-color simple-table-header">What happened</th><th id="v=bX" class="simple-table-header-color simple-table-header">What I’ll try next</th></tr></thead><tbody><tr id="f61ac9aa-6f68-8322-98ac-018474849e8a" dir="ltr"><td id="ew?_" class="">Video 1</td><td id="U&gt;?`" class="">Transformation</td><td id="y?XQ" class="">Showing the result first</td><td id="TPAJ" class="">Fill in after posting</td><td id="v=bX" class="">Keep or change the opening</td></tr></tbody></table><p id="54bac9aa-6f68-82a3-8861-81f7f77af3bf" class="" dir="auto">Compare videos after a similar amount of time, and look for patterns across several posts.</p><p id="8b1ac9aa-6f68-831e-9133-81834b98be39" class="" dir="auto">When something performs well, write down your best explanation. Then test that explanation in a new video. Keep the part you think worked and give people a fresh idea.</p><p id="b93ac9aa-6f68-827f-b9af-01f1d1fa313c" class="" dir="auto"><strong>🧚🏻‍♀️ Your turn:</strong></p><ul id="48cac9aa-6f68-833d-9866-814efbdbd3e9" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">After your first six videos, choose one format to explore further</span><div class="indented"></div></li></ul><ul id="418ac9aa-6f68-831c-9b0c-810085704cb6" class="to-do-list" dir="auto"><li><input type="checkbox" class="checkbox checkbox-off" disabled=""/> <span class="to-do-children-unchecked">And plan three new ideas around it</span><div class="indented"></div></li></ul><hr id="d8eac9aa-6f68-8245-bbbe-011dff669c62" dir="auto"/><p id="25cac9aa-6f68-83b6-85c5-81615bf8bc68" class="" dir="auto">Start with the first video. Let yourself improve while you’re doing the work.</p><p id="8f8ac9aa-6f68-83f3-90a6-0164f4242043" class="" dir="auto">Believe in yourself, and let&#x27;s start ✨<em>creating</em>✨</p><figure id="1f0ac9aa-6f68-8238-827e-01e4fc4f956a" class="image" data-notion-image="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2fb15510-ddba-43ea-be52-bfad76815770.png" dir="ltr"><a href="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2fb15510-ddba-43ea-be52-bfad76815770.png"><img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3BzYKBq0yI9i3riEeuAc4tUq2Rp/2fb15510-ddba-43ea-be52-bfad76815770.png"/></a></figure><p id="ef3ac9aa-6f68-820b-ad71-01a9970a0c92" class="" dir="auto">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
