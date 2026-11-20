@@ -1,0 +1,14 @@
+{
+ "name": "ricksclips-stage",
+ "version": "1.0.0",
+ "private": true,
+ "type": "module",
+ "description": "three.js stage for @ricksclips3000-style Shorts, rendered headless to MP4",
+ "scripts": {
+  "render": "node render.mjs ../../examples/example_scene.json out.mp4"
+ },
+ "dependencies": {
+  "three": "0.170.0",
+  "playwright": "^1.63.0"
+ }
+}
