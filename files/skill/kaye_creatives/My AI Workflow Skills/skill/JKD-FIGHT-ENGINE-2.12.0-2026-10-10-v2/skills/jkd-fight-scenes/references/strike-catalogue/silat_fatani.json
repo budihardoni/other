@@ -1,0 +1,128 @@
+{
+  "style_id": "silat_fatani",
+  "style_ru": "Силат — Seni Gayung Fatani",
+  "records": [
+    {
+      "tag": "@STRIKE_SILAT_FATANI_STRAIGHT_PUNCH",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Прямой удар кулаком",
+      "name_original": "Straight punch",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Прямой удар кулаком.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_HOOK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Хук",
+      "name_original": "Hook punch",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Хук.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_PALM",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Удар ладонью",
+      "name_original": "Palm strike",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Удар ладонью.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_FRONT_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Прямой удар ногой",
+      "name_original": "Front kick",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Прямой удар ногой.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_ROUND_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Круговой удар ногой",
+      "name_original": "Roundhouse kick",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Круговой удар ногой.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SILAT_FATANI_SIDE_KICK",
+      "style_id": "silat_fatani",
+      "style_ru": "Силат — Seni Gayung Fatani",
+      "name_ru": "Боковой удар ногой — депак",
+      "name_original": "Side kick / depak",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Боковой удар ногой — депак.",
+      "variant_note": "Перечисленные базовые семейства своей школы; не все удары или оружейные техники всех линий silat.",
+      "source_ids": [
+        "W_SILAT_FATANI"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_SILAT_FATANI",
+      "title": "Seni Gayung Fatani — school basics",
+      "url": "https://senigayungfatani.com/5-essential-silat-techniques-for-beginners-mastering-the-basics/",
+      "what_verified": "Шесть перечисленных семейств рук/ног своей системы; не полный словарь всего silat."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "style_id": "sai",
+  "style_ru": "Кобудо — сай, программа NKKF",
+  "records": [
+    {
+      "tag": "@STRIKE_SAI_OPEN_HEAD",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Открытый верхний удар саем",
+      "name_original": "Open head strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Открытый верхний удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_OPEN_DOWN",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Открытый нисходящий удар саем",
+      "name_original": "Open downward strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Открытый нисходящий удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_TSUKI",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Цуки саем",
+      "name_original": "Tsuki",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Цуки саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_DOUBLE_TSUKI",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Парный цуки саем",
+      "name_original": "Double punch high",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Парный цуки саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_AROUND_HEAD",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Круговой удар саем",
+      "name_original": "Around head strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Круговой удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SAI_DOUBLE_OPEN",
+      "style_id": "sai",
+      "style_ru": "Кобудо — сай, программа NKKF",
+      "name_ru": "Парный открытый удар саем",
+      "name_original": "Double high open strike",
+      "kind": "strike",
+      "family": "SAI",
+      "description_ru": "Парный открытый удар саем.",
+      "variant_note": "Парное исполнение — вариант, не новая ударная поверхность.",
+      "source_ids": [
+        "W_NKKF_SAI"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_NKKF_SAI",
+      "title": "NKKF — Sai program",
+      "url": "https://www.nkkf.org/kobudo-programs/sai-program",
+      "what_verified": "Открытый перечень striking methods собственной программы; происхождение оружия и заявления об эффективности не заимствуются."
+    }
+  ]
+}

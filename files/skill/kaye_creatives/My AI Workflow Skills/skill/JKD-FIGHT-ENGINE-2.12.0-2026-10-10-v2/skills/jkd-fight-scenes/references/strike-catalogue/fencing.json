@@ -1,0 +1,343 @@
+{
+  "style_id": "fencing",
+  "style_ru": "Спортивное фехтование",
+  "records": [
+    {
+      "tag": "@STRIKE_FENCING_DIRECT_THRUST",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Прямой укол",
+      "name_original": "Direct thrust",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Прямой укол.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_DISENGAGE_THRUST",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Укол с переводом",
+      "name_original": "Disengagement thrust",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Укол с переводом.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_COUNTER_DISENGAGE_THRUST",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Укол с контрпереводом",
+      "name_original": "Counter-disengagement thrust",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Укол с контрпереводом.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_COUPE_THRUST",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Укол с переносом через острие",
+      "name_original": "Cut-over / coupé thrust",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Укол с переносом через острие.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_SABRE_HEAD",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Рубящий саблей по верхней линии",
+      "name_original": "Head cut",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Рубящий саблей по верхней линии.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_SABRE_CHEEK",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Боковой рубящий саблей",
+      "name_original": "Cheek cut",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Боковой рубящий саблей.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_SABRE_FLANK",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Рубящий саблей по боковой линии корпуса",
+      "name_original": "Flank cut",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Рубящий саблей по боковой линии корпуса.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_SABRE_CHEST",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Рубящий саблей по передней линии корпуса",
+      "name_original": "Chest cut",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Рубящий саблей по передней линии корпуса.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FENCING_SABRE_ARM",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Рубящий саблей по линии руки",
+      "name_original": "Arm cut",
+      "kind": "strike",
+      "family": "FENCING",
+      "description_ru": "Рубящий саблей по линии руки.",
+      "variant_note": "Часть записей различается подходом или целью; это не девять различных способов работы лезвием.",
+      "source_ids": [
+        "W_USFCA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_ATTACK",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Атака",
+      "name_original": "Attack",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Атака.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_RIPOSTE",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Ответ после защиты",
+      "name_original": "Riposte",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Ответ после защиты.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_COUNTER_RIPOSTE",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Контрответ",
+      "name_original": "Counter-riposte",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Контрответ.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_STOP_HIT",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Опережающая контратака",
+      "name_original": "Stop hit",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Опережающая контратака.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_OPPOSITION_STOP",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Контратака с оппозицией",
+      "name_original": "Stop hit with opposition",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Контратака с оппозицией.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_REMISE",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Ремиз — непосредственное продолжение",
+      "name_original": "Remise",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Ремиз — непосредственное продолжение.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_REDOUBLEMENT",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Повторная атака с новым действием",
+      "name_original": "Redoublement",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Повторная атака с новым действием.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FENCING_REPRISE",
+      "style_id": "fencing",
+      "style_ru": "Спортивное фехтование",
+      "name_ru": "Возобновлённая атака",
+      "name_original": "Reprise",
+      "kind": "tactical_context",
+      "family": "FENCING",
+      "description_ru": "Возобновлённая атака.",
+      "variant_note": "Тактический контекст движения. Конкретный укол/рубящий выбирается отдельно.",
+      "source_ids": [
+        "W_FIE_2026"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_FIE_2026",
+      "title": "FIE — Technical rules, August 2026",
+      "url": "https://static.fie.org/uploads/40/204126-Technical%20rules%20August%202026%20ang.pdf",
+      "what_verified": "Термины атаки, ответов и продолжений; тактические контексты не объявляются новыми физическими ударами."
+    },
+    {
+      "id": "W_USFCA",
+      "title": "US Fencing Coaches Association — Fencing Actions",
+      "url": "https://usfca.org/wp-content/uploads/2023/09/Fencing_Actions.pdf",
+      "what_verified": "Прямой и непрямой укол, disengagement, cut-over и основные цели сабельных рубящих действий; собственное методическое изложение."
+    }
+  ]
+}

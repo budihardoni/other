@@ -1,0 +1,581 @@
+{
+  "style_id": "jujutsu",
+  "style_ru": "Японское jujutsu — отдельные школы",
+  "records": [
+    {
+      "tag": "@STRIKE_JUJUTSU_ATEMI_HAND",
+      "style_id": "jujutsu",
+      "style_ru": "Японское jujutsu — отдельные школы",
+      "name_ru": "Атэми: прямое ударное движение рукой",
+      "name_original": "Atemi-waza / 当身技; 突く (tsuku)",
+      "kind": "strike",
+      "family": "atemi_hand",
+      "description_ru": "Рука выполняет направленное ударное движение.",
+      "variant_note": "Описательное семейство Tenjin Shin'yo-ryu; форма кисти и имя отдельной kata не установлены.",
+      "source_ids": [
+        "HY_JJ_TENJIN"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_ATEMI_KICK",
+      "style_id": "jujutsu",
+      "style_ru": "Японское jujutsu — отдельные школы",
+      "name_ru": "Атэми: удар ногой",
+      "name_original": "Atemi-waza / 当身技; 蹴る (keru)",
+      "kind": "strike",
+      "family": "atemi_kick",
+      "description_ru": "Нога выполняет ударное движение из опоры.",
+      "variant_note": "Семейство Tenjin Shin'yo-ryu; конкретная траектория и школа каждого экранного примера требуют проверки.",
+      "source_ids": [
+        "HY_JJ_TENJIN"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JUJUTSU_USHIRODORI",
+      "style_id": "jujutsu",
+      "style_ru": "Японское jujutsu — отдельные школы",
+      "name_ru": "Усиро-дори: захват со спины",
+      "name_original": "後捕 / Ushirodori",
+      "kind": "control",
+      "family": "rear_grip",
+      "description_ru": "Партнёр находится в захвате со спины.",
+      "variant_note": "Подпись Tenjin Shin'yo-ryu подтверждает имя; детальная последовательность здесь не описана.",
+      "source_ids": [
+        "HY_JJ_TENJIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JUJUTSU_KUCHIKITAOSHI",
+      "style_id": "jujutsu",
+      "style_ru": "Японское jujutsu — отдельные школы",
+      "name_ru": "Кутики-таоси: сваливание",
+      "name_original": "朽木倒 / Kuchikitaoshi",
+      "kind": "throw",
+      "family": "takedown",
+      "description_ru": "Партнёр переводится из вертикальной опоры на мат.",
+      "variant_note": "Название подтверждено подписью Tenjin Shin'yo-ryu; это сваливание, а не удар.",
+      "source_ids": [
+        "HY_JJ_TENJIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JUJUTSU_UDEGARAMI",
+      "style_id": "jujutsu",
+      "style_ru": "Японское jujutsu — отдельные школы",
+      "name_ru": "Удэ-гарами: контроль руки",
+      "name_original": "腕緘 / Udegarami",
+      "kind": "control",
+      "family": "arm_control",
+      "description_ru": "Руки сцепляются вокруг руки партнёра.",
+      "variant_note": "Имя школы подтверждено; углы и работа сустава не заданы как инструкция.",
+      "source_ids": [
+        "HY_JJ_TENJIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_SHUTO_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Сюто-ути — удар ребром ладони",
+      "name_original": "Shuto Uchi",
+      "kind": "strike",
+      "family": "knife_hand",
+      "description_ru": "Ребро открытой ладони выполняет ударное движение.",
+      "variant_note": "Jukyu; PDF-страница 8. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_TETTSUI_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Тэтцуи-ути — удар молотком",
+      "name_original": "Tettsui-Uchi / Kentsui-UchI",
+      "kind": "strike",
+      "family": "hammerfist",
+      "description_ru": "Основание кулака движется как короткий молоток.",
+      "variant_note": "Jukyu; PDF-страница 8. Варианты названия объединены в одну запись. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_SEIKEN_ZUKE",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Сэйкэн-дзукэ — прямой удар кулаком",
+      "name_original": "Seiken-Zuke",
+      "kind": "strike",
+      "family": "straight_fist",
+      "description_ru": "Передняя поверхность кулака движется вперёд.",
+      "variant_note": "Jukyu; PDF-страница 8. Нестандартное Seiken-Zuke сохранено как написание источника; нормализация к tsuki не заявлена. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_MAE_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Маэ-гери — передний удар ногой",
+      "name_original": "Mae Geri",
+      "kind": "strike",
+      "family": "front_kick",
+      "description_ru": "Нога выполняет удар вперёд.",
+      "variant_note": "Jukyu; PDF-страница 8; повторные требования не образуют новые удары. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_YOKO_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Ёко-гери — боковой удар ногой",
+      "name_original": "Yoko Geri",
+      "kind": "strike",
+      "family": "side_kick",
+      "description_ru": "Нога выполняет удар в сторону.",
+      "variant_note": "Jukyu; PDF-страница 8. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_TEISHO_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Тэйсё-ути — удар основанием ладони",
+      "name_original": "Teisho Uchi",
+      "kind": "strike",
+      "family": "palm_heel",
+      "description_ru": "Основание раскрытой ладони движется к партнёру.",
+      "variant_note": "Kukyu; PDF-страница 10. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_EMPI_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Эмпи-ути — удар локтем",
+      "name_original": "Empi Uchi / Hiji Ate",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Согнутая рука выполняет удар локтем.",
+      "variant_note": "Kukyu; PDF-страница 10. Hiji Ate дан в источнике как альтернативное имя, не отдельная техника. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_NUKITE",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Нукитэ — удар рукой-копьём",
+      "name_original": "Nukite",
+      "kind": "strike",
+      "family": "spear_hand",
+      "description_ru": "Собранные пальцы обозначают прямое ударное движение.",
+      "variant_note": "Hachikyu; PDF-страница 12. Экранное описание обозначает видимую форму руки. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_IPPON_KEN_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Иппон-кэн-ути — удар кулаком с выделенной костяшкой",
+      "name_original": "Ippon-Ken Uchi",
+      "kind": "strike",
+      "family": "one_knuckle_fist",
+      "description_ru": "Кулак с выделенной костяшкой обозначает короткий удар.",
+      "variant_note": "Hachikyu; PDF-страница 12. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_USHIRO_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Усиро-гери — задний удар ногой",
+      "name_original": "Ushiro Geri",
+      "kind": "strike",
+      "family": "back_kick",
+      "description_ru": "Нога выполняет удар назад.",
+      "variant_note": "Hachikyu; PDF-страница 12. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_URAKEN_SHOMEN_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Уракэн сёмэн-ути — восходящий удар программы",
+      "name_original": "Uraken Shomen-Uchi",
+      "kind": "strike",
+      "family": "upward_fist",
+      "description_ru": "Кулак выполняет короткое восходящее движение.",
+      "variant_note": "Rokyu; PDF-страница 16. Источник подписывает Uppercut Strike; необычное соответствие названия не исправлено по терминологии карате или бокса. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_URAKEN_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Уракэн-ути — удар тыльной стороной кулака",
+      "name_original": "Uraken Uchi",
+      "kind": "strike",
+      "family": "backfist",
+      "description_ru": "Тыльная сторона кулака выполняет ударное движение.",
+      "variant_note": "Rokyu; PDF-страница 16. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_KIN_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Кин-гери — низкий удар ногой",
+      "name_original": "Kin Geri",
+      "kind": "strike",
+      "family": "low_kick",
+      "description_ru": "Нога выполняет короткий низкий удар.",
+      "variant_note": "Rokyu; PDF-страница 16. Сохранено название техники; описание не задаёт анатомическую цель. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_FUMI_KIRI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Фуми-кири — рубящий удар ногой",
+      "name_original": "Fumi kiri",
+      "kind": "strike",
+      "family": "cutting_kick",
+      "description_ru": "Нога выполняет короткое рубящее движение.",
+      "variant_note": "Rokyu; PDF-страница 16. Источник даёт Cutting Kick без схемы траектории; конкретная цель и сторона не добавлены. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_HIRAKEN_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Хиракэн-ути — удар плоским кулаком",
+      "name_original": "Hiraken-Uchi",
+      "kind": "strike",
+      "family": "flat_fist",
+      "description_ru": "Плоский кулак обозначает направленный удар.",
+      "variant_note": "Gokyu; PDF-страница 18. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_HAITO_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Хайто-ути — удар внутренним ребром ладони",
+      "name_original": "Haito-Uchi",
+      "kind": "strike",
+      "family": "ridge_hand",
+      "description_ru": "Внутреннее ребро раскрытой руки выполняет удар.",
+      "variant_note": "Gokyu; PDF-страница 18. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_MAWASHI_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Маваси-гери — круговой удар ногой",
+      "name_original": "Mawashi Geri",
+      "kind": "strike",
+      "family": "roundhouse_kick",
+      "description_ru": "Нога проходит по круговой ударной дуге.",
+      "variant_note": "Gokyu; PDF-страница 18. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_UCHI_MIKAZUKI_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Ути-микадзуки-гери — внутренний полумесяц",
+      "name_original": "Uchi Mikazuki Geri",
+      "kind": "strike",
+      "family": "inside_crescent_kick",
+      "description_ru": "Нога проходит дугой внутрь.",
+      "variant_note": "Gokyu; PDF-страница 18. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_KUMADE_UCHI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Кумадэ-ути — удар «медвежьей лапой»",
+      "name_original": "Kumade Uchi",
+      "kind": "strike",
+      "family": "bear_paw_hand",
+      "description_ru": "Кисть в форме «лапы» обозначает короткий удар.",
+      "variant_note": "Yonkyu; PDF-страницы 20–21. Источник именует форму, но не даёт отдельной схемы движения. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_KAKATO_MAWASHI_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Какато-маваси-гери — круговой удар пяткой",
+      "name_original": "Kakato Mawashi Geri",
+      "kind": "strike",
+      "family": "heel_round_kick",
+      "description_ru": "Нога проходит дугой с акцентом на пятку.",
+      "variant_note": "Yonkyu; PDF-страница 21. Сохранено название Heel Round Kick; равенство конкретному варианту hook kick не заявлено. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_FUMIKOMI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Фумикоми — топчущий удар ногой",
+      "name_original": "Fumikomi",
+      "kind": "strike",
+      "family": "stamping_kick",
+      "description_ru": "Стопа выполняет короткое топчущее движение.",
+      "variant_note": "Sankyu; PDF-страница 23. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_GYAKU_MAWASHI_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Гяку-маваси-гери — обратный круговой удар",
+      "name_original": "Gyaku Mawashi Geri",
+      "kind": "strike",
+      "family": "reverse_roundhouse_kick",
+      "description_ru": "Нога проходит по обратной круговой дуге.",
+      "variant_note": "Sankyu; PDF-страница 23. Конкретный разворот корпуса не добавлен. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JUJUTSU_USJJF_SOTO_MIKAZUKI_GERI",
+      "style_id": "jujutsu",
+      "style_ru": "Дзюдзюцу — US Ju-Jitsu (USJJF)",
+      "name_ru": "Сото-микадзуки-гери — наружный полумесяц",
+      "name_original": "Soto Mikazuki Geri",
+      "kind": "strike",
+      "family": "outside_crescent_kick",
+      "description_ru": "Нога проходит дугой наружу.",
+      "variant_note": "Nikyu; PDF-страница 25. Атрибуция ограничена этой программой USJJF.",
+      "source_ids": [
+        "JUJUTSU_SUP_USJJF_RANK2021",
+        "JUJUTSU_SUP_USJJF_SCOPE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "jujutsu-supplement",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_JJ_TENJIN",
+      "title": "Nihon Kobudo Association — Tenjin Shin'yo-ryu jujutsu",
+      "url": "https://www.nihonkobudokyoukai.org/martialarts/005/",
+      "what_verified": "Свежо прочитаны 由来 и 流儀の特徴: atemi с действиями 突く/蹴る; подписи Ushirodori, Kuchikitaoshi, Udegarami. Это конкретная школа, не полный словарь jujutsu."
+    },
+    {
+      "id": "JUJUTSU_SUP_USJJF_RANK2021",
+      "title": "United States Ju-Jitsu — Rank Promotional Requirements (official USJJF PDF, January 2021 filename)",
+      "url": "https://usjjf.org/uploads/5/2/4/8/52481119/us_ju-jitsu_rank_requirmts_jan_2021.pdf",
+      "what_verified": "Свежо прочитана официальная программа: раздельные Ate Waza и Geri Waza; именованные техники на PDF-страницах 8, 10, 12, 16, 18, 20–21, 23, 25 (отсчёт с 1). В этом документе Atemi Waza обозначает раздел целей, а не список названий ударов. Подтверждены названия и краткие английские подписи; видеомеханика не проверялась."
+    },
+    {
+      "id": "JUJUTSU_SUP_USJJF_SCOPE",
+      "title": "USJJF — United States Ju-Jitsu National System",
+      "url": "https://www.usjjf.org/united-states-ju-jitsu-reg-national-system.html",
+      "what_verified": "Первичный сайт определяет US Ju-Jitsu как собственную национальную систему USJJF, основанную на традиционном японском ju-jitsu; это граница атрибуции названий, а не подтверждение их обязательности во всех японских рю."
+    }
+  ]
+}

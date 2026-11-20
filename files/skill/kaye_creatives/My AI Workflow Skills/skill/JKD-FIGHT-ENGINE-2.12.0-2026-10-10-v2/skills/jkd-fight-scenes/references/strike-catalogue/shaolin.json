@@ -1,0 +1,436 @@
+{
+  "style_id": "shaolin",
+  "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+  "records": [
+    {
+      "tag": "@STRIKE_SHAOLIN_BLACK_TIGER",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Чёрный тигр крадёт сердце: прямой кулак",
+      "name_original": "Black Tiger Steals Heart",
+      "kind": "strike",
+      "family": "thrust_punch",
+      "description_ru": "Кулак проходит вперёд на среднем уровне.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_STAR"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_WHITE_SNAKE",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Белая змея выпускает яд: высокая атака рукой",
+      "name_original": "White Snake Shoots Venom",
+      "kind": "strike",
+      "family": "high_hand_strike",
+      "description_ru": "Рука проходит вперёд на высоком уровне.",
+      "variant_note": "На других страницах Wahnam встречается Poisonous Snake; совпадение всех версий не утверждается.",
+      "source_ids": [
+        "HY_SHAOLIN_SNAKE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_PRECIOUS_DUCK",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Драгоценная утка плывёт сквозь лотос: низкий кулак",
+      "name_original": "Precious Duck Swims through Lotus",
+      "kind": "strike",
+      "family": "low_punch",
+      "description_ru": "Кулак движется вперёд на низком уровне.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_SEQUENCES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_GOLDEN_STAR",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Золотая звезда в углу: дуговой кулак",
+      "name_original": "Hang a Golden Star at a Corner / horn punch",
+      "kind": "strike",
+      "family": "curved_punch",
+      "description_ru": "Согнутая рука проводит кулак по восходящей боковой дуге.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_STAR"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_FIERCE_TIGER",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Свирепый тигр мчится по долине: прямой кулак",
+      "name_original": "Fierce Tiger Speeds through Valley",
+      "kind": "strike",
+      "family": "thrust_punch",
+      "description_ru": "Кулак проходит вперёд при ведущей правой ноге.",
+      "variant_note": "В Wahnam — прямой кулак с другой ведущей ногой; не отдельная новая механика удара.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_SHAOLIN_CANNON_SERIES",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Непрерывные прямые «пушечные» кулаки",
+      "name_original": "Lin wan pau / continuous cannon punches",
+      "kind": "combo",
+      "family": "punch_series",
+      "description_ru": "Несколько прямых кулаков следуют в непрерывном ручном рисунке.",
+      "variant_note": "Именованная серия прямых ударов Wahnam; не одиночный новый удар.",
+      "source_ids": [
+        "HY_SHAOLIN_SEQUENCES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_DARK_DRAGON",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Тёмный дракон черпает воду: ладонь",
+      "name_original": "Dark Dragon Draws Water",
+      "kind": "strike",
+      "family": "palm_strike",
+      "description_ru": "Открытая ладонь выполняет ударное движение вперёд.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_HUA_MOUNTAIN",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Рассечь гору Хуа: диагональный рубящий удар",
+      "name_original": "Chop the Hua Mountain",
+      "kind": "strike",
+      "family": "palm_chop",
+      "description_ru": "Край ладони проходит сверху по диагонали.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_SWEEP_ARMIES",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Горизонтально смести тысячу армий",
+      "name_original": "Horizontally Sweep a Thousand Armies",
+      "kind": "strike",
+      "family": "horizontal_hand_strike",
+      "description_ru": "Рука проходит широкую горизонтальную ударную дугу.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_SWEEP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_HAPPY_BIRD",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Счастливая птица прыгает на ветвь: боковой удар",
+      "name_original": "Happy Bird Hops up Branch",
+      "kind": "strike",
+      "family": "side_kick",
+      "description_ru": "Стопа выходит в сторону на среднем уровне.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_HAPPY"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_WHITE_HORSE",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Белая лошадь показывает копыто: прямой удар ногой",
+      "name_original": "White Horse Presents Hoof",
+      "kind": "strike",
+      "family": "front_thrust_kick",
+      "description_ru": "Стопа выходит вперёд прямым толчковым движением.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_SEQUENCES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_YELLOW_BIRD",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Жёлтая птица играет с водой: низкий удар ногой",
+      "name_original": "Yellow Bird Plays with Water",
+      "kind": "strike",
+      "family": "low_kick",
+      "description_ru": "Нога выполняет низкое ударное движение при высокой работе руки.",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_YELLOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_NAUGHTY_MONKEY",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Шаловливая обезьяна пинает дерево: дуговой удар",
+      "name_original": "Naughty Monkey Kicks at Tree / whirlwind kick",
+      "kind": "strike",
+      "family": "curved_kick",
+      "description_ru": "Поднятая согнутая нога проводит дуговое ударное движение.",
+      "variant_note": "Wong отличает свой whirlwind kick от roundhouse; это его трактовка, не общий стандарт.",
+      "source_ids": [
+        "HY_SHAOLIN_SEQUENCES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_LEOPARD_PUNCH",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Удар «леопардовым кулаком»",
+      "name_original": "Leopard punch",
+      "kind": "strike",
+      "family": "hand_form_variant",
+      "description_ru": "Ударная кисть собрана в короткую форму «леопардового кулака».",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_ANIMALS"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_PHOENIX_EYE_PUNCH",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Удар «глазом феникса»",
+      "name_original": "Phoenix-eye fist",
+      "kind": "strike",
+      "family": "hand_form_variant",
+      "description_ru": "Кулак выполняет удар в именованной форме «глаза феникса».",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_WILLOW_LEAF_PALM",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Удар ладонью «ивовый лист»",
+      "name_original": "Willow-leaf palm",
+      "kind": "strike",
+      "family": "hand_form_variant",
+      "description_ru": "Открытая кисть выполняет удар в форме «ивового листа».",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_TIGER_CLAW_STRIKE",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Ударная трактовка «тигриного когтя»",
+      "name_original": "Tiger-claw as a striking variation",
+      "kind": "strike",
+      "family": "hand_form_variant",
+      "description_ru": "Согнутая открытая кисть выполняет ударное движение.",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_DARK"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_GOLDEN_LEOPARD_TURN",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Золотой леопард разворачивается",
+      "name_original": "Golden Leopard Turning Around",
+      "kind": "strike",
+      "family": "turning_punch",
+      "description_ru": "Поворот корпуса соединяется с ударом «леопардовым кулаком».",
+      "variant_note": "Имя/трактовка Shaolin Wahnam; универсальность для всех линий Shaolin не заявляется.",
+      "source_ids": [
+        "HY_SHAOLIN_ANIMALS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_CRANE_BEAK_STRIKE",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Удар «журавлиным клювом»",
+      "name_original": "Crane-beak strike",
+      "kind": "strike",
+      "family": "hand_form_variant",
+      "description_ru": "Собранная кисть выполняет короткое клюющее ударное движение.",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_ANIMALS"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_SHAOLIN_DRAGON_PALM",
+      "style_id": "shaolin",
+      "style_ru": "Shaolin — преимущественно Shaolin Wahnam",
+      "name_ru": "Удар «драконьей ладонью»",
+      "name_original": "Dragon-palm strike",
+      "kind": "strike",
+      "family": "palm_strike",
+      "description_ru": "Открытая ладонь выполняет направленное ударное движение.",
+      "variant_note": "Форма кисти и ударная трактовка Wahnam; одно название кисти не фиксирует единственный удар.",
+      "source_ids": [
+        "HY_SHAOLIN_ANIMALS"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_SHAOLIN_SEQUENCES",
+      "title": "Shaolin Wahnam — Basic Shaolin Combat Sequences",
+      "url": "https://shaolin.org/video-clips-2/shaolin-combat-sequences/combat-sequences.html",
+      "what_verified": "Свежо прочитан именной учебный указатель школы и определения последовательностей. Первые 12 посвящены рукам/ногам; 13–16 содержат сваливания/контроли. Это программа Wahnam."
+    },
+    {
+      "id": "HY_SHAOLIN_STAR",
+      "title": "Shaolin Wahnam — Hang a Golden Star at a Corner",
+      "url": "https://shaolin.org/review/star.html",
+      "what_verified": "Свежо прочитан первичный разбор: Black Tiger как middle thrust punch; Golden Star как horn punch. Различаются именованный шаблон, направление и вариант формы кисти."
+    },
+    {
+      "id": "HY_SHAOLIN_SNAKE",
+      "title": "Shaolin Wahnam — White Snake Shoots Venom",
+      "url": "https://shaolin.org/review/snake.html",
+      "what_verified": "Свежо прочитан разбор высоко направленного удара рукой. В разных страницах школы White Snake/Poisonous Snake имеют отличающиеся подписи; они не объявлены универсальными синонимами."
+    },
+    {
+      "id": "HY_SHAOLIN_DARK",
+      "title": "Shaolin Wahnam — Dark Dragon Draws Water",
+      "url": "https://shaolin.org/review/dark.html",
+      "what_verified": "Свежо прочитано: palm strike, top-diagonal palm chop, right-leg-mode variants; прямо перечислены phoenix-eye, willow-leaf palm, leopard punch, tiger-claw."
+    },
+    {
+      "id": "HY_SHAOLIN_SWEEP",
+      "title": "Shaolin Wahnam — Horizontally Sweep a Thousand Armies",
+      "url": "https://shaolin.org/review/sweep.html",
+      "what_verified": "Свежо открыт именной разбор горизонтального ручного шаблона. Классификация зависит от выбранного применения, а не только от названия."
+    },
+    {
+      "id": "HY_SHAOLIN_HAPPY",
+      "title": "Shaolin Wahnam — Happy Bird Hops up Branch",
+      "url": "https://shaolin.org/review/happy.html",
+      "what_verified": "Свежо прочитано: middle side kick; отдельно упомянуты Lohan Strikes Drum и reversed palm thrust Dark Dragon Enters a Well."
+    },
+    {
+      "id": "HY_SHAOLIN_YELLOW",
+      "title": "Shaolin Wahnam — Yellow Bird Plays with Water",
+      "url": "https://shaolin.org/review/yellow.html",
+      "what_verified": "Свежо прочитано: низкий kick, hand/foot combination и leopard punch Angry Leopard Charges at Fire. Заявления о травмах не используются."
+    },
+    {
+      "id": "HY_SHAOLIN_ANIMALS",
+      "title": "Shaolin Wahnam — Is Shaolin Kungfu too Flowery for Combat?",
+      "url": "https://shaolin.org/combat/flowery.html",
+      "what_verified": "Свежо прочитан собственный разбор пяти животных: leopard punch, snake finger action, crane beak, dragon palm; некоторые шаблоны — контроли, а не удары."
+    }
+  ]
+}

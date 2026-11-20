@@ -1,0 +1,86 @@
+{
+  "style_id": "nhb",
+  "style_ru": "NHB / экранные бои без правил",
+  "records": [
+    {
+      "tag": "@ACTION_NHB_STANDUP_TO_GROUND",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Обмен стоя с переходом в партер",
+      "name_original": "Authored stand-up-to-ground exchange",
+      "kind": "screen_motif",
+      "family": "phase_transition",
+      "description_ru": "Ручной обмен переходит в сцепление тел и борьбу на мате.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_PATHWAYS"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NHB_POSITION_WITH_STRIKES",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Борьба за позицию с ударными вставками",
+      "name_original": "Authored positional struggle with strikes",
+      "kind": "screen_motif",
+      "family": "hybrid_exchange",
+      "description_ru": "Пара меняет положение на мате; между переходами видны отдельные удары.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NHB_CLINCH_BREAK_REENTRY",
+      "style_id": "nhb",
+      "style_ru": "NHB / экранные бои без правил",
+      "name_ru": "Разрыв клинча и повторное сближение",
+      "name_original": "Authored clinch break and re-entry",
+      "kind": "screen_motif",
+      "family": "hybrid_exchange",
+      "description_ru": "Участники размыкают контакт, обмениваются руками и снова сближаются.",
+      "variant_note": "Авторское экранное сочетание; NHB требует конкретных правил события и эпохи.",
+      "source_ids": [
+        "HY_NHB_FLANERY",
+        "HY_MMA_PATHWAYS"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_MMA_INTRO",
+      "title": "UFC — Introduction to MMA",
+      "url": "https://www.ufc.com/intro-to-mma?language_content_entity=en",
+      "what_verified": "Свежо получен индексированный первичный текст: MMA соединяет ударную работу и grappling стоя/на земле; перечислены школы. Reader вернул 403, видео не просмотрены."
+    },
+    {
+      "id": "HY_MMA_PATHWAYS",
+      "title": "IMMAF — Participant Pathways",
+      "url": "https://immaf.org/get-involved/participant-pathways/",
+      "what_verified": "Свежо прочитаны отдельные Striking Technique, Striking Combinations, Standing и Groundwork criteria. Полная именная программа требует регистрации и не присвоена этому каталогу."
+    },
+    {
+      "id": "HY_NHB_FLANERY",
+      "title": "Sean Patrick Flanery — interview on Born a Champion",
+      "url": "https://scifivision.com/interviews/6090-exclusive-sean-patrick-flanery-talks-born-a-champion-out-now",
+      "what_verified": "Свежо прочитан первичный разговор: автор связывает вымышленную историю с ранним NHB, BJJ и своей хореографией. Интервью не даёт регламента всех NHB-событий."
+    }
+  ]
+}

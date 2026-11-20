@@ -1,0 +1,166 @@
+{
+  "style_id": "qiang",
+  "style_ru": "Ушу — цян, копьё",
+  "records": [
+    {
+      "tag": "@STRIKE_QIANG_ZHA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Чжа-цян — прямой укол",
+      "name_original": "Zha qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Чжа-цян — прямой укол.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_CHUAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Чуань-цян — пронизывающий метод",
+      "name_original": "Chuan qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Чуань-цян — пронизывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_BENG",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Бэн-цян — вскидывающий метод",
+      "name_original": "Beng qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Бэн-цян — вскидывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_DIAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Дянь-цян — точечный метод",
+      "name_original": "Dian qiang",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Дянь-цян — точечный метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_QIANG_TIAO_BA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Тяо-ба — восходящий удар древком",
+      "name_original": "Tiao ba",
+      "kind": "strike",
+      "family": "QIANG",
+      "description_ru": "Тяо-ба — восходящий удар древком.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_QIANG_LAN",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "Лань-цян — наружное парирование",
+      "name_original": "Lan qiang",
+      "kind": "defence",
+      "family": "QIANG",
+      "description_ru": "Лань-цян — наружное парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_QIANG_NA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "На-цян — внутреннее парирование",
+      "name_original": "Na qiang",
+      "kind": "defence",
+      "family": "QIANG",
+      "description_ru": "На-цян — внутреннее парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_QIANG_WU_HUA",
+      "style_id": "qiang",
+      "style_ru": "Ушу — цян, копьё",
+      "name_ru": "У-хуа-цян — вертикальная восьмёрка",
+      "name_original": "Wu hua qiang",
+      "kind": "manipulation",
+      "family": "QIANG",
+      "description_ru": "У-хуа-цян — вертикальная восьмёрка.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_IWUF_2024",
+      "title": "IWUF — Wushu Taolu Rules and Judging Methods (2024), member-hosted copy",
+      "url": "https://wkfe.wushu.tech/static/files/regulations/IWUF%202024%20Wushu%20Taolu%20Competition%20Rules%20and%20Judging%20Methods.pdf",
+      "what_verified": "Имена обязательных методов jian/dao/qiang/gun/nandao/nangun/taijishan, страницы 28–31 и отдельные определения. Это спортивный список выбранных дисциплин, не всё ушу."
+    }
+  ]
+}

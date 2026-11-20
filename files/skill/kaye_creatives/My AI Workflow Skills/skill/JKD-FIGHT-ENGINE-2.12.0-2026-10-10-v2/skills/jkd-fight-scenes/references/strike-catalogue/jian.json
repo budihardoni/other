@@ -1,0 +1,166 @@
+{
+  "style_id": "jian",
+  "style_ru": "Ушу — цзянь",
+  "records": [
+    {
+      "tag": "@STRIKE_JIAN_CI",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цы-цзянь — укол",
+      "name_original": "Ci jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Цы-цзянь — укол.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_LIAO",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Ляо-цзянь — восходящий удар",
+      "name_original": "Liao jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Ляо-цзянь — восходящий удар.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_DIAN",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Дянь-цзянь — точечный удар остриём",
+      "name_original": "Dian jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Дянь-цзянь — точечный удар остриём.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_PI",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Пи-цзянь — рубящий вниз",
+      "name_original": "Pi jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Пи-цзянь — рубящий вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JIAN_BENG",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Бэн-цзянь — вскидывающий метод",
+      "name_original": "Beng jian",
+      "kind": "strike",
+      "family": "JIAN",
+      "description_ru": "Бэн-цзянь — вскидывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JIAN_GUA",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Гуа-цзянь — парирование",
+      "name_original": "Gua jian",
+      "kind": "defence",
+      "family": "JIAN",
+      "description_ru": "Гуа-цзянь — парирование.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JIAN_JIE",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цзе-цзянь — перехватывающий метод",
+      "name_original": "Jie jian",
+      "kind": "defence",
+      "family": "JIAN",
+      "description_ru": "Цзе-цзянь — перехватывающий метод.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JIAN_JIAN_WAN_HUA",
+      "style_id": "jian",
+      "style_ru": "Ушу — цзянь",
+      "name_ru": "Цзянь-вань-хуа — кистевая восьмёрка",
+      "name_original": "Jian wan hua",
+      "kind": "manipulation",
+      "family": "JIAN",
+      "description_ru": "Цзянь-вань-хуа — кистевая восьмёрка.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_IWUF_2024",
+      "title": "IWUF — Wushu Taolu Rules and Judging Methods (2024), member-hosted copy",
+      "url": "https://wkfe.wushu.tech/static/files/regulations/IWUF%202024%20Wushu%20Taolu%20Competition%20Rules%20and%20Judging%20Methods.pdf",
+      "what_verified": "Имена обязательных методов jian/dao/qiang/gun/nandao/nangun/taijishan, страницы 28–31 и отдельные определения. Это спортивный список выбранных дисциплин, не всё ушу."
+    }
+  ]
+}

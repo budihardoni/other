@@ -1,0 +1,748 @@
+{
+  "style_id": "taekwondo_itf",
+  "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+  "records": [
+    {
+      "tag": "@STRIKE_TKD_ITF_FRONT_SNAP_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Хлёсткий фронтальный кик",
+      "name_original": "Ap Cha Busigi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд коротким хлёстким движением.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_SIDE_PIERCING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой боковой кик ребром стопы",
+      "name_original": "Yop Cha Jirugi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Наружный край стопы выдвигается в прямом боковом ударе.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Piercing и Thrusting не объединены: источник различает ударные поверхности.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_SIDE_THRUST_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Боковой кик подушечкой стопы",
+      "name_original": "Yop Cha Tulgi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подушечка стопы проходит в прямом боковом ударе.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_BACK_PIERCING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой задний кик",
+      "name_original": "Dwit Cha Jirugi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выходит назад по прямой линии.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_TURNING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Круговой кик",
+      "name_original": "Dollyo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к партнёру по боковой круговой дуге.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_REVERSE_TURNING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Обратный круговой кик пяткой",
+      "name_original": "Bandae Dollyo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит по обратной круговой дуге.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Базовая семья отделена от Reverse Hooking; не прямой Back Piercing.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_HOOKING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Подхватывающий кик пяткой",
+      "name_original": "Golcha Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка завершает удар подхватывающей дугой.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Не JKD Hook Kick, где имя относится к roundhouse.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_REVERSE_HOOKING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Обратный подхватывающий кик пяткой",
+      "name_original": "Bandae Golcha Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота пятка завершает удар подхватывающей дугой.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_TWISTING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Выкручивающий кик",
+      "name_original": "Bituro Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подушечка стопы проходит по выкручивающей наружной дуге.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_VERTICAL_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Вертикально ориентированный кик",
+      "name_original": "Sewo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к партнёру в вертикально ориентированной ударной форме.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Точный путь поднятия ноги не восстановлен по одному терминологическому списку.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_DOWNWARD_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Нисходящий кик пяткой",
+      "name_original": "Naeryo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит сверху вниз.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_PICK_SHAPE_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Нисходящий кик формы кирки",
+      "name_original": "Gokgaeng-i Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по короткой нисходящей линии формы кирки.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Редкое отдельное имя; подробная разница с Naeryo требует технического видеоэталона.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_KNEE_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Удар коленом",
+      "name_original": "Moorup Chagi",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено выходит к партнёру на близкой дистанции.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_FRONT_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Фронтальный кик в прыжке",
+      "name_original": "Twimyo Ap Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_SIDE_PIERCING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Боковой кик ребром стопы в прыжке",
+      "name_original": "Twimyo Yop Cha Jirugi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Наружный край стопы выдвигается в сторону во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Дубли Flying Side/Flying Side Piercing в словаре сведены в одну запись.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_SIDE_THRUST_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Боковой кик подушечкой стопы в прыжке",
+      "name_original": "Twimyo Yop Cha Tulgi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подушечка стопы выходит в сторону во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_TURNING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Круговой кик в прыжке",
+      "name_original": "Twimyo Dollyo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит круговой дугой во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_REVERSE_TURNING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Обратный круговой кик в прыжке",
+      "name_original": "Twimyo Bandae Dollyo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит обратной круговой дугой во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_HIGH_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Кик к высокой цели в прыжке",
+      "name_original": "Twimyo Nopi Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к высокой игровой цели во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Именованная демонстрационно-спортивная форма; не отдельный тег для каждой высоты.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_TWISTING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Выкручивающий кик в прыжке",
+      "name_original": "Twimyo Bituro Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по выкручивающей наружной дуге во время прыжка.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLYING_SPLIT_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Двухнаправленный кик в прыжке",
+      "name_original": "Twimyo Sangbang Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Обе ноги расходятся к двум игровым целям в воздухе.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Split Kick — двуногая форма, не серия двух последовательных ударов.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_DODGING_REVERSE_TURNING_KICK",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Обратный круговой кик со смещением",
+      "name_original": "Pihamyo Bandae Dollyo Chagi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит обратной круговой дугой вместе со смещением корпуса.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Это удар с уклоняющимся перемещением; отдельно взятый уход не считается ударом.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TKD_ITF_CONSECUTIVE_KICKS",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Последовательная смешанная серия киков",
+      "name_original": "Yonsok Chagi",
+      "kind": "sequence",
+      "family": "kick_series",
+      "description_ru": "Стопа или стопы последовательно проходят в разных ударных траекториях.",
+      "variant_note": "Имя United ITF Australia, линия Choi Jung Hwa; другие ITF организации не объявляются той же структурой. Серийная семья, а не новая одиночная траектория.",
+      "source_ids": [
+        "AS_TKD_ITF_AU_KICKS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FRONT_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой фронтальный удар",
+      "name_original": "Front punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру по прямой линии.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_OBVERSE_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой одноимённой рукой",
+      "name_original": "Obverse punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак руки со стороны передней ноги выходит прямо вперёд.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia. Вариант отношения руки и позиции; стойка не получает самостоятельную запись strike.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_REVERSE_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой противоположной рукой",
+      "name_original": "Reverse punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак руки напротив передней ноги проходит прямо вперёд.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_UPWARD_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Восходящий удар кулаком",
+      "name_original": "Upward punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит по восходящей линии.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_TWIN_VERTICAL_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Двойной удар вертикальными кулаками",
+      "name_original": "Twin vertical punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Оба вертикально ориентированных кулака одновременно выходят вперёд.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_TWIN_UPSET_PUNCH",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Двойной удар перевёрнутыми кулаками",
+      "name_original": "Twin fist upset punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Два кулака одновременно выходят снизу ладонями вверх.",
+      "variant_note": "Имя ITF New Zealand handbook2024; источник не устанавливает все продолжения формы.",
+      "source_ids": [
+        "AS_TKD_ITF_NZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_KNIFEHAND_INWARD",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Ребро ладони внутрь",
+      "name_original": "Knife hand inward strike",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Ребро открытой ладони проходит по дуге внутрь.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_KNIFEHAND_SIDE",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Боковой удар ребром ладони",
+      "name_original": "Knife hand side strike",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Ребро открытой ладони выходит в сторону.",
+      "variant_note": "Направленный вариант именованных Knife Hand Strikes в thesis; точное Side-имя не употреблено там в каждом примере.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_KNIFEHAND_DOWNWARD",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Ребро ладони вниз",
+      "name_original": "Downward knife hand strike",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Ребро открытой ладони проходит сверху вниз.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_ELBOW_FRONT",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Локоть вперёд",
+      "name_original": "Front elbow strike",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть коротко выходит вперёд.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_ELBOW_UPWARD",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Локоть вверх",
+      "name_original": "Upper elbow strike",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по восходящей линии.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_ELBOW_BACK_THRUST",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Локоть назад",
+      "name_original": "Back elbow thrust",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть выходит назад по короткой прямой линии.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_STRAIGHT_FINGERTIPS",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Прямой укол пальцами",
+      "name_original": "Straight fingertip thrust",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Собранная кисть проходит вперёд концами пальцев.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_FLAT_FINGERTIPS",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Плоский укол пальцами",
+      "name_original": "Flat fingertip thrust",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Горизонтально ориентированная кисть проходит вперёд концами пальцев.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TKD_ITF_UPSET_FINGERTIPS",
+      "style_id": "taekwondo_itf",
+      "style_ru": "Тхэквондо: ITF / Chang Hon (линия указана)",
+      "name_ru": "Укол перевёрнутыми пальцами",
+      "name_original": "Upset finger thrust",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд пальцами с обращённой вверх ладонью.",
+      "variant_note": "Имя в авторском Step Sparring thesis, размещённом itftkd.sport; это источник данной ITF структуры, а не United ITF Australia. В PDF встречается finger trust; здесь исправлена очевидная английская опечатка.",
+      "source_ids": [
+        "AS_TKD_ITF_SUAREZ"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "AS_TKD_ITF_AU_KICKS",
+      "title": "United ITF Taekwon-Do Australia — own kick terminology",
+      "url": "https://www.uniteditf.com/resources/terminology/kicks/",
+      "what_verified": "6.10.2026 прочитан школьно-организационный перечень Choi Jung Hwa line: snap/piercing/thrusting/turning/reverse-turning/hooking/reverse-hooking/twisting/vertical/downward/pick-shape/flying kicks. Это одна ITF организация; другие ITF структуры не объявляются той же организацией."
+    },
+    {
+      "id": "AS_TKD_ITF_SUAREZ",
+      "title": "ITF itftkd.sport — Master Suarez, Step Sparring thesis",
+      "url": "https://itftkd.sport/wp-content/uploads/2025/08/Master-Suarez-Thesis-for-7th.pdf",
+      "what_verified": "6.10.2026 прочитан размещённый самой ITF авторский восьмистраничный текст: obverse/reverse/front/upward/twin vertical punches, straight/flat/upset fingertip thrusts, inward/downward knife hand и front/upward/back elbows; используются только именованные формы, не пошаговые связки."
+    },
+    {
+      "id": "AS_TKD_ITF_NZ",
+      "title": "International Taekwon-Do New Zealand — Gup Handbook for Kids (2024)",
+      "url": "https://members.itkd.co.nz/instructors/downloads/gup-handbook-kids-2024.pdf",
+      "what_verified": "6.10.2026 проверены названия Upper elbow strike и Twin fist upset punch в официальном учебном handbook; подробное исполнение не реконструировано по названию."
+    }
+  ]
+}

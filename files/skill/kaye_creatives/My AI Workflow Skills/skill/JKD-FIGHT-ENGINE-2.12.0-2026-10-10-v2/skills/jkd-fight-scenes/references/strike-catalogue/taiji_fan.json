@@ -1,0 +1,166 @@
+{
+  "style_id": "taiji_fan",
+  "style_ru": "Тайцзицюань — веер",
+  "records": [
+    {
+      "tag": "@STRIKE_TAIJI_FAN_CI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Цы-шань — тычок веером",
+      "name_original": "Ci shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Цы-шань — тычок веером.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_LIAO",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Ляо-шань — восходящее действие",
+      "name_original": "Liao shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Ляо-шань — восходящее действие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_DIAN",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Дянь-шань — точечное действие",
+      "name_original": "Dian shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Дянь-шань — точечное действие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_TAIJI_FAN_PI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Пи-шань — удар вниз",
+      "name_original": "Pi shan",
+      "kind": "strike",
+      "family": "TAIJI_FAN",
+      "description_ru": "Пи-шань — удар вниз.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_GUA",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Гуа-шань — отведение",
+      "name_original": "Gua shan",
+      "kind": "defence",
+      "family": "TAIJI_FAN",
+      "description_ru": "Гуа-шань — отведение.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_KAI",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Кай-шань — раскрытие",
+      "name_original": "Kai shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Кай-шань — раскрытие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_HE",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Хэ-шань — закрытие",
+      "name_original": "He shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Хэ-шань — закрытие.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_TAIJI_FAN_PAO_JIE",
+      "style_id": "taiji_fan",
+      "style_ru": "Тайцзицюань — веер",
+      "name_ru": "Пао-цзе-шань — подброс и ловля",
+      "name_original": "Pao jie shan",
+      "kind": "manipulation",
+      "family": "TAIJI_FAN",
+      "description_ru": "Пао-цзе-шань — подброс и ловля.",
+      "variant_note": "Метод выбранной дисциплины IWUF; контроль и вращение не считаются ударом. Детализация по школе требует её референса.",
+      "source_ids": [
+        "W_IWUF_2024"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_IWUF_2024",
+      "title": "IWUF — Wushu Taolu Rules and Judging Methods (2024), member-hosted copy",
+      "url": "https://wkfe.wushu.tech/static/files/regulations/IWUF%202024%20Wushu%20Taolu%20Competition%20Rules%20and%20Judging%20Methods.pdf",
+      "what_verified": "Имена обязательных методов jian/dao/qiang/gun/nandao/nangun/taijishan, страницы 28–31 и отдельные определения. Это спортивный список выбранных дисциплин, не всё ушу."
+    }
+  ]
+}

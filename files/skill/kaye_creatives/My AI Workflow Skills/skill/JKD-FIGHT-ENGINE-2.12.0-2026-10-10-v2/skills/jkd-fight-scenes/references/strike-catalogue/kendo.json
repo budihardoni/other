@@ -1,0 +1,318 @@
+{
+  "style_id": "kendo",
+  "style_ru": "Кэндо",
+  "records": [
+    {
+      "tag": "@STRIKE_KENDO_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн — удар по защите головы",
+      "name_original": "Men-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Мэн — удар по защите головы.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_KOTE",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ — удар по защите кисти",
+      "name_original": "Kote-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Котэ — удар по защите кисти.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "До — удар по защите корпуса",
+      "name_original": "Do-uchi",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "До — удар по защите корпуса.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_TSUKI",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Цуки — укол",
+      "name_original": "Tsuki",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Цуки — укол.",
+      "variant_note": "",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DEBANA_KOTE",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Дэбана-котэ — опережающий котэ",
+      "name_original": "Men debana kote",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Дэбана-котэ — опережающий котэ.",
+      "variant_note": "Контекст опережения; базовое конечное действие уже представлено отдельно.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KENDO_DEBANA_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Дэбана-мэн — опережающий мэн",
+      "name_original": "Men debana men",
+      "kind": "strike",
+      "family": "KENDO",
+      "description_ru": "Дэбана-мэн — опережающий мэн.",
+      "variant_note": "Контекст опережения; базовое конечное действие уже представлено отдельно.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–мэн",
+      "name_original": "Kote-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–до",
+      "name_original": "Kote-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн–мэн",
+      "name_original": "Men-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_TSUKI_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Цуки–мэн",
+      "name_original": "Tsuki-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Цуки–мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_MEN_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ–мэн–до",
+      "name_original": "Kote-men-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ–мэн–до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KIRI_KAESHI",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Кирикаэси — повторный ударный дрилл",
+      "name_original": "Kiri-kaeshi",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Кирикаэси — повторный ударный дрилл.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_NUKI_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ-нуки-мэн",
+      "name_original": "Kote-nuki-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ-нуки-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_NUKI_DO",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн-нуки-до",
+      "name_original": "Men-nuki-do",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн-нуки-до.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_KOTE_SURIAGE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Котэ-суриагэ-мэн",
+      "name_original": "Kote-suriage-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Котэ-суриагэ-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KENDO_MEN_SURIAGE_MEN",
+      "style_id": "kendo",
+      "style_ru": "Кэндо",
+      "name_ru": "Мэн-суриагэ-мэн",
+      "name_original": "Men-suriage-men",
+      "kind": "sequence",
+      "family": "KENDO",
+      "description_ru": "Мэн-суриагэ-мэн.",
+      "variant_note": "Ответная последовательность или дрилл, не новая ударная поверхность.",
+      "source_ids": [
+        "W_KENDO_PENANG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_KENDO_PENANG",
+      "title": "Penang Kendo Club — Membership booklet (2024)",
+      "url": "https://www.penangkendoclub.org/assets/pdf/pkc-membership-booklet-2024.pdf",
+      "what_verified": "Четыре основных атакующих действия, перечисленные ответные варианты и связки; собственная учебная программа клуба."
+    }
+  ]
+}

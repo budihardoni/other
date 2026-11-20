@@ -1,0 +1,375 @@
+{
+  "style_id": "fma_fcs",
+  "style_ru": "FMA — выбранный словарь FCS",
+  "records": [
+    {
+      "tag": "@STRIKE_FMA_FCS_ALDABIS",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Альдабис — диагональный удар",
+      "name_original": "Aldabis",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Альдабис — диагональный удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_BAGSAK",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Багсак — нисходящий удар",
+      "name_original": "Bagsak",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Багсак — нисходящий удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_BARTIKAL",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Бартикаль — вертикальный удар",
+      "name_original": "Bartikal",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Бартикаль — вертикальный удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_ORDABIS",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Ордабис — обратный удар",
+      "name_original": "Ordabis",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Ордабис — обратный удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_KADYOT",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Кадьот — короткий тычок",
+      "name_original": "Kadyot",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Кадьот — короткий тычок.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_PINAHANDOG",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Пинахандог — диагональ вниз",
+      "name_original": "Pinahandog",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Пинахандог — диагональ вниз.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_PINASAKA",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Пинасака — диагональ вверх",
+      "name_original": "Pinasaka",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Пинасака — диагональ вверх.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_PINATINDOG",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Пинатиндог — вертикаль вниз",
+      "name_original": "Pinatindog",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Пинатиндог — вертикаль вниз.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_PLANCHADA",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Планчада — горизонталь",
+      "name_original": "Planchada / plansada / pinatag",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Планчада — горизонталь.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_PINTOK",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Пинток — кистевой хлёст",
+      "name_original": "Pintok",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Пинток — кистевой хлёст.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_REDONDO",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Редондо — круговой удар",
+      "name_original": "Redondo",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Редондо — круговой удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_SAKSAK",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Саксак — укол",
+      "name_original": "Saksak / tusok / totsada",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Саксак — укол.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_SALOK",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Салок — восходящий удар",
+      "name_original": "Salok",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Салок — восходящий удар.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_SIKWAT",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Сикват — восходящий удар коротким концом",
+      "name_original": "Sikwat",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Сикват — восходящий удар коротким концом.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_FCS_SAN_MIGUEL",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Сан-Мигель — диагональ сверху внутрь",
+      "name_original": "Tagang San Miguel",
+      "kind": "strike",
+      "family": "weapon",
+      "description_ru": "Сан-Мигель — диагональ сверху внутрь.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_FCS_REDONDA",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Редонда — непрерывная парная серия",
+      "name_original": "Redonda",
+      "kind": "sequence",
+      "family": "weapon",
+      "description_ru": "Редонда — непрерывная парная серия.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_FCS_ROMPIDA",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Ромпида — серия вверх–вниз",
+      "name_original": "Rompida",
+      "kind": "sequence",
+      "family": "weapon",
+      "description_ru": "Ромпида — серия вверх–вниз.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_FCS_SINAWALI",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Синавали — парное плетение",
+      "name_original": "Sinawalli",
+      "kind": "sequence",
+      "family": "weapon",
+      "description_ru": "Синавали — парное плетение.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_FCS_PASUMALA",
+      "style_id": "fma_fcs",
+      "style_ru": "FMA — выбранный словарь FCS",
+      "name_ru": "Пасумала — восходящее парирование",
+      "name_original": "Tagang Pasumala",
+      "kind": "defence",
+      "family": "weapon",
+      "description_ru": "Пасумала — восходящее парирование.",
+      "variant_note": "Трактовка выбранного словаря FCS; отдельные имена могут описывать сходную траекторию.",
+      "source_ids": [
+        "W_FMA_FCS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_FMA_FCS",
+      "title": "Filipino Combat Systems — school glossary",
+      "url": "https://www.fcskaliphilippines.com/glossary.html",
+      "what_verified": "Имена и краткие значения выбранных оружейных ударов. Сам автор предупреждает о различиях диалектов и школ; не универсализируется."
+    }
+  ]
+}

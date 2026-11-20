@@ -1,0 +1,338 @@
+{
+  "style_id": "muay_boran",
+  "style_ru": "Муай-боран",
+  "records": [
+    {
+      "tag": "@STRIKE_MUAY_BORAN_HEADBUTT",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Удар головой",
+      "name_original": "Head-butt",
+      "kind": "strike",
+      "family": "head_strike",
+      "description_ru": "Голова проходит коротким ударным движением.",
+      "variant_note": "Компонент школьного IMBA, не разрешение современного Muay Thai.",
+      "source_ids": [
+        "SPORT-MB-IMBA",
+        "SPORT-MB-STRUCTURE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_STRAIGHT_PUNCH",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Прямой кулак",
+      "name_original": "Straight punch",
+      "kind": "strike",
+      "family": "punch_straight",
+      "description_ru": "Кулак проходит прямо вперёд.",
+      "variant_note": "Компонент IMBA, без полной Mai-последовательности.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_SWING_PUNCH",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Размашистый круговой кулак",
+      "name_original": "Swing punch",
+      "kind": "strike",
+      "family": "punch_swing",
+      "description_ru": "Кулак проходит широкой боковой дугой.",
+      "variant_note": "Компонент, встречающийся в Narai Kwang Jak; форма целиком сюда не скопирована.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_UPPERCUT",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Восходящий кулак",
+      "name_original": "Uppercut",
+      "kind": "strike",
+      "family": "punch_uppercut",
+      "description_ru": "Согнутый кулак проходит снизу вверх.",
+      "variant_note": "Muay Korat/IMBA; symbolic Hanuman name зависит от школьной версии.",
+      "source_ids": [
+        "SPORT-MB-HANUMAN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_SPINNING_BACK_PUNCH",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Кулак назад с разворотом",
+      "name_original": "Spinning back punch",
+      "kind": "strike",
+      "family": "punch_spinning",
+      "description_ru": "Разворот корпуса сопровождает дуговой проход кулака назад.",
+      "variant_note": "Ударный компонент Kwang Jak Narai в IMBA.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_HORIZONTAL_FOREARM",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Боковой удар предплечьем",
+      "name_original": "Forearm strike",
+      "kind": "strike",
+      "family": "forearm_horizontal",
+      "description_ru": "Предплечье проходит боковой дугой.",
+      "variant_note": "Ударный компонент Narai Ban Sean; не весь контрприём.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_DOWNWARD_FOREARM",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Нисходящее предплечье",
+      "name_original": "Downward forearm blow",
+      "kind": "strike",
+      "family": "forearm_downward",
+      "description_ru": "Предплечье проходит сверху вниз.",
+      "variant_note": "Ударный компонент Pak Tay Toy; связка с локтем отдельно.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_HORIZONTAL_ELBOW",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Горизонтальный локоть",
+      "name_original": "Sok Dtad",
+      "kind": "strike",
+      "family": "elbow_horizontal",
+      "description_ru": "Локоть проходит боковой горизонтальной дугой.",
+      "variant_note": "Пример категории Sok Wiang Lai в IMBA.",
+      "source_ids": [
+        "SPORT-MB-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_PENETRATING_ELBOW",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Прямой проникающий локоть",
+      "name_original": "Sok Pung",
+      "kind": "strike",
+      "family": "elbow_forward",
+      "description_ru": "Острие согнутого локтя проходит вперёд вместе с корпусом.",
+      "variant_note": "Пример категории Sok Krataek в IMBA.",
+      "source_ids": [
+        "SPORT-MB-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_DOWNWARD_ELBOW",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Нисходящий локоть",
+      "name_original": "Sok Sahb",
+      "kind": "strike",
+      "family": "elbow_downward",
+      "description_ru": "Локоть проходит сверху вниз.",
+      "variant_note": "Пример категории Sok Dti Lom в IMBA.",
+      "source_ids": [
+        "SPORT-MB-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_UPPERCUT_ELBOW",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Восходящий локоть",
+      "name_original": "Sok Ngad",
+      "kind": "strike",
+      "family": "elbow_upward",
+      "description_ru": "Согнутый локоть проходит снизу вверх.",
+      "variant_note": "Пример категории Sok Soei Kheun в IMBA.",
+      "source_ids": [
+        "SPORT-MB-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_SPINNING_BACK_ELBOW",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Локоть назад с разворотом",
+      "name_original": "Sok Glab Lang",
+      "kind": "strike",
+      "family": "elbow_spinning",
+      "description_ru": "Разворот корпуса сопровождает проход локтя назад.",
+      "variant_note": "Конкретные углы варьируются по партнёрской позиции.",
+      "source_ids": [
+        "SPORT-MB-ELBOW"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_STRAIGHT_KNEE",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Прямое колено",
+      "name_original": "Straight knee",
+      "kind": "strike",
+      "family": "knee_straight",
+      "description_ru": "Колено проходит прямо вперёд.",
+      "variant_note": "Компонент нескольких Mai IMBA; захват не требуется самим названием.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_ROUND_KICK",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Круговой удар ногой",
+      "name_original": "Round kick / swing kick",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Нога проходит боковой круговой дугой.",
+      "variant_note": "Школьная общая семья, не единая точная версия всех регионов.",
+      "source_ids": [
+        "SPORT-MB-IMBA",
+        "SPORT-MB-HANUMAN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_FRONT_PUSH_KICK",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Фронтальный толчковый удар",
+      "name_original": "Straight kick",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Стопа проходит прямо вперёд.",
+      "variant_note": "Редакционно выбран фронтальный компонент IMBA; термин straight kick шире этого выбора.",
+      "source_ids": [
+        "SPORT-MB-IMBA"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MUAY_BORAN_DOUBLE_UPPERCUT",
+      "style_id": "muay_boran",
+      "style_ru": "Муай-боран",
+      "name_ru": "Одновременный двойной апперкот",
+      "name_original": "Double uppercut punch",
+      "kind": "strike",
+      "family": "punch_simultaneous",
+      "description_ru": "Оба кулака одновременно проходят снизу вверх.",
+      "variant_note": "Только ударная фаза известного Hanuman Tawai Waen; Korat-вариант источника одиночный.",
+      "source_ids": [
+        "SPORT-MB-HANUMAN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "SPORT-MB-IMBA",
+      "title": "IMBA — Muay Boran IMBA, volume 1, Marco De Cesaris",
+      "url": "https://www.muaythai.it/books/2018/muay-boran-imba/MBI_web_en.pdf",
+      "what_verified": "Свежо прочитан официальный публичный PDF через curl/pdftotext: body weapons и именованные стратегические формы с straight/swing/uppercut/spinning punch, forearm blows, knee, kick, headbutts. Компоненты отделены от целых Mai."
+    },
+    {
+      "id": "SPORT-MB-ELBOW",
+      "title": "IMBA / Marco De Cesaris — The elbow: Muay Thai’s bladed weapon, part 1",
+      "url": "https://www.muaythai.it/the-elbow-muay-thais-bladed-weapon-part-1/",
+      "what_verified": "Свежо прочитан авторский школьный текст пяти категорий; примеры Sok Dtad, Sok Pung, Sok Sahb, Sok Ngad, Sok Glab Lang; виды и категории не считаются дважды."
+    },
+    {
+      "id": "SPORT-MB-HANUMAN",
+      "title": "IMBA — Hanuman Tawai Waen, Muay Korat",
+      "url": "https://www.muaythai.it/muay-korat-hanuman-tawai-waen/",
+      "what_verified": "Свежо прочитан: известная двойная uppercut-фигура и иной одиночный uppercut варианта Muay Korat; одинаковое символическое имя не означает одинаковую механику."
+    },
+    {
+      "id": "SPORT-MB-STRUCTURE",
+      "title": "IMBA — Muay Boran",
+      "url": "https://win.muaythai.it/english/muayboran.html",
+      "what_verified": "Свежо проверено собственное описание IMBA: современная организация традиционных региональных элементов и девять body weapons, включая голову; это отдельная линия, не ринговые правила Muay Thai."
+    }
+  ]
+}

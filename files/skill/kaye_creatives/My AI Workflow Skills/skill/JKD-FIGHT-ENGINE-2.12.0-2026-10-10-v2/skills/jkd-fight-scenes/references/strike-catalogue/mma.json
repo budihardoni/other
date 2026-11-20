@@ -1,0 +1,630 @@
+{
+  "style_id": "mma",
+  "style_ru": "MMA — смешанный ударный контекст",
+  "records": [
+    {
+      "tag": "@STRIKE_MMA_JAB",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Джеб",
+      "name_original": "Jab",
+      "kind": "strike",
+      "family": "straight_punch",
+      "description_ru": "Передняя рука выполняет прямой удар.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_CROSS",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Кросс",
+      "name_original": "Cross",
+      "kind": "strike",
+      "family": "straight_punch",
+      "description_ru": "Задняя рука выполняет прямой удар.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_LEAD_HOOK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Хук передней рукой",
+      "name_original": "Lead hook",
+      "kind": "strike",
+      "family": "hook",
+      "description_ru": "Передняя рука движется в боковой дуге.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_REAR_HOOK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Хук задней рукой",
+      "name_original": "Rear hook",
+      "kind": "strike",
+      "family": "hook",
+      "description_ru": "Задняя рука движется в боковой дуге.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_LEAD_UPPERCUT",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Апперкот передней рукой",
+      "name_original": "Lead uppercut",
+      "kind": "strike",
+      "family": "uppercut",
+      "description_ru": "Передний кулак проходит по восходящей траектории.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_REAR_UPPERCUT",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Апперкот задней рукой",
+      "name_original": "Rear uppercut",
+      "kind": "strike",
+      "family": "uppercut",
+      "description_ru": "Задний кулак проходит по восходящей траектории.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_BOXING",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_OVERHAND",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Оверхенд",
+      "name_original": "Overhand",
+      "kind": "strike",
+      "family": "overhand",
+      "description_ru": "Кулак проходит по верхней наклонной дуге.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_COMBINATIONS",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_SPINNING_BACKFIST",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Бэкфист с разворотом",
+      "name_original": "Spinning backfist",
+      "kind": "strike",
+      "family": "backfist",
+      "description_ru": "Разворот корпуса сопровождает дуговое движение тыльной стороны кулака.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_UNUSUAL",
+        "HY_MMAA_RULES"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_SUPERMAN_PUNCH",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Супермен-панч",
+      "name_original": "Superman punch",
+      "kind": "strike",
+      "family": "jumping_punch",
+      "description_ru": "Прямой удар рукой соединён с короткой воздушной фазой.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_SUPERMAN"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_OUTSIDE_LOW_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Низкий удар снаружи",
+      "name_original": "Outside low kick",
+      "kind": "strike",
+      "family": "low_round_kick",
+      "description_ru": "Нога проходит низкой дугой с наружной стороны.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_INSIDE_LOW_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Низкий удар изнутри",
+      "name_original": "Inside low kick",
+      "kind": "strike",
+      "family": "low_round_kick",
+      "description_ru": "Нога проходит низкой дугой с внутренней стороны.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_CALF_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Калф-кик",
+      "name_original": "Calf kick",
+      "kind": "strike",
+      "family": "low_round_kick",
+      "description_ru": "Низкая дуга ноги направлена к нижней части ноги партнёра.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_CALF"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_BODY_ROUND_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Круговой удар в корпус",
+      "name_original": "Body roundhouse kick",
+      "kind": "strike",
+      "family": "round_kick",
+      "description_ru": "Нога проходит круговую траекторию на среднем уровне.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_HEAD_ROUND_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Высокий круговой удар",
+      "name_original": "Head roundhouse kick",
+      "kind": "strike",
+      "family": "round_kick",
+      "description_ru": "Нога проходит круговую траекторию на высоком уровне.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_FRONT_PUSH_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Прямой толчковый удар ногой",
+      "name_original": "Front push kick / teep",
+      "kind": "strike",
+      "family": "front_kick",
+      "description_ru": "Стопа движется вперёд по прямой траектории.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_SIDE_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Боковой удар ногой",
+      "name_original": "Side kick",
+      "kind": "strike",
+      "family": "side_kick",
+      "description_ru": "Стопа выходит в сторону из развёрнутого корпуса.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_COMBINATIONS",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_SPINNING_BACK_KICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Удар ногой назад с разворотом",
+      "name_original": "Spinning back kick",
+      "kind": "strike",
+      "family": "back_kick",
+      "description_ru": "Разворот корпуса сопровождает выход ноги назад.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_UNUSUAL"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_STRAIGHT_KNEE",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Прямой удар коленом",
+      "name_original": "Straight knee",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено движется вперёд и вверх перед корпусом.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_CLINCH_KNEE",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Колено из клинча",
+      "name_original": "Knee from clinch",
+      "kind": "strike",
+      "family": "knee_position_variant",
+      "description_ru": "Колено выходит между близко расположенными корпусами.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_FLYING_KNEE",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Колено в прыжке",
+      "name_original": "Flying knee",
+      "kind": "strike",
+      "family": "jumping_knee",
+      "description_ru": "Колено выходит вперёд в воздушной фазе.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_HORIZONTAL_ELBOW",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Горизонтальный удар локтем",
+      "name_original": "Horizontal elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Согнутая рука проводит локоть поперёк перед корпусом.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_UPWARD_ELBOW",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Восходящий удар локтем",
+      "name_original": "Upward elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по восходящей траектории.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_DIAGONAL_ELBOW",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Диагональный удар локтем",
+      "name_original": "Diagonal elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по наклонной траектории.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_INTRO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_SPINNING_ELBOW",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Удар локтем с разворотом",
+      "name_original": "Spinning elbow",
+      "kind": "strike",
+      "family": "spinning_elbow",
+      "description_ru": "Разворот корпуса сопровождает дуговое движение локтя.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_THAI",
+        "HY_MMA_ELBOWS"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_GROUND_PUNCH",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Удар кулаком сверху в партере",
+      "name_original": "Ground-and-pound punch",
+      "kind": "strike",
+      "family": "ground_position_variant",
+      "description_ru": "Верхний участник направляет кулак к нижнему партнёру.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_INTRO",
+        "HY_MMA_RULES"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_GROUND_HAMMERFIST",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Молотковый удар в партере",
+      "name_original": "Ground hammerfist",
+      "kind": "strike",
+      "family": "ground_position_variant",
+      "description_ru": "Кулак верхнего участника выполняет молотковое движение.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_HAMMER"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_GROUND_ELBOW",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Удар локтем сверху в партере",
+      "name_original": "Ground elbow",
+      "kind": "strike",
+      "family": "ground_position_variant",
+      "description_ru": "Верхний участник проводит короткий локоть над нижним партнёром.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_ELBOWS",
+        "HY_MMA_RULES"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_MMA_UPKICK",
+      "style_id": "mma",
+      "style_ru": "MMA — смешанный ударный контекст",
+      "name_ru": "Удар ногой снизу из партера",
+      "name_original": "Upkick",
+      "kind": "strike",
+      "family": "ground_kick",
+      "description_ru": "Лежащий участник направляет стопу вверх.",
+      "variant_note": "Заимствованное семейство в MMA; варианты позиции и регламент сцены уточняются.",
+      "source_ids": [
+        "HY_MMA_UNUSUAL",
+        "HY_MMA_RULES"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_MMA_INTRO",
+      "title": "UFC — Introduction to MMA",
+      "url": "https://www.ufc.com/intro-to-mma?language_content_entity=en",
+      "what_verified": "Свежо получен индексированный первичный текст: MMA соединяет ударную работу и grappling стоя/на земле; перечислены школы. Reader вернул 403, видео не просмотрены."
+    },
+    {
+      "id": "HY_MMA_BOXING",
+      "title": "Evolve MMA / Drian Francisco — Boxing punch number system",
+      "url": "https://evolve-mma.com/blog/boxing-fundamentals-understanding-the-boxing-punch-number-system/",
+      "what_verified": "Свежо прочитано: jab/cross/lead-rear hook/lead-rear uppercut; четыре семейства и шесть сторон. Источник — сам преподаватель школы, а не федерационный стандарт MMA."
+    },
+    {
+      "id": "HY_MMA_THAI",
+      "title": "Evolve MMA — Complete Muay Thai Beginner's Guide",
+      "url": "https://evolve-mma.com/blog/the-complete-muay-thai-beginners-guide/",
+      "what_verified": "Свежо прочитаны именованные kicks, push kick, knees и elbows. Названия описывают заимствованные ударные семейства, а не отдельную собственную школу MMA."
+    },
+    {
+      "id": "HY_MMA_CALF",
+      "title": "Evolve MMA — The Rise of the Calf Kick in MMA",
+      "url": "https://evolve-mma.com/blog/the-rise-of-the-calf-kick-in-mma/",
+      "what_verified": "Свежо прочитан первичный материал школы: calf kick отдельно от thigh leg kick; MMA-контекст. Медицинские и рекламные обобщения не используются."
+    },
+    {
+      "id": "HY_MMA_RULES",
+      "title": "Association of Boxing Commissions — Unified Rules of MMA 8.2026",
+      "url": "https://www.abcboxing.com/wp-content/uploads/2026/08/Unified-Rules-of-MMA-8.2026.pdf",
+      "what_verified": "Свежо прочитан текущий PDF, найденный с официальной страницы Current Documents: запреты и grounded fighter. Допустимость зависит от принятой событием версии; это не словарь техники."
+    },
+    {
+      "id": "HY_MMAA_RULES",
+      "title": "MMA Australasia — Rules 2025",
+      "url": "https://eternalmma.com/wp-content/uploads/2025/02/MMAA-Rules-2025_v1.pdf",
+      "what_verified": "Свежо открыт первичный регламент MMAA: включает именованные spinning hand strikes и отдельные категории ограничений. Не приравнен к ABC/IMMAF."
+    },
+    {
+      "id": "HY_MMA_HAMMER",
+      "title": "UFC — Hermansson vs Strickland results",
+      "url": "https://www.ufc.com/news/ufc-fight-night-hermansson-vs-strickland-results-highlights-winners-interviews-ufc-vegas-47",
+      "what_verified": "Свежо получен индексированный первичный отчёт UFC: hammerfists из mount у Almeida и после перехода вниз у Rowe. Reader 403; собственного просмотра боя нет."
+    },
+    {
+      "id": "HY_MMA_UNUSUAL",
+      "title": "UFC — Fast Facts for Our 20th Anniversary",
+      "url": "https://www.ufc.com/news/fast-facts-our-20th-anniversary",
+      "what_verified": "Индексированный первичный текст UFC прямо именует spinning backfist, spinning back kick и upkick. Исторические числа здесь не используются; reader недоступен."
+    },
+    {
+      "id": "HY_MMA_SUPERMAN",
+      "title": "UFC — Top 500 UFC Moments",
+      "url": "https://www.ufc.com/news/top-500-ufc-moments-list",
+      "what_verified": "Индексированный первичный текст UFC прямо именует Superman punch Pettis. Это подтверждение употребления имени; видео не просмотрено."
+    },
+    {
+      "id": "HY_MMA_ELBOWS",
+      "title": "UFC — UFC 277 results",
+      "url": "https://www.ufc.com/news/ufc-277-pena-vs-nunes-2-results",
+      "what_verified": "Индексированный первичный отчёт: spinning elbow стоя и elbows сверху в guard у Nunes. Reader 403; контакт не анализировался визуально."
+    },
+    {
+      "id": "HY_MMA_COMBINATIONS",
+      "title": "Evolve MMA — 20 Advanced MMA Striking Set-Ups and Combinations",
+      "url": "https://evolve-mma.com/blog/20-advanced-mma-striking-set-ups-and-combinations-you-should-add-to-your-arsenal/",
+      "what_verified": "Свежо получен первичный учебный материал школы: прямо именует overhand, side kick, spinning backfist, Superman punch, clinch knee/elbow. Гарантии эффективности не заимствуются."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "style_id": "iaido",
+  "style_ru": "Иайдо и японский меч — выбранные термины",
+  "records": [
+    {
+      "tag": "@STRIKE_IAIDO_KIRI_OROSHI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Кири-ороси — рубящий удар вниз",
+      "name_original": "Kiri-oroshi",
+      "kind": "strike",
+      "family": "IAIDO",
+      "description_ru": "Кири-ороси — рубящий удар вниз.",
+      "variant_note": "Подтверждено имя движения; не равняется всей форме Mae.",
+      "source_ids": [
+        "W_AKR_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_IAIDO_NUKI_TSUKE",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Нукицукэ — удар при извлечении меча",
+      "name_original": "Nuki-tsuke",
+      "kind": "strike",
+      "family": "IAIDO",
+      "description_ru": "Нукицукэ — удар при извлечении меча.",
+      "variant_note": "Имя входит в вопросы экзамена; точная траектория зависит от формы и школы.",
+      "source_ids": [
+        "W_AKR_IAIDO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_MAE",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Маэ",
+      "name_original": "Mae",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Маэ.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_USHIRO",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Усиро",
+      "name_original": "Ushiro",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Усиро.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_UKENAGASHI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Укэнагаси",
+      "name_original": "Ukenagashi",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Укэнагаси.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_TSUKA_ATE",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Цука-атэ",
+      "name_original": "Tsuka-ate",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Цука-атэ.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_KESA_GIRI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Кэса-гири",
+      "name_original": "Kesa-giri",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Кэса-гири.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_MOROTE_ZUKI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Моротэ-дзуки",
+      "name_original": "Morote-zuki",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Моротэ-дзуки.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_SANPO_GIRI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Санпо-гири",
+      "name_original": "Sanpo-giri",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Санпо-гири.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_GANMEN_ATE",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Ганмэн-атэ",
+      "name_original": "Ganmen-ate",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Ганмэн-атэ.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_SOETE_ZUKI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Соэтэ-дзуки",
+      "name_original": "Soete-zuki",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Соэтэ-дзуки.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_SHIHO_GIRI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Сихо-гири",
+      "name_original": "Shiho-giri",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Сихо-гири.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_SOGIRI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Согири",
+      "name_original": "Sogiri",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Согири.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_IAIDO_NUKIUCHI",
+      "style_id": "iaido",
+      "style_ru": "Иайдо и японский меч — выбранные термины",
+      "name_ru": "Нукиути",
+      "name_original": "Nukiuchi",
+      "kind": "form",
+      "family": "IAIDO",
+      "description_ru": "Нукиути.",
+      "variant_note": "Целая стандартная ката AJKF; не отдельный удар.",
+      "source_ids": [
+        "W_AKR_IAIDO",
+        "W_AJKF_IAIDO"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_AKR_IAIDO",
+      "title": "Australian Kendo Renmei — Iaido grading document (2019)",
+      "url": "https://www.kendoaustralia.asn.au/content/wp-content/uploads/2019/11/MoD_3_Iaido_19_10_20.pdf",
+      "what_verified": "Имена базового движения Kiri-oroshi, терминов и 12 ката; ката не приравниваются к отдельным ударам."
+    },
+    {
+      "id": "W_AJKF_IAIDO",
+      "title": "AJKF — Concept of Iaido",
+      "url": "https://www.kendo.or.jp/en/knowledge/iaido-concept/",
+      "what_verified": "Стандартные формы AJKF и существование различных классических школ; не полный перечень их ударов."
+    }
+  ]
+}

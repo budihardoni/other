@@ -1,0 +1,58 @@
+{
+  "style_id": "gunfu_prop",
+  "style_ru": "Gun-fu — контакт реквизитом",
+  "records": [
+    {
+      "tag": "@STRIKE_GUNFU_PROP_PISTOL",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар пистолетным реквизитом",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар пистолетным реквизитом.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUNFU_PROP_BUTT",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар прикладом реквизита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар прикладом реквизита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_GUNFU_PROP_FOREND",
+      "style_id": "gunfu_prop",
+      "style_ru": "Gun-fu — контакт реквизитом",
+      "name_ru": "Контактный удар корпусом длинного оружейного реквизита",
+      "name_original": "",
+      "kind": "strike",
+      "family": "GUNFU_PROP",
+      "description_ru": "Контактный удар корпусом длинного оружейного реквизита.",
+      "variant_note": "Авторский описательный тег для кино. Выбрать предмет, школу при необходимости и конкретный контакт; не обещать травму. Применимость ограничена конструкцией предмета, не все варианты подходят каждому оружию.",
+      "source_ids": [],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": []
+}

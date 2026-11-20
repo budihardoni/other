@@ -1,0 +1,203 @@
+{
+  "style_id": "jackie",
+  "style_ru": "Экранный профиль Jackie Chan",
+  "records": [
+    {
+      "tag": "@ACTION_JACKIE_PROP_BLOCK",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Предмет как подвижная преграда",
+      "name_original": "Authored prop block",
+      "kind": "screen_motif",
+      "family": "prop_interaction",
+      "description_ru": "Бытовой предмет оказывается между руками участников и меняет линию обмена.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_PROP_HANDOFF",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Перехват и передача предмета",
+      "name_original": "Authored prop handoff",
+      "kind": "screen_motif",
+      "family": "prop_interaction",
+      "description_ru": "Предмет переходит из рук в руки внутри продолжающегося парного движения.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_VAULT_REENTRY",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Переход через препятствие и возвращение в обмен",
+      "name_original": "Authored vault and re-entry",
+      "kind": "screen_motif",
+      "family": "obstacle_transition",
+      "description_ru": "Участник проходит через препятствие и снова оказывается рядом с партнёром.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_COMIC_PAIN_BEAT",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Комедийная реакция после контакта",
+      "name_original": "Authored comic receiving beat",
+      "kind": "screen_motif",
+      "family": "receiving_performance",
+      "description_ru": "Получатель показывает краткую реакцию лицом и телом, затем продолжает действие.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_REID",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_RHYTHM_SWITCH",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Смена темпа внутри обмена",
+      "name_original": "Authored rhythm switch",
+      "kind": "screen_motif",
+      "family": "rhythm_motif",
+      "description_ru": "Ровный ручной рисунок сменяется паузой и новым коротким ускорением.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_CHAIN_REACTION",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Предмет запускает цепь движений",
+      "name_original": "Authored prop chain reaction",
+      "kind": "screen_motif",
+      "family": "situational_comedy",
+      "description_ru": "Сдвинувшийся предмет меняет положение нескольких участников сцены.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_PARTNER_RECOIL",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Самостоятельная принимающая игра партнёра",
+      "name_original": "Authored partner recoil",
+      "kind": "screen_motif",
+      "family": "receiving_performance",
+      "description_ru": "Партнёр отводит корпус и меняет шаг в согласованном экранном обмене.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_REID"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_SPACE_CHASE",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Бой переходит в погоню через пространство",
+      "name_original": "Authored fight-to-chase transition",
+      "kind": "screen_motif",
+      "family": "space_transition",
+      "description_ru": "Парный обмен размыкается и продолжается движением через соседнюю зону.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_KRENG",
+        "HY_JACKIE_MOVIEMAKER"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JACKIE_GROUP_HANDOFF",
+      "style_id": "jackie",
+      "style_ru": "Экранный профиль Jackie Chan",
+      "name_ru": "Переход от одного партнёра к другому",
+      "name_original": "Authored group exchange handoff",
+      "kind": "screen_motif",
+      "family": "multi_partner_transition",
+      "description_ru": "Один участник выходит из обмена, пока следующий входит в его движущийся рисунок.",
+      "variant_note": "Авторский мотив экранного профиля; источник подтверждает метод Chan, а не эту точную связку.",
+      "source_ids": [
+        "HY_JACKIE_REID",
+        "HY_JACKIE_KRENG"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_JACKIE_KRENG",
+      "title": "John Kreng / Jackie Chan — Talking With Jackie Chan",
+      "url": "https://www.martialartsentertainment.com/talking-jackie-chan/",
+      "what_verified": "Свежо прочитаны первичные ответы Chan о ритме, партнёрах, бытовом окружении, dance-like action и работе команды. Конкретные ниже мотивы — авторские постановочные варианты."
+    },
+    {
+      "id": "HY_JACKIE_MOVIEMAKER",
+      "title": "Jackie Chan / Stanley Tong — Jackie Chan at the Crossroads",
+      "url": "https://www.moviemaker.com/jackie-chan-at-the-crossroads-3232/",
+      "what_verified": "Свежо прочитаны собственные слова о situation comedy, темпе и поиске реквизита. Редакционные заявления 'no stuntmen' не приняты как факт всех кадров."
+    },
+    {
+      "id": "HY_JACKIE_REID",
+      "title": "Craig D. Reid — An Evening with Jackie Chan",
+      "url": "https://brightlightsfilm.com/evening-jackie-chan-interview-profile/",
+      "what_verified": "Свежо прочитаны первичные производственные наблюдения со съёмки 1993 и слова Chan; пространственная работа и принимающая игра отделены от точного просмотра фильмов."
+    }
+  ]
+}

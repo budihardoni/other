@@ -1,0 +1,783 @@
+{
+  "style_id": "jkd",
+  "style_ru": "Джит Кун До / Jun Fan",
+  "records": [
+    {
+      "tag": "@STRIKE_JKD_STRAIGHT_LEAD",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Прямой передней рукой",
+      "name_original": "Straight lead",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Передний кулак проходит вперёд по прямой линии.",
+      "variant_note": "Сильная передняя сторона — выбор школы и сцены; не универсальное имя boxing jab.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H1"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_REAR_CROSS",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Задний прямой",
+      "name_original": "Rear cross / Straight rear punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Задний кулак проходит вперёд по прямой с разворотом корпуса.",
+      "variant_note": "Cross и straight rear punch здесь сведены в одну запись.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H10"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_LEAD_HOOK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Хук передней рукой",
+      "name_original": "Lead hook",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Передний кулак описывает короткую боковую дугу.",
+      "variant_note": "Именованный lead-вариант общей семьи Hook.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_TUTTLE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H3"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_REAR_HOOK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Хук задней рукой",
+      "name_original": "Rear-hand hook",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Задний кулак описывает короткую боковую дугу.",
+      "variant_note": "Сторонний вариант именованной семьи Hook; издатель не перечисляет его отдельным термином.",
+      "source_ids": [
+        "AS_JKD_TUTTLE"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_LEAD_UPPERCUT",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Апперкот передней рукой",
+      "name_original": "Lead-hand uppercut",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Передний кулак движется по восходящей дуге.",
+      "variant_note": "Вариант семьи Uppercut; указание передней руки служит постановке.",
+      "source_ids": [
+        "AS_JKD_TUTTLE"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_REAR_UPPERCUT",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Апперкот задней рукой",
+      "name_original": "Rear-hand uppercut",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Задний кулак движется по восходящей дуге.",
+      "variant_note": "Вариант семьи Uppercut; не отдельное новое школьное имя.",
+      "source_ids": [
+        "AS_JKD_TUTTLE"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SHOVEL_HOOK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Диагональный хук снизу",
+      "name_original": "Shovel hook / Ha O'ou Chuie",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит снизу по диагональной дуге.",
+      "variant_note": "Диагональная форма между боковым хуком и апперкотом; варианты транслитерации не новые удары.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H9"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_BACKFIST",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Обратный удар кулаком",
+      "name_original": "Backfist / Gua Chuie",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака выходит к партнёру по короткой дуге.",
+      "variant_note": "Ударная поверхность отличает его от прямого удара.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H4"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SNAPPING_BACKFIST",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Хлёсткий бэкфист",
+      "name_original": "Snapping backfist",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака выполняет короткий хлёсткий выход и возврат.",
+      "variant_note": "Сценический вариант семьи Backfist из прежнего каталога; отдельная официальная терминология Lee не установлена.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [
+        "@JKD_H5"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_HEAVY_BACKFIST",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Акцентированный бэкфист",
+      "name_original": "Heavy backfist",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака проходит более размашистую акцентированную дугу.",
+      "variant_note": "Прежний авторский киноярлык, а не доказанная самостоятельная техника всех JKD школ.",
+      "source_ids": [
+        "AS_LEGACY_JKD",
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [
+        "@JKD_H6"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_HAMMERFIST",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Удар кулаком-молотом",
+      "name_original": "Hammerfist / Sot Kil",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край закрытого кулака выполняет рубящее движение.",
+      "variant_note": "Направление вверх/вниз/сбоку задаётся отдельно, не входит в базовый тег.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H11"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_ONE_INCH_PUNCH",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Дюймовый удар",
+      "name_original": "1 inch punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак выполняет короткий прямой выход с близкой исходной позиции.",
+      "variant_note": "Демонстрационная короткая амплитуда; буквальная дистанция и реакция не гарантируются.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H8"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_JKD_STRAIGHT_BLAST",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Серия прямых ударов",
+      "name_original": "JKD straight blast",
+      "kind": "sequence",
+      "family": "punch_series",
+      "description_ru": "Кулаки попеременно проходят вперёд в серии прямых ударов.",
+      "variant_note": "Серия, не новый одиночный удар; школьный curriculum различает Wing Chun Blast и JKD Straight Blast.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H7"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_FINGER_JAB",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Прямой укол пальцами",
+      "name_original": "Finger jab / Biu Gee",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Открытая кисть проходит вперёд концами пальцев.",
+      "variant_note": "Удар, а не автоматическое переименование любой Biu Sao защиты.",
+      "source_ids": [
+        "AS_JKD_PROCESS",
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H2"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_FINGER_FAN",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Хлёсткий веер пальцев",
+      "name_original": "Finger fan",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Открытая кисть выполняет короткий веерный взмах.",
+      "variant_note": "Название подтверждено публичным curriculum; детальная механика закрытого урока не просмотрена.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_STRAIGHT_PALM",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Прямой удар ладонью",
+      "name_original": "Jik Jern / Straight palm",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание раскрытой ладони движется прямо вперёд.",
+      "variant_note": "Школьное имя Jun Fan; не самостоятельный универсальный стандарт всех JKD.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SIDE_PALM",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Боковой удар ладонью",
+      "name_original": "Woang Jern / Side palm",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Раскрытая ладонь проходит к партнёру сбоку.",
+      "variant_note": "Боковое направление отличает вариант от Straight Palm.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_KNIFEHAND",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Рубящий удар ребром ладони",
+      "name_original": "Sut Sao / Knife-hand strike",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Ребро открытой ладони проходит по рубящей дуге.",
+      "variant_note": "Fak Sao также переводится школой как knife-hand chop; транслитерации не создают второй удар.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_ELBOW",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Короткий удар локтем",
+      "name_original": "Elbow / Jang",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Согнутая рука выводит локоть к партнёру на близкой дистанции.",
+      "variant_note": "Общая семья; старый H12 не закрепляет единственное направление.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_H12"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SNAP_ELBOW",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Хлёсткий локоть",
+      "name_original": "Snap elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Согнутая рука выполняет короткий акцентированный выход локтем.",
+      "variant_note": "Имя урока Chinatown; подробное направление требует видеоэталона.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_DOWNWARD_ELBOW",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Локоть сверху вниз",
+      "name_original": "Kwai Jarn / Down elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит сверху вниз короткой дугой.",
+      "variant_note": "Направленный вариант, названный в словаре конкретной школы.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_STRAIGHT_KNEE",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Прямой удар коленом",
+      "name_original": "Straight knee",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено поднимается вперёд к партнёру.",
+      "variant_note": "Хват и исходное сближение задаются сценой; старый K7 включает более узкое условие захвата и не назначен автоматически.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_HEADBUTT",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Удар головой",
+      "name_original": "Jong Tao / Kow Tao / Head butt",
+      "kind": "strike",
+      "family": "head_strike",
+      "description_ru": "Голова выполняет короткое направленное движение к партнёру.",
+      "variant_note": "Два школьных имени сведены в одну ударную семью.",
+      "source_ids": [
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_STRAIGHT_FRONT_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Прямой фронтальный кик",
+      "name_original": "Straight kick / Jik Tek",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выходит вперёд по прямой линии.",
+      "variant_note": "Основная семья, включающая разные ударные поверхности; не равна только одному низкому варианту.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_HEEL_FRONT_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Фронтальный удар пяткой",
+      "name_original": "Forward straight heel kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка проходит прямо вперёд в фронтальном ударе.",
+      "variant_note": "Вариант прямого кика по поверхности; прямо назван в школьной версии раннего Jun Fan.",
+      "source_ids": [
+        "AS_JKD_ELITE_CURR"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SHOVEL_FRONT_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Фронтальный подхватывающий кик",
+      "name_original": "Forward shovel kick / Scoop kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит снизу вперёд по подхватывающей дуге.",
+      "variant_note": "Forward Shovel и Scoop — соседние школьные названия; точное совпадение каждого урока по видео не утверждается.",
+      "source_ids": [
+        "AS_JKD_ELITE_CURR",
+        "AS_JKD_CHINATOWN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_LOW_TOE_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Низкий прямой удар носком",
+      "name_original": "Low toe kick / Jit Tek",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Носок стопы проходит вперёд на низкой линии.",
+      "variant_note": "Вариант прямого кика по поверхности и высоте; конкретная цель не встроена в тег.",
+      "source_ids": [
+        "AS_JKD_ELITE_CURR",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SIDE_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Боковой удар ногой",
+      "name_original": "Side kick / Juk Tek",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выдвигается по прямой при боковом положении корпуса.",
+      "variant_note": "Базовая семья; K2 ниже сохранён только у постановочного варианта в корпус.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_LOW_STOP_SIDE_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Низкий перехватывающий боковой кик",
+      "name_original": "Low side stop-kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Боковой удар стопой выходит навстречу движению партнёра на низкой линии.",
+      "variant_note": "Тактический низкий вариант Side Kick; jeet означает перехват, а не ещё одну универсальную траекторию.",
+      "source_ids": [
+        "AS_JKD_PROCESS",
+        "AS_JKD_ELITE_CURR",
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [
+        "@JKD_K1"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_BODY_SIDE_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Боковой кик на линии корпуса",
+      "name_original": "Body-level side kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Боковой удар стопой выходит к партнёру на линии корпуса.",
+      "variant_note": "Вариант высоты семейства Side Kick, сохранён ради точного старого K2; отбрасывание не гарантируется.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [
+        "@JKD_K2"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_OBLIQUE_STOMP_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Косой топчущий кик",
+      "name_original": "Oblique kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва проходит по косой нисходящей линии к низкой игровой цели.",
+      "variant_note": "Старый киноярлык K3; прямое соответствие терминам Lee или одной школе ещё не подтверждено.",
+      "source_ids": [
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [
+        "@JKD_K3"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_ROUNDHOUSE_HOOK_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Круговой хук-кик JKD",
+      "name_original": "Hook kick / O'ou Tek",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к партнёру по круговой боковой дуге.",
+      "variant_note": "В терминологии JKD Hook Kick здесь круговой удар; не смешивать с heel-hook Kukkiwon/ITF. Старый K4 уже ограничен низким исполнением и не переносится на всю семью.",
+      "source_ids": [
+        "AS_JKD_TUTTLE",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_LOW_ROUNDHOUSE_HOOK_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Низкий круговой хук-кик JKD",
+      "name_original": "Low hook kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по короткой круговой дуге на низкой линии.",
+      "variant_note": "Низкий вариант JKD Hook Kick; сохраняет узкое значение прежнего K4.",
+      "source_ids": [
+        "AS_JKD_ELITE_CURR",
+        "AS_LEGACY_JKD"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [
+        "@JKD_K4"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_INVERTED_HOOK_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Обратный круговой кик",
+      "name_original": "Inverted hook kick / Gua Tek",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа описывает обратную круговую дугу.",
+      "variant_note": "Имя прямо названо в Chinatown curriculum; не подменяется ITF reverse turning без отдельного эталона.",
+      "source_ids": [
+        "AS_JKD_CHINATOWN",
+        "AS_JKD_ELITE_TERMS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SPINNING_BACK_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Задний удар ногой с разворотом",
+      "name_original": "Spinning back kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота стопа выходит назад по прямой линии.",
+      "variant_note": "Разворот плюс задний кик; отличается от круговой пятки.",
+      "source_ids": [
+        "AS_JKD_TUTTLE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@JKD_K8"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_JKD_SPINNING_BACK_HOOK_KICK",
+      "style_id": "jkd",
+      "style_ru": "Джит Кун До / Jun Fan",
+      "name_ru": "Круговой задний кик с разворотом",
+      "name_original": "Spinning back hook kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота стопа проходит по обратной круговой дуге.",
+      "variant_note": "Назван в школьном раннем Jun Fan curriculum; не синоним прямого Spinning Back Kick.",
+      "source_ids": [
+        "AS_JKD_ELITE_CURR"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "AS_JKD_TUTTLE",
+      "title": "Teri Tom — Jeet Kune Do: A Core Structure Training Manual, publisher description",
+      "url": "https://www.tuttlepublishing.com/martial-arts/jeet-kune-do-paperback-with-flaps-9780804847797",
+      "what_verified": "6.10.2026 прочитана карточка издателя: названы Straight Lead, Rear Cross, Hook, Uppercut, Straight Kick, Hook Kick, Side Kick, Spinning Back Kick и их варианты; это подтверждение номенклатуры книги, не просмотр всей книги."
+    },
+    {
+      "id": "AS_JKD_PROCESS",
+      "title": "The JKD Process — About JKD",
+      "url": "https://www.jkdprocess.com/pages/about-jkd",
+      "what_verified": "6.10.2026 прочитан школьный авторский текст, обновлённый 8.03.2026: Straight Lead, Stop Kick, Finger Jab. Ранний Jun Fan, поздний Lee и JKD Concepts не объявляются единым обязательным набором."
+    },
+    {
+      "id": "AS_JKD_CHINATOWN",
+      "title": "JKD Lessons — public Chinatown JKD Level 1 curriculum",
+      "url": "https://member.jkdlessons.com/courses/level-1",
+      "what_verified": "6.10.2026 прочитаны публичные названия модулей: Lead Hook, Scoop Kick, Backfist, Hammerfist, Finger Fan, Straight Rear Punch, Wing Chun/JKD Straight Blast, Hook Kick, Snap Elbow, Inverted Hook Kick, Palm Strikes, Thrust Kick, Straight Knee и 1 inch Punch; уроки за входом не просмотрены."
+    },
+    {
+      "id": "AS_JKD_ELITE_TERMS",
+      "title": "Elite Jeet Kune Do — own terminology",
+      "url": "https://elitejeetkunedo.com/jeet-kune-do-terminology",
+      "what_verified": "6.10.2026 прочитан школьный словарь: shovel hook, backfist, knife hand, palms, knee, elbow, downward elbow, stomp/side/front/inverted-hook kicks и head butt. Источник первичен для словаря этой школы; не независимая реконструкция каждого урока Bruce Lee."
+    },
+    {
+      "id": "AS_JKD_ELITE_CURR",
+      "title": "Elite Jeet Kune Do — own Jun Fan curriculum",
+      "url": "https://elitejeetkunedo.com/jun-fan-jkd-curriculum",
+      "what_verified": "6.10.2026 прочитан школьный curriculum: forward straight heel kick, forward shovel kick, low side kick, low toe kick, hook kick, spinning back hook kicks. Исторические заявления школы не подтверждают единый канон всех линий."
+    },
+    {
+      "id": "AS_LEGACY_JKD",
+      "title": "Existing local JKD moves catalog, legacy alias mapping only",
+      "url": "../moves-catalog.md",
+      "what_verified": "Прочитаны действующие H/K имена и сравнен invocation-tags.json; источник служит только точному сохранению старых кодов. Сценические heavy/snapping варианты не объявляются официальными новыми терминами Lee."
+    }
+  ]
+}

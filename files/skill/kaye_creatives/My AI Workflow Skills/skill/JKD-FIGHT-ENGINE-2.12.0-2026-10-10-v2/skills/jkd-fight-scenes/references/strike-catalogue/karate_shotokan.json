@@ -1,0 +1,682 @@
+{
+  "style_id": "karate_shotokan",
+  "style_ru": "Карате: Shotokan / общая японская номенклатура",
+  "records": [
+    {
+      "tag": "@STRIKE_KARATE_STRAIGHT_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Прямой удар кулаком",
+      "name_original": "Choku-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру по прямой линии.",
+      "variant_note": "Базовая форма; jodan/chudan/gedan — уровни, не три новые техники.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_REVERSE_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Задний прямой",
+      "name_original": "Gyaku-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак задней руки проходит вперёд с поворотом корпуса.",
+      "variant_note": "Прямой противоположной передней ноге рукой; не просто любой контрудар.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_LUNGE_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Прямой с проходным шагом",
+      "name_original": "Oi-zuki / Jun-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак выходит вперёд вместе с проходным шагом одноимённой ноги.",
+      "variant_note": "Два имени сведены в одну запись по JKA; шаг отличает вариант от Gyaku-zuki.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_LEAD_JAB",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Передний прямой",
+      "name_original": "Kizami-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Передний кулак коротко проходит вперёд из рабочей позиции.",
+      "variant_note": "Именованный вариант программы JKA; не тождествен JKD Straight Lead во всех деталях.",
+      "source_ids": [
+        "AS_KARATE_JKA_GRADES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_RISING_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Восходящий удар",
+      "name_original": "Age-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит по восходящей дуге.",
+      "variant_note": "JKA отделяет его от обычного прямого.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_ROUND_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Круговой удар кулаком",
+      "name_original": "Mawashi-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру по боковой круговой дуге.",
+      "variant_note": "В EGKA близкое имя Furi-tsuki; не отдельный новый тег по одной транслитерации.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_VERTICAL_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Прямой вертикальным кулаком",
+      "name_original": "Tate-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит прямо с вертикальной ориентацией кисти.",
+      "variant_note": "Вариант ориентации ударной поверхности.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_HOOK_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Угловой хук",
+      "name_original": "Kagi-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит вбок на короткой линии согнутой руки.",
+      "variant_note": "JKA использует Kagi; написание Kage в других списках не добавляет вторую технику.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_UNDERHAND_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Короткий удар кулаком ладонью вверх",
+      "name_original": "Ura-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит коротко вперёд с обращённой вверх ладонью.",
+      "variant_note": "Ориентация кулака отличается от полного прямого Choku-zuki.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_DOUBLE_PARALLEL_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Двойной параллельный прямой",
+      "name_original": "Morote-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Оба кулака одновременно выходят вперёд параллельными линиями.",
+      "variant_note": "Одно двуручное действие, не два отдельных последовательных удара.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_DOUBLE_FACING_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Двойной прямой с обращёнными ладонями",
+      "name_original": "Awase-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Два кулака одновременно выходят вперёд ладонями друг к другу.",
+      "variant_note": "Вариант ориентации двойного удара; не синоним Morote во всех деталях.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_MOUNTAIN_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Двойной удар «гора»",
+      "name_original": "Yama-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Два кулака одновременно выходят на разнесённых линиях.",
+      "variant_note": "Характерная двуручная форма; источник называет её Triangle Punch.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SCISSOR_PUNCH",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Двойной сходящийся удар",
+      "name_original": "Hasami-zuki",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Два кулака одновременно сходятся по круговым линиям.",
+      "variant_note": "Отдельная двуручная траектория, а не произвольная серия.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_KARATE_ALTERNATING_PUNCHES",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Попеременная серия прямых",
+      "name_original": "Ren-zuki / Sanbon-renzuki",
+      "kind": "sequence",
+      "family": "punch_series",
+      "description_ru": "Кулаки попеременно выходят вперёд в серии прямых ударов.",
+      "variant_note": "Ren — серия; Sanbon уточняет три удара, но не создаёт другую ударную поверхность.",
+      "source_ids": [
+        "AS_KARATE_JKA_GRADES",
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_BACKFIST",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Обратный удар кулаком",
+      "name_original": "Uraken-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Тыльная сторона кулака проходит короткой дугой.",
+      "variant_note": "Вертикальное или боковое исполнение задаётся вариантом.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_HAMMERFIST",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Удар кулаком-молотом",
+      "name_original": "Kentsui / Tetsui-uchi",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Нижний край закрытого кулака выполняет рубящее движение.",
+      "variant_note": "Kentsui/Tetsui/Tettsui — варианты имени, а не три техники.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_RISING_ELBOW",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Локоть снизу вверх",
+      "name_original": "Tate-enpi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по вертикальной восходящей линии.",
+      "variant_note": "Именованное направление Enpi; не путать с названием ката Enpi.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SIDE_ELBOW",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Боковой локоть",
+      "name_original": "Yoko-enpi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть выходит к партнёру в сторону.",
+      "variant_note": "Отдельное боковое направление локтевой семьи.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_BACK_ELBOW",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Локоть назад",
+      "name_original": "Ushiro-enpi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть выходит назад короткой линией.",
+      "variant_note": "Направление назад; разворот не обязателен для базового имени.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_DOWNWARD_ELBOW",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Локоть сверху вниз",
+      "name_original": "Otoshi-enpi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит сверху вниз.",
+      "variant_note": "Именованное нисходящее направление.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_ROUND_ELBOW",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Круговой локоть",
+      "name_original": "Mawashi-enpi",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит по горизонтальной круговой дуге.",
+      "variant_note": "Круговое направление отличается от прямого бокового выхода.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_FRONT_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Фронтальный кик",
+      "name_original": "Mae-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд по фронтальной линии.",
+      "variant_note": "Базовая семья; поверхность и snap/thrust задаются отдельно.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_LEAD_FRONT_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Фронтальный кик передней ногой",
+      "name_original": "Kizami-maegeri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Передняя стопа коротко проходит вперёд.",
+      "variant_note": "Именованный вариант передней ноги по программе JKA; левое/правое не получают отдельных тегов.",
+      "source_ids": [
+        "AS_KARATE_JKA_GRADES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SIDE_SNAP_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Хлёсткий боковой кик",
+      "name_original": "Yoko-geri keage",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выполняет боковой хлёсткий выход с возвратом.",
+      "variant_note": "JKA явно отличает Keage от Kekomi; боковая семья без дублирующей общей записи.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SIDE_THRUST_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Толчковый боковой кик",
+      "name_original": "Yoko-geri kekomi",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выдвигается в сторону по прямой линии.",
+      "variant_note": "Прямой боковой толчковый вариант, не Keage.",
+      "source_ids": [
+        "AS_KARATE_JKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_ROUNDHOUSE_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Круговой кик",
+      "name_original": "Mawashi-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит к партнёру по круговой боковой дуге.",
+      "variant_note": "Именованная базовая семья, подтверждённая экзаменационной программой.",
+      "source_ids": [
+        "AS_KARATE_JKA_GRADES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_BACK_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Задний прямой кик",
+      "name_original": "Ushiro-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Пятка выходит назад по прямой линии.",
+      "variant_note": "Разворот может предшествовать удару, но не создаёт обязательной круговой траектории.",
+      "source_ids": [
+        "AS_KARATE_JKA",
+        "AS_KARATE_JKA_GRADES"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_CRESCENT_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Дуговой кик-полумесяц",
+      "name_original": "Mikazuki-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по широкой дуге-полумесяцу.",
+      "variant_note": "Имя школьного словаря; внутреннее/внешнее направление не выдано за две прямо названные там техники.",
+      "source_ids": [
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_REVERSE_ROUND_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Обратный круговой кик",
+      "name_original": "Gyaku mawashi-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит по круговой дуге в обратную сторону.",
+      "variant_note": "Использовано имя Sochin; соответствие Ura-mawashi других школ уточняется эталоном.",
+      "source_ids": [
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_SPINNING_REVERSE_ROUND_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Обратный круговой кик с разворотом",
+      "name_original": "Ushiro mawashi-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "После разворота стопа проходит по обратной круговой дуге.",
+      "variant_note": "Отличается от прямого Ushiro-geri.",
+      "source_ids": [
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_STAMP_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Топчущий кик",
+      "name_original": "Fumikomi-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва или наружный край стопы проходит вниз по топчущей линии.",
+      "variant_note": "Поверхность и игровая цель выбираются сценой.",
+      "source_ids": [
+        "AS_KARATE_JKA",
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_KNEE_STRIKE",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Удар коленом",
+      "name_original": "Hiza-geri / Hizazuchi",
+      "kind": "strike",
+      "family": "knee",
+      "description_ru": "Колено выходит к партнёру на близкой дистанции.",
+      "variant_note": "Hiza-geri в glossary и обозначение поверхности в JKA сведены в одну семью.",
+      "source_ids": [
+        "AS_KARATE_JKA",
+        "AS_KARATE_EGKA"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_JUMP_FRONT_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Фронтальный кик в прыжке",
+      "name_original": "Tobi mae-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд во время прыжка.",
+      "variant_note": "Авторский вариант именованной семьи Tobi-geri; конкретное сочетание не перечислено дословно в использованном glossary.",
+      "source_ids": [
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_KARATE_JUMP_SIDE_KICK",
+      "style_id": "karate_shotokan",
+      "style_ru": "Карате: Shotokan / общая японская номенклатура",
+      "name_ru": "Боковой кик в прыжке",
+      "name_original": "Tobi yoko-geri",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выдвигается в сторону во время прыжка.",
+      "variant_note": "Вариант общей семьи Tobi-geri, не новый базовый стиль.",
+      "source_ids": [
+        "AS_KARATE_SOCHIN"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "AS_KARATE_JKA",
+      "title": "Japan Karate Association — Technical Manual for the Instructor",
+      "url": "https://www.jka.or.jp/wp/wp-content/uploads/2017/04/tech_manual_instructor.pdf",
+      "what_verified": "6.10.2026 прочитаны первичные разделы Punches pp22–23, hands pp17–18, feet p19, Uraken/Yoko-geri pp31–32 и Enpi p33. Имена10 форм tsuki, hand surfaces и пяти направлений enpi подтверждены текстом."
+    },
+    {
+      "id": "AS_KARATE_EGKA",
+      "title": "English Goju-Ryu Karate-Do Association — own glossary",
+      "url": "https://egka.org.uk/glossary/",
+      "what_verified": "6.10.2026 прочитаны Punches/Strikes/Kicking: tsuki, shuto/teisho/haito/hiraken/ko/nukite/tetsui/enpi, mawashi/ushiro/hiza/kensetsu geri. Это Goju-ryu glossary, не все Okinawan школы."
+    },
+    {
+      "id": "AS_KARATE_SOCHIN",
+      "title": "Sochin Karate Club — own Shotokan terminology",
+      "url": "https://www.sochinkarateclub.co.uk/shotokan-kata/shotokan-terminology/",
+      "what_verified": "6.10.2026 живой школьный HTML прочитан обычным HTTP после timeout web-reader: ren-zuki, mikazukigeri, gyaku mawashigeri, ushiro mawashigeri, fumikomigeri и tobi-geri. Это названия данной школы."
+    },
+    {
+      "id": "AS_KARATE_JKA_GRADES",
+      "title": "Japan Karate Association — Kyu/Dan Grading Guideline (2017 English document)",
+      "url": "https://www.jka.or.jp/wp/wp-content/uploads/2017/06/b98c5e1514acc9fe91bbbc4b2fcb79f2.pdf",
+      "what_verified": "6.10.2026 прочитан первичный учебный PDF: Kizami-zuki, Kizami-maegeri, Mawashi-geri, Ushiro-geri, Sanbon-renzuki и Ren-geri. Используется как номенклатура документированной программы, не заявление о неизменности экзамена2026."
+    }
+  ]
+}

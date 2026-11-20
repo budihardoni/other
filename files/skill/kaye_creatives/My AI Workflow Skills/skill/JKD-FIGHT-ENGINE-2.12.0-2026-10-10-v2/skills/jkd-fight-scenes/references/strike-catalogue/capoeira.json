@@ -1,0 +1,516 @@
+{
+  "style_id": "capoeira",
+  "style_ru": "Капоэйра",
+  "records": [
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_CRESCENT_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Передняя полулуна",
+      "name_original": "Meia lua de frente",
+      "kind": "strike",
+      "family": "kick_crescent",
+      "description_ru": "Выпрямленная нога проходит дугой снаружи внутрь.",
+      "variant_note": "Regional Filhos de Bimba и школьный словарь Juruna.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_OUTWARD_CRESCENT_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Кейшада",
+      "name_original": "Queixada",
+      "kind": "strike",
+      "family": "kick_crescent",
+      "description_ru": "Нога проходит наружной дугой после переступания.",
+      "variant_note": "Regional Filhos de Bimba; входы зависят от школы.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SPINNING_STRAIGHT_LEG_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Армада",
+      "name_original": "Armada",
+      "kind": "strike",
+      "family": "kick_spinning_arc",
+      "description_ru": "Корпус разворачивается вместе с высокой дугой выпрямленной ноги.",
+      "variant_note": "Regional; имя также встречается в общих школьных словарях.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_COMPASS_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Полулуна компасом",
+      "name_original": "Meia lua de compasso",
+      "kind": "strike",
+      "family": "kick_hand_supported_arc",
+      "description_ru": "Наклонённый корпус и опора руки сопровождают дугу пятки.",
+      "variant_note": "Regional; Rabo de arraia используется как alias в части Angola-линий, но не во всех.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-ART",
+        "SPORT-CAP-NOMENCLATURE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "rabo de arraia: только в совпадающей школьной форме"
+      ]
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_PUSH_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Бенсан",
+      "name_original": "Bênção / Benção",
+      "kind": "strike",
+      "family": "kick_push",
+      "description_ru": "Стопа проходит фронтальным толчковым движением.",
+      "variant_note": "Regional Filhos de Bimba; не универсальный alias любой Chapa.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-USP"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_ROUNDHOUSE_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Мартелу",
+      "name_original": "Martelo",
+      "kind": "strike",
+      "family": "kick_roundhouse",
+      "description_ru": "Согнутая нога раскрывается в круговой проход стопы.",
+      "variant_note": "Regional и общая школьная терминология.",
+      "source_ids": [
+        "SPORT-CAP-BIMBA",
+        "SPORT-CAP-USP",
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SIDE_CHAPA",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Боковая шапа",
+      "name_original": "Chapa lateral",
+      "kind": "strike",
+      "family": "kick_side_push",
+      "description_ru": "Подошва проходит прямо из бокового положения корпуса.",
+      "variant_note": "Chapa в WCF — семейство; lateral является постановочным выбором.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_BACKWARD_CHAPA",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Шапа назад",
+      "name_original": "Chapa — backward staging variant",
+      "kind": "strike",
+      "family": "kick_backward",
+      "description_ru": "Подошва проходит назад относительно развёрнутого корпуса.",
+      "variant_note": "Редакционный вариант семейства Chapa из WCF; отдельное название Chapa de costas этой страницей не подтверждено, Angola-атрибуция не заявлена.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_STAMP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Пизан",
+      "name_original": "Pisão",
+      "kind": "strike",
+      "family": "kick_stamping",
+      "description_ru": "Подошва проходит прямой линией с нисходящим акцентом.",
+      "variant_note": "WCF называет отдельно; школьные aliases с Chapa не универсализированы.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_HOOK_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Ганшу",
+      "name_original": "Gancho",
+      "kind": "strike",
+      "family": "kick_hook",
+      "description_ru": "Пятка проходит возвращающейся крюковой дугой.",
+      "variant_note": "Общий спортивный WCF-термин; Esporão в источнике Xaréu оставлен школьным кандидатом, не дублем.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FRONT_SNAP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Понтейра",
+      "name_original": "Ponteira",
+      "kind": "strike",
+      "family": "kick_front_snap",
+      "description_ru": "Стопа проходит короткой восходящей фронтальной линией.",
+      "variant_note": "Именована в Regional-перечне Xaréu; также встречается в Angola-словарях.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_HEADBUTT",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Кабесада",
+      "name_original": "Cabeçada",
+      "kind": "strike",
+      "family": "head_strike",
+      "description_ru": "Голова проходит коротким ударным движением.",
+      "variant_note": "Прямо названа в Regional Sequência USP; есть и Angola-контекст.",
+      "source_ids": [
+        "SPORT-CAP-USP",
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_KNEE_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Жоэльяда",
+      "name_original": "Joelhada",
+      "kind": "strike",
+      "family": "knee_strike",
+      "description_ru": "Колено проходит коротким ударным движением.",
+      "variant_note": "Regional-перечень Xaréu; конкретная линия задаётся постановкой.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_ELBOW_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Котовелада",
+      "name_original": "Cotovelada",
+      "kind": "strike",
+      "family": "elbow_strike",
+      "description_ru": "Согнутый локоть проходит короткой ударной дугой.",
+      "variant_note": "Regional-перечень Xaréu; конкретное направление не следует из одного названия.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_BACKFIST",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Годеми",
+      "name_original": "Godeme",
+      "kind": "strike",
+      "family": "punch_backfist",
+      "description_ru": "Тыльная сторона кулака проходит короткой боковой дугой.",
+      "variant_note": "Название в Regional Sequência Xaréu; форма описана на уровне постановочной гипотезы.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_PALM_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Галопанти",
+      "name_original": "Galopante",
+      "kind": "strike",
+      "family": "palm_strike",
+      "description_ru": "Раскрытая ладонь проходит боковой дугой.",
+      "variant_note": "Именована Regional Sequência Xaréu; отдельная школа уточняет форму кисти.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_STRAIGHT_PUNCH",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Асфиксианти",
+      "name_original": "Asfixiante",
+      "kind": "strike",
+      "family": "punch_strike",
+      "description_ru": "Закрытый кулак проходит коротким прямым движением.",
+      "variant_note": "Редкое историческое школьное название; форма здесь редакционная, не реконструкция урока.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_INVERTED_MARTELO",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Ударное ау",
+      "name_original": "Aú batido",
+      "kind": "strike",
+      "family": "kick_inverted",
+      "description_ru": "Нога проходит нисходящей ударной дугой из опорного переворота.",
+      "variant_note": "Xaréu прямо отличает ударную функцию от обычного aú/floreio.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_SCORPION_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Эскорпиау",
+      "name_original": "Escorpião",
+      "kind": "strike",
+      "family": "kick_inverted_backward",
+      "description_ru": "Стопа проходит сзади над наклонённым или перевёрнутым корпусом.",
+      "variant_note": "Имя непосредственно в WCF, опора и точная версия остаются школьными.",
+      "source_ids": [
+        "SPORT-CAP-WCF"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_FLYING_DOUBLE_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Во-ду-морсегу",
+      "name_original": "Vôo-do-Morcego",
+      "kind": "strike",
+      "family": "kick_airborne",
+      "description_ru": "Ноги проходят вперёд в ударном движении во время полёта.",
+      "variant_note": "WCF и Regional-перечень; точная постановка обеих ног требует школы.",
+      "source_ids": [
+        "SPORT-CAP-WCF",
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_DOUBLE_PALM_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Телефони",
+      "name_original": "Telefone",
+      "kind": "strike",
+      "family": "palm_simultaneous",
+      "description_ru": "Две раскрытые ладони сходятся симметрично с боков.",
+      "variant_note": "Имя в Regional-перечне; конкретная механика источником списка не раскрыта.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_DOUBLE_HAND_STRIKE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Бошешу",
+      "name_original": "Bochecho",
+      "kind": "strike",
+      "family": "hand_simultaneous",
+      "description_ru": "Две руки одновременно проходят в короткой ударной фазе.",
+      "variant_note": "Имя в Regional-перечне; видимая форма — предварительный редакционный выбор.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_WHIP_KICK",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Шибата",
+      "name_original": "Chibata",
+      "kind": "strike",
+      "family": "kick_whipping",
+      "description_ru": "Стопа проходит хлёсткой ножной дугой.",
+      "variant_note": "Имя в Regional-перечне; точная геометрия и возможное школьное имя Chibatada требуют проверки.",
+      "source_ids": [
+        "SPORT-CAP-XAREU"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_CAPOEIRA_GROUND_ROUNDHOUSE",
+      "style_id": "capoeira",
+      "style_ru": "Капоэйра",
+      "name_ru": "Мартелу с низкой опорой",
+      "name_original": "Martelo de chão / Chapéu de couro (Capoeira Brasil)",
+      "kind": "strike",
+      "family": "kick_low_supported",
+      "description_ru": "Нога проходит круговой ударной дугой из низкой опорной фазы.",
+      "variant_note": "Moreira M19: IUNA/ABADÁ/IDEÁRIO — Martelo de chão; BRASIL — Chapéu de couro; BERIBAZU — «S» dobrado. Alias относится только к совпадающей форме M19, не ко всем S-dobrado.",
+      "source_ids": [
+        "SPORT-CAP-XAREU",
+        "SPORT-CAP-NOMENCLATURE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "sport",
+      "description_status": "editorial_short_form",
+      "name_aliases": [
+        "Martelo de chão: M19 в IUNA/ABADÁ/IDEÁRIO",
+        "«S» dobrado: только M19 в BERIBAZU"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "SPORT-CAP-BIMBA",
+      "title": "Filhos de Bimba, Bay Area — Instructional Videos",
+      "url": "https://www.capoeirabayarea.com/instructional-videos",
+      "what_verified": "Свежо прочитан школьный Regional syllabus Professor Malandro: Meia lua de Frente, Armada, Queixada, Benção, Martelo, Meia lua de Compasso; aú/rolê/ginga/negativa отдельно."
+    },
+    {
+      "id": "SPORT-CAP-USP",
+      "title": "CEPEUSP — Capoeira, 3ª sequência de Bimba",
+      "url": "https://cepe.usp.br/tips/videoaula-capoeira-3a-sequencia-de-bimba/",
+      "what_verified": "Свежо прочитана собственная учебная карточка USP/Vinicius Heine, явно названы Martelo, Armada, Benção, Cabeçada и отдельные защиты/переходы."
+    },
+    {
+      "id": "SPORT-CAP-ART",
+      "title": "Capoeir’Art / Mestre Juruna — Les Mouvements",
+      "url": "https://capoeirart.wordpress.com/mouvements/",
+      "what_verified": "Свежо прочитаны школьные короткие определения Meia lua de frente, Armada, Meia lua de compasso, Queixada; Queixada Entrando назван вариантом без полного описания."
+    },
+    {
+      "id": "SPORT-CAP-WCF",
+      "title": "World Capoeira Federation — Competition Rules 2024, Attachment 1",
+      "url": "https://www.capoeira.ws/uploads/files/competition-rules-202426.pdf",
+      "what_verified": "Свежо прочитан официальный список kicks и разделение с escapes/ground/floreios/takedowns; названы Gancho, Escorpião, Pisão, Vôo-do-Morcego. Правила этой федерации не применены ко всем Angola/Regional-школам."
+    },
+    {
+      "id": "SPORT-CAP-XAREU",
+      "title": "Hellio Campos / Mestre Xaréu — Capoeira Regional: a escola de Mestre Bimba",
+      "url": "https://repositorio.ufba.br/bitstream/ri/4986/1/capoeira%20regional%20-%20a%20escola%20de%20Mestre%20Bimba.pdf",
+      "what_verified": "Официальный репозиторий UFBA; web вернул 502, публичный PDF прочитан через curl/pdftotext: классификация, список traumatizantes и последовательности Bimba, Aú batido как ударная функция; автор-практик отдельно обсуждает Angola и разнообразие имен."
+    },
+    {
+      "id": "SPORT-CAP-NOMENCLATURE",
+      "title": "Sérgio Rodrigues Moreira — Movimentação básica na Capoeira: nomenclatura entre diferentes grupos",
+      "url": "https://revistas.ufg.br/fef/article/view/40171",
+      "what_verified": "Свежо прочитаны официальная статья и текст PDF исследования пяти групп; одинаковый рисунок часто имеет разные названия. Не универсализировать школьные aliases. Скриншоты таблиц web не удалось получить."
+    }
+  ]
+}

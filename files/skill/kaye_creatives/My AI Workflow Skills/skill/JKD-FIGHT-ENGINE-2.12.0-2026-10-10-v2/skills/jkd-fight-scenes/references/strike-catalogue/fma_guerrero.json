@@ -1,0 +1,147 @@
+{
+  "style_id": "fma_guerrero",
+  "style_ru": "FMA — Guerrero Arnis",
+  "records": [
+    {
+      "tag": "@STRIKE_FMA_GUERRERO_ABANIKO",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Абанико — веерный удар",
+      "name_original": "Abaniko",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Абанико — веерный удар.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_GUERRERO_WITIK",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Витик — хлёсткий удар",
+      "name_original": "Witik",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Витик — хлёсткий удар.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_GUERRERO_PUNYO",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Пуньо — удар коротким концом",
+      "name_original": "Punyo",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Пуньо — удар коротким концом.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_FMA_GUERRERO_TUMBADA",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Тумбада — хлёсткое семейство",
+      "name_original": "Tumbada",
+      "kind": "strike",
+      "family": "strike_family",
+      "description_ru": "Тумбада — хлёсткое семейство.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_GUERRERO_BANDA_Y_BANDA",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Банда-и-банда — поперечная серия",
+      "name_original": "Banda y Banda",
+      "kind": "sequence",
+      "family": "strike_family",
+      "description_ru": "Банда-и-банда — поперечная серия.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_GUERRERO_FIGURE_EIGHT",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Восьмёрка — диагональная серия",
+      "name_original": "Figure 8",
+      "kind": "sequence",
+      "family": "strike_family",
+      "description_ru": "Восьмёрка — диагональная серия.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_FMA_GUERRERO_SUNGKETI",
+      "style_id": "fma_guerrero",
+      "style_ru": "FMA — Guerrero Arnis",
+      "name_ru": "Сунгкети — смешанное семейство уколов и рубящих",
+      "name_original": "Sungketi",
+      "kind": "system_family",
+      "family": "strike_family",
+      "description_ru": "Сунгкети — смешанное семейство уколов и рубящих.",
+      "variant_note": "Школьное семейство. Источник подтверждает имя/категорию; полное исполнение уточняется, а не подставляется по другой системе.",
+      "source_ids": [
+        "W_FMA_GUERRERO"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "regional",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_FMA_GUERRERO",
+      "title": "Guerrero Arnis de Mano — Multi-Style System",
+      "url": "https://guerreroarnis.com/page/multi-style-system",
+      "what_verified": "Семейства ударной работы своей школы, включая Abaniko, Witik, Punyo, Rompida и Banda y Banda; подробные уроки не просмотрены."
+    }
+  ]
+}

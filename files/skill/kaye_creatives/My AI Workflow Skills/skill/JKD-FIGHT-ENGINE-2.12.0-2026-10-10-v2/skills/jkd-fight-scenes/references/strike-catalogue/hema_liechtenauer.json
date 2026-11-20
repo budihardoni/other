@@ -1,0 +1,166 @@
+{
+  "style_id": "hema_liechtenauer",
+  "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+  "records": [
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_ZORNHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Цорнхау — «гневный» рубящий",
+      "name_original": "Zornhau",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Цорнхау — «гневный» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_KRUMPHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Крумпхау — «кривой» рубящий",
+      "name_original": "Krumphau",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Крумпхау — «кривой» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_ZWERCHHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Цверхау — поперечный рубящий",
+      "name_original": "Zwerchhau / Twer haw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Цверхау — поперечный рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SCHIELHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Шильхау — «косящий» рубящий",
+      "name_original": "Schielhau / Schilhaw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Шильхау — «косящий» рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SCHEITELHAU",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Шайтельхау — верхний рубящий",
+      "name_original": "Scheitelhau / Schaittelhaw",
+      "kind": "strike",
+      "family": "HEMA_LIECHTENAUER",
+      "description_ru": "Шайтельхау — верхний рубящий.",
+      "variant_note": "Исторический термин выбранной редакции; без объявления единственного исполнения всех современных школ.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_HEW",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Рубящий удар",
+      "name_original": "Hau",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Рубящий удар.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_THRUST",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Укол",
+      "name_original": "Stich",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Укол.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_HEMA_LIECHTENAUER_SLICE",
+      "style_id": "hema_liechtenauer",
+      "style_ru": "HEMA — длинный меч, традиция Liechtenauer",
+      "name_ru": "Режущее проведение",
+      "name_original": "Schnitt",
+      "kind": "strike",
+      "family": "blade_method",
+      "description_ru": "Режущее проведение.",
+      "variant_note": "Родительское семейство; не дополнительный уникальный удар сверх частных вариантов.",
+      "source_ids": [
+        "W_HEMA_DANZIG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_HEMA_DANZIG",
+      "title": "Pseudo-Peter von Danzig — manuscript transcription and credited translations",
+      "url": "https://ftp.wiktenauer.com/wiki/Pseudo-Peter_von_Danzig",
+      "what_verified": "Исторические названия пяти рубящих действий, различение hew/thrust/slice. Читается конкретная редакция традиции Liechtenauer."
+    }
+  ]
+}

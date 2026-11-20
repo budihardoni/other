@@ -1,0 +1,520 @@
+{
+  "style_id": "wing_chun",
+  "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+  "records": [
+    {
+      "tag": "@STRIKE_WC_VERTICAL_STRAIGHT_PUNCH",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Прямой удар вертикальным кулаком",
+      "name_original": "Yat Chi Keun / Yat Jee Chung Choi",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Вертикально ориентированный кулак проходит вперёд по прямой.",
+      "variant_note": "Школьные транслитерации одной базовой семьи сведены вместе.",
+      "source_ids": [
+        "AS_WC_ONLINE",
+        "AS_WC_SYSTEM"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_WC_CHAIN_PUNCHES",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Цепная серия прямых",
+      "name_original": "Lin Wan Keun / Chain punches",
+      "kind": "sequence",
+      "family": "punch_series",
+      "description_ru": "Кулаки попеременно проходят вперёд по центральной линии.",
+      "variant_note": "Серия прямых, а не отдельная ударная поверхность; Fan Sau шире этой одинаковой серии.",
+      "source_ids": [
+        "AS_WC_ONLINE",
+        "AS_LEGACY_WC"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@WC_H1"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SHORT_RANGE_PUNCH",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Короткий прямой с близкой позиции",
+      "name_original": "One inch punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак выполняет короткий прямой выход из близкой исходной позиции.",
+      "variant_note": "Демонстрационный вариант короткой амплитуды по авторскому объяснению Jim Fung.",
+      "source_ids": [
+        "AS_WC_FUNG"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_STRAIGHT_PALM_HEEL",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Прямой удар основанием ладони",
+      "name_original": "Jic Jern / Straight palm",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Основание раскрытой ладони проходит прямо вперёд.",
+      "variant_note": "Старое WC-H2 сохранено по совпадению движения; его транслитерация «вун джуй» не принята за проверенное базовое имя.",
+      "source_ids": [
+        "AS_WC_ONLINE",
+        "AS_LEGACY_WC"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@WC_H2"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SIDE_PALM",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Боковой удар ладонью",
+      "name_original": "Wan Jern / Side palm",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Раскрытая ладонь проходит к партнёру сбоку.",
+      "variant_note": "Направленный вариант; не синоним любой вертикальной ладони.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_DOUBLE_PALMS",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Двойной выход ладонями",
+      "name_original": "Po Pie / Double palm",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Обе ладони одновременно выходят вперёд.",
+      "variant_note": "Одна двуручная техника; Po Pai/Po Pie варианты транслитерации не отдельные записи.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SPADE_HAND",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Удар открытой кистью-лопаткой",
+      "name_original": "Jeng Sau / Spade hand",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Открытая кисть проходит вперёд коротким поднимающимся движением.",
+      "variant_note": "Название подтверждено словарём; точный угол кисти отличается по линии и требует эталона.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_FINGER_THRUST",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Прямой укол пальцами",
+      "name_original": "Biu Gee / Thrusting fingers",
+      "kind": "strike",
+      "family": "finger_thrust",
+      "description_ru": "Кисть проходит вперёд концами вытянутых пальцев.",
+      "variant_note": "Здесь удар, не название всей третьей формы Biu Gee.",
+      "source_ids": [
+        "AS_WC_ONLINE",
+        "AS_LEGACY_WC"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [
+        "@WC_H3"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_WHISKING_HAND",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Хлёсткий удар открытой кистью",
+      "name_original": "Fak Sau / Whisking hand",
+      "kind": "strike",
+      "family": "hand_strike",
+      "description_ru": "Открытая кисть выполняет боковой хлёсткий взмах.",
+      "variant_note": "Ударное применение Fak Sau; не переносит в список любой контроль руки.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_VERTICAL_ELBOW",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Вертикальный локоть",
+      "name_original": "Kup Jarn / Vertical elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Согнутая рука проводит локоть в вертикальной плоскости.",
+      "variant_note": "Словарь подтверждает имя, но не задаёт единого направления вверх или вниз для каждой линии.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_KNEELING_ELBOW",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Локоть с опусканием корпуса",
+      "name_original": "Gwoi Jarn / Kneeling elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит короткой дугой вместе с опусканием корпуса.",
+      "variant_note": "Школьное имя; «kneeling» не обязывает касаться коленом пола.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_LEVEL_ELBOW",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Горизонтальный локоть",
+      "name_original": "Pie Jarn / Level elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть проходит к партнёру в горизонтальной плоскости.",
+      "variant_note": "Направленная локтевая семья из школьного словаря.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SLIDING_ELBOW",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Скользящий локоть",
+      "name_original": "Chair Pie / Sliding elbow",
+      "kind": "strike",
+      "family": "elbow",
+      "description_ru": "Локоть выходит к партнёру вместе с коротким скользящим смещением.",
+      "variant_note": "Имя подтверждено источником; полный вход закрытого учебного материала не реконструирован.",
+      "source_ids": [
+        "AS_WC_ONLINE"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_FRONT_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Фронтальный кик",
+      "name_original": "Dim Gerk / Front kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выходит вперёд по фронтальной прямой линии.",
+      "variant_note": "Не объявлен единственным ударом ногой всех WC линий.",
+      "source_ids": [
+        "AS_WC_SYSTEM"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SIDE_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Боковой кик",
+      "name_original": "Wang Gerk / Side kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выходит по прямой при боковом положении корпуса.",
+      "variant_note": "Wang/Wan — варианты записи; не отдельные удары.",
+      "source_ids": [
+        "AS_WC_SYSTEM",
+        "AS_WC_DRAGOS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SPADE_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Подхватывающий кик",
+      "name_original": "Chang Gerk / Spade kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд снизу по подхватывающей линии.",
+      "variant_note": "Прямо назван в собственной системе Dragos; не общая норма всех Ip Man линий.",
+      "source_ids": [
+        "AS_WC_DRAGOS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_BACK_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Задний кик",
+      "name_original": "Hau Gerk / Back kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выходит назад к игровой цели.",
+      "variant_note": "Именованная семья конкретной Wing Tsun системы; разворот не встроен в базовый тег.",
+      "source_ids": [
+        "AS_WC_DRAGOS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_STAMPING_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Низкий топчущий кик",
+      "name_original": "Chai Gerk / Stamping kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва проходит по короткой нисходящей линии.",
+      "variant_note": "Направление вниз отличает от чисто фронтального низкого выхода.",
+      "source_ids": [
+        "AS_WC_DRAGOS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_FRONT_STOMP_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Прямой топчущий кик",
+      "name_original": "Front stomp kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Подошва коротко выходит вперёд на низкой линии.",
+      "variant_note": "Авторский постановочный вариант фронтальной семьи, совпадающий со старым WC-K1; не универсальный перевод Chai Gerk.",
+      "source_ids": [
+        "AS_WC_KWOK",
+        "AS_LEGACY_WC"
+      ],
+      "evidence_status": "family_variant",
+      "legacy_aliases": [
+        "@WC_K1"
+      ],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SNAP_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Хлёсткий кик",
+      "name_original": "Tae Gerk / Snap kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа выполняет короткий хлёсткий выход и возврат.",
+      "variant_note": "Прямо назван только в использованной Wing Tsun системе; конкретная траектория уточняется эталоном.",
+      "source_ids": [
+        "AS_WC_DRAGOS"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_SLANT_THRUST_KICK",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Косой прямой кик",
+      "name_original": "Che Tsong Gerk / Slant thrusting kick",
+      "kind": "strike",
+      "family": "kick",
+      "description_ru": "Стопа проходит вперёд по косой линии.",
+      "variant_note": "Школьный PDF сейчас недоступен напрямую; название найдено в индексированном первичном списке и требует живого подтверждения.",
+      "source_ids": [
+        "AS_WC_UK_CANDIDATE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_RISING_PUNCH",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Восходящий удар кулаком",
+      "name_original": "Tai Kuen / Rising punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак движется вперёд по восходящей линии.",
+      "variant_note": "Редкое школьное название из индексированного PDF; не выдаётся за стандарт каждой WC линии.",
+      "source_ids": [
+        "AS_WC_UK_CANDIDATE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_OUTSIDE_RISING_PUNCH",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Внешний восходящий удар",
+      "name_original": "Oi Tai Kuen / Outside rising punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак поднимается к партнёру по внешней восходящей дуге.",
+      "variant_note": "Соседний вариант Rising Punch в недоступном напрямую школьном PDF.",
+      "source_ids": [
+        "AS_WC_UK_CANDIDATE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_WC_ROTATING_PUNCH",
+      "style_id": "wing_chun",
+      "style_ru": "Вин Чунь / Ving Tsun / Wing Tsun",
+      "name_ru": "Поворотный удар кулаком",
+      "name_original": "Kwun Kuen / Rotating punch",
+      "kind": "strike",
+      "family": "punch",
+      "description_ru": "Кулак проходит к партнёру с заметным поворотным движением кисти.",
+      "variant_note": "Термин первичного школьного индекса; точная траектория не установлена полным уроком.",
+      "source_ids": [
+        "AS_WC_UK_CANDIDATE"
+      ],
+      "evidence_status": "terminology_candidate",
+      "legacy_aliases": [],
+      "catalogue_part": "asian",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "AS_LEGACY_WC",
+      "title": "Existing local Wing Chun catalog, legacy alias mapping only",
+      "url": "../styles/wing-chun.md",
+      "what_verified": "Сверены WC-H1/H2/H3/K1 и общая неоднозначная WC-E1; источник используется только для старых алиасов."
+    },
+    {
+      "id": "AS_WC_ONLINE",
+      "title": "Wing Chun Online — own terminology PDF",
+      "url": "https://wingchun.online/wp-content/uploads/2015/10/Online-Terminology.pdf",
+      "what_verified": "6.10.2026 прочитаны три страницы первичного школьного словаря: punch/chain punches, Jic/Wan Jern, Po Pie, Jeng Sau, Biu Gee, Fak Sau и Kup/Gwoi/Pie/Chair Pie elbows. Разница транслитераций оговорена самим документом."
+    },
+    {
+      "id": "AS_WC_SYSTEM",
+      "title": "Montgomery County Kung Fu — own Ving Tsun system",
+      "url": "https://montgomerycountykungfu.com/system",
+      "what_verified": "6.10.2026 проверены школьные названия Yat Jee Chung Choi, Dim Jerm, Dim Gerk и Wang Gerk; стойки и контактные дриллы отделены от ударов."
+    },
+    {
+      "id": "AS_WC_DRAGOS",
+      "title": "Dragos Wing Tsun — own WT information",
+      "url": "https://wingtsun.dragoswingtsun.com/index.php/wt-infos.html",
+      "what_verified": "6.10.2026 прочитан раздел Kicks and Leg Techniques: Chang Gerk, Wang Gerk, Hau Gerk, Chai Gerk, Tae Gerk. Gam/Bong/Tan/Lan/Au Gerk и sweep не превращены в удары автоматически; происхождение стиля в авторском тексте не использовано как установленный исторический факт."
+    },
+    {
+      "id": "AS_WC_KWOK",
+      "title": "Samuel Kwok school — What is Ip Man Wing Chun?",
+      "url": "https://www.kwokwingchun.com/",
+      "what_verified": "6.10.2026 прочитано собственное описание школы: punches, palms, kicks, elbows. Общий перечень не доказывает редкие названия или одинаковое исполнение всех линий."
+    },
+    {
+      "id": "AS_WC_FUNG",
+      "title": "Jim Fung — Close Range Combat, International Wing Chun Academy",
+      "url": "https://www.wingchun.edu.au/media/articles/jim-fung/close-range-combat",
+      "what_verified": "6.10.2026 проверен авторский раздел The One Inch Punch; утверждения автора о дальности/эффективности не повторяются как измеренные факты."
+    },
+    {
+      "id": "AS_WC_UK_CANDIDATE",
+      "title": "Wing Chun-UK — terminology PDF, indexed primary document; live URL currently 404",
+      "url": "https://wingchun-uk.com/wp/wp-content/uploads/2015/01/Terminologypdfweb.pdf",
+      "what_verified": "6.10.2026 прочитан поисковый текст школьного PDF со списком Tsong/Kwun/Tai/Oi Tai/Fan/Taan Kuen и Jing/Wan/Che/Fan kicks. Прямое чтение сейчас 404; редкие названия оставлены terminology_candidate, без заявления о просмотре исходного PDF."
+    }
+  ]
+}

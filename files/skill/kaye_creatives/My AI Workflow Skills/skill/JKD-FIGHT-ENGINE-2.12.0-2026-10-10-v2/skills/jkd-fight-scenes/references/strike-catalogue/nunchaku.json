@@ -1,0 +1,147 @@
+{
+  "style_id": "nunchaku",
+  "style_ru": "Кобудо — нунчаку, программа NKKF",
+  "records": [
+    {
+      "tag": "@STRIKE_NUNCHAKU_DOWN",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Нисходящий удар нунчаку",
+      "name_original": "Downward strike",
+      "kind": "strike",
+      "family": "NUNCHAKU",
+      "description_ru": "Нисходящий удар нунчаку.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_NUNCHAKU_REVERSE_THRUST",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Обратный тычок нунчаку",
+      "name_original": "Reverse thrust",
+      "kind": "strike",
+      "family": "NUNCHAKU",
+      "description_ru": "Обратный тычок нунчаку.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@STRIKE_NUNCHAKU_AROUND_HEAD",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Круговой удар нунчаку",
+      "name_original": "Around the head strike",
+      "kind": "strike",
+      "family": "NUNCHAKU",
+      "description_ru": "Круговой удар нунчаку.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NUNCHAKU_FIGURE_EIGHT",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Восьмёрка нунчаку",
+      "name_original": "San kai jodan uchi",
+      "kind": "sequence",
+      "family": "NUNCHAKU",
+      "description_ru": "Восьмёрка нунчаку.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NUNCHAKU_NODO_NUKI_TSUKI",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Нодо-нуки-цуки",
+      "name_original": "Nodo nuki tsuki",
+      "kind": "sequence",
+      "family": "NUNCHAKU",
+      "description_ru": "Нодо-нуки-цуки.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NUNCHAKU_JOGE_SHOMEN",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "Дзёгэ-сёмэн-ути",
+      "name_original": "Joge shomen uchi",
+      "kind": "sequence",
+      "family": "NUNCHAKU",
+      "description_ru": "Дзёгэ-сёмэн-ути.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_NUNCHAKU_O_SHARIN",
+      "style_id": "nunchaku",
+      "style_ru": "Кобудо — нунчаку, программа NKKF",
+      "name_ru": "О-сярин-сёмэн-ути",
+      "name_original": "O sharin shomen uchi",
+      "kind": "sequence",
+      "family": "NUNCHAKU",
+      "description_ru": "О-сярин-сёмэн-ути.",
+      "variant_note": "Многофазные действия и серии вынесены отдельно; основание — текст программы, не полный просмотр урока.",
+      "source_ids": [
+        "W_NKKF_NUNCHAKU"
+      ],
+      "evidence_status": "directly_named",
+      "legacy_aliases": [],
+      "catalogue_part": "weapon",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "W_NKKF_NUNCHAKU",
+      "title": "NKKF — Nunchaku program",
+      "url": "https://www.nkkf.org/kobudo-programs/nunchaku-program",
+      "what_verified": "Названия базовых действий и именных последовательностей школы; встроенные учебные видео полностью не просмотрены."
+    }
+  ]
+}

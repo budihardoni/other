@@ -1,0 +1,160 @@
+{
+  "style_id": "drunken",
+  "style_ru": "Экранный Drunken style",
+  "records": [
+    {
+      "tag": "@ACTION_DRUNKEN_SWAY_ENTRY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Шаткое сближение с внезапным ускорением",
+      "name_original": "Authored swaying entry",
+      "kind": "screen_motif",
+      "family": "entry",
+      "description_ru": "Корпус покачивается при сближении, затем движение коротко ускоряется.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_OFF_AXIS_PUNCH",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Удар из наклонённого корпуса",
+      "name_original": "Authored off-axis punch motif",
+      "kind": "screen_motif",
+      "family": "off_axis_strike",
+      "description_ru": "Наклонённый корпус меняет ось, и из него выходит короткая рука.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_CUP_HAND_FEINT",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Жест чашки как обманный рисунок",
+      "name_original": "Authored cup-hand feint",
+      "kind": "screen_motif",
+      "family": "hand_gesture",
+      "description_ru": "Согнутая кисть изображает чашку перед сменой ручного рисунка.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_STUMBLE_RECOVERY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Мнимое спотыкание с восстановлением опоры",
+      "name_original": "Authored stumble and recovery",
+      "kind": "screen_motif",
+      "family": "balance_motif",
+      "description_ru": "Участник изображает потерю шага и возвращает собранную опору.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_LOW_LEVEL_REPLY",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Ответ со снижением уровня",
+      "name_original": "Authored low-level reply",
+      "kind": "screen_motif",
+      "family": "level_change",
+      "description_ru": "Покачивание переходит в низкое положение и короткое ответное движение.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_LOOSE_TIGHT_SWITCH",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Переход от мягкой игры к собранному акценту",
+      "name_original": "Authored loose-to-tight switch",
+      "kind": "screen_motif",
+      "family": "rhythm_motif",
+      "description_ru": "Свободные руки и корпус на миг собираются в чёткий двигательный акцент.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    },
+    {
+      "tag": "@ACTION_DRUNKEN_ROLL_TO_STAND",
+      "style_id": "drunken",
+      "style_ru": "Экранный Drunken style",
+      "name_ru": "Перекат с продолжением ручного обмена",
+      "name_original": "Authored roll-to-stand continuation",
+      "kind": "screen_motif",
+      "family": "floor_transition",
+      "description_ru": "Перекат переходит в подъём и продолжение парного ручного рисунка.",
+      "variant_note": "Авторский экранный мотив по производственной рамке Drunken Master; не древнее имя техники.",
+      "source_ids": [
+        "HY_DRUNKEN_EUREKA",
+        "HY_DRUNKEN_HKFA"
+      ],
+      "evidence_status": "authored_screen_motif",
+      "legacy_aliases": [],
+      "catalogue_part": "hybrid",
+      "description_status": "editorial_short_form",
+      "name_aliases": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "HY_DRUNKEN_EUREKA",
+      "title": "Eureka — Drunken Master (1978)",
+      "url": "https://eurekavideo.co.uk/movie/drunken-master/",
+      "what_verified": "Свежо прочитаны официальный синопсис, постановщик Yuen Woo-ping и характеристики 111-минутной версии. Он подтверждает фильм/комедийный контекст, не словарь древней школы."
+    },
+    {
+      "id": "HY_DRUNKEN_HKFA",
+      "title": "HKFA — Oral History Series 7, Ng See-yuen",
+      "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-04_Electronic-Publications/ebook_eng_01.pdf",
+      "what_verified": "Официальный PDF вновь открыт; первичный фрагмент печатных170–171 из досье21/27 описывает переработку drunken boxing для фильма и коллективное авторство. Полного просмотра нет."
+    }
+  ]
+}
