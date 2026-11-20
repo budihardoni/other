@@ -1,0 +1,1049 @@
+{
+  "version": "1.0",
+  "date": "2026-10-06",
+  "interface": "conversational lookup aliases; not desktop slash command registration or video-model tokens",
+  "counts": {
+    "canonical_entries": 63,
+    "catalogue_tag_keys": 66,
+    "style_selectors": 27,
+    "weapon_selectors": 41,
+    "screen_selectors": 4
+  },
+  "entries": [
+    {
+      "tag": "@JKD_S1",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "S1",
+      "label_ru": "Bai-jong",
+      "hint_ru": "пользовательский код желаемой гарды Warrior; точное text-only воспроизведение ещё не подтверждено",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_S2",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "S2",
+      "label_ru": "Скрытая стойка",
+      "hint_ru": "примирительная поза, «не хочу драться»",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_S3",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "S3",
+      "label_ru": "Стоп-стилл",
+      "hint_ru": "намеренная пауза, замирание; один из режимов broken rhythm",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_S4",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "S4",
+      "label_ru": "Ранняя стойка",
+      "hint_ru": "классическая, молодой Брюс, 70/30",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F1",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F1",
+      "label_ru": "Push shuffle",
+      "hint_ru": "подшаг, шафл",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F2",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F2",
+      "label_ru": "Step & slide",
+      "hint_ru": "шаг-подтяг",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F3",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F3",
+      "label_ru": "Pendulum",
+      "hint_ru": "маятник, отдёргивание ноги",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F4",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F4",
+      "label_ru": "Burst",
+      "hint_ru": "взрывной вход, рывок",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F5",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F5",
+      "label_ru": "Circling / sidestep",
+      "hint_ru": "обход по дуге, уход с линии",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_F6",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "F6",
+      "label_ru": "Hovering",
+      "hint_ru": "парение, подпружинивание",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H1",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H1",
+      "label_ru": "Straight lead",
+      "hint_ru": "прямой лид, удар №1",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H2",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H2",
+      "label_ru": "Finger jab (bil jee)",
+      "hint_ru": "тычок в глаза",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H3",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H3",
+      "label_ru": "Lead hook",
+      "hint_ru": "хук лид-рукой",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H4",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H4",
+      "label_ru": "Backfist",
+      "hint_ru": "бэкфист простой",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H5",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H5",
+      "label_ru": "Snapping backfist",
+      "hint_ru": "хлёсткий кистевой бэкфист",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H6",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H6",
+      "label_ru": "Heavy backfist",
+      "hint_ru": "тяжёлый бэкфист-«бита», финишер",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H7",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H7",
+      "label_ru": "Straight blast",
+      "hint_ru": "цепные прямые по центру",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H8",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H8",
+      "label_ru": "One-inch punch",
+      "hint_ru": "дюймовый (по запросу)",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H9",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H9",
+      "label_ru": "Shovel hook",
+      "hint_ru": "«лопата» в печень",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H10",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H10",
+      "label_ru": "Cross",
+      "hint_ru": "задний прямой",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H11",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H11",
+      "label_ru": "Hammer fist",
+      "hint_ru": "молот",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_H12",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "H12",
+      "label_ru": "Локоть",
+      "hint_ru": "elbow, ближняя дистанция",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K1",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K1",
+      "label_ru": "Side kick в колено (jeet tek)",
+      "hint_ru": "стоп-кик в колено",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K2",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K2",
+      "label_ru": "Side kick в корпус",
+      "hint_ru": "«отбрасыватель», финишер; явное исключение из низкого уровня",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K3",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K3",
+      "label_ru": "Oblique kick",
+      "hint_ru": "топчущий в голень",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K4",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K4",
+      "label_ru": "Hook kick",
+      "hint_ru": "круговой лоу без замаха",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K5",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K5",
+      "label_ru": "Jeet juk tek",
+      "hint_ru": "перехватывающий стоп-кик навстречу",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K6",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K6",
+      "label_ru": "Leg cut",
+      "hint_ru": "встречный низкий кик под раунд-кик; точный контакт уточняется, обязательная подсечка опорной не подтверждена",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K7",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K7",
+      "label_ru": "Колено",
+      "hint_ru": "knee из захвата головы",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_K8",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "K8",
+      "label_ru": "Spin back kick",
+      "hint_ru": "вертушка задним (по запросу)",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T1",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T1",
+      "label_ru": "Pak sao",
+      "hint_ru": "шлепок-сбив + удар одним битом",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T2",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T2",
+      "label_ru": "Lop sao",
+      "hint_ru": "сдёргивание за запястье + встречный",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T3",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T3",
+      "label_ru": "Jao sao",
+      "hint_ru": "перетекание вокруг блока",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T4",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T4",
+      "label_ru": "Jut sao",
+      "hint_ru": "дёрг гарда вниз",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T5",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T5",
+      "label_ru": "Stop-hit",
+      "hint_ru": "перехват ударом в момент атаки (ДНК JKD)",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T6",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T6",
+      "label_ru": "Parry + hit",
+      "hint_ru": "сбив с ударом в один бит или чуть раньше него, по выбранному варианту",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T7",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T7",
+      "label_ru": "Chi sao",
+      "hint_ru": "липкие руки, роллинг, взрыв из контакта",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T8",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T8",
+      "label_ru": "Trap-серия (gates)",
+      "hint_ru": "цепочка 2-3 трэпов",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_T9",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T9",
+      "label_ru": "Tan sao",
+      "hint_ru": "рассеивающая ладонь наружу + удар; алиас WC-T9",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T9"
+    },
+    {
+      "tag": "@JKD_T10",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T10",
+      "label_ru": "Bong sao",
+      "hint_ru": "крыло: локоть-ось, удар скатывается; алиас WC-T10",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T10"
+    },
+    {
+      "tag": "@JKD_T11",
+      "kind": "catalogue_entry",
+      "category": "trapping",
+      "canonical_code": "T11",
+      "label_ru": "Fook sao",
+      "hint_ru": "накрывающая, контроль сверху; алиас WC-T11",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T11"
+    },
+    {
+      "tag": "@JKD_G1",
+      "kind": "catalogue_entry",
+      "category": "grappling",
+      "canonical_code": "G1",
+      "label_ru": "Takedown через lop sao",
+      "hint_ru": "сдёрнуть в пол",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_G2",
+      "kind": "catalogue_entry",
+      "category": "grappling",
+      "canonical_code": "G2",
+      "label_ru": "Armbar из jow sao",
+      "hint_ru": "рычаг локтя стоя",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_G3",
+      "kind": "catalogue_entry",
+      "category": "grappling",
+      "canonical_code": "G3",
+      "label_ru": "Освобождение от захвата",
+      "hint_ru": "вариант выбирается по типу и высоте исходного захвата",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_W1",
+      "kind": "catalogue_entry",
+      "category": "scenario",
+      "canonical_code": "W1",
+      "label_ru": "Против ножа",
+      "hint_ru": "постановочный сценарий по исходной ситуации; не одна универсальная цепочка",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_W2",
+      "kind": "catalogue_entry",
+      "category": "scenario",
+      "canonical_code": "W2",
+      "label_ru": "Против палки/биты",
+      "hint_ru": "вход внутрь замаха + trap + удар",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D1",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D1",
+      "label_ru": "Лапы",
+      "hint_ru": "focus mitts",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D2",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D2",
+      "label_ru": "Wooden dummy",
+      "hint_ru": "деревянный манекен",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D3",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D3",
+      "label_ru": "Изометрия",
+      "hint_ru": "ремни, статика",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D4",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D4",
+      "label_ru": "Clap-дрилл",
+      "hint_ru": "взрыв по хлопку",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D5",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D5",
+      "label_ru": "Отжимания Брюса",
+      "hint_ru": "на кулаках / двух пальцах",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@JKD_D6",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "D6",
+      "label_ru": "Бой с тенью",
+      "hint_ru": "shadowboxing в broken rhythm",
+      "source": "moves-catalog.md"
+    },
+    {
+      "tag": "@WC_S1",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "WC-S1",
+      "label_ru": "Стойка YJKYM",
+      "hint_ru": "вин-чунь стойка, фронтальная узкая, «сжатие овцы»",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_S2",
+      "kind": "catalogue_entry",
+      "category": "stance",
+      "canonical_code": "WC-S2",
+      "label_ru": "Man/Wu sao рамка",
+      "hint_ru": "передняя рука-щуп + ладонь у груди",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_F1",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "WC-F1",
+      "label_ru": "Juen ma",
+      "hint_ru": "поворот на пятках, «дверь на петлях»",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_F2",
+      "kind": "catalogue_entry",
+      "category": "footwork",
+      "canonical_code": "WC-F2",
+      "label_ru": "Pressing step",
+      "hint_ru": "наступающие мелкие шаги, давление",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_H1",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "WC-H1",
+      "label_ru": "Chain punches",
+      "hint_ru": "цепные «швейной машинкой», финишер",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_H2",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "WC-H2",
+      "label_ru": "Ладонь (вун джуй)",
+      "hint_ru": "основание ладони в подбородок",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_H3",
+      "kind": "catalogue_entry",
+      "category": "hand",
+      "canonical_code": "WC-H3",
+      "label_ru": "Бил джи",
+      "hint_ru": "пальцы-копья с выпуском силы в горло",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_E1",
+      "kind": "catalogue_entry",
+      "category": "elbow",
+      "canonical_code": "WC-E1",
+      "label_ru": "Локти",
+      "hint_ru": "куп/гвой джан, рубящие с просадкой",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_K1",
+      "kind": "catalogue_entry",
+      "category": "kick",
+      "canonical_code": "WC-K1",
+      "label_ru": "Прямой топчущий кик",
+      "hint_ru": "front stomp в бедро/колено",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_G1",
+      "kind": "catalogue_entry",
+      "category": "grappling",
+      "canonical_code": "WC-G1",
+      "label_ru": "Сложение скоростей",
+      "hint_ru": "тяга за руку навстречу удару",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_D1",
+      "kind": "catalogue_entry",
+      "category": "drill",
+      "canonical_code": "WC-D1",
+      "label_ru": "Мук ян джонг",
+      "hint_ru": "сцена тренировки на манекене (слэп-ток-бум)",
+      "source": "styles/wing-chun.md"
+    },
+    {
+      "tag": "@WC_T9",
+      "kind": "catalogue_alias",
+      "category": "trapping",
+      "canonical_code": "T9",
+      "legacy_alias": "WC-T9",
+      "alias_of": "@JKD_T9",
+      "label_ru": "Tan sao",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T9"
+    },
+    {
+      "tag": "@WC_T10",
+      "kind": "catalogue_alias",
+      "category": "trapping",
+      "canonical_code": "T10",
+      "legacy_alias": "WC-T10",
+      "alias_of": "@JKD_T10",
+      "label_ru": "Bong sao",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T10"
+    },
+    {
+      "tag": "@WC_T11",
+      "kind": "catalogue_alias",
+      "category": "trapping",
+      "canonical_code": "T11",
+      "legacy_alias": "WC-T11",
+      "alias_of": "@JKD_T11",
+      "label_ru": "Fook sao",
+      "source": "styles/wing-chun.md",
+      "source_code": "WC-T11"
+    },
+    {
+      "tag": "@STYLE_JKD",
+      "kind": "style_selector",
+      "label_ru": "Джит Кун До",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_WING_CHUN",
+      "kind": "style_selector",
+      "label_ru": "Винь Чунь",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_KARATE",
+      "kind": "style_selector",
+      "label_ru": "Каратэ",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_JIU_JITSU",
+      "kind": "style_selector",
+      "label_ru": "Jujutsu / джиу-джитсу; уточнить конкретную линию",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_BJJ",
+      "kind": "style_selector",
+      "label_ru": "Бразильское джиу-джитсу",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_JUDO",
+      "kind": "style_selector",
+      "label_ru": "Дзюдо",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_WRESTLING",
+      "kind": "style_selector",
+      "label_ru": "Борьба",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_BOXING",
+      "kind": "style_selector",
+      "label_ru": "Бокс",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_MMA",
+      "kind": "style_selector",
+      "label_ru": "MMA / смешанные единоборства",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_MUAY_THAI",
+      "kind": "style_selector",
+      "label_ru": "Муай-тай / тайский бокс",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_MUAY_BORAN",
+      "kind": "style_selector",
+      "label_ru": "Муай-боран; отдельная атрибуция",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_CAPOEIRA",
+      "kind": "style_selector",
+      "label_ru": "Капоэйра",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_TAEKWONDO",
+      "kind": "style_selector",
+      "label_ru": "Тхэквондо",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_DRUNKEN",
+      "kind": "style_selector",
+      "label_ru": "Экранная манера пьяного мастера",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_SHAOLIN",
+      "kind": "style_selector",
+      "label_ru": "Шаолиньское кунг-фу",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_GUN_FU",
+      "kind": "style_selector",
+      "label_ru": "Gun-fu",
+      "source": "cinema-style-map.md"
+    },
+    {
+      "tag": "@STYLE_KENJUTSU",
+      "kind": "style_selector",
+      "label_ru": "Кэндзюцу",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_IAIDO",
+      "kind": "style_selector",
+      "label_ru": "Иайдо",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_KENDO",
+      "kind": "style_selector",
+      "label_ru": "Кэндо",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_KOBUDO",
+      "kind": "style_selector",
+      "label_ru": "Кобудо",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_HEMA",
+      "kind": "style_selector",
+      "label_ru": "Исторические европейские боевые искусства",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_FENCING",
+      "kind": "style_selector",
+      "label_ru": "Спортивное фехтование",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_FMA",
+      "kind": "style_selector",
+      "label_ru": "Arnis / eskrima / kali",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_SILAT",
+      "kind": "style_selector",
+      "label_ru": "Силат",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_KRABI_KRABONG",
+      "kind": "style_selector",
+      "label_ru": "Краби-крабонг",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_KALARIPAYATTU",
+      "kind": "style_selector",
+      "label_ru": "Каларипаятту",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@STYLE_GATKA",
+      "kind": "style_selector",
+      "label_ru": "Гатка",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SWORD",
+      "kind": "weapon_selector",
+      "label_ru": "Меч; выбрать конкретный тип",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_KATANA",
+      "kind": "weapon_selector",
+      "label_ru": "Катана",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_JIAN",
+      "kind": "weapon_selector",
+      "label_ru": "Цзянь",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_DAO",
+      "kind": "weapon_selector",
+      "label_ru": "Дао",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_RAPIER",
+      "kind": "weapon_selector",
+      "label_ru": "Рапира",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SABRE",
+      "kind": "weapon_selector",
+      "label_ru": "Сабля",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_KNIFE",
+      "kind": "weapon_selector",
+      "label_ru": "Нож",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_DAGGER",
+      "kind": "weapon_selector",
+      "label_ru": "Кинжал",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_MACHETE",
+      "kind": "weapon_selector",
+      "label_ru": "Мачете",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_STAFF",
+      "kind": "weapon_selector",
+      "label_ru": "Палка / посох",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_BO",
+      "kind": "weapon_selector",
+      "label_ru": "Бо",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_JO",
+      "kind": "weapon_selector",
+      "label_ru": "Дзё",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SPEAR",
+      "kind": "weapon_selector",
+      "label_ru": "Копьё",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_PIKE",
+      "kind": "weapon_selector",
+      "label_ru": "Пика",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_GUANDAO",
+      "kind": "weapon_selector",
+      "label_ru": "Гуаньдао",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_HALBERD",
+      "kind": "weapon_selector",
+      "label_ru": "Алебарда",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_NUNCHAKU",
+      "kind": "weapon_selector",
+      "label_ru": "Нунчаку",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_THREE_SECTION_STAFF",
+      "kind": "weapon_selector",
+      "label_ru": "Трёхсекционный посох",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_CHAIN",
+      "kind": "weapon_selector",
+      "label_ru": "Цепь",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_ROPE_DART",
+      "kind": "weapon_selector",
+      "label_ru": "Верёвочный дротик",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_KUSARIGAMA",
+      "kind": "weapon_selector",
+      "label_ru": "Кусаригама",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_WHIP",
+      "kind": "weapon_selector",
+      "label_ru": "Кнут",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SAI",
+      "kind": "weapon_selector",
+      "label_ru": "Сай",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_TONFA",
+      "kind": "weapon_selector",
+      "label_ru": "Тонфа",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_KAMA",
+      "kind": "weapon_selector",
+      "label_ru": "Кама",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_AXE",
+      "kind": "weapon_selector",
+      "label_ru": "Топор",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_MACE",
+      "kind": "weapon_selector",
+      "label_ru": "Булава",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_HAMMER",
+      "kind": "weapon_selector",
+      "label_ru": "Боевой молот",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SHIELD",
+      "kind": "weapon_selector",
+      "label_ru": "Щит",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_BOW",
+      "kind": "weapon_selector",
+      "label_ru": "Лук",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_CROSSBOW",
+      "kind": "weapon_selector",
+      "label_ru": "Арбалет",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SLING",
+      "kind": "weapon_selector",
+      "label_ru": "Праща",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SHURIKEN",
+      "kind": "weapon_selector",
+      "label_ru": "Сюрикен",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_THROWING_KNIFE",
+      "kind": "weapon_selector",
+      "label_ru": "Метательный нож",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_PISTOL",
+      "kind": "weapon_selector",
+      "label_ru": "Пистолет",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_REVOLVER",
+      "kind": "weapon_selector",
+      "label_ru": "Револьвер",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_RIFLE",
+      "kind": "weapon_selector",
+      "label_ru": "Винтовка / карабин",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SHOTGUN",
+      "kind": "weapon_selector",
+      "label_ru": "Дробовик",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_SMG",
+      "kind": "weapon_selector",
+      "label_ru": "Пистолет-пулемёт",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_MACHINE_GUN",
+      "kind": "weapon_selector",
+      "label_ru": "Пулемёт",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@WEAPON_IMPROVISED",
+      "kind": "weapon_selector",
+      "label_ru": "Импровизированный предмет; назвать предмет",
+      "source": "cinema-weapon-map.md"
+    },
+    {
+      "tag": "@SCREEN_BRUCE_LEE",
+      "kind": "screen_selector",
+      "label_ru": "Экранный профиль Брюса Ли; выбрать произведение/сцену",
+      "source": "cinema-corpus.md"
+    },
+    {
+      "tag": "@SCREEN_JACKIE_CHAN",
+      "kind": "screen_selector",
+      "label_ru": "Экранный профиль Джеки Чана; выбрать произведение/манеру",
+      "source": "cinema-corpus.md"
+    },
+    {
+      "tag": "@SCREEN_WARRIOR",
+      "kind": "screen_selector",
+      "label_ru": "Экранный профиль Warrior; выбрать сцену/персонажа",
+      "source": "cinema-corpus.md"
+    },
+    {
+      "tag": "@SCREEN_WUXIA",
+      "kind": "screen_selector",
+      "label_ru": "Жанровая постановка wuxia; школа отдельно",
+      "source": "cinema-corpus.md"
+    }
+  ]
+}
