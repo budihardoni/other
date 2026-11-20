@@ -1,0 +1,215 @@
+{
+  "retrieved_date": "2026-09-09",
+  "method": "YouTube browser exportYouTubeTranscript; raw exports copied unchanged from browser-use/exports. All 25 text exports read fully: 21 in v2.8 audit, 4 in v2.9 expansion. Not continuous-video or audio verification.",
+  "filename_note": ".en identifies language only; caption type is taken from the raw header.",
+  "missing_after_retries": [
+    "5OZztKXK46M",
+    "g7OInuomm2s"
+  ],
+  "entries": [
+    {
+      "video_id": "7M3FWG31ybE",
+      "source_url": "https://www.youtube.com/watch?v=7M3FWG31ybE",
+      "file": "7M3FWG31ybE.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "96eb23b2f8c2623fd445a6e914ffef5ef6b45c4986b5aae4c2113c4307b26717"
+    },
+    {
+      "video_id": "9xs25_whwcg",
+      "source_url": "https://www.youtube.com/watch?v=9xs25_whwcg",
+      "file": "9xs25_whwcg.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "0090c527ac0957d9152745faa25d32a8318e2c60d5e912300e19a18af805b2a8"
+    },
+    {
+      "video_id": "AWHjwZdCeDg",
+      "source_url": "https://www.youtube.com/watch?v=AWHjwZdCeDg",
+      "file": "AWHjwZdCeDg.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "3994bb0ab135e9bd67ee3cd537ff6a1f930dbe6d80657fd255f72a3308060b0a"
+    },
+    {
+      "video_id": "ClfYe9Uly28",
+      "source_url": "https://www.youtube.com/watch?v=ClfYe9Uly28",
+      "file": "ClfYe9Uly28.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "747a6b9a7c0ef27eaefefb3753df928af6f42201687f73fa23334d1bd03fe8d7"
+    },
+    {
+      "video_id": "EFW6GrwDVEU",
+      "source_url": "https://www.youtube.com/watch?v=EFW6GrwDVEU",
+      "file": "EFW6GrwDVEU.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "7d81a998c09fffb55bdd501d4ac61b48fba736e689ab34b26bf78eaed7214d10"
+    },
+    {
+      "video_id": "M8f5o-mg6ic",
+      "source_url": "https://www.youtube.com/watch?v=M8f5o-mg6ic",
+      "file": "M8f5o-mg6ic.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "0e92cb8ee2252d1ba99175b718c7e1dceab0a5aa6998eccc5e4c327810ddc727"
+    },
+    {
+      "video_id": "OgGWAhpUIjk",
+      "source_url": "https://www.youtube.com/watch?v=OgGWAhpUIjk",
+      "file": "OgGWAhpUIjk.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "3ce586f389087210e424fb3760df2ad64d0cf2074031cd35f7373c9b7c951efe"
+    },
+    {
+      "video_id": "Pa2YV2zcfNQ",
+      "source_url": "https://www.youtube.com/watch?v=Pa2YV2zcfNQ",
+      "file": "Pa2YV2zcfNQ.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "9c59933246240e1a15f3d9f772a304e8ab348e9c4d1fce1a9eeddc84bd760f17"
+    },
+    {
+      "video_id": "RTuGiLKA1I8",
+      "source_url": "https://www.youtube.com/watch?v=RTuGiLKA1I8",
+      "file": "RTuGiLKA1I8.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "1082dceabdb8bc89765fba7467f1402dcadfd2989505a71d48e4c1c869fde607"
+    },
+    {
+      "video_id": "St8jiC_0NFY",
+      "source_url": "https://www.youtube.com/watch?v=St8jiC_0NFY",
+      "file": "St8jiC_0NFY.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "0a9ea9422f1b7b46df2afa1f6bc6ea7ccfb3b3c372291bd9e75d45ae8db283aa"
+    },
+    {
+      "video_id": "VxmkjF38FeI",
+      "source_url": "https://www.youtube.com/watch?v=VxmkjF38FeI",
+      "file": "VxmkjF38FeI.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "22a2c0389f0d1b345d302b53ac4eb40867963fc47ee3b36f3acf82201e2750b8"
+    },
+    {
+      "video_id": "XpOTci5P7wQ",
+      "source_url": "https://www.youtube.com/watch?v=XpOTci5P7wQ",
+      "file": "XpOTci5P7wQ.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "75667e018fc2ffe8ec96140ed4888c2f880979bf87e16e159c70e6e182d10f0f"
+    },
+    {
+      "video_id": "_naZzjLzVXk",
+      "source_url": "https://www.youtube.com/watch?v=_naZzjLzVXk",
+      "file": "_naZzjLzVXk.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "28dbeff982ca5df2049c141cd1d88931078055a4df6c75f32b196c0357248cb7"
+    },
+    {
+      "video_id": "ad17nEj_TBg",
+      "source_url": "https://www.youtube.com/watch?v=ad17nEj_TBg",
+      "file": "ad17nEj_TBg.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "f19987894780d7067cbdfabbc371c860efc3a65d5ef67c27f92a9de09f275cae"
+    },
+    {
+      "video_id": "aqn6cy3jB0k",
+      "source_url": "https://www.youtube.com/watch?v=aqn6cy3jB0k",
+      "file": "aqn6cy3jB0k.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "2b0cffb14913d0488e9be733a4e62e02f4e2cf631457f2a60bc150e5a8516f25"
+    },
+    {
+      "video_id": "cQ-IOUnSOxw",
+      "source_url": "https://www.youtube.com/watch?v=cQ-IOUnSOxw",
+      "file": "cQ-IOUnSOxw.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "13407ca674e29abcdc3de48058482540fe2c6405ff5e16396e5d9c7bdf38a278"
+    },
+    {
+      "video_id": "fOFHFta8aFw",
+      "source_url": "https://www.youtube.com/watch?v=fOFHFta8aFw",
+      "file": "fOFHFta8aFw.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "d6bafaf21b3b47bea5649373a36b24e425f3cddec3f835ad55a7e088e43470bc"
+    },
+    {
+      "video_id": "t08AT17B_ks",
+      "source_url": "https://www.youtube.com/watch?v=t08AT17B_ks",
+      "file": "t08AT17B_ks.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "a60339a6cefec47e56b6856bcb277dd3b484bfa2e846d59e9f0c6d820cfc1200"
+    },
+    {
+      "video_id": "wJjnmZjwTBM",
+      "source_url": "https://www.youtube.com/watch?v=wJjnmZjwTBM",
+      "file": "wJjnmZjwTBM.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "5dfef690e6e50832e704fe94b8882f8f981efda182280f6542dde621d04225d7"
+    },
+    {
+      "video_id": "wmFPVRe44q4",
+      "source_url": "https://www.youtube.com/watch?v=wmFPVRe44q4",
+      "file": "wmFPVRe44q4.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "884e73352ed60d985796c6cf69a1fe22962611562b900ca2e8d8db42a9a102d1"
+    },
+    {
+      "video_id": "z1aTbc1Bngs",
+      "source_url": "https://www.youtube.com/watch?v=z1aTbc1Bngs",
+      "file": "z1aTbc1Bngs.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "authored or unspecified",
+      "sha256": "b949fb3fe44af5cc9e0f3adeb03a506b33eeaa6a356c9e3a85e50bb383cc2ab8"
+    },
+    {
+      "video_id": "_iQ_G3pfuH8",
+      "source_url": "https://www.youtube.com/watch?v=_iQ_G3pfuH8",
+      "file": "_iQ_G3pfuH8.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "6e7167a709fa2b7d5b569f47948e60f1a0e6c00b6287f8ae2ac75821ee090818",
+      "audit": "v2.9 expansion; full ASR read; visual coverage recorded separately"
+    },
+    {
+      "video_id": "j4bCDLQo-68",
+      "source_url": "https://www.youtube.com/watch?v=j4bCDLQo-68",
+      "file": "j4bCDLQo-68.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "ae2f0888c83cb0af68d25dbdb54c6a846676ad4b01cefebf86ffb64249d0e26d",
+      "audit": "v2.9 expansion; full ASR read; visual coverage recorded separately"
+    },
+    {
+      "video_id": "hV-lb65-53Q",
+      "source_url": "https://www.youtube.com/watch?v=hV-lb65-53Q",
+      "file": "hV-lb65-53Q.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "3fe2b644fac669fc9b78ebac75c6637092f88266e0470b9d4e02079ba197137e",
+      "audit": "v2.9 expansion; full ASR read; visual coverage recorded separately"
+    },
+    {
+      "video_id": "XufoWP9dZQE",
+      "source_url": "https://www.youtube.com/watch?v=XufoWP9dZQE",
+      "file": "XufoWP9dZQE.en.2026-09-09.txt",
+      "language": "en",
+      "caption_type": "auto-generated",
+      "sha256": "aa5847597683826cd938d21ffb349057683cdbcc8c12c84cc9215af1f81cdd06",
+      "audit": "v2.9 expansion; full ASR read; visual coverage recorded separately"
+    }
+  ]
+}

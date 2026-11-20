@@ -1,0 +1,12 @@
+{
+  "video_id": "VxmkjF38FeI",
+  "source_url": "https://www.youtube.com/watch?v=VxmkjF38FeI",
+  "retrieved_date": "2026-09-09",
+  "language": "en",
+  "caption_type": "auto-generated",
+  "method": "YouTube browser exportYouTubeTranscript, retrieved by parent agent; raw export copied unchanged",
+  "original_export_path": "/var/folders/xt/1lqph0rx6bq80rw6hbwy8ztr0000gp/T/browser-use/exports/youtube-VxmkjF38FeI-ffd531e5-e2eb-4900-99ef-eb691738209b.txt",
+  "saved_file": "VxmkjF38FeI.en.2026-09-09.txt",
+  "sha256": "22a2c0389f0d1b345d302b53ac4eb40867963fc47ee3b36f3acf82201e2750b8",
+  "verification_limit": "ASR transcript audited; no new continuous-video or audio verification by the audit_videos agent"
+}
